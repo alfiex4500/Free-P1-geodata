@@ -1,0 +1,47 @@
+[
+  {
+    "type": "Domain",
+    "value": "ctexcel.ca",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ctexcel.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ctexcel.com.hk",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ctexcel.fr",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ctexcel.us",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

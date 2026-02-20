@@ -1,0 +1,75 @@
+[
+  {
+    "type": "Full",
+    "value": "firebase.google.com"
+  },
+  {
+    "type": "Full",
+    "value": "firebase.googleapis.com"
+  },
+  {
+    "type": "Full",
+    "value": "firebaseappcheck.googleapis.com"
+  },
+  {
+    "type": "Full",
+    "value": "firebasedynamiclinks-ipv4.googleapis.com"
+  },
+  {
+    "type": "Full",
+    "value": "firebasedynamiclinks-ipv6.googleapis.com"
+  },
+  {
+    "type": "Full",
+    "value": "firebasedynamiclinks.googleapis.com"
+  },
+  {
+    "type": "Full",
+    "value": "firebaseinappmessaging.googleapis.com"
+  },
+  {
+    "type": "Full",
+    "value": "firebaseinstallations.googleapis.com"
+  },
+  {
+    "type": "Full",
+    "value": "firebaselogging-pa.googleapis.com"
+  },
+  {
+    "type": "Full",
+    "value": "firebaselogging.googleapis.com"
+  },
+  {
+    "type": "Full",
+    "value": "firebaseperusertopics-pa.googleapis.com"
+  },
+  {
+    "type": "Full",
+    "value": "firebaseremoteconfig.googleapis.com"
+  },
+  {
+    "type": "Domain",
+    "value": "firebase.com"
+  },
+  {
+    "type": "Domain",
+    "value": "firebase.io"
+  },
+  {
+    "type": "Domain",
+    "value": "firebaseapp.com"
+  },
+  {
+    "type": "Domain",
+    "value": "firebaseio.com"
+  },
+  {
+    "type": "Full",
+    "value": "firebase-settings.crashlytics.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

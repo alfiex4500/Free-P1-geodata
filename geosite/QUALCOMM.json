@@ -1,0 +1,220 @@
+[
+  {
+    "type": "Full",
+    "value": "qualcomm.sc.omtrdc.net"
+  },
+  {
+    "type": "Domain",
+    "value": "qualcomm.com"
+  },
+  {
+    "type": "Domain",
+    "value": "snapdragonbooth.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cdmatech.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dragoniscoming.com"
+  },
+  {
+    "type": "Domain",
+    "value": "gobianywhere.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hellosmartbook.com"
+  },
+  {
+    "type": "Domain",
+    "value": "brewmp.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ipleadership.org"
+  },
+  {
+    "type": "Domain",
+    "value": "iskoot.com"
+  },
+  {
+    "type": "Domain",
+    "value": "meetsmartbook.com"
+  },
+  {
+    "type": "Domain",
+    "value": "patenttruth.org"
+  },
+  {
+    "type": "Domain",
+    "value": "pixtronix.com"
+  },
+  {
+    "type": "Domain",
+    "value": "qctconnect.com"
+  },
+  {
+    "type": "Domain",
+    "value": "qprize.com"
+  },
+  {
+    "type": "Domain",
+    "value": "qualcomm-email.com"
+  },
+  {
+    "type": "Domain",
+    "value": "xtracloud.net"
+  },
+  {
+    "type": "Domain",
+    "value": "wirelessreach.com"
+  },
+  {
+    "type": "Domain",
+    "value": "airgonetworks.com"
+  },
+  {
+    "type": "Domain",
+    "value": "imod.com"
+  },
+  {
+    "type": "Domain",
+    "value": "berkanawireless.com"
+  },
+  {
+    "type": "Domain",
+    "value": "wipower.com"
+  },
+  {
+    "type": "Domain",
+    "value": "uplinq.com"
+  },
+  {
+    "type": "Domain",
+    "value": "snapdragon.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "qualcomm.de"
+  },
+  {
+    "type": "Domain",
+    "value": "qualcomm.fr"
+  },
+  {
+    "type": "Domain",
+    "value": "qualcommhalo.com"
+  },
+  {
+    "type": "Domain",
+    "value": "qualcommlabs.com"
+  },
+  {
+    "type": "Domain",
+    "value": "qualcommmea.com"
+  },
+  {
+    "type": "Domain",
+    "value": "qualcommretail.com"
+  },
+  {
+    "type": "Domain",
+    "value": "qualcommventures.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "qualcommventures.com"
+  },
+  {
+    "type": "Domain",
+    "value": "qualphone.com"
+  },
+  {
+    "type": "Domain",
+    "value": "quicinc.com"
+  },
+  {
+    "type": "Domain",
+    "value": "qualcomm.com.tw"
+  },
+  {
+    "type": "Domain",
+    "value": "qualcomm.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "qualcomm.com.br"
+  },
+  {
+    "type": "Domain",
+    "value": "qualcomm.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "qualcomm.co.in"
+  },
+  {
+    "type": "Domain",
+    "value": "qualcomm.co.id"
+  },
+  {
+    "type": "Domain",
+    "value": "qualcomm.co.kr"
+  },
+  {
+    "type": "Domain",
+    "value": "gpsonextra.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "izatcloud.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "qceventscenter.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "qualcomm.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "qualcomm.cn.cdn.cloudflare.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "xtracloud.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

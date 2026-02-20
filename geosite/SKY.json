@@ -1,0 +1,59 @@
+[
+  {
+    "type": "Domain",
+    "value": "sky"
+  },
+  {
+    "type": "Domain",
+    "value": "sky.com"
+  },
+  {
+    "type": "Domain",
+    "value": "skyassets.com"
+  },
+  {
+    "type": "Domain",
+    "value": "skymansion.net"
+  },
+  {
+    "type": "Domain",
+    "value": "skyoceanrescue.com"
+  },
+  {
+    "type": "Domain",
+    "value": "skyoceanrescue.de"
+  },
+  {
+    "type": "Domain",
+    "value": "skyoceanrescue.it"
+  },
+  {
+    "type": "Domain",
+    "value": "skysports.com"
+  },
+  {
+    "type": "Domain",
+    "value": "skysports.fr"
+  },
+  {
+    "type": "Domain",
+    "value": "skysports.ie"
+  },
+  {
+    "type": "Domain",
+    "value": "skysportsonline.com"
+  },
+  {
+    "type": "Domain",
+    "value": "skysportsracing.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cn-cdn1.skymansion.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

@@ -1,0 +1,530 @@
+[
+  {
+    "type": "Full",
+    "value": "instant.arubanetworks.com"
+  },
+  {
+    "type": "Full",
+    "value": "setmeup.arubanetworks.com"
+  },
+  {
+    "type": "Full",
+    "value": "asusrouter.com"
+  },
+  {
+    "type": "Full",
+    "value": "router.asus.com"
+  },
+  {
+    "type": "Full",
+    "value": "www.asusrouter.com"
+  },
+  {
+    "type": "Full",
+    "value": "oasisauth.h3c.com"
+  },
+  {
+    "type": "Full",
+    "value": "routerlogin.com"
+  },
+  {
+    "type": "Full",
+    "value": "www.routerlogin.com"
+  },
+  {
+    "type": "Full",
+    "value": "tplogin.cn"
+  },
+  {
+    "type": "Full",
+    "value": "miwifi.com"
+  },
+  {
+    "type": "Full",
+    "value": "www.miwifi.com"
+  },
+  {
+    "type": "Domain",
+    "value": "internal"
+  },
+  {
+    "type": "Domain",
+    "value": "localdomain"
+  },
+  {
+    "type": "Domain",
+    "value": "example"
+  },
+  {
+    "type": "Domain",
+    "value": "invalid"
+  },
+  {
+    "type": "Domain",
+    "value": "localhost"
+  },
+  {
+    "type": "Domain",
+    "value": "test"
+  },
+  {
+    "type": "Domain",
+    "value": "local"
+  },
+  {
+    "type": "Domain",
+    "value": "lan"
+  },
+  {
+    "type": "Domain",
+    "value": "zte.home"
+  },
+  {
+    "type": "Domain",
+    "value": "my.router"
+  },
+  {
+    "type": "Domain",
+    "value": "ts.net"
+  },
+  {
+    "type": "Domain",
+    "value": "home.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "hiwifi.com"
+  },
+  {
+    "type": "Domain",
+    "value": "tplinkwifi.net"
+  },
+  {
+    "type": "Domain",
+    "value": "tendawifi.com"
+  },
+  {
+    "type": "Domain",
+    "value": "leike.cc"
+  },
+  {
+    "type": "Domain",
+    "value": "plex.direct"
+  },
+  {
+    "type": "Domain",
+    "value": "router.ctc"
+  },
+  {
+    "type": "Domain",
+    "value": "phicomm.me"
+  },
+  {
+    "type": "Domain",
+    "value": "peiluyou.com"
+  },
+  {
+    "type": "Domain",
+    "value": "127.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "test.steampowered.com"
+  },
+  {
+    "type": "Domain",
+    "value": "0.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "10.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "82.100.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "93.100.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "30.172.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "31.172.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "16.172.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "17.172.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "28.172.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "168.192.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "254.169.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "18.172.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "19.172.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "localhost.ptlogin2.qq.com"
+  },
+  {
+    "type": "Domain",
+    "value": "localhost.sec.qq.com"
+  },
+  {
+    "type": "Domain",
+    "value": "20.172.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "21.172.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "22.172.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "23.172.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "d.f.ip6.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "64.100.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "65.100.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "66.100.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "67.100.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "68.100.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "69.100.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "70.100.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "71.100.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "72.100.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "73.100.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "74.100.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "75.100.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "76.100.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "77.100.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "78.100.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "79.100.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "80.100.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "81.100.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "27.172.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "83.100.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "84.100.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "85.100.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "86.100.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "87.100.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "88.100.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "89.100.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "90.100.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "91.100.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "92.100.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "29.172.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "94.100.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "95.100.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "96.100.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "97.100.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "98.100.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "99.100.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "100.100.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "101.100.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "102.100.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "103.100.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "104.100.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "105.100.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "106.100.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "107.100.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "108.100.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "109.100.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "110.100.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "111.100.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "112.100.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "113.100.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "114.100.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "115.100.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "116.100.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "117.100.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "118.100.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "119.100.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "120.100.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "121.100.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "122.100.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "123.100.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "124.100.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "125.100.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "126.100.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "127.100.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "26.172.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "25.172.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "24.172.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "b.e.f.ip6.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "a.e.f.ip6.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "9.e.f.ip6.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "8.e.f.ip6.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "113.0.203.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "100.51.198.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "2.0.192.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "255.255.255.255.in-addr.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "8.b.d.0.1.0.0.2.ip6.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa"
+  },
+  {
+    "type": "Domain",
+    "value": "0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa"
+  },
+  {
+    "type": "Regex",
+    "value": "^[a-z]([a-z0-9-]{0,61}[a-z0-9])?$"
+  }
+]

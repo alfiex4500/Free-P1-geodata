@@ -1,0 +1,66 @@
+[
+  {
+    "type": "Domain",
+    "value": "attestation.app"
+  },
+  {
+    "type": "Domain",
+    "value": "grapheneos.app"
+  },
+  {
+    "type": "Domain",
+    "value": "grapheneos.ca"
+  },
+  {
+    "type": "Domain",
+    "value": "grapheneos.com"
+  },
+  {
+    "type": "Domain",
+    "value": "grapheneos.dev"
+  },
+  {
+    "type": "Domain",
+    "value": "grapheneos.foundation"
+  },
+  {
+    "type": "Domain",
+    "value": "grapheneos.info"
+  },
+  {
+    "type": "Domain",
+    "value": "grapheneos.net"
+  },
+  {
+    "type": "Domain",
+    "value": "grapheneos.network"
+  },
+  {
+    "type": "Domain",
+    "value": "grapheneos.online"
+  },
+  {
+    "type": "Domain",
+    "value": "grapheneos.org"
+  },
+  {
+    "type": "Domain",
+    "value": "grapheneos.ovh"
+  },
+  {
+    "type": "Domain",
+    "value": "grapheneos.page"
+  },
+  {
+    "type": "Domain",
+    "value": "grapheneos.social"
+  },
+  {
+    "type": "Domain",
+    "value": "seamlessupdate.app"
+  },
+  {
+    "type": "Domain",
+    "value": "vanadium.app"
+  }
+]

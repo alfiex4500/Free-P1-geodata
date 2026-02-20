@@ -1,0 +1,22 @@
+[
+  {
+    "type": "Domain",
+    "value": "bitwarden.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bitwarden.eu"
+  },
+  {
+    "type": "Domain",
+    "value": "bitwarden.net"
+  },
+  {
+    "type": "Domain",
+    "value": "btwrdn.co"
+  },
+  {
+    "type": "Domain",
+    "value": "btwrdn.com"
+  }
+]

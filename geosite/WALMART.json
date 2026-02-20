@@ -1,0 +1,47 @@
+[
+  {
+    "type": "Domain",
+    "value": "walmart"
+  },
+  {
+    "type": "Domain",
+    "value": "w-mt.co"
+  },
+  {
+    "type": "Domain",
+    "value": "wal-mart.com"
+  },
+  {
+    "type": "Domain",
+    "value": "wal.co"
+  },
+  {
+    "type": "Domain",
+    "value": "walmart-content.com"
+  },
+  {
+    "type": "Domain",
+    "value": "walmart.com"
+  },
+  {
+    "type": "Domain",
+    "value": "walmart.pharmacy"
+  },
+  {
+    "type": "Domain",
+    "value": "walmartimages.com"
+  },
+  {
+    "type": "Domain",
+    "value": "wmt.co"
+  },
+  {
+    "type": "Domain",
+    "value": "walmart.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

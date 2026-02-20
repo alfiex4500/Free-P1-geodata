@@ -1,0 +1,64 @@
+[
+  {
+    "type": "Domain",
+    "value": "intellij.com"
+  },
+  {
+    "type": "Domain",
+    "value": "intellij.net"
+  },
+  {
+    "type": "Domain",
+    "value": "intellij.org"
+  },
+  {
+    "type": "Domain",
+    "value": "jetbrains.com"
+  },
+  {
+    "type": "Domain",
+    "value": "jetbrains.net"
+  },
+  {
+    "type": "Domain",
+    "value": "jetbrains.space"
+  },
+  {
+    "type": "Domain",
+    "value": "jetbrains.team"
+  },
+  {
+    "type": "Domain",
+    "value": "datalore.io"
+  },
+  {
+    "type": "Domain",
+    "value": "kotlinlang.org"
+  },
+  {
+    "type": "Domain",
+    "value": "jb.gg"
+  },
+  {
+    "type": "Domain",
+    "value": "youtrack.cloud"
+  },
+  {
+    "type": "Domain",
+    "value": "cdn.jetbrains.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "download-cdn.jetbrains.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

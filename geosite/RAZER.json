@@ -1,0 +1,53 @@
+[
+  {
+    "type": "Domain",
+    "value": "razer.com"
+  },
+  {
+    "type": "Domain",
+    "value": "razerofficial.com"
+  },
+  {
+    "type": "Domain",
+    "value": "razersupport.com"
+  },
+  {
+    "type": "Domain",
+    "value": "razerzone.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "respawnbyrazer.com"
+  },
+  {
+    "type": "Domain",
+    "value": "rzr.to"
+  },
+  {
+    "type": "Domain",
+    "value": "razerapi.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "razersynapse.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "razerzone.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

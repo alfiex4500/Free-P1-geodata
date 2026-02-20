@@ -1,0 +1,136 @@
+[
+  {
+    "type": "Domain",
+    "value": "3lateral.com"
+  },
+  {
+    "type": "Domain",
+    "value": "artstation.com"
+  },
+  {
+    "type": "Domain",
+    "value": "capturingreality.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cubicmotion.com"
+  },
+  {
+    "type": "Domain",
+    "value": "battlebreakers.com"
+  },
+  {
+    "type": "Domain",
+    "value": "eac-cdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "easy.ac"
+  },
+  {
+    "type": "Domain",
+    "value": "easyanticheat.net"
+  },
+  {
+    "type": "Domain",
+    "value": "epicgames.com"
+  },
+  {
+    "type": "Domain",
+    "value": "epicgames.dev"
+  },
+  {
+    "type": "Domain",
+    "value": "epicgamescdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "fab.com"
+  },
+  {
+    "type": "Domain",
+    "value": "fortnite.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hyprsense.com"
+  },
+  {
+    "type": "Domain",
+    "value": "paragon.com"
+  },
+  {
+    "type": "Domain",
+    "value": "playparagon.com"
+  },
+  {
+    "type": "Domain",
+    "value": "quixel.com"
+  },
+  {
+    "type": "Domain",
+    "value": "quixel.se"
+  },
+  {
+    "type": "Domain",
+    "value": "radgametools.com"
+  },
+  {
+    "type": "Domain",
+    "value": "realityscan.com"
+  },
+  {
+    "type": "Domain",
+    "value": "roborecall.com"
+  },
+  {
+    "type": "Domain",
+    "value": "shadowcomplex.com"
+  },
+  {
+    "type": "Domain",
+    "value": "sketchfab.com"
+  },
+  {
+    "type": "Domain",
+    "value": "spyjinx.com"
+  },
+  {
+    "type": "Domain",
+    "value": "twinmotion.com"
+  },
+  {
+    "type": "Domain",
+    "value": "unrealengine.com"
+  },
+  {
+    "type": "Domain",
+    "value": "unrealtournament.com"
+  },
+  {
+    "type": "Domain",
+    "value": "egdownload.fastly-edge.com"
+  },
+  {
+    "type": "Regex",
+    "value": "^epicgames-download\\d\\.akamaized\\.net$"
+  },
+  {
+    "type": "Regex",
+    "value": "^cdn\\d-epicgames-\\d+\\.file\\.myqcloud\\.com$",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Regex",
+    "value": "^epicgames-download\\d-\\d+\\.file\\.myqcloud\\.com$",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

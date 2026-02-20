@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Domain",
+    "value": "segment.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "segment.io",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "segmenthub.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "segmentify.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  }
+]

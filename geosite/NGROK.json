@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Domain",
+    "value": "ngrok-free.app"
+  },
+  {
+    "type": "Domain",
+    "value": "ngrok-free.dev"
+  },
+  {
+    "type": "Domain",
+    "value": "ngrok-free.pizza"
+  },
+  {
+    "type": "Domain",
+    "value": "ngrok.app"
+  },
+  {
+    "type": "Domain",
+    "value": "ngrok.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ngrok.dev"
+  },
+  {
+    "type": "Domain",
+    "value": "ngrok.io"
+  },
+  {
+    "type": "Domain",
+    "value": "ngrok.pizza"
+  },
+  {
+    "type": "Domain",
+    "value": "ngrok.pro"
+  }
+]

@@ -1,0 +1,259 @@
+[
+  {
+    "type": "Domain",
+    "value": "haowu.link"
+  },
+  {
+    "type": "Domain",
+    "value": "127.com"
+  },
+  {
+    "type": "Domain",
+    "value": "126.net"
+  },
+  {
+    "type": "Domain",
+    "value": "icourse163.org"
+  },
+  {
+    "type": "Domain",
+    "value": "127.net"
+  },
+  {
+    "type": "Domain",
+    "value": "lf126.net"
+  },
+  {
+    "type": "Domain",
+    "value": "163cn.tv"
+  },
+  {
+    "type": "Domain",
+    "value": "163industry.com"
+  },
+  {
+    "type": "Domain",
+    "value": "163jiasu.com"
+  },
+  {
+    "type": "Domain",
+    "value": "163mail.com"
+  },
+  {
+    "type": "Domain",
+    "value": "163qiyukf.com"
+  },
+  {
+    "type": "Domain",
+    "value": "163yun.com"
+  },
+  {
+    "type": "Domain",
+    "value": "166.com"
+  },
+  {
+    "type": "Domain",
+    "value": "166.net"
+  },
+  {
+    "type": "Domain",
+    "value": "188.com"
+  },
+  {
+    "type": "Domain",
+    "value": "321fenx.com"
+  },
+  {
+    "type": "Domain",
+    "value": "yunxinfw.com"
+  },
+  {
+    "type": "Domain",
+    "value": "126.link"
+  },
+  {
+    "type": "Domain",
+    "value": "163.com"
+  },
+  {
+    "type": "Domain",
+    "value": "lf127.net"
+  },
+  {
+    "type": "Domain",
+    "value": "lofter.com"
+  },
+  {
+    "type": "Domain",
+    "value": "nease.net"
+  },
+  {
+    "type": "Domain",
+    "value": "netease-inc.com"
+  },
+  {
+    "type": "Domain",
+    "value": "netease.com"
+  },
+  {
+    "type": "Domain",
+    "value": "netease.im"
+  },
+  {
+    "type": "Domain",
+    "value": "netstatic.net"
+  },
+  {
+    "type": "Domain",
+    "value": "qiyukf.com"
+  },
+  {
+    "type": "Domain",
+    "value": "qiyukf.net"
+  },
+  {
+    "type": "Domain",
+    "value": "zhuanzfx.com"
+  },
+  {
+    "type": "Domain",
+    "value": "static163.net"
+  },
+  {
+    "type": "Domain",
+    "value": "ydstatic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "yeah.net"
+  },
+  {
+    "type": "Domain",
+    "value": "youdao.com"
+  },
+  {
+    "type": "Domain",
+    "value": "126.com"
+  },
+  {
+    "type": "Domain",
+    "value": "qiyukf.net.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "easebar.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "a.youdao.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "admusicpic.music.126.net",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ads.music.126.net",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "analytics.163.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "crash.163.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "crashlytics.163.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "g.163.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "iadmat.nosdn.127.net",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "iadmatapk.nosdn.127.net",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "iadmusicmat.music.126.net",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "iadmusicmatvideo.music.126.net",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "sentry.music.163.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  }
+]

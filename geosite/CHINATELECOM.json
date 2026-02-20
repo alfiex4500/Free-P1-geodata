@@ -1,0 +1,85 @@
+[
+  {
+    "type": "Domain",
+    "value": "189.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "chinatelecom-h.com"
+  },
+  {
+    "type": "Domain",
+    "value": "chntel.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vnet.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "chinatelecom.com.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "chinatelecomglobal.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "chinatelecomhk.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ctexcel.ca",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ctexcel.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ctexcel.com.hk",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ctexcel.fr",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ctexcel.us",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

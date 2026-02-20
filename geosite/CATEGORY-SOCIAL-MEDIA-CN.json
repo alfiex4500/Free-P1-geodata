@@ -1,0 +1,156 @@
+[
+  {
+    "type": "Domain",
+    "value": "dwstatic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "zsxq.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dandan818.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dandanvoice.com"
+  },
+  {
+    "type": "Domain",
+    "value": "coolapkmarket.net"
+  },
+  {
+    "type": "Domain",
+    "value": "maimai.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "taou.com"
+  },
+  {
+    "type": "Domain",
+    "value": "zhihu.com"
+  },
+  {
+    "type": "Domain",
+    "value": "jike.city"
+  },
+  {
+    "type": "Domain",
+    "value": "zhimg.com"
+  },
+  {
+    "type": "Domain",
+    "value": "okjike.com"
+  },
+  {
+    "type": "Domain",
+    "value": "okjk.co"
+  },
+  {
+    "type": "Domain",
+    "value": "ruguoapp.com"
+  },
+  {
+    "type": "Domain",
+    "value": "yy.com"
+  },
+  {
+    "type": "Domain",
+    "value": "yystatic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "duowan.com"
+  },
+  {
+    "type": "Domain",
+    "value": "fanfou.com"
+  },
+  {
+    "type": "Domain",
+    "value": "tieba.com"
+  },
+  {
+    "type": "Domain",
+    "value": "jikecdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ivwen.com"
+  },
+  {
+    "type": "Domain",
+    "value": "meipian.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "meipian.me"
+  },
+  {
+    "type": "Domain",
+    "value": "douban.com"
+  },
+  {
+    "type": "Domain",
+    "value": "douban.fm"
+  },
+  {
+    "type": "Domain",
+    "value": "doubanio.com"
+  },
+  {
+    "type": "Domain",
+    "value": "gracg.com"
+  },
+  {
+    "type": "Domain",
+    "value": "procg.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "hupu.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hupucdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "shihuo.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "coolapkmarket.com"
+  },
+  {
+    "type": "Domain",
+    "value": "coolapk.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hoopchina.com.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "tieba.baidu.com"
+  },
+  {
+    "type": "Domain",
+    "value": "crash2.zhihu.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "zhihu-web-analytics.zhihu.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  }
+]

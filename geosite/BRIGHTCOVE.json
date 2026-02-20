@@ -1,0 +1,58 @@
+[
+  {
+    "type": "Full",
+    "value": "bcovlive-a.akamaihd.net"
+  },
+  {
+    "type": "Full",
+    "value": "bcsecure01-a.akamaihd.net"
+  },
+  {
+    "type": "Full",
+    "value": "brightcove.imgix.net"
+  },
+  {
+    "type": "Domain",
+    "value": "bcove.video"
+  },
+  {
+    "type": "Domain",
+    "value": "bcovlive.io"
+  },
+  {
+    "type": "Domain",
+    "value": "bcvp0rtal.com"
+  },
+  {
+    "type": "Domain",
+    "value": "boltdns.net"
+  },
+  {
+    "type": "Domain",
+    "value": "brightcove.com"
+  },
+  {
+    "type": "Domain",
+    "value": "brightcove.net"
+  },
+  {
+    "type": "Domain",
+    "value": "brightcove.services"
+  },
+  {
+    "type": "Domain",
+    "value": "brightcovecdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "videojs.com"
+  },
+  {
+    "type": "Domain",
+    "value": "zencdn.net"
+  },
+  {
+    "type": "Domain",
+    "value": "zencoder.com"
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "type": "Full",
+    "value": "aod-pod-uk-live.akamaized.net"
+  },
+  {
+    "type": "Full",
+    "value": "as-dash-uk-live.akamaized.net"
+  },
+  {
+    "type": "Full",
+    "value": "as-hls-uk-live.akamaized.net"
+  },
+  {
+    "type": "Full",
+    "value": "ve-dash-uk-live.akamaized.net"
+  },
+  {
+    "type": "Full",
+    "value": "ve-uhd-push-uk-live.akamaized.net"
+  },
+  {
+    "type": "Full",
+    "value": "vod-dash-uk-live.akamaized.net"
+  },
+  {
+    "type": "Full",
+    "value": "vod-dash-ww-live.akamaized.net"
+  },
+  {
+    "type": "Full",
+    "value": "vod-hls-uk-live.akamaized.net"
+  },
+  {
+    "type": "Full",
+    "value": "vod-sub-uk-live.akamaized.net"
+  },
+  {
+    "type": "Full",
+    "value": "vod-thumb-uk-live.akamaized.net"
+  },
+  {
+    "type": "Full",
+    "value": "vod-thumb-ww-live.akamaized.net"
+  },
+  {
+    "type": "Full",
+    "value": "vs-cmaf-push-uk-live.akamaized.net"
+  },
+  {
+    "type": "Full",
+    "value": "vs-cmaf-pushb-ww-live.akamaized.net"
+  },
+  {
+    "type": "Full",
+    "value": "vs-hls-push-uk-live.akamaized.net"
+  },
+  {
+    "type": "Full",
+    "value": "vs-hls-pushb-uk-live.akamaized.net"
+  },
+  {
+    "type": "Domain",
+    "value": "bbc"
+  },
+  {
+    "type": "Domain",
+    "value": "bbc-reporting-api.app"
+  },
+  {
+    "type": "Domain",
+    "value": "bbcverticals.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bbc.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bbc.in"
+  },
+  {
+    "type": "Domain",
+    "value": "bbcpersian.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bbc.net.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "bbci.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "bbcmedia.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "bbc.mp-pxcdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bbc.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "bidi.net.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "bbcfmt.s.llnwi.net"
+  }
+]

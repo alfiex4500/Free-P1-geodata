@@ -1,0 +1,85 @@
+[
+  {
+    "type": "Domain",
+    "value": "citic"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--fiq64b"
+  },
+  {
+    "type": "Domain",
+    "value": "citiccapital.com"
+  },
+  {
+    "type": "Domain",
+    "value": "chinaamc.com"
+  },
+  {
+    "type": "Domain",
+    "value": "citicbank.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cfc108.com"
+  },
+  {
+    "type": "Domain",
+    "value": "citiciam.com"
+  },
+  {
+    "type": "Domain",
+    "value": "citicifh.com"
+  },
+  {
+    "type": "Domain",
+    "value": "citicsf.com"
+  },
+  {
+    "type": "Domain",
+    "value": "clsa.com"
+  },
+  {
+    "type": "Domain",
+    "value": "csc108.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ecitic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "citic-prudential.com.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "citicprufunds.com.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "citics.com.hk",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "cncbinternational.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "csci.hk",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

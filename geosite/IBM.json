@@ -1,0 +1,82 @@
+[
+  {
+    "type": "Domain",
+    "value": "ibm"
+  },
+  {
+    "type": "Domain",
+    "value": "weatherchannel"
+  },
+  {
+    "type": "Domain",
+    "value": "weather"
+  },
+  {
+    "type": "Domain",
+    "value": "appdomain.cloud"
+  },
+  {
+    "type": "Domain",
+    "value": "bluemix.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bluemix.net"
+  },
+  {
+    "type": "Domain",
+    "value": "ibm.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ibm.eu"
+  },
+  {
+    "type": "Domain",
+    "value": "ibm.net"
+  },
+  {
+    "type": "Domain",
+    "value": "ibm.us"
+  },
+  {
+    "type": "Domain",
+    "value": "s-bluemix.net"
+  },
+  {
+    "type": "Domain",
+    "value": "s81c.com"
+  },
+  {
+    "type": "Domain",
+    "value": "consul.io"
+  },
+  {
+    "type": "Domain",
+    "value": "hashicorp.com"
+  },
+  {
+    "type": "Domain",
+    "value": "nomadproject.io"
+  },
+  {
+    "type": "Domain",
+    "value": "packer.io"
+  },
+  {
+    "type": "Domain",
+    "value": "terraform.io"
+  },
+  {
+    "type": "Domain",
+    "value": "vagrantcloud.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vagrantup.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vaultproject.io"
+  }
+]

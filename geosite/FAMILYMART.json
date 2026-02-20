@@ -1,0 +1,35 @@
+[
+  {
+    "type": "Domain",
+    "value": "famima.vn"
+  },
+  {
+    "type": "Domain",
+    "value": "famifun.com.tw"
+  },
+  {
+    "type": "Domain",
+    "value": "family.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "family.com.tw"
+  },
+  {
+    "type": "Domain",
+    "value": "familymart.com.my"
+  },
+  {
+    "type": "Domain",
+    "value": "familymart.com.ph"
+  },
+  {
+    "type": "Domain",
+    "value": "familymart.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

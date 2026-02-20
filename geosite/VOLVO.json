@@ -1,0 +1,876 @@
+[
+  {
+    "type": "Domain",
+    "value": "volvo"
+  },
+  {
+    "type": "Domain",
+    "value": "volvogroup.se"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotrucks.es"
+  },
+  {
+    "type": "Domain",
+    "value": "independentoperatorcn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "road-crew.com"
+  },
+  {
+    "type": "Domain",
+    "value": "udfs.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vfsco.at"
+  },
+  {
+    "type": "Domain",
+    "value": "vfsco.be"
+  },
+  {
+    "type": "Domain",
+    "value": "vfsco.bg"
+  },
+  {
+    "type": "Domain",
+    "value": "vfsco.ca"
+  },
+  {
+    "type": "Domain",
+    "value": "vfsco.ch"
+  },
+  {
+    "type": "Domain",
+    "value": "vfsco.cl"
+  },
+  {
+    "type": "Domain",
+    "value": "vfsco.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vfsco.cz"
+  },
+  {
+    "type": "Domain",
+    "value": "vfsco.de"
+  },
+  {
+    "type": "Domain",
+    "value": "vfsco.dk"
+  },
+  {
+    "type": "Domain",
+    "value": "vfsco.ee"
+  },
+  {
+    "type": "Domain",
+    "value": "udtrucksmeena.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vfsco.es"
+  },
+  {
+    "type": "Domain",
+    "value": "vfsco.fi"
+  },
+  {
+    "type": "Domain",
+    "value": "vfsco.fr"
+  },
+  {
+    "type": "Domain",
+    "value": "vfsco.hu"
+  },
+  {
+    "type": "Domain",
+    "value": "dynafleetonline.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vfsco.in"
+  },
+  {
+    "type": "Domain",
+    "value": "vfsco.it"
+  },
+  {
+    "type": "Domain",
+    "value": "vfsco.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "vfsco.kr"
+  },
+  {
+    "type": "Domain",
+    "value": "vfsco.lt"
+  },
+  {
+    "type": "Domain",
+    "value": "vfsco.lv"
+  },
+  {
+    "type": "Domain",
+    "value": "vfsco.mx"
+  },
+  {
+    "type": "Domain",
+    "value": "vfsco.nl"
+  },
+  {
+    "type": "Domain",
+    "value": "vfsco.no"
+  },
+  {
+    "type": "Domain",
+    "value": "vfsco.pe"
+  },
+  {
+    "type": "Domain",
+    "value": "vfsco.pl"
+  },
+  {
+    "type": "Domain",
+    "value": "vfsco.ro"
+  },
+  {
+    "type": "Domain",
+    "value": "vfsco.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "vfsco.se"
+  },
+  {
+    "type": "Domain",
+    "value": "vfsco.sk"
+  },
+  {
+    "type": "Domain",
+    "value": "vfsco.us"
+  },
+  {
+    "type": "Domain",
+    "value": "vgcareers.net"
+  },
+  {
+    "type": "Domain",
+    "value": "volvo-truck.nl"
+  },
+  {
+    "type": "Domain",
+    "value": "volvogroup.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "volvo.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volvo.se"
+  },
+  {
+    "type": "Domain",
+    "value": "volvobrandshop.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volvobuses.at"
+  },
+  {
+    "type": "Domain",
+    "value": "volvobuses.be"
+  },
+  {
+    "type": "Domain",
+    "value": "volvobuses.ca"
+  },
+  {
+    "type": "Domain",
+    "value": "volvobuses.ch"
+  },
+  {
+    "type": "Domain",
+    "value": "volvobuses.co"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotruckrental.be"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotruckcenter.se"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotruckcenter.no"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotruckcenter.nl"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotruckcenter.kz"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotruckcenter.kr"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotruckcenter.it"
+  },
+  {
+    "type": "Domain",
+    "value": "volvobuses.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotruckcenter.fi"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotruckcenter.es"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotruckcenter.dk"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotruckcenter.be"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotrucks.uy"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotrucks.tn"
+  },
+  {
+    "type": "Domain",
+    "value": "volvobuses.de"
+  },
+  {
+    "type": "Domain",
+    "value": "volvobuses.dk"
+  },
+  {
+    "type": "Domain",
+    "value": "volvobuses.es"
+  },
+  {
+    "type": "Domain",
+    "value": "volvobuses.fi"
+  },
+  {
+    "type": "Domain",
+    "value": "volvobuses.fr"
+  },
+  {
+    "type": "Domain",
+    "value": "volvobuses.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "volvobuses.hu"
+  },
+  {
+    "type": "Domain",
+    "value": "volvobuses.in"
+  },
+  {
+    "type": "Domain",
+    "value": "volvobuses.it"
+  },
+  {
+    "type": "Domain",
+    "value": "volvobuses.jo"
+  },
+  {
+    "type": "Domain",
+    "value": "volvobuses.kr"
+  },
+  {
+    "type": "Domain",
+    "value": "volvobuses.ma"
+  },
+  {
+    "type": "Domain",
+    "value": "volvobuses.mx"
+  },
+  {
+    "type": "Domain",
+    "value": "volvobuses.my"
+  },
+  {
+    "type": "Domain",
+    "value": "volvobuses.no"
+  },
+  {
+    "type": "Domain",
+    "value": "volvobuses.om"
+  },
+  {
+    "type": "Domain",
+    "value": "volvobuses.ph"
+  },
+  {
+    "type": "Domain",
+    "value": "volvobuses.pk"
+  },
+  {
+    "type": "Domain",
+    "value": "volvobuses.pl"
+  },
+  {
+    "type": "Domain",
+    "value": "volvobuses.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "volvobuses.se"
+  },
+  {
+    "type": "Domain",
+    "value": "volvobuses.sg"
+  },
+  {
+    "type": "Domain",
+    "value": "volvobuses.tn"
+  },
+  {
+    "type": "Domain",
+    "value": "volvobuses.us"
+  },
+  {
+    "type": "Domain",
+    "value": "volvoce.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volvodefense.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volvogroup.be"
+  },
+  {
+    "type": "Domain",
+    "value": "volvogroup.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotrucks.tm"
+  },
+  {
+    "type": "Domain",
+    "value": "volvogroup.de"
+  },
+  {
+    "type": "Domain",
+    "value": "volvogroup.fr"
+  },
+  {
+    "type": "Domain",
+    "value": "volvogroup.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "volvogroup.kr"
+  },
+  {
+    "type": "Domain",
+    "value": "volvogroup.mx"
+  },
+  {
+    "type": "Domain",
+    "value": "volvogroup.nl"
+  },
+  {
+    "type": "Domain",
+    "value": "volvogroup.pe"
+  },
+  {
+    "type": "Domain",
+    "value": "volvogroup.pl"
+  },
+  {
+    "type": "Domain",
+    "value": "volvo.ca"
+  },
+  {
+    "type": "Domain",
+    "value": "vfsco.ie"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotrucks.sk"
+  },
+  {
+    "type": "Domain",
+    "value": "volvomerchandise.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volvopenta.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotrucks.si"
+  },
+  {
+    "type": "Domain",
+    "value": "volvopenta.de"
+  },
+  {
+    "type": "Domain",
+    "value": "volvopenta.es"
+  },
+  {
+    "type": "Domain",
+    "value": "volvopenta.fr"
+  },
+  {
+    "type": "Domain",
+    "value": "volvopenta.it"
+  },
+  {
+    "type": "Domain",
+    "value": "volvopenta.nl"
+  },
+  {
+    "type": "Domain",
+    "value": "volvopenta.se"
+  },
+  {
+    "type": "Domain",
+    "value": "volvopenta.us"
+  },
+  {
+    "type": "Domain",
+    "value": "volvosaatio.fi"
+  },
+  {
+    "type": "Domain",
+    "value": "volvospares.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotrucks.ae"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotrucks.al"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotrucks.am"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotrucks.at"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotrucks.az"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotrucks.ba"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotrucks.be"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotrucks.bg"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotrucks.by"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotrucks.ch"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotrucks.cl"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotrucks.sg"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotrucks.se"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotrucks.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotrucks.rs"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotrucks.ro"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotrucks.qa"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotrucks.ps"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotrucks.pl"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotrucks.pk"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotrucks.ph"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotrucks.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotrucks.pe"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotrucks.no"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotrucks.nl"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotrucks.net"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotrucks.my"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotrucks.mn"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotrucks.mk"
+  },
+  {
+    "type": "Domain",
+    "value": "volvogrouptruckcenter.nl"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotrucks.md"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotrucks.ma"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotrucks.cz"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotrucks.de"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotrucks.dk"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotrucks.ee"
+  },
+  {
+    "type": "Domain",
+    "value": "escandinavia-arg.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotrucks.fi"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotrucks.fr"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotrucks.ge"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotrucks.gr"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotrucks.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotrucks.hr"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotrucks.hu"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotrucks.id"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotrucks.in"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotrucks.it"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotrucks.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotrucks.kg"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotrucks.kr"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotrucks.kz"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotrucks.lt"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotrucks.lv"
+  },
+  {
+    "type": "Domain",
+    "value": "vfsco.co.za"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotrucks.com.kw"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotrucks.co.il"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotrucks.com.pt"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotrucks.com.co"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotrucks.com.br"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotrucks.com.bn"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotrucks.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotrucks.com.ar"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotrucks.co.zw"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotrucks.co.zm"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotrucks.co.za"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotrucks.co.nz"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotrucks.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotrucks.co.na"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotrucks.co.mz"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotrucks.co.bw"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotrucks.com.ua"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotrucks.com.tw"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotrucks.com.tr"
+  },
+  {
+    "type": "Domain",
+    "value": "volvopenta.com.br"
+  },
+  {
+    "type": "Domain",
+    "value": "volvogroup.com.br"
+  },
+  {
+    "type": "Domain",
+    "value": "volvobuses.com.tw"
+  },
+  {
+    "type": "Domain",
+    "value": "volvobuses.com.pt"
+  },
+  {
+    "type": "Domain",
+    "value": "volvobuses.com.kw"
+  },
+  {
+    "type": "Domain",
+    "value": "volvobuses.com.br"
+  },
+  {
+    "type": "Domain",
+    "value": "volvobuses.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "volvobuses.com.ar"
+  },
+  {
+    "type": "Domain",
+    "value": "volvobuses.co.za"
+  },
+  {
+    "type": "Domain",
+    "value": "volvobuses.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "volvobuses.co.nz"
+  },
+  {
+    "type": "Domain",
+    "value": "vfsco.com.tr"
+  },
+  {
+    "type": "Domain",
+    "value": "vfsco.com.br"
+  },
+  {
+    "type": "Domain",
+    "value": "vfsco.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "volvotrucks.co.ao"
+  },
+  {
+    "type": "Domain",
+    "value": "vfsco.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "vfsco.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "volvo.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "volvo.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "volvogroup.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "volvogroup.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "volvotrucks.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

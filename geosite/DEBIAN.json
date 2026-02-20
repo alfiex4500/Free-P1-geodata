@@ -1,0 +1,10 @@
+[
+  {
+    "type": "Domain",
+    "value": "debian.org"
+  },
+  {
+    "type": "Domain",
+    "value": "dotdeb.org"
+  }
+]

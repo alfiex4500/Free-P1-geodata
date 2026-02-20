@@ -1,0 +1,175 @@
+[
+  {
+    "type": "Domain",
+    "value": "icntvcdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cctvpro.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "cctvlib.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "cctv.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "cctvlibrary.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "ipanda.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cctvpic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ipanda.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "zggbdszt.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "chinaepg.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "chinalive.com"
+  },
+  {
+    "type": "Domain",
+    "value": "chinaott.com"
+  },
+  {
+    "type": "Domain",
+    "value": "yangshipin.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--kprv4ewxfr9cpxcc7joo6apn8a.xn--fiqs8s"
+  },
+  {
+    "type": "Domain",
+    "value": "cntv.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--kprv4ewxfr9cpxcc7joo6apn8a.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "cntvwb.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "gjgbdszt.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--fiq53l90et9fpncc7joo6apn8a.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--fiq53l6wcx3kp9bc7joo6apn8a.xn--fiqs8s"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--fiq53l6wcx3kp9bc7joo6apn8a.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "cctv.com"
+  },
+  {
+    "type": "Domain",
+    "value": "tvcc.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "ottcn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ipanda.net"
+  },
+  {
+    "type": "Domain",
+    "value": "livechina.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "livechina.com"
+  },
+  {
+    "type": "Domain",
+    "value": "olympicchannelchina.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "gjgbdszt.com.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "cctvlibrary.com.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "tvcc.com.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "cctvlib.com.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "gjgbdszt.net.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "ipanda.com.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "cntv.com.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "cctvpro.com.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "citv.net.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "cnms.net.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "zggbdszt.com.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "zggbdszt.net.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "zygbdszt.net.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "ad.cctv.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  }
+]

@@ -1,0 +1,8564 @@
+[
+  {
+    "type": "Full",
+    "value": "ingest.apple-studies.com"
+  },
+  {
+    "type": "Full",
+    "value": "apple.com.akadns.net"
+  },
+  {
+    "type": "Full",
+    "value": "configuration-lb.ls-apple.com.akadns.net"
+  },
+  {
+    "type": "Full",
+    "value": "push-apple.com.akadns.net"
+  },
+  {
+    "type": "Full",
+    "value": "apple-tv-plus-press.apple.com"
+  },
+  {
+    "type": "Full",
+    "value": "hls-amt.itunes.apple.com"
+  },
+  {
+    "type": "Full",
+    "value": "hls.itunes.apple.com"
+  },
+  {
+    "type": "Full",
+    "value": "np-edge.itunes.apple.com"
+  },
+  {
+    "type": "Full",
+    "value": "play-edge.itunes.apple.com"
+  },
+  {
+    "type": "Full",
+    "value": "tv.applemusic.com"
+  },
+  {
+    "type": "Full",
+    "value": "uts-api.itunes.apple.com"
+  },
+  {
+    "type": "Full",
+    "value": "beatselectronicsllc.tt.omtrdc.net"
+  },
+  {
+    "type": "Full",
+    "value": "www-cdn.icloud.com.akadns.net"
+  },
+  {
+    "type": "Full",
+    "value": "notary-submissions-prod.s3-accelerate.amazonaws.com"
+  },
+  {
+    "type": "Full",
+    "value": "notary-submissions-prod.s3.us-west-2.amazonaws.com"
+  },
+  {
+    "type": "Full",
+    "value": "appleworldwidedeveloper.hb-api.omtrdc.net"
+  },
+  {
+    "type": "Full",
+    "value": "appleworldwidedeveloper.sc.omtrdc.net"
+  },
+  {
+    "type": "Full",
+    "value": "p-events-delivery.akamaized.net"
+  },
+  {
+    "type": "Domain",
+    "value": "apple"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsblackfridayretails.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ipod.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.be"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.bg"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.bs"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.ca"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.ch"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.cl"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.cm"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.co"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.com"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.cz"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.de"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.dk"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.ee"
+  },
+  {
+    "type": "Domain",
+    "value": "webkit.org"
+  },
+  {
+    "type": "Domain",
+    "value": "researchkit.tv"
+  },
+  {
+    "type": "Domain",
+    "value": "researchkit.org"
+  },
+  {
+    "type": "Domain",
+    "value": "researchkit.net"
+  },
+  {
+    "type": "Domain",
+    "value": "researchkit.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "researchandcare.org"
+  },
+  {
+    "type": "Domain",
+    "value": "carekit.org"
+  },
+  {
+    "type": "Domain",
+    "value": "webkitgtk.org"
+  },
+  {
+    "type": "Domain",
+    "value": "apple-mapkit.com"
+  },
+  {
+    "type": "Domain",
+    "value": "foundationdb.org"
+  },
+  {
+    "type": "Domain",
+    "value": "apple-cloudkit.com"
+  },
+  {
+    "type": "Domain",
+    "value": "servicetalk.io"
+  },
+  {
+    "type": "Domain",
+    "value": "macosforge.org"
+  },
+  {
+    "type": "Domain",
+    "value": "macruby.org"
+  },
+  {
+    "type": "Domain",
+    "value": "calendarserver.org"
+  },
+  {
+    "type": "Domain",
+    "value": "wpewebkit.org"
+  },
+  {
+    "type": "Domain",
+    "value": "webobjects.com"
+  },
+  {
+    "type": "Domain",
+    "value": "appleswift.com"
+  },
+  {
+    "type": "Domain",
+    "value": "swift.org"
+  },
+  {
+    "type": "Domain",
+    "value": "macruby.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cups.org"
+  },
+  {
+    "type": "Domain",
+    "value": "macruby.com"
+  },
+  {
+    "type": "Domain",
+    "value": "itunesparty.com"
+  },
+  {
+    "type": "Domain",
+    "value": "itunesmatch.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ituneslogin.net"
+  },
+  {
+    "type": "Domain",
+    "value": "ituneslatino.com"
+  },
+  {
+    "type": "Domain",
+    "value": "itunesiradio.com"
+  },
+  {
+    "type": "Domain",
+    "value": "itunesfestivals.com"
+  },
+  {
+    "type": "Domain",
+    "value": "itunesessentials.com"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.es"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.eu"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.fi"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.fr"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.hamburg"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.hn"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.hr"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.hu"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.ie"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.in"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.is"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.it"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.jo"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.kr"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.lk"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.lt"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.lv"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.me"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.my"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.net"
+  },
+  {
+    "type": "Domain",
+    "value": "itunes12days.com"
+  },
+  {
+    "type": "Domain",
+    "value": "itunes.us"
+  },
+  {
+    "type": "Domain",
+    "value": "itunes.rio"
+  },
+  {
+    "type": "Domain",
+    "value": "itunes.com"
+  },
+  {
+    "type": "Domain",
+    "value": "itunes.mx"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.nl"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.no"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.pk"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.pl"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.pt"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.ro"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.rs"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.sa"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.se"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.sg"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.si"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.sk"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.so"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.tt"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.tw"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.us"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.xn--czr694b"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.xn--fiqs8s"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.xyz"
+  },
+  {
+    "type": "Domain",
+    "value": "aplestore.com"
+  },
+  {
+    "type": "Domain",
+    "value": "apple-store.net"
+  },
+  {
+    "type": "Domain",
+    "value": "apple-store.wang"
+  },
+  {
+    "type": "Domain",
+    "value": "applestor.com"
+  },
+  {
+    "type": "Domain",
+    "value": "applestore.bg"
+  },
+  {
+    "type": "Domain",
+    "value": "applestore.cc"
+  },
+  {
+    "type": "Domain",
+    "value": "applestore.ch"
+  },
+  {
+    "type": "Domain",
+    "value": "applestore.cm"
+  },
+  {
+    "type": "Domain",
+    "value": "itunes.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "itunes.org"
+  },
+  {
+    "type": "Domain",
+    "value": "12diasderegalosdeitunes.cl"
+  },
+  {
+    "type": "Domain",
+    "value": "iutunes.com"
+  },
+  {
+    "type": "Domain",
+    "value": "applestore.com"
+  },
+  {
+    "type": "Domain",
+    "value": "itunes.ca"
+  },
+  {
+    "type": "Domain",
+    "value": "itunes-radio.net"
+  },
+  {
+    "type": "Domain",
+    "value": "itunesradio.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ituneas.com"
+  },
+  {
+    "type": "Domain",
+    "value": "itunbes.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsboxingdayuksale.com"
+  },
+  {
+    "type": "Domain",
+    "value": "12joursdecadeauxdeitunes.com"
+  },
+  {
+    "type": "Domain",
+    "value": "12diasderegalosdeitunes.pe"
+  },
+  {
+    "type": "Domain",
+    "value": "12diasderegalosdeitunes.hn"
+  },
+  {
+    "type": "Domain",
+    "value": "12diasderegalosdeitunes.gt"
+  },
+  {
+    "type": "Domain",
+    "value": "12diasderegalosdeitunes.cr"
+  },
+  {
+    "type": "Domain",
+    "value": "itunesradio.rio"
+  },
+  {
+    "type": "Domain",
+    "value": "itunesradio.tv"
+  },
+  {
+    "type": "Domain",
+    "value": "itunesstore.co"
+  },
+  {
+    "type": "Domain",
+    "value": "itunesu.com"
+  },
+  {
+    "type": "Domain",
+    "value": "12diasderegalosdeitunes.com"
+  },
+  {
+    "type": "Domain",
+    "value": "applestore.de"
+  },
+  {
+    "type": "Domain",
+    "value": "applestore.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "applestore.kr"
+  },
+  {
+    "type": "Domain",
+    "value": "applestore.me"
+  },
+  {
+    "type": "Domain",
+    "value": "applestore.net"
+  },
+  {
+    "type": "Domain",
+    "value": "itunesu.net"
+  },
+  {
+    "type": "Domain",
+    "value": "applestore.ph"
+  },
+  {
+    "type": "Domain",
+    "value": "applestore.qa"
+  },
+  {
+    "type": "Domain",
+    "value": "applestore.sg"
+  },
+  {
+    "type": "Domain",
+    "value": "applestore.wang"
+  },
+  {
+    "type": "Domain",
+    "value": "applestoreonline.com"
+  },
+  {
+    "type": "Domain",
+    "value": "applestorepro.eu"
+  },
+  {
+    "type": "Domain",
+    "value": "onlineapplestore.com"
+  },
+  {
+    "type": "Domain",
+    "value": "app-store.wang"
+  },
+  {
+    "type": "Domain",
+    "value": "appe-store.com"
+  },
+  {
+    "type": "Domain",
+    "value": "appleappstore.net"
+  },
+  {
+    "type": "Domain",
+    "value": "appleappstore.tv"
+  },
+  {
+    "type": "Domain",
+    "value": "appsto.re"
+  },
+  {
+    "type": "Domain",
+    "value": "12diasdepresentesdeitunes.com"
+  },
+  {
+    "type": "Domain",
+    "value": "appstore.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "appstore.my"
+  },
+  {
+    "type": "Domain",
+    "value": "appstore.ph"
+  },
+  {
+    "type": "Domain",
+    "value": "asto.re"
+  },
+  {
+    "type": "Domain",
+    "value": "tvappstore.net"
+  },
+  {
+    "type": "Domain",
+    "value": "apple-imac.com"
+  },
+  {
+    "type": "Domain",
+    "value": "appleimac.com"
+  },
+  {
+    "type": "Domain",
+    "value": "imac-apple.com"
+  },
+  {
+    "type": "Domain",
+    "value": "imac-applecomputer.com"
+  },
+  {
+    "type": "Domain",
+    "value": "imac.co"
+  },
+  {
+    "type": "Domain",
+    "value": "wwwitunes.com"
+  },
+  {
+    "type": "Domain",
+    "value": "imac.com"
+  },
+  {
+    "type": "Domain",
+    "value": "imac.eu"
+  },
+  {
+    "type": "Domain",
+    "value": "imac.gr"
+  },
+  {
+    "type": "Domain",
+    "value": "imac.one"
+  },
+  {
+    "type": "Domain",
+    "value": "imac.rs"
+  },
+  {
+    "type": "Domain",
+    "value": "imacapple.com"
+  },
+  {
+    "type": "Domain",
+    "value": "imacapplecomputer.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ebookforipad.com"
+  },
+  {
+    "type": "Domain",
+    "value": "euroipad.com"
+  },
+  {
+    "type": "Domain",
+    "value": "findmyipad.com"
+  },
+  {
+    "type": "Domain",
+    "value": "indiaipad.com"
+  },
+  {
+    "type": "Domain",
+    "value": "12diasderegalosdeitunes.co"
+  },
+  {
+    "type": "Domain",
+    "value": "ipad.de"
+  },
+  {
+    "type": "Domain",
+    "value": "ipad.host"
+  },
+  {
+    "type": "Domain",
+    "value": "ipad.wang"
+  },
+  {
+    "type": "Domain",
+    "value": "ipad3.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ipadair.cl"
+  },
+  {
+    "type": "Domain",
+    "value": "ipadair.cm"
+  },
+  {
+    "type": "Domain",
+    "value": "itunesradio.tw"
+  },
+  {
+    "type": "Domain",
+    "value": "itunes.co"
+  },
+  {
+    "type": "Domain",
+    "value": "ipadair.fr"
+  },
+  {
+    "type": "Domain",
+    "value": "ipadair.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "ipadair.ie"
+  },
+  {
+    "type": "Domain",
+    "value": "ipadair.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "ipadair.tw"
+  },
+  {
+    "type": "Domain",
+    "value": "ipadaustralia.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ipadmini.cm"
+  },
+  {
+    "type": "Domain",
+    "value": "wwwicloud.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ipadmini.lk"
+  },
+  {
+    "type": "Domain",
+    "value": "ipadpro.buzz"
+  },
+  {
+    "type": "Domain",
+    "value": "ukipad.com"
+  },
+  {
+    "type": "Domain",
+    "value": "appleiphone.hu"
+  },
+  {
+    "type": "Domain",
+    "value": "appleiphone.net"
+  },
+  {
+    "type": "Domain",
+    "value": "appleiphonecell.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bestiphonestuff.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cooliphonecasesstore.com"
+  },
+  {
+    "type": "Domain",
+    "value": "custom-iphonecase.com"
+  },
+  {
+    "type": "Domain",
+    "value": "designeriphonescases.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dl-iphone.com"
+  },
+  {
+    "type": "Domain",
+    "value": "fundaiphone5s.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hebiphone.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hf-iphone.com"
+  },
+  {
+    "type": "Domain",
+    "value": "iphine.com"
+  },
+  {
+    "type": "Domain",
+    "value": "iphone-cd.com"
+  },
+  {
+    "type": "Domain",
+    "value": "iphone-cn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "iphone-sh.com"
+  },
+  {
+    "type": "Domain",
+    "value": "iphone-vip1.com"
+  },
+  {
+    "type": "Domain",
+    "value": "iphone-vip2.com"
+  },
+  {
+    "type": "Domain",
+    "value": "iphone-vip3.com"
+  },
+  {
+    "type": "Domain",
+    "value": "iphone-vip4.com"
+  },
+  {
+    "type": "Domain",
+    "value": "iphone-vip5.com"
+  },
+  {
+    "type": "Domain",
+    "value": "iphone-x.tv"
+  },
+  {
+    "type": "Domain",
+    "value": "iphone-yh.com"
+  },
+  {
+    "type": "Domain",
+    "value": "iphone-zh.com"
+  },
+  {
+    "type": "Domain",
+    "value": "iphone.cm"
+  },
+  {
+    "type": "Domain",
+    "value": "iphone.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mylcloud.net"
+  },
+  {
+    "type": "Domain",
+    "value": "myicloud.net"
+  },
+  {
+    "type": "Domain",
+    "value": "iphone.es"
+  },
+  {
+    "type": "Domain",
+    "value": "iphone.host"
+  },
+  {
+    "type": "Domain",
+    "value": "me.com"
+  },
+  {
+    "type": "Domain",
+    "value": "iphone.pt"
+  },
+  {
+    "type": "Domain",
+    "value": "iphone.rs"
+  },
+  {
+    "type": "Domain",
+    "value": "iphone.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "iphone.wang"
+  },
+  {
+    "type": "Domain",
+    "value": "iphone4.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ios-icloud.com"
+  },
+  {
+    "type": "Domain",
+    "value": "iphone4s.com"
+  },
+  {
+    "type": "Domain",
+    "value": "iphone5.com"
+  },
+  {
+    "type": "Domain",
+    "value": "iphone5casescovers.com"
+  },
+  {
+    "type": "Domain",
+    "value": "iphone5s5case.com"
+  },
+  {
+    "type": "Domain",
+    "value": "icloudsetup.com"
+  },
+  {
+    "type": "Domain",
+    "value": "iphonecase2013.com"
+  },
+  {
+    "type": "Domain",
+    "value": "iphonecase5.com"
+  },
+  {
+    "type": "Domain",
+    "value": "iphonecases100.com"
+  },
+  {
+    "type": "Domain",
+    "value": "iphonecases5.com"
+  },
+  {
+    "type": "Domain",
+    "value": "icloudsecure.net"
+  },
+  {
+    "type": "Domain",
+    "value": "iphonecollcase.com"
+  },
+  {
+    "type": "Domain",
+    "value": "iphonefc.com"
+  },
+  {
+    "type": "Domain",
+    "value": "iphonegermany.com"
+  },
+  {
+    "type": "Domain",
+    "value": "iphonehangzhou.com"
+  },
+  {
+    "type": "Domain",
+    "value": "iphoneimessage.com"
+  },
+  {
+    "type": "Domain",
+    "value": "iphoneplus.wang"
+  },
+  {
+    "type": "Domain",
+    "value": "iphonerip.net"
+  },
+  {
+    "type": "Domain",
+    "value": "iphonese.tv"
+  },
+  {
+    "type": "Domain",
+    "value": "iphoneunlockimei.com"
+  },
+  {
+    "type": "Domain",
+    "value": "iphonexs.tv"
+  },
+  {
+    "type": "Domain",
+    "value": "onlyiphone5case.com"
+  },
+  {
+    "type": "Domain",
+    "value": "aplleipods.com"
+  },
+  {
+    "type": "Domain",
+    "value": "appleclassicipod.com"
+  },
+  {
+    "type": "Domain",
+    "value": "downloadsforipod.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ipod.ca"
+  },
+  {
+    "type": "Domain",
+    "value": "ipod.ch"
+  },
+  {
+    "type": "Domain",
+    "value": "ipod.cm"
+  },
+  {
+    "type": "Domain",
+    "value": "ipod.co"
+  },
+  {
+    "type": "Domain",
+    "value": "icloudos.net"
+  },
+  {
+    "type": "Domain",
+    "value": "icloudos.de"
+  },
+  {
+    "type": "Domain",
+    "value": "icloudo.net"
+  },
+  {
+    "type": "Domain",
+    "value": "ipod.com"
+  },
+  {
+    "type": "Domain",
+    "value": "icloudo.de"
+  },
+  {
+    "type": "Domain",
+    "value": "icloudo.com"
+  },
+  {
+    "type": "Domain",
+    "value": "icloudpay.net"
+  },
+  {
+    "type": "Domain",
+    "value": "icloudnet.net"
+  },
+  {
+    "type": "Domain",
+    "value": "icloudmusic.net"
+  },
+  {
+    "type": "Domain",
+    "value": "ipod.de"
+  },
+  {
+    "type": "Domain",
+    "value": "ipod.es"
+  },
+  {
+    "type": "Domain",
+    "value": "ipod.eu"
+  },
+  {
+    "type": "Domain",
+    "value": "ipod.fr"
+  },
+  {
+    "type": "Domain",
+    "value": "ipod.gr"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydrdre-headphones.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ipod.is"
+  },
+  {
+    "type": "Domain",
+    "value": "ipod.net"
+  },
+  {
+    "type": "Domain",
+    "value": "ipod.no"
+  },
+  {
+    "type": "Domain",
+    "value": "ipod.pk"
+  },
+  {
+    "type": "Domain",
+    "value": "ipod.rs"
+  },
+  {
+    "type": "Domain",
+    "value": "ipod.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "ipod.tw"
+  },
+  {
+    "type": "Domain",
+    "value": "ipodcentre.nl"
+  },
+  {
+    "type": "Domain",
+    "value": "ipodcleaner.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ipoditouch.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ipodnano.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ipodnano.net"
+  },
+  {
+    "type": "Domain",
+    "value": "ipodprices.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ipodrip.ca"
+  },
+  {
+    "type": "Domain",
+    "value": "icloudmail.net"
+  },
+  {
+    "type": "Domain",
+    "value": "ipods.com"
+  },
+  {
+    "type": "Domain",
+    "value": "icloudhome.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ipodtouch.co"
+  },
+  {
+    "type": "Domain",
+    "value": "ipodtouch.com"
+  },
+  {
+    "type": "Domain",
+    "value": "myipod.net"
+  },
+  {
+    "type": "Domain",
+    "value": "offrezdesipods.com"
+  },
+  {
+    "type": "Domain",
+    "value": "simplyipod.com"
+  },
+  {
+    "type": "Domain",
+    "value": "wwwipodlounge.com"
+  },
+  {
+    "type": "Domain",
+    "value": "imacsources.com"
+  },
+  {
+    "type": "Domain",
+    "value": "launchpad.wang"
+  },
+  {
+    "type": "Domain",
+    "value": "mac.wang"
+  },
+  {
+    "type": "Domain",
+    "value": "macbook.co"
+  },
+  {
+    "type": "Domain",
+    "value": "macbook.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "macbook.tw"
+  },
+  {
+    "type": "Domain",
+    "value": "macbook.wang"
+  },
+  {
+    "type": "Domain",
+    "value": "icloude.com"
+  },
+  {
+    "type": "Domain",
+    "value": "icloudbrowser.net"
+  },
+  {
+    "type": "Domain",
+    "value": "macbookair.com"
+  },
+  {
+    "type": "Domain",
+    "value": "icloudbox.net"
+  },
+  {
+    "type": "Domain",
+    "value": "icloudads.net"
+  },
+  {
+    "type": "Domain",
+    "value": "macbookair.es"
+  },
+  {
+    "type": "Domain",
+    "value": "macbookair.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "macbookair.kr"
+  },
+  {
+    "type": "Domain",
+    "value": "macbookair.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "macbookair.net"
+  },
+  {
+    "type": "Domain",
+    "value": "macbookpro.co"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydrdre-officials5.com"
+  },
+  {
+    "type": "Domain",
+    "value": "icloud.vn"
+  },
+  {
+    "type": "Domain",
+    "value": "macbookpro.net"
+  },
+  {
+    "type": "Domain",
+    "value": "macbookpro.us"
+  },
+  {
+    "type": "Domain",
+    "value": "macbookpros.com"
+  },
+  {
+    "type": "Domain",
+    "value": "macbooksale.com"
+  },
+  {
+    "type": "Domain",
+    "value": "wwwmacbookair.com"
+  },
+  {
+    "type": "Domain",
+    "value": "icloud.sk"
+  },
+  {
+    "type": "Domain",
+    "value": "applewatch.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "applewatch.tv"
+  },
+  {
+    "type": "Domain",
+    "value": "applewatch.tw"
+  },
+  {
+    "type": "Domain",
+    "value": "applewatch.wang"
+  },
+  {
+    "type": "Domain",
+    "value": "applewatchedition.com"
+  },
+  {
+    "type": "Domain",
+    "value": "applewatchseries3.net"
+  },
+  {
+    "type": "Domain",
+    "value": "applewatchsport.com"
+  },
+  {
+    "type": "Domain",
+    "value": "applemusic.berlin"
+  },
+  {
+    "type": "Domain",
+    "value": "applemusic.co"
+  },
+  {
+    "type": "Domain",
+    "value": "applemusic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "icloud.si"
+  },
+  {
+    "type": "Domain",
+    "value": "applemusic.hamburg"
+  },
+  {
+    "type": "Domain",
+    "value": "applemusic.wang"
+  },
+  {
+    "type": "Domain",
+    "value": "applemusicconnect.com"
+  },
+  {
+    "type": "Domain",
+    "value": "applemusicfestival.com"
+  },
+  {
+    "type": "Domain",
+    "value": "musickit.net"
+  },
+  {
+    "type": "Domain",
+    "value": "wwwapplemusic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "icloud.se"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.news"
+  },
+  {
+    "type": "Domain",
+    "value": "appleenews.com"
+  },
+  {
+    "type": "Domain",
+    "value": "applenews.berlin"
+  },
+  {
+    "type": "Domain",
+    "value": "applenews.hamburg"
+  },
+  {
+    "type": "Domain",
+    "value": "applenews.tv"
+  },
+  {
+    "type": "Domain",
+    "value": "applenewsformat.com"
+  },
+  {
+    "type": "Domain",
+    "value": "apple-pay.com"
+  },
+  {
+    "type": "Domain",
+    "value": "apple-pay.rs"
+  },
+  {
+    "type": "Domain",
+    "value": "apple-pay.wang"
+  },
+  {
+    "type": "Domain",
+    "value": "applepay.berlin"
+  },
+  {
+    "type": "Domain",
+    "value": "icloud.ro"
+  },
+  {
+    "type": "Domain",
+    "value": "icloud.pt"
+  },
+  {
+    "type": "Domain",
+    "value": "applepay.hamburg"
+  },
+  {
+    "type": "Domain",
+    "value": "applepay.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "applepay.info"
+  },
+  {
+    "type": "Domain",
+    "value": "applepay.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "applepay.rs"
+  },
+  {
+    "type": "Domain",
+    "value": "applepay.tv"
+  },
+  {
+    "type": "Domain",
+    "value": "applepaycash.net"
+  },
+  {
+    "type": "Domain",
+    "value": "applepaycash.tv"
+  },
+  {
+    "type": "Domain",
+    "value": "applepaymerchantsupplies.info"
+  },
+  {
+    "type": "Domain",
+    "value": "applepaysupplies.berlin"
+  },
+  {
+    "type": "Domain",
+    "value": "applepaysupplies.com"
+  },
+  {
+    "type": "Domain",
+    "value": "applepaysupplies.info"
+  },
+  {
+    "type": "Domain",
+    "value": "applepaysupplies.net"
+  },
+  {
+    "type": "Domain",
+    "value": "applepaysupplies.tv"
+  },
+  {
+    "type": "Domain",
+    "value": "applewallet.com"
+  },
+  {
+    "type": "Domain",
+    "value": "applewallet.tv"
+  },
+  {
+    "type": "Domain",
+    "value": "i-book.com"
+  },
+  {
+    "type": "Domain",
+    "value": "i-book.net"
+  },
+  {
+    "type": "Domain",
+    "value": "icloud.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ibook.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ibook.eu"
+  },
+  {
+    "type": "Domain",
+    "value": "ibook.net"
+  },
+  {
+    "type": "Domain",
+    "value": "ibookpartner.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ibooksauthor.com"
+  },
+  {
+    "type": "Domain",
+    "value": "iphoto.eu"
+  },
+  {
+    "type": "Domain",
+    "value": "iphoto.no"
+  },
+  {
+    "type": "Domain",
+    "value": "iphoto.se"
+  },
+  {
+    "type": "Domain",
+    "value": "iphoto.wang"
+  },
+  {
+    "type": "Domain",
+    "value": "imovie.eu"
+  },
+  {
+    "type": "Domain",
+    "value": "imoviegallery.com"
+  },
+  {
+    "type": "Domain",
+    "value": "imoviestage.com"
+  },
+  {
+    "type": "Domain",
+    "value": "applecare.berlin"
+  },
+  {
+    "type": "Domain",
+    "value": "applecare.cc"
+  },
+  {
+    "type": "Domain",
+    "value": "applecare.eu"
+  },
+  {
+    "type": "Domain",
+    "value": "applecare.hamburg"
+  },
+  {
+    "type": "Domain",
+    "value": "applecare.wang"
+  },
+  {
+    "type": "Domain",
+    "value": "appledarwin.com"
+  },
+  {
+    "type": "Domain",
+    "value": "appledarwin.net"
+  },
+  {
+    "type": "Domain",
+    "value": "darwinsource.com"
+  },
+  {
+    "type": "Domain",
+    "value": "darwinsource.org"
+  },
+  {
+    "type": "Domain",
+    "value": "darwinsourcecode.com"
+  },
+  {
+    "type": "Domain",
+    "value": "appleaccount.net"
+  },
+  {
+    "type": "Domain",
+    "value": "appleid-applemx.com"
+  },
+  {
+    "type": "Domain",
+    "value": "appleid-applemx.us"
+  },
+  {
+    "type": "Domain",
+    "value": "appleid-iclou.com"
+  },
+  {
+    "type": "Domain",
+    "value": "appleid-uk.us"
+  },
+  {
+    "type": "Domain",
+    "value": "appleid.berlin"
+  },
+  {
+    "type": "Domain",
+    "value": "appleid.com"
+  },
+  {
+    "type": "Domain",
+    "value": "appleid.hamburg"
+  },
+  {
+    "type": "Domain",
+    "value": "appleid.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "ids-apple.com"
+  },
+  {
+    "type": "Domain",
+    "value": "myappleid.com"
+  },
+  {
+    "type": "Domain",
+    "value": "appletv.com"
+  },
+  {
+    "type": "Domain",
+    "value": "appletv.fr"
+  },
+  {
+    "type": "Domain",
+    "value": "appletv.wang"
+  },
+  {
+    "type": "Domain",
+    "value": "appleone.audio"
+  },
+  {
+    "type": "Domain",
+    "value": "appleone.blog"
+  },
+  {
+    "type": "Domain",
+    "value": "appleone.chat"
+  },
+  {
+    "type": "Domain",
+    "value": "appleone.cloud"
+  },
+  {
+    "type": "Domain",
+    "value": "appleone.club"
+  },
+  {
+    "type": "Domain",
+    "value": "appleone.community"
+  },
+  {
+    "type": "Domain",
+    "value": "appleone.film"
+  },
+  {
+    "type": "Domain",
+    "value": "appleone.guide"
+  },
+  {
+    "type": "Domain",
+    "value": "appleone.host"
+  },
+  {
+    "type": "Domain",
+    "value": "appleone.space"
+  },
+  {
+    "type": "Domain",
+    "value": "appleone.tech"
+  },
+  {
+    "type": "Domain",
+    "value": "appleone.website"
+  },
+  {
+    "type": "Domain",
+    "value": "shazam.com"
+  },
+  {
+    "type": "Domain",
+    "value": "icloud.om"
+  },
+  {
+    "type": "Domain",
+    "value": "icloud.lv"
+  },
+  {
+    "type": "Domain",
+    "value": "5lml.com"
+  },
+  {
+    "type": "Domain",
+    "value": "a0pple.net"
+  },
+  {
+    "type": "Domain",
+    "value": "aapl.tw"
+  },
+  {
+    "type": "Domain",
+    "value": "aaplimg.com"
+  },
+  {
+    "type": "Domain",
+    "value": "airport.brussels"
+  },
+  {
+    "type": "Domain",
+    "value": "airport.com"
+  },
+  {
+    "type": "Domain",
+    "value": "airport.eu"
+  },
+  {
+    "type": "Domain",
+    "value": "airsupportapp.com"
+  },
+  {
+    "type": "Domain",
+    "value": "airtunes.com"
+  },
+  {
+    "type": "Domain",
+    "value": "airtunes.info"
+  },
+  {
+    "type": "Domain",
+    "value": "airtunes.net"
+  },
+  {
+    "type": "Domain",
+    "value": "alchemysynth.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ap0le.com"
+  },
+  {
+    "type": "Domain",
+    "value": "aple.com"
+  },
+  {
+    "type": "Domain",
+    "value": "apole.com"
+  },
+  {
+    "type": "Domain",
+    "value": "app0le.com"
+  },
+  {
+    "type": "Domain",
+    "value": "appl-e.com"
+  },
+  {
+    "type": "Domain",
+    "value": "appl.com"
+  },
+  {
+    "type": "Domain",
+    "value": "appl4e.com"
+  },
+  {
+    "type": "Domain",
+    "value": "appla.com"
+  },
+  {
+    "type": "Domain",
+    "value": "apple-darwin.com"
+  },
+  {
+    "type": "Domain",
+    "value": "apple-darwin.net"
+  },
+  {
+    "type": "Domain",
+    "value": "apple-darwin.org"
+  },
+  {
+    "type": "Domain",
+    "value": "apple-dns.com"
+  },
+  {
+    "type": "Domain",
+    "value": "apple-dns.net"
+  },
+  {
+    "type": "Domain",
+    "value": "apple-enews.com"
+  },
+  {
+    "type": "Domain",
+    "value": "apple-expo.com"
+  },
+  {
+    "type": "Domain",
+    "value": "apple-expo.eu"
+  },
+  {
+    "type": "Domain",
+    "value": "apple-hk.com"
+  },
+  {
+    "type": "Domain",
+    "value": "apple-inc.net"
+  },
+  {
+    "type": "Domain",
+    "value": "apple-livephotoskit.com"
+  },
+  {
+    "type": "Domain",
+    "value": "apple-online.com"
+  },
+  {
+    "type": "Domain",
+    "value": "apple-usa.net"
+  },
+  {
+    "type": "Domain",
+    "value": "appleafrica.com"
+  },
+  {
+    "type": "Domain",
+    "value": "appleantilles.com"
+  },
+  {
+    "type": "Domain",
+    "value": "appleaustralia.com"
+  },
+  {
+    "type": "Domain",
+    "value": "icloud.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "icloud.is"
+  },
+  {
+    "type": "Domain",
+    "value": "applebk.net"
+  },
+  {
+    "type": "Domain",
+    "value": "applecarbon.com"
+  },
+  {
+    "type": "Domain",
+    "value": "applecard.tv"
+  },
+  {
+    "type": "Domain",
+    "value": "icloud.ie"
+  },
+  {
+    "type": "Domain",
+    "value": "applecentar.rs"
+  },
+  {
+    "type": "Domain",
+    "value": "icloud.hu"
+  },
+  {
+    "type": "Domain",
+    "value": "applecentre.info"
+  },
+  {
+    "type": "Domain",
+    "value": "icloud.fr"
+  },
+  {
+    "type": "Domain",
+    "value": "applecom.com"
+  },
+  {
+    "type": "Domain",
+    "value": "applecomputer-imac.com"
+  },
+  {
+    "type": "Domain",
+    "value": "icloud.fi"
+  },
+  {
+    "type": "Domain",
+    "value": "icloud.ee"
+  },
+  {
+    "type": "Domain",
+    "value": "applecomputer.com"
+  },
+  {
+    "type": "Domain",
+    "value": "icloud.de"
+  },
+  {
+    "type": "Domain",
+    "value": "icloud.com"
+  },
+  {
+    "type": "Domain",
+    "value": "applecomputer.hu"
+  },
+  {
+    "type": "Domain",
+    "value": "applecomputer.kr"
+  },
+  {
+    "type": "Domain",
+    "value": "applecomputerimac.com"
+  },
+  {
+    "type": "Domain",
+    "value": "applecomputerinc.info"
+  },
+  {
+    "type": "Domain",
+    "value": "icloud.ch"
+  },
+  {
+    "type": "Domain",
+    "value": "applecoronavirus.com"
+  },
+  {
+    "type": "Domain",
+    "value": "appleexpo.eu"
+  },
+  {
+    "type": "Domain",
+    "value": "appleexpo.info"
+  },
+  {
+    "type": "Domain",
+    "value": "applefilmaker.com"
+  },
+  {
+    "type": "Domain",
+    "value": "applefilmmaker.com"
+  },
+  {
+    "type": "Domain",
+    "value": "applefinalcutproworld.com"
+  },
+  {
+    "type": "Domain",
+    "value": "applefinalcutproworld.net"
+  },
+  {
+    "type": "Domain",
+    "value": "applefinalcutproworld.org"
+  },
+  {
+    "type": "Domain",
+    "value": "applehongkong.com"
+  },
+  {
+    "type": "Domain",
+    "value": "icloud-sandbox.com"
+  },
+  {
+    "type": "Domain",
+    "value": "appleinclegal.com"
+  },
+  {
+    "type": "Domain",
+    "value": "appleipodsettlement.com"
+  },
+  {
+    "type": "Domain",
+    "value": "appleiservices.com"
+  },
+  {
+    "type": "Domain",
+    "value": "applelink.com"
+  },
+  {
+    "type": "Domain",
+    "value": "applemagickeyboard.com"
+  },
+  {
+    "type": "Domain",
+    "value": "icloud-isupport.com"
+  },
+  {
+    "type": "Domain",
+    "value": "applemasters.info"
+  },
+  {
+    "type": "Domain",
+    "value": "appleonline.com"
+  },
+  {
+    "type": "Domain",
+    "value": "appleonline.net"
+  },
+  {
+    "type": "Domain",
+    "value": "appleoriginalproductions.com"
+  },
+  {
+    "type": "Domain",
+    "value": "appleos.tv"
+  },
+  {
+    "type": "Domain",
+    "value": "applepencil.net"
+  },
+  {
+    "type": "Domain",
+    "value": "applepodcasts.com"
+  },
+  {
+    "type": "Domain",
+    "value": "icloud-content.com"
+  },
+  {
+    "type": "Domain",
+    "value": "applemx-icloud.com"
+  },
+  {
+    "type": "Domain",
+    "value": "applereach.com"
+  },
+  {
+    "type": "Domain",
+    "value": "applereach.net"
+  },
+  {
+    "type": "Domain",
+    "value": "apples-msk.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "applescreensavers.com"
+  },
+  {
+    "type": "Domain",
+    "value": "applescript.info"
+  },
+  {
+    "type": "Domain",
+    "value": "appleshare.info"
+  },
+  {
+    "type": "Domain",
+    "value": "yourmonsterbeats.com"
+  },
+  {
+    "type": "Domain",
+    "value": "applesurveys.com"
+  },
+  {
+    "type": "Domain",
+    "value": "appletaiwan.com"
+  },
+  {
+    "type": "Domain",
+    "value": "appletips.net"
+  },
+  {
+    "type": "Domain",
+    "value": "appleweb.net"
+  },
+  {
+    "type": "Domain",
+    "value": "applexpo.net"
+  },
+  {
+    "type": "Domain",
+    "value": "applezh.com"
+  },
+  {
+    "type": "Domain",
+    "value": "applf.com"
+  },
+  {
+    "type": "Domain",
+    "value": "applfe.com"
+  },
+  {
+    "type": "Domain",
+    "value": "applle.com"
+  },
+  {
+    "type": "Domain",
+    "value": "applw.com"
+  },
+  {
+    "type": "Domain",
+    "value": "appmediagroup.com"
+  },
+  {
+    "type": "Domain",
+    "value": "appule.com"
+  },
+  {
+    "type": "Domain",
+    "value": "appye.com"
+  },
+  {
+    "type": "Domain",
+    "value": "apyle.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beddit.tv"
+  },
+  {
+    "type": "Domain",
+    "value": "braeburncapital.com"
+  },
+  {
+    "type": "Domain",
+    "value": "burstly.net"
+  },
+  {
+    "type": "Domain",
+    "value": "burstlyrewards.com"
+  },
+  {
+    "type": "Domain",
+    "value": "buyaapl.com"
+  },
+  {
+    "type": "Domain",
+    "value": "buyaapl.net"
+  },
+  {
+    "type": "Domain",
+    "value": "buyaple.com"
+  },
+  {
+    "type": "Domain",
+    "value": "camelphat.com"
+  },
+  {
+    "type": "Domain",
+    "value": "camelspaceeffect.com"
+  },
+  {
+    "type": "Domain",
+    "value": "carbon.com"
+  },
+  {
+    "type": "Domain",
+    "value": "catalina.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "cdn-apple.com"
+  },
+  {
+    "type": "Domain",
+    "value": "chomp.com"
+  },
+  {
+    "type": "Domain",
+    "value": "coreml.net"
+  },
+  {
+    "type": "Domain",
+    "value": "dashwood360.com"
+  },
+  {
+    "type": "Domain",
+    "value": "desktopmovie.com"
+  },
+  {
+    "type": "Domain",
+    "value": "desktopmovie.net"
+  },
+  {
+    "type": "Domain",
+    "value": "desktopmovie.org"
+  },
+  {
+    "type": "Domain",
+    "value": "desktopmovies.net"
+  },
+  {
+    "type": "Domain",
+    "value": "desktopmovies.org"
+  },
+  {
+    "type": "Domain",
+    "value": "developer-advisor.com"
+  },
+  {
+    "type": "Domain",
+    "value": "device-manager.us"
+  },
+  {
+    "type": "Domain",
+    "value": "digitalhub.com"
+  },
+  {
+    "type": "Domain",
+    "value": "discussionsapple.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dot-mac.de"
+  },
+  {
+    "type": "Domain",
+    "value": "dotmac.de"
+  },
+  {
+    "type": "Domain",
+    "value": "dvdstudiopro.biz"
+  },
+  {
+    "type": "Domain",
+    "value": "dvdstudiopro.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dvdstudiopro.info"
+  },
+  {
+    "type": "Domain",
+    "value": "dvdstudiopro.net"
+  },
+  {
+    "type": "Domain",
+    "value": "dvdstudiopro.org"
+  },
+  {
+    "type": "Domain",
+    "value": "dvdstudiopro.us"
+  },
+  {
+    "type": "Domain",
+    "value": "earpod.net"
+  },
+  {
+    "type": "Domain",
+    "value": "ecgapp.net"
+  },
+  {
+    "type": "Domain",
+    "value": "edu-research.org"
+  },
+  {
+    "type": "Domain",
+    "value": "worldcoinpay.com"
+  },
+  {
+    "type": "Domain",
+    "value": "emac.in"
+  },
+  {
+    "type": "Domain",
+    "value": "emagic.de"
+  },
+  {
+    "type": "Domain",
+    "value": "eworld.com"
+  },
+  {
+    "type": "Domain",
+    "value": "faceid99.com"
+  },
+  {
+    "type": "Domain",
+    "value": "faceid99.net"
+  },
+  {
+    "type": "Domain",
+    "value": "faceidglobal.com"
+  },
+  {
+    "type": "Domain",
+    "value": "facetime.net"
+  },
+  {
+    "type": "Domain",
+    "value": "finalcutpro.com"
+  },
+  {
+    "type": "Domain",
+    "value": "find-apple.com"
+  },
+  {
+    "type": "Domain",
+    "value": "firewire.cl"
+  },
+  {
+    "type": "Domain",
+    "value": "firewire.eu"
+  },
+  {
+    "type": "Domain",
+    "value": "geoport.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hopstop.tv"
+  },
+  {
+    "type": "Domain",
+    "value": "wholesaleonlinemart.com"
+  },
+  {
+    "type": "Domain",
+    "value": "idvd.eu"
+  },
+  {
+    "type": "Domain",
+    "value": "ikids.com"
+  },
+  {
+    "type": "Domain",
+    "value": "wholesalefine.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ilife.eu"
+  },
+  {
+    "type": "Domain",
+    "value": "ilife.gr"
+  },
+  {
+    "type": "Domain",
+    "value": "ilife.wang"
+  },
+  {
+    "type": "Domain",
+    "value": "imessage.tv"
+  },
+  {
+    "type": "Domain",
+    "value": "insidemacintosh.com"
+  },
+  {
+    "type": "Domain",
+    "value": "iosinthecar.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ipa-iphone.net"
+  },
+  {
+    "type": "Domain",
+    "value": "ipple.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ischool.com"
+  },
+  {
+    "type": "Domain",
+    "value": "itools.info"
+  },
+  {
+    "type": "Domain",
+    "value": "iwork.com"
+  },
+  {
+    "type": "Domain",
+    "value": "iwork.se"
+  },
+  {
+    "type": "Domain",
+    "value": "iwork.wang"
+  },
+  {
+    "type": "Domain",
+    "value": "jetfuelapp.com"
+  },
+  {
+    "type": "Domain",
+    "value": "jetfuelapps.com"
+  },
+  {
+    "type": "Domain",
+    "value": "latticedata.com"
+  },
+  {
+    "type": "Domain",
+    "value": "livephotos.tv"
+  },
+  {
+    "type": "Domain",
+    "value": "wholesalediscountpurses.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mac-mini.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mac.com"
+  },
+  {
+    "type": "Domain",
+    "value": "wholesale-exporter1.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mac.eu"
+  },
+  {
+    "type": "Domain",
+    "value": "mac.rs"
+  },
+  {
+    "type": "Domain",
+    "value": "macappsto.re"
+  },
+  {
+    "type": "Domain",
+    "value": "macboxset.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mach-os.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mach-os.net"
+  },
+  {
+    "type": "Domain",
+    "value": "machos.net"
+  },
+  {
+    "type": "Domain",
+    "value": "macintosh.eu"
+  },
+  {
+    "type": "Domain",
+    "value": "macintoshsoftware.com"
+  },
+  {
+    "type": "Domain",
+    "value": "macmini.com"
+  },
+  {
+    "type": "Domain",
+    "value": "wasdj.com"
+  },
+  {
+    "type": "Domain",
+    "value": "macossierra.com"
+  },
+  {
+    "type": "Domain",
+    "value": "macosx.info"
+  },
+  {
+    "type": "Domain",
+    "value": "macosxlion.com"
+  },
+  {
+    "type": "Domain",
+    "value": "macpazar.com"
+  },
+  {
+    "type": "Domain",
+    "value": "macreach.com"
+  },
+  {
+    "type": "Domain",
+    "value": "macreach.net"
+  },
+  {
+    "type": "Domain",
+    "value": "mobileme.dk"
+  },
+  {
+    "type": "Domain",
+    "value": "vipshoes2.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mzstatic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "newton.com"
+  },
+  {
+    "type": "Domain",
+    "value": "next.com"
+  },
+  {
+    "type": "Domain",
+    "value": "overapple.com"
+  },
+  {
+    "type": "Domain",
+    "value": "powerbook.eu"
+  },
+  {
+    "type": "Domain",
+    "value": "pullstring.net"
+  },
+  {
+    "type": "Domain",
+    "value": "quatrowireless.com"
+  },
+  {
+    "type": "Domain",
+    "value": "quicktime.cc"
+  },
+  {
+    "type": "Domain",
+    "value": "quicktime.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vipheadphones.com"
+  },
+  {
+    "type": "Domain",
+    "value": "quicktime.eu"
+  },
+  {
+    "type": "Domain",
+    "value": "quicktime.net"
+  },
+  {
+    "type": "Domain",
+    "value": "quicktime.tv"
+  },
+  {
+    "type": "Domain",
+    "value": "reform-apple.com"
+  },
+  {
+    "type": "Domain",
+    "value": "services-apple.net"
+  },
+  {
+    "type": "Domain",
+    "value": "siri.com"
+  },
+  {
+    "type": "Domain",
+    "value": "spektral.cc"
+  },
+  {
+    "type": "Domain",
+    "value": "texture.com"
+  },
+  {
+    "type": "Domain",
+    "value": "thinkdifferent.us"
+  },
+  {
+    "type": "Domain",
+    "value": "touchid.tv"
+  },
+  {
+    "type": "Domain",
+    "value": "touchid.wang"
+  },
+  {
+    "type": "Domain",
+    "value": "tracking-location.com"
+  },
+  {
+    "type": "Domain",
+    "value": "truedepth3d.com"
+  },
+  {
+    "type": "Domain",
+    "value": "tryrating.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vipbeatsbydre.com"
+  },
+  {
+    "type": "Domain",
+    "value": "webobjects.de"
+  },
+  {
+    "type": "Domain",
+    "value": "webobjects.eu"
+  },
+  {
+    "type": "Domain",
+    "value": "webobjects.net"
+  },
+  {
+    "type": "Domain",
+    "value": "wuxiapple.com"
+  },
+  {
+    "type": "Domain",
+    "value": "wwapple.net"
+  },
+  {
+    "type": "Domain",
+    "value": "www-sms-apple.com"
+  },
+  {
+    "type": "Domain",
+    "value": "wwwapple.com"
+  },
+  {
+    "type": "Domain",
+    "value": "wwwapple.net"
+  },
+  {
+    "type": "Domain",
+    "value": "wwwlapple.com"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--fiqs8sxootzz.xn--hxt814e"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--gtvq61aiijy0b.xn--hxt814e"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--gtvz22d.wang"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--gtvz22d.xn--hxt814e"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--hxtr4rozx.xn--czr694b"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--kput3imi374g.xn--hxt814e"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--ruq8a011kt6y.xn--hxt814e"
+  },
+  {
+    "type": "Domain",
+    "value": "vip-beats.com"
+  },
+  {
+    "type": "Domain",
+    "value": "v-has.com"
+  },
+  {
+    "type": "Domain",
+    "value": "usa-beatsbydreheadphonesonsale.net"
+  },
+  {
+    "type": "Domain",
+    "value": "unstyle.us"
+  },
+  {
+    "type": "Domain",
+    "value": "ubnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "tteshop.com"
+  },
+  {
+    "type": "Domain",
+    "value": "tradevip1.com"
+  },
+  {
+    "type": "Domain",
+    "value": "topbeatsforsale.com"
+  },
+  {
+    "type": "Domain",
+    "value": "topbeatsdealer.com"
+  },
+  {
+    "type": "Domain",
+    "value": "topbeatsbydrdreoutlet.com"
+  },
+  {
+    "type": "Domain",
+    "value": "theuab.net"
+  },
+  {
+    "type": "Domain",
+    "value": "thebeatsheadphonesale.com"
+  },
+  {
+    "type": "Domain",
+    "value": "thebeatsbydre.net"
+  },
+  {
+    "type": "Domain",
+    "value": "thebeatsbydre.com"
+  },
+  {
+    "type": "Domain",
+    "value": "the-monster-beats.com"
+  },
+  {
+    "type": "Domain",
+    "value": "takegoto.com"
+  },
+  {
+    "type": "Domain",
+    "value": "szwinnertechnology.com"
+  },
+  {
+    "type": "Domain",
+    "value": "szcheapmonsterheadphones.com"
+  },
+  {
+    "type": "Domain",
+    "value": "sverigebeatsbydrdre.com"
+  },
+  {
+    "type": "Domain",
+    "value": "sustainthesound.com"
+  },
+  {
+    "type": "Domain",
+    "value": "supplybestjerseys.com"
+  },
+  {
+    "type": "Domain",
+    "value": "superearsenjoy.com"
+  },
+  {
+    "type": "Domain",
+    "value": "sunglassessale2014.com"
+  },
+  {
+    "type": "Domain",
+    "value": "100beatscheap.com"
+  },
+  {
+    "type": "Domain",
+    "value": "1monsterbeatsbydreus.com"
+  },
+  {
+    "type": "Domain",
+    "value": "2013beatsbydrdreonline.com"
+  },
+  {
+    "type": "Domain",
+    "value": "2013beatsbydrdreshop.com"
+  },
+  {
+    "type": "Domain",
+    "value": "2013beatsbydreshop.com"
+  },
+  {
+    "type": "Domain",
+    "value": "2013beatshdcybermonday.com"
+  },
+  {
+    "type": "Domain",
+    "value": "2013cheapestbeats.com"
+  },
+  {
+    "type": "Domain",
+    "value": "2013newbeatsworld.com"
+  },
+  {
+    "type": "Domain",
+    "value": "2013pascherbeatsbydre.com"
+  },
+  {
+    "type": "Domain",
+    "value": "2014cheapbeatsbydre.com"
+  },
+  {
+    "type": "Domain",
+    "value": "2beatsdre.com"
+  },
+  {
+    "type": "Domain",
+    "value": "2buybeatsbydre.com"
+  },
+  {
+    "type": "Domain",
+    "value": "2drdrebeats.com"
+  },
+  {
+    "type": "Domain",
+    "value": "40shopping.com"
+  },
+  {
+    "type": "Domain",
+    "value": "4beatsbydre.com"
+  },
+  {
+    "type": "Domain",
+    "value": "5beatsbydre.com"
+  },
+  {
+    "type": "Domain",
+    "value": "aaagradeheadphones.com"
+  },
+  {
+    "type": "Domain",
+    "value": "aanaan.com"
+  },
+  {
+    "type": "Domain",
+    "value": "abcheadphones.com"
+  },
+  {
+    "type": "Domain",
+    "value": "abeatsbydrdre.com"
+  },
+  {
+    "type": "Domain",
+    "value": "aeasyshop.com"
+  },
+  {
+    "type": "Domain",
+    "value": "airmay.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ajtalk.com"
+  },
+  {
+    "type": "Domain",
+    "value": "albeats.com"
+  },
+  {
+    "type": "Domain",
+    "value": "annstores.net"
+  },
+  {
+    "type": "Domain",
+    "value": "aokwholesale.net"
+  },
+  {
+    "type": "Domain",
+    "value": "aucheapbeats.com"
+  },
+  {
+    "type": "Domain",
+    "value": "audiobeatsau.com"
+  },
+  {
+    "type": "Domain",
+    "value": "audiobeatsbydre.com"
+  },
+  {
+    "type": "Domain",
+    "value": "audiomonsterbeatsonline.com"
+  },
+  {
+    "type": "Domain",
+    "value": "auricularemonsterbeats.com"
+  },
+  {
+    "type": "Domain",
+    "value": "auricularesbeatsbaratosshop.com"
+  },
+  {
+    "type": "Domain",
+    "value": "auricularesbeatsmarkt.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ausbeatsbydrdre.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bag-glasses1.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bandgirlz.com"
+  },
+  {
+    "type": "Domain",
+    "value": "baxsound.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bbestmall.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatbd.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatbydre2013.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatbydremonster.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatbydreheadphonesonsale.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatbydrekopen.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatbydreuk2014.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatdrdres.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatfactoryoutlets.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatmonstersaustralia.net"
+  },
+  {
+    "type": "Domain",
+    "value": "beats-by-dre-australia.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beats-bydrdre.net"
+  },
+  {
+    "type": "Domain",
+    "value": "beats-bydre-mall.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beats-bydrecheapsale.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beats-bydreoutletonline.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beats-bydreoutletsale.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beats-bydreoutletsale.net"
+  },
+  {
+    "type": "Domain",
+    "value": "beats-bydreoutletssale.net"
+  },
+  {
+    "type": "Domain",
+    "value": "beats-bydrestore.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beats-bydreuk.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beats-deal.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beats-dre-us.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beats-headphones-buy-cheap.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beats-headphones.us"
+  },
+  {
+    "type": "Domain",
+    "value": "beats-sale.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beats-seller.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beats-soaho.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beats1.cc"
+  },
+  {
+    "type": "Domain",
+    "value": "beats1.tv"
+  },
+  {
+    "type": "Domain",
+    "value": "beats123.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beats4.net"
+  },
+  {
+    "type": "Domain",
+    "value": "beats4outlets.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beats4salecheap.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsallsale.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsaudifonos.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsaudiobydre.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsaudiobydre.net"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsaudios.net"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbeatsmonster.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbestdeals.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsblackfridaydeals.net"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.ae"
+  },
+  {
+    "type": "Domain",
+    "value": "itun.es"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.at"
+  },
+  {
+    "type": "Domain",
+    "value": "macbookpro.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydrdre-online.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydrdre-onsale.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydrdre-store.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydrdre-store.us"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydrdre4sale.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydrdrebiz.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydrdrecustom.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydrdredanmark.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydrdremall.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydrdreoutlet.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydrdres.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydrdresale.net"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydrdrestore.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydrdreus.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydre-beatsheadphone.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydre-chen.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydre-club.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydre-headphones.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydre-headphonesshop.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydre-mall.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydre-outlet.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydre-outletsale.net"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydre-outletstore.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydre-sell.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydre-store.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydre-studio.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydre-us.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydre.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydre2081.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydre411.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydre4usales.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydreauofficial.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydreausale.net"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydreaustralia-sale.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydreaustraliaonline.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydreaustraliaonlines.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydreaustraliasales.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydrebeatsby.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydreblackfriday2013.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydreblackfridaypro.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydreboxingdayca.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydrecasquesfr.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydrecheap-outletstore.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydrecheaper.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydrecheaponlinesales.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydrecolors.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydrecustomwireless.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydrecybermondaydeals2013.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydrecybermondaydeals2013.net"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydredanmarks.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydredealsblackfriday.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydredealscybermonday.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydrediscount.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydrediscountonline.net"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydredr.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydreexecutivesale.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydreformall2013-nl.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydreforsalesonline.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydreforshop2013-nl.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydreforstore.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydreforyououtlet.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydrefr.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydrefrcasquepascher.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydrefriday.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydregot.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydrehd.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydrehd.net"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydreheadphones-nz.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydreheadphonesolo.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydrehut.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydreinexpensive.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydreireland-sales.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydreirelandonlines.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydreirelandsale.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydreirelandsonline.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydremall2013.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydremonsteraustralia.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydrenls.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydrenorge1.net"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydreofficialdanmark.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydreoksale.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydreol.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydreonlie2013-nl.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydreonlines-ireland.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydreonlines-uk.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydreonlinesale-nz.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydreoordopjes.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydreoslo.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydreoutletsale.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydreoutletscheap.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydrerealstore.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydres-shop.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydresale-uk.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydresalemall2013.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydresales.us"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydresalesonline-australia.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydresaleonlines-nz.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydresdanmark.net"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydreshop-uk.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydreshops.net"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydresingapores.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydresingaporesale.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydrespeakers.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydresold.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydresolohdonline-canada.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydresonline-nz.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydrestorevip.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydressale.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydressolo.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydresstudio.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydrestudio-australia.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydrestudio.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydretoutlet.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydreuk.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydreuk.net"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydreus.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydrevipde.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydrew.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydrsmonsterinusa.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbymusic.net"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbysdrbre.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbysdrdres.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatscasque-france.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatscheap-nz.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatscheap-uk.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatscheapforsale.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatscollection2014.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatscustomblackfriday.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsdanmark2013.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsdrdre-headphones.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsdrdre-it.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsdrdre-solo.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsdrdre2014.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsdrdrecuffie.net"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsdrdrekaufenschweiz.net"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsdrdreneon.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsdre-monster.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsdre.net"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsdre4cheap.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsdrecheap.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsdredreheadphones.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsdreforsale.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsdreinau.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsdremonster-uk.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsdrenewcolorful4usale.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsdreoutletsale.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsdresale2013.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsdresalestore.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsdresolo2013.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsdreus.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsearbudsheadphoness.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsfacstore.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsfactoroutlets.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsfactorycollection.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsfactoryoutles.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsforcheap-usa.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsforme.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsfranceofficiel.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatselectronic.net"
+  },
+  {
+    "type": "Domain",
+    "value": "beatselectronics.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsep.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsep.net"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsheadphones-discount.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsheadphones1.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsheadphones2u.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsheadphonesale.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsheadphonesdealer.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsheadphonesforcheap.net"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsheadphonesonline.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsheadphoness.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsheadphonestudio.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsheadphonesusamall.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bestshoesale2014.net"
+  },
+  {
+    "type": "Domain",
+    "value": "beatshopuk.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsincanada.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsinsingapore.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsireland.net"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsjoy.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsmonstersales.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsmusic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsmusic.wang"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsneon.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsnzsale.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsodre.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsofdre-usa.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsonblackfriday2013.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsone.net"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsoutlet.net"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsoutletanytime.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsoutletonlines.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatspascher-bydre.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatspascher-fr.net"
+  },
+  {
+    "type": "Domain",
+    "value": "beatspascher.net"
+  },
+  {
+    "type": "Domain",
+    "value": "beatspaschers.net"
+  },
+  {
+    "type": "Domain",
+    "value": "beatspillnewcolor.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatspills.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatspromonsterjp.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatspromotions.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatssales.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatssaleus.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatssaustraliabuy.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatssbyaustralia.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatssbydredanmark.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsshop-uk.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsshop-usa.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsshopstore.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatssingapores.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatssingaporeshop.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsstudiohodetelefoner.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsstudiosite.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatstoreusa.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatsua.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatswholesale.us"
+  },
+  {
+    "type": "Domain",
+    "value": "beatswirelesscheap.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beatswirelesscuffie.com"
+  },
+  {
+    "type": "Domain",
+    "value": "begin-trade.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bestbeats4u.com"
+  },
+  {
+    "type": "Domain",
+    "value": "biitii.com"
+  },
+  {
+    "type": "Domain",
+    "value": "blackfridaydrebeatsnew.com"
+  },
+  {
+    "type": "Domain",
+    "value": "blackfridaydrebeatsshop.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bloommicroventures.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bookonsky.net"
+  },
+  {
+    "type": "Domain",
+    "value": "bossae.com"
+  },
+  {
+    "type": "Domain",
+    "value": "brandeasygo.com"
+  },
+  {
+    "type": "Domain",
+    "value": "brandelectronic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "brandproducts1688.com"
+  },
+  {
+    "type": "Domain",
+    "value": "brands098.com"
+  },
+  {
+    "type": "Domain",
+    "value": "businesswebwise.com"
+  },
+  {
+    "type": "Domain",
+    "value": "buy-from-shanghai.com"
+  },
+  {
+    "type": "Domain",
+    "value": "buybeatsbydre-uk.com"
+  },
+  {
+    "type": "Domain",
+    "value": "buybeatsheadphonesbydre.com"
+  },
+  {
+    "type": "Domain",
+    "value": "buycheapbeatsbus.com"
+  },
+  {
+    "type": "Domain",
+    "value": "buycheapbeatsbydre.com"
+  },
+  {
+    "type": "Domain",
+    "value": "buycheapbeatsbydreshop.com"
+  },
+  {
+    "type": "Domain",
+    "value": "buycheapbeatsdreuk.com"
+  },
+  {
+    "type": "Domain",
+    "value": "buydrdrebeatbox.com"
+  },
+  {
+    "type": "Domain",
+    "value": "buyminibeatbox.com"
+  },
+  {
+    "type": "Domain",
+    "value": "buyonlineheadphones.com"
+  },
+  {
+    "type": "Domain",
+    "value": "buyshoponly.com"
+  },
+  {
+    "type": "Domain",
+    "value": "buzzardflapper.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bybeatsdre.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bydrebeats.com"
+  },
+  {
+    "type": "Domain",
+    "value": "canada-beatsbydre.com"
+  },
+  {
+    "type": "Domain",
+    "value": "casque-fr.com"
+  },
+  {
+    "type": "Domain",
+    "value": "casquebeatsbydrdresolohd.com"
+  },
+  {
+    "type": "Domain",
+    "value": "casquebeatsdocteurdre.com"
+  },
+  {
+    "type": "Domain",
+    "value": "casquebeatsdre2013.com"
+  },
+  {
+    "type": "Domain",
+    "value": "casquebeatsenligne.com"
+  },
+  {
+    "type": "Domain",
+    "value": "casquebeatsfracheter.com"
+  },
+  {
+    "type": "Domain",
+    "value": "casquebeatsmer.net"
+  },
+  {
+    "type": "Domain",
+    "value": "casquebeatsofficiel-fr.com"
+  },
+  {
+    "type": "Domain",
+    "value": "casquebeatspascher2013.com"
+  },
+  {
+    "type": "Domain",
+    "value": "casquebeatssolo.net"
+  },
+  {
+    "type": "Domain",
+    "value": "casquedrdrebeatssfr.com"
+  },
+  {
+    "type": "Domain",
+    "value": "casquemonsterbeats.com"
+  },
+  {
+    "type": "Domain",
+    "value": "casquemonsterbeatsbydre2013.com"
+  },
+  {
+    "type": "Domain",
+    "value": "casquesbeatsaudio.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cheap-beats-by-dre.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cheap-beatsbydre.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cheapbagshoes.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cheapbeats.us"
+  },
+  {
+    "type": "Domain",
+    "value": "cheapbeats365.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cheapbeats4sale.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cheapbeatsaustraliasale.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cheapbeatsbus.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cheapbeatsbydr.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cheapbeatsbydrdrepro.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cheapbeatsbydre-au.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cheapbeatsbydre99.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cheapbeatsbydrefau.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cheapbeatsbydremall.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cheapbeatsbydremonster.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cheapbeatsbydrenz.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cheapbeatsbydreonsale.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cheapbeatsbydreoutlet-nz.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cheapbeatsbydreoutlet.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cheapbeatsbydreoutlets2013.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cheapbeatsbydresale.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cheapbeatsbydreshop.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cheapbeatsdrdresolo.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cheapbeatsbydrestudioedition.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cheapbeatsbydrestudioutlet.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cheapbeatsdrestudios.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cheapbeatsheadphone2014.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cheapbeatsheadphones.us"
+  },
+  {
+    "type": "Domain",
+    "value": "cheapbeatsie.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cheapbeatsla.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cheapbeatssale4u.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cheapbeatsshopbydre.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cheapcustombeatsbydre.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cheapdrdrebeats8.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cheapdrdrebeatsca.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cheapdrebeats8.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cheaperbeatsbydresale.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cheapestbeatsdrdre.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cheapheadphonesland.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cheapheadphonessale.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cheapheadsetmall.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cheapheadsetshop.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cheapmonsterbeatsbydrdre.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cheapmonsterbeatsheadsets.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cheapmonstersbeatsonsale.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cheapmonsterbeatssale.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cheapmonsterbeatsusa.us"
+  },
+  {
+    "type": "Domain",
+    "value": "cheapnewbeatsbydre.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cheapsalemonster.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cheapshoesvip.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cheapwireless04.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cheapwirelessbeats.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cheerwholesale.us"
+  },
+  {
+    "type": "Domain",
+    "value": "chihair-straightener.com"
+  },
+  {
+    "type": "Domain",
+    "value": "chinaclothesstore.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ciattackers.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cmhalq.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cnshopin.com"
+  },
+  {
+    "type": "Domain",
+    "value": "coolmonster.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cozydrdrebeats.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cqcorea.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cuffiesaldi.com"
+  },
+  {
+    "type": "Domain",
+    "value": "custombeatsbydrebuy.com"
+  },
+  {
+    "type": "Domain",
+    "value": "custombeatsdeals.com"
+  },
+  {
+    "type": "Domain",
+    "value": "custombeatsforcheap.com"
+  },
+  {
+    "type": "Domain",
+    "value": "custombeatsny.com"
+  },
+  {
+    "type": "Domain",
+    "value": "custombeatssbydreus.com"
+  },
+  {
+    "type": "Domain",
+    "value": "customdrdrebeats.com"
+  },
+  {
+    "type": "Domain",
+    "value": "customizedbeatbydre.com"
+  },
+  {
+    "type": "Domain",
+    "value": "customizedbeatsbydre.com"
+  },
+  {
+    "type": "Domain",
+    "value": "customizedbeatsdre.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cybermondaybeats4sale.com"
+  },
+  {
+    "type": "Domain",
+    "value": "danemarket.com"
+  },
+  {
+    "type": "Domain",
+    "value": "danmarkbeatsbydrdre.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dctbeatsbydre.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dealsbeatsblackfriday.com"
+  },
+  {
+    "type": "Domain",
+    "value": "detaliczny.com"
+  },
+  {
+    "type": "Domain",
+    "value": "discountbeatsbydre-us.com"
+  },
+  {
+    "type": "Domain",
+    "value": "discountbeatsstore.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dkbeatsbydre.com"
+  },
+  {
+    "type": "Domain",
+    "value": "drbeatsukmart.com"
+  },
+  {
+    "type": "Domain",
+    "value": "drdre-beats.com"
+  },
+  {
+    "type": "Domain",
+    "value": "drdrebeats-chen.com"
+  },
+  {
+    "type": "Domain",
+    "value": "drdrebeats-headphone.com"
+  },
+  {
+    "type": "Domain",
+    "value": "drdrebeats-usa.com"
+  },
+  {
+    "type": "Domain",
+    "value": "drdrebeatsale.com"
+  },
+  {
+    "type": "Domain",
+    "value": "drdrebeatsbillig.com"
+  },
+  {
+    "type": "Domain",
+    "value": "drdrebeatsdesale.com"
+  },
+  {
+    "type": "Domain",
+    "value": "drdrebeatsdiscount.com"
+  },
+  {
+    "type": "Domain",
+    "value": "drdrebeatsforu.com"
+  },
+  {
+    "type": "Domain",
+    "value": "drdrebeatsretail2013.com"
+  },
+  {
+    "type": "Domain",
+    "value": "drdrebeatssale7.com"
+  },
+  {
+    "type": "Domain",
+    "value": "drdrebeatsuk.com"
+  },
+  {
+    "type": "Domain",
+    "value": "drdreheadphonebeats.com"
+  },
+  {
+    "type": "Domain",
+    "value": "drdreheadphonekey.com"
+  },
+  {
+    "type": "Domain",
+    "value": "drdreheadphonesusstore.com"
+  },
+  {
+    "type": "Domain",
+    "value": "drdremonster-beats.com"
+  },
+  {
+    "type": "Domain",
+    "value": "drdremonsterdre.com"
+  },
+  {
+    "type": "Domain",
+    "value": "drdreprobeatssale.com"
+  },
+  {
+    "type": "Domain",
+    "value": "drdrefnac.com"
+  },
+  {
+    "type": "Domain",
+    "value": "drebeats-australia.com"
+  },
+  {
+    "type": "Domain",
+    "value": "drebeats-france.com"
+  },
+  {
+    "type": "Domain",
+    "value": "drebeats-monster.com"
+  },
+  {
+    "type": "Domain",
+    "value": "drebeats-monsteraustralia.com"
+  },
+  {
+    "type": "Domain",
+    "value": "drebeats-monsterusa.com"
+  },
+  {
+    "type": "Domain",
+    "value": "drebeats-singapore.com"
+  },
+  {
+    "type": "Domain",
+    "value": "drebeats-singapore.net"
+  },
+  {
+    "type": "Domain",
+    "value": "drebeats-singaporecheap.com"
+  },
+  {
+    "type": "Domain",
+    "value": "drebeats-singaporecheap.net"
+  },
+  {
+    "type": "Domain",
+    "value": "drebeats-solo.com"
+  },
+  {
+    "type": "Domain",
+    "value": "drebeats-studio.com"
+  },
+  {
+    "type": "Domain",
+    "value": "drebeatsaustralia-cheap.com"
+  },
+  {
+    "type": "Domain",
+    "value": "drebeatsaustralia-cheap.net"
+  },
+  {
+    "type": "Domain",
+    "value": "drebeatsbuy.com"
+  },
+  {
+    "type": "Domain",
+    "value": "drebeatsbydreoutlet.com"
+  },
+  {
+    "type": "Domain",
+    "value": "drebeatscanada.com"
+  },
+  {
+    "type": "Domain",
+    "value": "drebeatsdeutschland.net"
+  },
+  {
+    "type": "Domain",
+    "value": "drebeatsforsaleus.com"
+  },
+  {
+    "type": "Domain",
+    "value": "drebeatsheadphones-nz.com"
+  },
+  {
+    "type": "Domain",
+    "value": "drebeatshome.com"
+  },
+  {
+    "type": "Domain",
+    "value": "drebeatsoutletstore.com"
+  },
+  {
+    "type": "Domain",
+    "value": "drebeatsoldes.com"
+  },
+  {
+    "type": "Domain",
+    "value": "drebeatspill.com"
+  },
+  {
+    "type": "Domain",
+    "value": "drebeatssite.com"
+  },
+  {
+    "type": "Domain",
+    "value": "drebeatssolocybermondaysale.com"
+  },
+  {
+    "type": "Domain",
+    "value": "drebeatsstudio2013.com"
+  },
+  {
+    "type": "Domain",
+    "value": "drebeatstudio.com"
+  },
+  {
+    "type": "Domain",
+    "value": "drebyby.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dremonsterbeatsoutlets.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dreprobeats.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dreprofy.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dtsell.com"
+  },
+  {
+    "type": "Domain",
+    "value": "earphonescheapest.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ebuyheadphones.com"
+  },
+  {
+    "type": "Domain",
+    "value": "esbeatsbydrebuy.com"
+  },
+  {
+    "type": "Domain",
+    "value": "etheadphones.com"
+  },
+  {
+    "type": "Domain",
+    "value": "famosascalvas.com"
+  },
+  {
+    "type": "Domain",
+    "value": "findmybeats.com"
+  },
+  {
+    "type": "Domain",
+    "value": "fr-beatsbydrestore.com"
+  },
+  {
+    "type": "Domain",
+    "value": "francecasquebeatssolde.com"
+  },
+  {
+    "type": "Domain",
+    "value": "frcasquesbeats.com"
+  },
+  {
+    "type": "Domain",
+    "value": "free-aa.com"
+  },
+  {
+    "type": "Domain",
+    "value": "free-sns.com"
+  },
+  {
+    "type": "Domain",
+    "value": "frishoes.com"
+  },
+  {
+    "type": "Domain",
+    "value": "gamebeforethegame.com"
+  },
+  {
+    "type": "Domain",
+    "value": "getdrebeatssale.com"
+  },
+  {
+    "type": "Domain",
+    "value": "gmnetworks.net"
+  },
+  {
+    "type": "Domain",
+    "value": "gobeatsye.com"
+  },
+  {
+    "type": "Domain",
+    "value": "gobuyonlinestore.net"
+  },
+  {
+    "type": "Domain",
+    "value": "goodsdunk.net"
+  },
+  {
+    "type": "Domain",
+    "value": "headphonepubs.com"
+  },
+  {
+    "type": "Domain",
+    "value": "headphones-cool.com"
+  },
+  {
+    "type": "Domain",
+    "value": "headphones-dre.com"
+  },
+  {
+    "type": "Domain",
+    "value": "headphones-outlet-online.com"
+  },
+  {
+    "type": "Domain",
+    "value": "headphonesbeatsaudio.com"
+  },
+  {
+    "type": "Domain",
+    "value": "headphonesbeatsbydre.com"
+  },
+  {
+    "type": "Domain",
+    "value": "headphoneses.com"
+  },
+  {
+    "type": "Domain",
+    "value": "headphoneshome.com"
+  },
+  {
+    "type": "Domain",
+    "value": "headphoneshotsales.com"
+  },
+  {
+    "type": "Domain",
+    "value": "headphonesol.com"
+  },
+  {
+    "type": "Domain",
+    "value": "headphonesretailer.com"
+  },
+  {
+    "type": "Domain",
+    "value": "headphonessupply.com"
+  },
+  {
+    "type": "Domain",
+    "value": "headphonezip.com"
+  },
+  {
+    "type": "Domain",
+    "value": "headset987.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hellokittybeats.com"
+  },
+  {
+    "type": "Domain",
+    "value": "highbolt.net"
+  },
+  {
+    "type": "Domain",
+    "value": "highdefinitionbeatsbydre.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hipaa6020.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hipzoom.net"
+  },
+  {
+    "type": "Domain",
+    "value": "honawalaan.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hotbeatsonsale.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hotmonsterbeats.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hottestheadphonesonline.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hrsaz.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ibeats-uk.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ibeatsbydre.cc"
+  },
+  {
+    "type": "Domain",
+    "value": "ibeatsbydre.com"
+  },
+  {
+    "type": "Domain",
+    "value": "igoshopping.net"
+  },
+  {
+    "type": "Domain",
+    "value": "illianacomputerrecycling.com"
+  },
+  {
+    "type": "Domain",
+    "value": "imonsterbeats.com"
+  },
+  {
+    "type": "Domain",
+    "value": "incentivetravelgifts.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ioffergift.com"
+  },
+  {
+    "type": "Domain",
+    "value": "islamiccenterofnewlondon.com"
+  },
+  {
+    "type": "Domain",
+    "value": "italiabeatsbydrdre.com"
+  },
+  {
+    "type": "Domain",
+    "value": "jkbeats.com"
+  },
+  {
+    "type": "Domain",
+    "value": "kickshatchannel.com"
+  },
+  {
+    "type": "Domain",
+    "value": "kobbeatssbydredk.com"
+  },
+  {
+    "type": "Domain",
+    "value": "kopfhorergunstigshop.com"
+  },
+  {
+    "type": "Domain",
+    "value": "leecountytimes.com"
+  },
+  {
+    "type": "Domain",
+    "value": "lexuemei.com"
+  },
+  {
+    "type": "Domain",
+    "value": "lovebeatsdr.com"
+  },
+  {
+    "type": "Domain",
+    "value": "lovemarca.com"
+  },
+  {
+    "type": "Domain",
+    "value": "luckyissue.com"
+  },
+  {
+    "type": "Domain",
+    "value": "lyzsxx.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mairbeats.com"
+  },
+  {
+    "type": "Domain",
+    "value": "makeeu.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mallheadphone.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mbeats-tech.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mbheadphone.com"
+  },
+  {
+    "type": "Domain",
+    "value": "micstl.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mmonsterheadphones.net"
+  },
+  {
+    "type": "Domain",
+    "value": "monbeats2013.com"
+  },
+  {
+    "type": "Domain",
+    "value": "monster-beats-by-dr-dre.com"
+  },
+  {
+    "type": "Domain",
+    "value": "monster-beats-headphones.com"
+  },
+  {
+    "type": "Domain",
+    "value": "monsterbeats-cheap.com"
+  },
+  {
+    "type": "Domain",
+    "value": "monsterbeats-headphone.com"
+  },
+  {
+    "type": "Domain",
+    "value": "monsterbeats-onsale.com"
+  },
+  {
+    "type": "Domain",
+    "value": "monsterbeats-solo.com"
+  },
+  {
+    "type": "Domain",
+    "value": "monsterbeats-solo.net"
+  },
+  {
+    "type": "Domain",
+    "value": "monsterbeats365buy.com"
+  },
+  {
+    "type": "Domain",
+    "value": "monsterbeats8beatsbydre.com"
+  },
+  {
+    "type": "Domain",
+    "value": "monsterbeatsale.com"
+  },
+  {
+    "type": "Domain",
+    "value": "monsterbeatsalestore.com"
+  },
+  {
+    "type": "Domain",
+    "value": "monsterbeatssalg.com"
+  },
+  {
+    "type": "Domain",
+    "value": "monsterbeatsau.com"
+  },
+  {
+    "type": "Domain",
+    "value": "monsterbeatsbydrdre-nz.com"
+  },
+  {
+    "type": "Domain",
+    "value": "monsterbeatsbydrdre-usa.com"
+  },
+  {
+    "type": "Domain",
+    "value": "monsterbeatsbydrdrecanada.com"
+  },
+  {
+    "type": "Domain",
+    "value": "monsterbeatsbydrdrestudio.com"
+  },
+  {
+    "type": "Domain",
+    "value": "monsterbeatsbydre-nz.com"
+  },
+  {
+    "type": "Domain",
+    "value": "monsterbeatsbydre-usa.com"
+  },
+  {
+    "type": "Domain",
+    "value": "monsterbeatsbydre2015.com"
+  },
+  {
+    "type": "Domain",
+    "value": "monsterbeatsbydreaustraliacheap.com"
+  },
+  {
+    "type": "Domain",
+    "value": "monsterbeatsbydrebilligde.com"
+  },
+  {
+    "type": "Domain",
+    "value": "monsterbeatsbydrefactory.com"
+  },
+  {
+    "type": "Domain",
+    "value": "monsterbeatsbydrenew.com"
+  },
+  {
+    "type": "Domain",
+    "value": "monsterbeatsbydres.com"
+  },
+  {
+    "type": "Domain",
+    "value": "monsterbeatsbydreshop.com"
+  },
+  {
+    "type": "Domain",
+    "value": "monsterbeatscasques.com"
+  },
+  {
+    "type": "Domain",
+    "value": "monsterbeatscommunity.com"
+  },
+  {
+    "type": "Domain",
+    "value": "monsterbeatsdrdrecheap.com"
+  },
+  {
+    "type": "Domain",
+    "value": "monsterbeatsfactory.net"
+  },
+  {
+    "type": "Domain",
+    "value": "monsterbeatsfinland.com"
+  },
+  {
+    "type": "Domain",
+    "value": "monsterbeatsforsale.com"
+  },
+  {
+    "type": "Domain",
+    "value": "monsterbeatsheadphone.com"
+  },
+  {
+    "type": "Domain",
+    "value": "monsterbeatsheadphones.net"
+  },
+  {
+    "type": "Domain",
+    "value": "monsterbeatshere.com"
+  },
+  {
+    "type": "Domain",
+    "value": "monsterbeatsitaly.com"
+  },
+  {
+    "type": "Domain",
+    "value": "monsterbeatsmall.com"
+  },
+  {
+    "type": "Domain",
+    "value": "monsterbeatsnegozi.net"
+  },
+  {
+    "type": "Domain",
+    "value": "monsterbeatsok.com"
+  },
+  {
+    "type": "Domain",
+    "value": "monsterbeatsonlinestoreuk.com"
+  },
+  {
+    "type": "Domain",
+    "value": "monsterbeatsoutlet.us"
+  },
+  {
+    "type": "Domain",
+    "value": "monsterbeatspascher.net"
+  },
+  {
+    "type": "Domain",
+    "value": "monsterbeatsru.com"
+  },
+  {
+    "type": "Domain",
+    "value": "monsterbeatssales.com"
+  },
+  {
+    "type": "Domain",
+    "value": "monsterbeatsshops.net"
+  },
+  {
+    "type": "Domain",
+    "value": "monsterbeatsstore.com"
+  },
+  {
+    "type": "Domain",
+    "value": "monsterbeatssydneyaustralia.com"
+  },
+  {
+    "type": "Domain",
+    "value": "monsterbeatstang.com"
+  },
+  {
+    "type": "Domain",
+    "value": "monsterbeatstienda.com"
+  },
+  {
+    "type": "Domain",
+    "value": "monsterbeatstudio.com"
+  },
+  {
+    "type": "Domain",
+    "value": "monsterbydrebeat.com"
+  },
+  {
+    "type": "Domain",
+    "value": "monstercasquebeatspascher.net"
+  },
+  {
+    "type": "Domain",
+    "value": "monstercheapbeatss.com"
+  },
+  {
+    "type": "Domain",
+    "value": "monsterdrebeats-canada.net"
+  },
+  {
+    "type": "Domain",
+    "value": "monsterdrebeats-usa.com"
+  },
+  {
+    "type": "Domain",
+    "value": "monsterdrebeats-usa.net"
+  },
+  {
+    "type": "Domain",
+    "value": "monsterheadphone.net"
+  },
+  {
+    "type": "Domain",
+    "value": "monsterproduct.net"
+  },
+  {
+    "type": "Domain",
+    "value": "monstersbeatbydres.com"
+  },
+  {
+    "type": "Domain",
+    "value": "monstersdebea.com"
+  },
+  {
+    "type": "Domain",
+    "value": "monstershopcheapbeats.net"
+  },
+  {
+    "type": "Domain",
+    "value": "moreheadphones.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ms4dre.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mybeatsbydrestudio.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mybeatsbydreuk.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mybeatscheapbydre.com"
+  },
+  {
+    "type": "Domain",
+    "value": "myferrariheadphones.com"
+  },
+  {
+    "type": "Domain",
+    "value": "namemybeats.com"
+  },
+  {
+    "type": "Domain",
+    "value": "neborder.com"
+  },
+  {
+    "type": "Domain",
+    "value": "negozimonsterbeats.com"
+  },
+  {
+    "type": "Domain",
+    "value": "negoziomonsterbeats.com"
+  },
+  {
+    "type": "Domain",
+    "value": "newbeatsblackfriday.com"
+  },
+  {
+    "type": "Domain",
+    "value": "newbemany.com"
+  },
+  {
+    "type": "Domain",
+    "value": "newdrediscount.com"
+  },
+  {
+    "type": "Domain",
+    "value": "newestbeatsbydre.com"
+  },
+  {
+    "type": "Domain",
+    "value": "newlysprung.net"
+  },
+  {
+    "type": "Domain",
+    "value": "newmonst1erbeatsto1re.com"
+  },
+  {
+    "type": "Domain",
+    "value": "newmonsterbeatsheadphones.com"
+  },
+  {
+    "type": "Domain",
+    "value": "newschristmasshopping.com"
+  },
+  {
+    "type": "Domain",
+    "value": "nflhotsalejerseys.com"
+  },
+  {
+    "type": "Domain",
+    "value": "nicesshop.net"
+  },
+  {
+    "type": "Domain",
+    "value": "offerairjordanlebron.com"
+  },
+  {
+    "type": "Domain",
+    "value": "officialbeatsbydreshop.com"
+  },
+  {
+    "type": "Domain",
+    "value": "officialbeatsbydrestore.com"
+  },
+  {
+    "type": "Domain",
+    "value": "officialdrdre.com"
+  },
+  {
+    "type": "Domain",
+    "value": "officialheadphone.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ogameblog.com"
+  },
+  {
+    "type": "Domain",
+    "value": "onbeatsbydresale.com"
+  },
+  {
+    "type": "Domain",
+    "value": "onlinemonsterbeatsonsale.com"
+  },
+  {
+    "type": "Domain",
+    "value": "onsalekey.com"
+  },
+  {
+    "type": "Domain",
+    "value": "onsaletrend.com"
+  },
+  {
+    "type": "Domain",
+    "value": "outletbeatsshop.com"
+  },
+  {
+    "type": "Domain",
+    "value": "pascherbeatsmonster.com"
+  },
+  {
+    "type": "Domain",
+    "value": "paulsimon-music.com"
+  },
+  {
+    "type": "Domain",
+    "value": "perfectkickz.net"
+  },
+  {
+    "type": "Domain",
+    "value": "personeelsland.com"
+  },
+  {
+    "type": "Domain",
+    "value": "picknicekicks.net"
+  },
+  {
+    "type": "Domain",
+    "value": "pickshoesclothes.com"
+  },
+  {
+    "type": "Domain",
+    "value": "pillbeatsblackfridaysale.com"
+  },
+  {
+    "type": "Domain",
+    "value": "pocketbiketrader.com"
+  },
+  {
+    "type": "Domain",
+    "value": "powerbeats2wireless.com"
+  },
+  {
+    "type": "Domain",
+    "value": "powerbeatsbydrdre.com"
+  },
+  {
+    "type": "Domain",
+    "value": "powerbeatsbydre.com"
+  },
+  {
+    "type": "Domain",
+    "value": "promonsterbeatsbydre.com"
+  },
+  {
+    "type": "Domain",
+    "value": "prostudiobeatscybersale.com"
+  },
+  {
+    "type": "Domain",
+    "value": "rbsgr.com"
+  },
+  {
+    "type": "Domain",
+    "value": "repsneakermall.com"
+  },
+  {
+    "type": "Domain",
+    "value": "repswing.com"
+  },
+  {
+    "type": "Domain",
+    "value": "salebeatslasteststyle4you.com"
+  },
+  {
+    "type": "Domain",
+    "value": "saleblackfridaydrebeats.com"
+  },
+  {
+    "type": "Domain",
+    "value": "salecheaphandbags.com"
+  },
+  {
+    "type": "Domain",
+    "value": "samebags.com"
+  },
+  {
+    "type": "Domain",
+    "value": "sanvaras.com"
+  },
+  {
+    "type": "Domain",
+    "value": "scnshop.cc"
+  },
+  {
+    "type": "Domain",
+    "value": "shoers.com"
+  },
+  {
+    "type": "Domain",
+    "value": "shoestop2.com"
+  },
+  {
+    "type": "Domain",
+    "value": "shop-headphones.net"
+  },
+  {
+    "type": "Domain",
+    "value": "shopbeatsdre.com"
+  },
+  {
+    "type": "Domain",
+    "value": "shopbydre.com"
+  },
+  {
+    "type": "Domain",
+    "value": "shopcustomizedbeats.com"
+  },
+  {
+    "type": "Domain",
+    "value": "shopdrebeats.com"
+  },
+  {
+    "type": "Domain",
+    "value": "shopmonsterbeats.com"
+  },
+  {
+    "type": "Domain",
+    "value": "shopping-days.net"
+  },
+  {
+    "type": "Domain",
+    "value": "shoppinguheadphones.com"
+  },
+  {
+    "type": "Domain",
+    "value": "sneaker666.com"
+  },
+  {
+    "type": "Domain",
+    "value": "sneakerpage.net"
+  },
+  {
+    "type": "Domain",
+    "value": "sneakerskick.com"
+  },
+  {
+    "type": "Domain",
+    "value": "solostudioksale.com"
+  },
+  {
+    "type": "Domain",
+    "value": "soso7778.com"
+  },
+  {
+    "type": "Domain",
+    "value": "specialtyheadphones.com"
+  },
+  {
+    "type": "Domain",
+    "value": "spiritclubs.com"
+  },
+  {
+    "type": "Domain",
+    "value": "straightouttasomewhere.com"
+  },
+  {
+    "type": "Domain",
+    "value": "studiobeatsbydrdre.com"
+  },
+  {
+    "type": "Domain",
+    "value": "sulwerphoto.com"
+  },
+  {
+    "type": "Domain",
+    "value": "applecomputers.co.nz"
+  },
+  {
+    "type": "Domain",
+    "value": "applecomputer.co.nz"
+  },
+  {
+    "type": "Domain",
+    "value": "webobjects.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "quicktime.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "mr-apple.com.tw"
+  },
+  {
+    "type": "Domain",
+    "value": "macos.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "mac.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "lojaiphone.com.br"
+  },
+  {
+    "type": "Domain",
+    "value": "ilecture.co.nz"
+  },
+  {
+    "type": "Domain",
+    "value": "ichat.co.in"
+  },
+  {
+    "type": "Domain",
+    "value": "emac.co.in"
+  },
+  {
+    "type": "Domain",
+    "value": "appleshop.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "applepremiumresellers.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "applepremiumreseller.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "applemalaysia.com.my"
+  },
+  {
+    "type": "Domain",
+    "value": "applehongkong.com.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "ipadmini.com.lk"
+  },
+  {
+    "type": "Domain",
+    "value": "applecomputer.com.tw"
+  },
+  {
+    "type": "Domain",
+    "value": "applecomputer.com.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "applecomputer.co.in"
+  },
+  {
+    "type": "Domain",
+    "value": "appleclub.com.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "applecentar.co.rs"
+  },
+  {
+    "type": "Domain",
+    "value": "appleaustralia.net.au"
+  },
+  {
+    "type": "Domain",
+    "value": "appleaustralia.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "1to1conference.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "1to1computing.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "ibook.co.nz"
+  },
+  {
+    "type": "Domain",
+    "value": "applepay.com.tw"
+  },
+  {
+    "type": "Domain",
+    "value": "applepay.co.rs"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.comscoreresearch.com"
+  },
+  {
+    "type": "Domain",
+    "value": "applemusic.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "apple-watch.com.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "iphone.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "macbookair.com.es"
+  },
+  {
+    "type": "Domain",
+    "value": "macbookair.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "macbookair.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "macbookair.co.kr"
+  },
+  {
+    "type": "Domain",
+    "value": "ipodshop.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "ipodrocks.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "ipod.com.tw"
+  },
+  {
+    "type": "Domain",
+    "value": "ipod.com.sg"
+  },
+  {
+    "type": "Domain",
+    "value": "ipod.com.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "ipod.com.fr"
+  },
+  {
+    "type": "Domain",
+    "value": "ipod.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "ipod.co.za"
+  },
+  {
+    "type": "Domain",
+    "value": "ipod.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "ipod.co.nz"
+  },
+  {
+    "type": "Domain",
+    "value": "iphoneclaro.com.br"
+  },
+  {
+    "type": "Domain",
+    "value": "iphoneacessorios.com.br"
+  },
+  {
+    "type": "Domain",
+    "value": "iphone4.com.br"
+  },
+  {
+    "type": "Domain",
+    "value": "iphone.net.gr"
+  },
+  {
+    "type": "Domain",
+    "value": "iphone.com.gr"
+  },
+  {
+    "type": "Domain",
+    "value": "macbookpro.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "applestore.com.pt"
+  },
+  {
+    "type": "Domain",
+    "value": "applecentre.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "ipadair.com.es"
+  },
+  {
+    "type": "Domain",
+    "value": "ipadair.com.br"
+  },
+  {
+    "type": "Domain",
+    "value": "ipad.co.kr"
+  },
+  {
+    "type": "Domain",
+    "value": "imac.co.nz"
+  },
+  {
+    "type": "Domain",
+    "value": "appstore.co.id"
+  },
+  {
+    "type": "Domain",
+    "value": "applestore.net.gr"
+  },
+  {
+    "type": "Domain",
+    "value": "applestore.com.tw"
+  },
+  {
+    "type": "Domain",
+    "value": "applestore.com.sn"
+  },
+  {
+    "type": "Domain",
+    "value": "applestore.com.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "applestore.com.ro"
+  },
+  {
+    "type": "Domain",
+    "value": "applestore.com.pl"
+  },
+  {
+    "type": "Domain",
+    "value": "applestore.com.ph"
+  },
+  {
+    "type": "Domain",
+    "value": "applestore.com.my"
+  },
+  {
+    "type": "Domain",
+    "value": "applestore.com.jo"
+  },
+  {
+    "type": "Domain",
+    "value": "applestore.com.hr"
+  },
+  {
+    "type": "Domain",
+    "value": "applestore.com.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "applestore.com.gr"
+  },
+  {
+    "type": "Domain",
+    "value": "applestore.com.eg"
+  },
+  {
+    "type": "Domain",
+    "value": "applestore.com.ee"
+  },
+  {
+    "type": "Domain",
+    "value": "applestore.com.bn"
+  },
+  {
+    "type": "Domain",
+    "value": "applestore.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "applestore.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "applestore.co.ug"
+  },
+  {
+    "type": "Domain",
+    "value": "applestore.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "applestore.co.hu"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.net.gr"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.com.uy"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.com.tw"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.com.tr"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.com.sv"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.com.sg"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.com.py"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.com.pt"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.com.pr"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.com.pl"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.com.pe"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.com.pa"
+  },
+  {
+    "type": "Domain",
+    "value": "12diasderegalosdeitunes.com.ve"
+  },
+  {
+    "type": "Domain",
+    "value": "12diasderegalosdeitunes.com.ni"
+  },
+  {
+    "type": "Domain",
+    "value": "itunes.co.th"
+  },
+  {
+    "type": "Domain",
+    "value": "12diasderegalosdeitunes.com.hn"
+  },
+  {
+    "type": "Domain",
+    "value": "12diasderegalosdeitunes.com.co"
+  },
+  {
+    "type": "Domain",
+    "value": "12diasderegalosdeitunes.co.ve"
+  },
+  {
+    "type": "Domain",
+    "value": "12diasderegalosdeitunes.co.ni"
+  },
+  {
+    "type": "Domain",
+    "value": "12diasderegalosdeitunes.co.cr"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.com.my"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.com.mx"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.com.mg"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.com.lk"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.com.jm"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.com.gy"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.com.gr"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.com.do"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.com.de"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.com.co"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.com.br"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.com.bo"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.com.af"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.co.th"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.co.nz"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.co.mz"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.co.kr"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.co.hu"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.co.cr"
+  },
+  {
+    "type": "Domain",
+    "value": "itunes-apple.com.akadns.net"
+  },
+  {
+    "type": "Domain",
+    "value": "courier-push-apple.com.akadns.net"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "apple.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "apple-store.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "applestore.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "applestore.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "apple-appstore.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "appleappstore.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "appstoreapple.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "iphone-8.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ipod.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "macbookair.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "macbookair.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "applepaycash.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "applepaycash.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "applepaysupplies.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "applepaysupplies.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "appletv4.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "appletv4.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "apple-dns.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "apple-dns.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "apple-ibooks.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "apple-maps.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "applecenter.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "applecenter.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "applecomputer.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "applecomputer.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "appledns.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "appledns.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "applesiri.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ecgapp.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "faceshift.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "homepod.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "insidear.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "livephotos.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "livephotos.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "xn--czrs0t4phtr3a.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "xn--fiqs8sxootzz.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "xn--ohq11k7pl25iyo8a.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "amp-api-edge-lb-cn.itunes-apple.com.akadns.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "amp-api-edge-lb.itunes-apple.com.akadns.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "amp-api-edge.apps.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "amp-api-search-edge.apps.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "amp-api.apps.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "amp-api.music.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "aod-ssl.itunes.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "aod.itunes.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "api-edge.apps.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "apptrailers.itunes.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "auth.music.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "bag.itunes.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "bookkeeper.itunes.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "client-api.itunes.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "cma.itunes.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "communities.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "discussionschinese.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "downloaddispatch.itunes.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "fides-pol.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "gspe11-2-cn-ssl.ls.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "gspe12-cn-ssl.ls.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "gspe85-cn-ssl.ls.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "inappcheck-cn.itunes-apple.com.akadns.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "inappcheck-lb.itunes-apple.com.akadns.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "inappcheck.itunes.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "init.gc-lb.apple.com.akadns.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "init.gc.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "init.itunes.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "iosapps.itunes.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "js-cdn.music.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "km.support.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "maps.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "misc-assets.itunes.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "myapp.itunes.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "np-edge.itunes.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "osxapps.itunes.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "pd-nk.itunes.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "pd.itunes.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "play.itunes.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "play.music.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "se-edge.itunes.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "se2.itunes.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "search.itunes.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "sf-api-token-service.itunes.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "sp.itunes.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "streamingaudio.itunes.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "su.itunes.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "sync.itunes.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "tf-feedback.itunes.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "upp.itunes.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "www.support.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "a1.mzstatic.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "a2.mzstatic.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "a3.mzstatic.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "a4.mzstatic.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "a5.mzstatic.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "cdn.apple-mapkit.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "cdn1.apple-mapkit.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "cdn2.apple-mapkit.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "cdn3.apple-mapkit.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "cdn4.apple-mapkit.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "cdn-cn.apple-mapkit.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "cdn-cn1.apple-mapkit.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "cdn-cn2.apple-mapkit.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "cdn-cn3.apple-mapkit.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "cdn-cn4.apple-mapkit.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "cl1-cdn.origin-apple.com.akadns.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "cl2-cdn.origin-apple.com.akadns.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "cl3-cdn.origin-apple.com.akadns.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "cl4-cdn.origin-apple.com.akadns.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "cl5-cdn.origin-apple.com.akadns.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "cl1.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "cl2.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "cl3.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "cl4.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "cl5.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "is1.mzstatic.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "is1-ssl.mzstatic.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "is2.mzstatic.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "is2-ssl.mzstatic.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "is3.mzstatic.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "is3-ssl.mzstatic.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "is4.mzstatic.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "is4-ssl.mzstatic.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "is5.mzstatic.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "is5-ssl.mzstatic.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "s.mzstatic.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "s1.mzstatic.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "s2.mzstatic.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "s3.mzstatic.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "s4.mzstatic.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "s5.mzstatic.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "adcdownload.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "adcdownload.apple.com.akadns.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "amp-api-updates.apps.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "amp-api.media.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "app-site-association.cdn-apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "appldnld.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "appldnld.g.aaplimg.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "appleid.cdn-apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "apps.mzstatic.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "bag-cdn.itunes-apple.com.akadns.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "cds-cdn.v.aaplimg.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "cds.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "cds.apple.com.akadns.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "cdsassets.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "cl2-cn.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "cl4-cn.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "clientflow.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "clientflow.apple.com.akadns.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "cn-smp-paymentservices.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "configuration.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "configuration.apple.com.akadns.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "cstat.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "cstat.cdn-apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "dd-cdn.origin-apple.com.akadns.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "dejavu.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "devimages-cdn.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "devstreaming-cdn.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "download.developer.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "experiments.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "gs-loc-cn.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "gs-loc.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "gsp10-ssl-cn.ls.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "gsp12-cn.ls.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "gsp13-cn.ls.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "gsp4-cn.ls.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "gsp5-cn.ls.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "gsp85-cn-ssl.ls.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "gspe19-2-cn-ssl.ls-apple.com.akadns.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "gspe19-2-cn-ssl.ls.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "gspe19-cn-ssl.ls.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "gspe19-cn.ls-apple.com.akadns.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "gspe19-cn.ls.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "gspe21-ssl.ls.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "gspe35-ssl.ls.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "gspe79-cn-ssl.ls.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "guzzoni-apple-com.v.aaplimg.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "guzzoni.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "guzzoni.smoot.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "icloud-cdn.icloud.com.akadns.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "icloud.cdn-apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "images.apple.com.edgekey.net.globalredir.akadns.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "init-kt.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "init-p01md-lb.push-apple.com.akadns.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "init-p01md.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "init-p01st-lb.push-apple.com.akadns.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "init-p01st.push.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "init-s01st-lb.push-apple.com.akadns.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "init-s01st.push.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "init.ess.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "iosapps.itunes.g.aaplimg.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "ipcdn.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "iphone-ld.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "iphone-ld.origin-apple.com.akadns.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "is-ssl.mzstatic.com-cn-lb.itunes-apple.com.akadns.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "itunes-apple.com.akadns.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "itunes.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "itunesconnect.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "mesu-cdn.apple.com.akadns.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "mesu-china.apple.com.akadns.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "mesu.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "ml.cdn-apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "music.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "oscdn.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "oscdn.origin-apple.com.akadns.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "osxapps.itunes.g.aaplimg.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "pancake.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "pancake.cdn-apple.com.akadns.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "pba0.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "probe.siri.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "prod-support.apple-support.akadns.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "publicassets.cdn-apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "reserve-prime.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "seed-sequoia.siri.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "seed-swallow.siri.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "seed.siri.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "sequoia.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "sh-pod2-smp-device.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "shazam-insights.cdn-apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "smp-device-content.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "static.gc.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "stocks-sparkline-lb.apple.com.akadns.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "stocks-sparkline.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "store.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "store.apple.com.edgekey.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "store.apple.com.edgekey.net.globalredir.akadns.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "store.storeimages.apple.com.akadns.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "store.storeimages.cdn-apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "support-china.apple-support.akadns.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "support.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "swallow-apple-com.v.aaplimg.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "swallow.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "swcatalog-cdn.apple.com.akadns.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "swcatalog.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "swcdn.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "swcdn.g.aaplimg.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "swdist.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "swdist.apple.com.akadns.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "swscan-cdn.apple.com.akadns.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "swscan.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "sylvan.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "tj-pod1-smp-device.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "updates-http.cdn-apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "updates-http.cdn-apple.com.akadns.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "updates.cdn-apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "weather-data.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "weather-data.apple.com.akadns.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "weather-map.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "weather-map2.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "weatherkit.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "www.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "www.apple.com.edgekey.net.globalredir.akadns.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "xp.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "advertising.apple.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "api-adservices.apple.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "iadsdk.apple.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "iad.apple.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "qwapi.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "beats1.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "beats1.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "beats2.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "beats4.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydre.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "beatsbydre.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "beatsep.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "apple-icloud.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "appleicloud.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "icloud-apple.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "icloud.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "icloud.net.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "icloudapple.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "apple-itunes.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "itunes-apple.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "itunesapple.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "itunesradio.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "itunesradio.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "researchkit.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "researchkit.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "swiftui.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "swiftui.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "certs-lb.apple.com.akadns.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "certs.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "crl-lb.apple.com.akadns.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "crl.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "ocsp-lb.apple.com.akadns.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "ocsp.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "ocsp2-lb.apple.com.akadns.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "ocsp2.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "valid.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "valid.origin-apple.com.akadns.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "type": "Full",
+    "value": "apple-tv-plus-press.apple.com"
+  },
+  {
+    "type": "Full",
+    "value": "hls-amt.itunes.apple.com"
+  },
+  {
+    "type": "Full",
+    "value": "hls.itunes.apple.com"
+  },
+  {
+    "type": "Full",
+    "value": "np-edge.itunes.apple.com"
+  },
+  {
+    "type": "Full",
+    "value": "play-edge.itunes.apple.com"
+  },
+  {
+    "type": "Full",
+    "value": "tv.applemusic.com"
+  },
+  {
+    "type": "Full",
+    "value": "uts-api.itunes.apple.com"
+  },
+  {
+    "type": "Domain",
+    "value": "tv.apple.com"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "type": "Full",
+    "value": "id6.me"
+  },
+  {
+    "type": "Full",
+    "value": "opencloud.wostore.cn"
+  },
+  {
+    "type": "Full",
+    "value": "hs.wosms.cn"
+  },
+  {
+    "type": "Full",
+    "value": "enrichgw.10010.com"
+  },
+  {
+    "type": "Full",
+    "value": "hap.10010.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cmpassport.com"
+  },
+  {
+    "type": "Regex",
+    "value": "^nis.+\\.10010\\.com$"
+  }
+]

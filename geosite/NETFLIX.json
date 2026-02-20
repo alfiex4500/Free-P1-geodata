@@ -1,0 +1,114 @@
+[
+  {
+    "type": "Full",
+    "value": "netflix.com.edgesuite.net"
+  },
+  {
+    "type": "Domain",
+    "value": "fast.com"
+  },
+  {
+    "type": "Domain",
+    "value": "netflix.ca"
+  },
+  {
+    "type": "Domain",
+    "value": "netflix.com"
+  },
+  {
+    "type": "Domain",
+    "value": "netflix.net"
+  },
+  {
+    "type": "Domain",
+    "value": "netflixinvestor.com"
+  },
+  {
+    "type": "Domain",
+    "value": "netflixtechblog.com"
+  },
+  {
+    "type": "Domain",
+    "value": "nflxext.com"
+  },
+  {
+    "type": "Domain",
+    "value": "nflximg.com"
+  },
+  {
+    "type": "Domain",
+    "value": "nflximg.net"
+  },
+  {
+    "type": "Domain",
+    "value": "nflxsearch.net"
+  },
+  {
+    "type": "Domain",
+    "value": "nflxso.net"
+  },
+  {
+    "type": "Domain",
+    "value": "nflxvideo.net"
+  },
+  {
+    "type": "Domain",
+    "value": "netflixdnstest0.com"
+  },
+  {
+    "type": "Domain",
+    "value": "netflixdnstest1.com"
+  },
+  {
+    "type": "Domain",
+    "value": "netflixdnstest2.com"
+  },
+  {
+    "type": "Domain",
+    "value": "netflixdnstest3.com"
+  },
+  {
+    "type": "Domain",
+    "value": "netflixdnstest4.com"
+  },
+  {
+    "type": "Domain",
+    "value": "netflixdnstest5.com"
+  },
+  {
+    "type": "Domain",
+    "value": "netflixdnstest6.com"
+  },
+  {
+    "type": "Domain",
+    "value": "netflixdnstest7.com"
+  },
+  {
+    "type": "Domain",
+    "value": "netflixdnstest8.com"
+  },
+  {
+    "type": "Domain",
+    "value": "netflixdnstest9.com"
+  },
+  {
+    "type": "Domain",
+    "value": "netflixdnstest10.com"
+  },
+  {
+    "type": "Regex",
+    "value": "(^|\\.)apiproxy-device-prod-nlb-.+\\.amazonaws\\.com$"
+  },
+  {
+    "type": "Regex",
+    "value": "(^|\\.)apiproxy-website-nlb-prod-.+\\.amazonaws\\.com$"
+  },
+  {
+    "type": "Regex",
+    "value": "(^|\\.)dualstack\\.apiproxy-.+\\.amazonaws\\.com$"
+  },
+  {
+    "type": "Regex",
+    "value": "(^|\\.)dualstack\\.ichnaea-web-.+\\.amazonaws\\.com$"
+  }
+]

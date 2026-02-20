@@ -1,0 +1,594 @@
+[
+  {
+    "type": "Full",
+    "value": "bilet.nspk.ru"
+  },
+  {
+    "type": "Full",
+    "value": "metro.spb.ru"
+  },
+  {
+    "type": "Full",
+    "value": "mos.transport.vtb.ru"
+  },
+  {
+    "type": "Full",
+    "value": "podorozhnik.spb.ru"
+  },
+  {
+    "type": "Full",
+    "value": "transport.mos.ru"
+  },
+  {
+    "type": "Full",
+    "value": "arenda.yandex.ru"
+  },
+  {
+    "type": "Full",
+    "value": "taxi.yandex.ru"
+  },
+  {
+    "type": "Full",
+    "value": "yandex-pogoda.static-storage.net"
+  },
+  {
+    "type": "Domain",
+    "value": "psk"
+  },
+  {
+    "type": "Domain",
+    "value": "moscow"
+  },
+  {
+    "type": "Domain",
+    "value": "ru"
+  },
+  {
+    "type": "Domain",
+    "value": "su"
+  },
+  {
+    "type": "Domain",
+    "value": "tatar"
+  },
+  {
+    "type": "Domain",
+    "value": "yandex"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--p1ai"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--p1acf"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--d1acj3b"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--c1avg"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--80aswg"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--80asehdb"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--80adxhks"
+  },
+  {
+    "type": "Domain",
+    "value": "okolo.app"
+  },
+  {
+    "type": "Domain",
+    "value": "netmonet.co"
+  },
+  {
+    "type": "Domain",
+    "value": "tips.tips"
+  },
+  {
+    "type": "Domain",
+    "value": "x5.group"
+  },
+  {
+    "type": "Domain",
+    "value": "ngenix.net"
+  },
+  {
+    "type": "Domain",
+    "value": "taxsee.com"
+  },
+  {
+    "type": "Domain",
+    "value": "emias.info"
+  },
+  {
+    "type": "Domain",
+    "value": "x5.media"
+  },
+  {
+    "type": "Domain",
+    "value": "dodois.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dodois.io"
+  },
+  {
+    "type": "Domain",
+    "value": "dodopizza.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dodostatic.net"
+  },
+  {
+    "type": "Domain",
+    "value": "evrasia.rest"
+  },
+  {
+    "type": "Domain",
+    "value": "fix-price.com"
+  },
+  {
+    "type": "Domain",
+    "value": "lenta.com"
+  },
+  {
+    "type": "Domain",
+    "value": "lenta.tech"
+  },
+  {
+    "type": "Domain",
+    "value": "uni.rest"
+  },
+  {
+    "type": "Domain",
+    "value": "unirest.tech"
+  },
+  {
+    "type": "Domain",
+    "value": "5post.market"
+  },
+  {
+    "type": "Domain",
+    "value": "chizhik.club"
+  },
+  {
+    "type": "Domain",
+    "value": "sistema-capital.com"
+  },
+  {
+    "type": "Domain",
+    "value": "perekrestok.com"
+  },
+  {
+    "type": "Domain",
+    "value": "x5.ai"
+  },
+  {
+    "type": "Domain",
+    "value": "x5.com"
+  },
+  {
+    "type": "Domain",
+    "value": "moex.com"
+  },
+  {
+    "type": "Domain",
+    "value": "x5.team"
+  },
+  {
+    "type": "Domain",
+    "value": "x5.tech"
+  },
+  {
+    "type": "Domain",
+    "value": "x5static.net"
+  },
+  {
+    "type": "Domain",
+    "value": "avs.io"
+  },
+  {
+    "type": "Domain",
+    "value": "x5.digital"
+  },
+  {
+    "type": "Domain",
+    "value": "ru.net"
+  },
+  {
+    "type": "Domain",
+    "value": "aviasales.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mosmetro.tech"
+  },
+  {
+    "type": "Domain",
+    "value": "paywb.com"
+  },
+  {
+    "type": "Domain",
+    "value": "avito.st"
+  },
+  {
+    "type": "Domain",
+    "value": "ozonusercontent.com"
+  },
+  {
+    "type": "Domain",
+    "value": "premier.one"
+  },
+  {
+    "type": "Domain",
+    "value": "smotreshka.tv"
+  },
+  {
+    "type": "Domain",
+    "value": "kinorium.com"
+  },
+  {
+    "type": "Domain",
+    "value": "trbcdn.net"
+  },
+  {
+    "type": "Domain",
+    "value": "24h.tv"
+  },
+  {
+    "type": "Domain",
+    "value": "okko.sport"
+  },
+  {
+    "type": "Domain",
+    "value": "okko.tv"
+  },
+  {
+    "type": "Domain",
+    "value": "restream-media.net"
+  },
+  {
+    "type": "Domain",
+    "value": "boosty.to"
+  },
+  {
+    "type": "Domain",
+    "value": "donationalerts.com"
+  },
+  {
+    "type": "Domain",
+    "value": "memealerts.com"
+  },
+  {
+    "type": "Domain",
+    "value": "tamtam.chat"
+  },
+  {
+    "type": "Domain",
+    "value": "mycdn.me"
+  },
+  {
+    "type": "Domain",
+    "value": "mradx.net"
+  },
+  {
+    "type": "Domain",
+    "value": "mvk.com"
+  },
+  {
+    "type": "Domain",
+    "value": "userapi.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vk-apps.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vk-cdn.me"
+  },
+  {
+    "type": "Domain",
+    "value": "vk-cdn.net"
+  },
+  {
+    "type": "Domain",
+    "value": "vk-portal.net"
+  },
+  {
+    "type": "Domain",
+    "value": "vk.cc"
+  },
+  {
+    "type": "Domain",
+    "value": "vk.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vk.company"
+  },
+  {
+    "type": "Domain",
+    "value": "vk.design"
+  },
+  {
+    "type": "Domain",
+    "value": "vk.link"
+  },
+  {
+    "type": "Domain",
+    "value": "vk.me"
+  },
+  {
+    "type": "Domain",
+    "value": "vk.team"
+  },
+  {
+    "type": "Domain",
+    "value": "vkcache.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vkgo.app"
+  },
+  {
+    "type": "Domain",
+    "value": "vklive.app"
+  },
+  {
+    "type": "Domain",
+    "value": "vkmessenger.app"
+  },
+  {
+    "type": "Domain",
+    "value": "vkmessenger.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vkuser.net"
+  },
+  {
+    "type": "Domain",
+    "value": "vkuseraudio.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vkuseraudio.net"
+  },
+  {
+    "type": "Domain",
+    "value": "vkuserlive.net"
+  },
+  {
+    "type": "Domain",
+    "value": "vkuservideo.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vkuservideo.net"
+  },
+  {
+    "type": "Domain",
+    "value": "ru.com"
+  },
+  {
+    "type": "Domain",
+    "value": "yandex.kg"
+  },
+  {
+    "type": "Domain",
+    "value": "yandex.pl"
+  },
+  {
+    "type": "Domain",
+    "value": "naydex.net"
+  },
+  {
+    "type": "Domain",
+    "value": "rostaxi.org"
+  },
+  {
+    "type": "Domain",
+    "value": "turbopages.org"
+  },
+  {
+    "type": "Domain",
+    "value": "webvisor.com"
+  },
+  {
+    "type": "Domain",
+    "value": "webvisor.org"
+  },
+  {
+    "type": "Domain",
+    "value": "yads.tech"
+  },
+  {
+    "type": "Domain",
+    "value": "yandex-bank.net"
+  },
+  {
+    "type": "Domain",
+    "value": "yandex.aero"
+  },
+  {
+    "type": "Domain",
+    "value": "yandex.az"
+  },
+  {
+    "type": "Domain",
+    "value": "yandex.by"
+  },
+  {
+    "type": "Domain",
+    "value": "yandex.cloud"
+  },
+  {
+    "type": "Domain",
+    "value": "yandex.com"
+  },
+  {
+    "type": "Domain",
+    "value": "yandex.de"
+  },
+  {
+    "type": "Domain",
+    "value": "yandex.ee"
+  },
+  {
+    "type": "Domain",
+    "value": "yandex.eu"
+  },
+  {
+    "type": "Domain",
+    "value": "yandex.jobs"
+  },
+  {
+    "type": "Domain",
+    "value": "yastatic.net"
+  },
+  {
+    "type": "Domain",
+    "value": "yandex.fi"
+  },
+  {
+    "type": "Domain",
+    "value": "yandex.fr"
+  },
+  {
+    "type": "Domain",
+    "value": "yastat.net"
+  },
+  {
+    "type": "Domain",
+    "value": "yandex.lt"
+  },
+  {
+    "type": "Domain",
+    "value": "yandex.lv"
+  },
+  {
+    "type": "Domain",
+    "value": "yandex.md"
+  },
+  {
+    "type": "Domain",
+    "value": "yandex.net"
+  },
+  {
+    "type": "Domain",
+    "value": "yandex.org"
+  },
+  {
+    "type": "Domain",
+    "value": "yandex.kz"
+  },
+  {
+    "type": "Domain",
+    "value": "yandex.st"
+  },
+  {
+    "type": "Domain",
+    "value": "yandex.sx"
+  },
+  {
+    "type": "Domain",
+    "value": "yandex.tj"
+  },
+  {
+    "type": "Domain",
+    "value": "yandex.tm"
+  },
+  {
+    "type": "Domain",
+    "value": "yandex.tr"
+  },
+  {
+    "type": "Domain",
+    "value": "yandex.ua"
+  },
+  {
+    "type": "Domain",
+    "value": "yandex.uz"
+  },
+  {
+    "type": "Domain",
+    "value": "yandexadexchange.net"
+  },
+  {
+    "type": "Domain",
+    "value": "yandexcloud.net"
+  },
+  {
+    "type": "Domain",
+    "value": "yandexcom.net"
+  },
+  {
+    "type": "Domain",
+    "value": "yandexmetrica.com"
+  },
+  {
+    "type": "Domain",
+    "value": "yandexwebcache.org"
+  },
+  {
+    "type": "Domain",
+    "value": "tochka.com"
+  },
+  {
+    "type": "Domain",
+    "value": "tochka-tech.com"
+  },
+  {
+    "type": "Domain",
+    "value": "tbank-online.com"
+  },
+  {
+    "type": "Domain",
+    "value": "sberbank.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dbo-dengi.online"
+  },
+  {
+    "type": "Domain",
+    "value": "kinopoisk-ru.clstorage.net"
+  },
+  {
+    "type": "Domain",
+    "value": "yandex.com.ua"
+  },
+  {
+    "type": "Domain",
+    "value": "yandex-images.clstorage.net"
+  },
+  {
+    "type": "Domain",
+    "value": "yandex.co.il"
+  },
+  {
+    "type": "Domain",
+    "value": "yandex.com.am"
+  },
+  {
+    "type": "Domain",
+    "value": "yandex.com.ge"
+  },
+  {
+    "type": "Domain",
+    "value": "yandex.com.tr"
+  }
+]

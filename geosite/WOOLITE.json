@@ -1,0 +1,40 @@
+[
+  {
+    "type": "Domain",
+    "value": "woolite.ca"
+  },
+  {
+    "type": "Domain",
+    "value": "woolite.com"
+  },
+  {
+    "type": "Domain",
+    "value": "woolite.pl"
+  },
+  {
+    "type": "Domain",
+    "value": "woolite.us"
+  },
+  {
+    "type": "Domain",
+    "value": "woolitecarpet.com"
+  },
+  {
+    "type": "Domain",
+    "value": "woolite.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "woolite.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

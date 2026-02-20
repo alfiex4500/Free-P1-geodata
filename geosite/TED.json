@@ -1,0 +1,10 @@
+[
+  {
+    "type": "Domain",
+    "value": "ted.com"
+  },
+  {
+    "type": "Domain",
+    "value": "tedcdn.com"
+  }
+]

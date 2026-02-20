@@ -1,0 +1,100 @@
+[
+  {
+    "type": "Domain",
+    "value": "8008205555.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "8008205555.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cignacmb-ipmi.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cignacmb.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cignacmbamc.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cmb-leasing.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cmbchina.biz"
+  },
+  {
+    "type": "Domain",
+    "value": "cmbchina.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "cmbchina.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cmbimg.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "cmbimg.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cmbt.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "cmbuat.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cmburl.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "cmf.biz"
+  },
+  {
+    "type": "Domain",
+    "value": "cmf.ltd"
+  },
+  {
+    "type": "Domain",
+    "value": "cmfchina.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cmfunds.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "test-cignacmb.com"
+  },
+  {
+    "type": "Domain",
+    "value": "joying.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cmbi.com.hk",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "cmbwinglungbank.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

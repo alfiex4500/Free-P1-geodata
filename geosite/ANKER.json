@@ -1,0 +1,85 @@
+[
+  {
+    "type": "Domain",
+    "value": "ankerwork.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "eufycn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "anker.com.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "eufymake.com.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "soundcore.com.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "anker-in.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "anker.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ankersolix.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "eufy.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "eufylife.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "eufymake.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "soundcore.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

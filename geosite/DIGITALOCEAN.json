@@ -1,0 +1,18 @@
+[
+  {
+    "type": "Domain",
+    "value": "digitalocean.com"
+  },
+  {
+    "type": "Domain",
+    "value": "digitaloceanspaces.com"
+  },
+  {
+    "type": "Domain",
+    "value": "do.co"
+  },
+  {
+    "type": "Domain",
+    "value": "nginxconfig.io"
+  }
+]

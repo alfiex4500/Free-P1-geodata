@@ -1,0 +1,61 @@
+[
+  {
+    "type": "Domain",
+    "value": "redelight.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "xhscdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "xhscdn.net"
+  },
+  {
+    "type": "Domain",
+    "value": "xhslink.com"
+  },
+  {
+    "type": "Domain",
+    "value": "xhsrcdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "xiaohongshu.com"
+  },
+  {
+    "type": "Domain",
+    "value": "askdiandian.com"
+  },
+  {
+    "type": "Domain",
+    "value": "diandianlife.top"
+  },
+  {
+    "type": "Domain",
+    "value": "rednote.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "rednote.com.my",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "rednotecdn.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

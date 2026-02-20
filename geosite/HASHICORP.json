@@ -1,0 +1,34 @@
+[
+  {
+    "type": "Domain",
+    "value": "consul.io"
+  },
+  {
+    "type": "Domain",
+    "value": "hashicorp.com"
+  },
+  {
+    "type": "Domain",
+    "value": "nomadproject.io"
+  },
+  {
+    "type": "Domain",
+    "value": "packer.io"
+  },
+  {
+    "type": "Domain",
+    "value": "terraform.io"
+  },
+  {
+    "type": "Domain",
+    "value": "vagrantcloud.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vagrantup.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vaultproject.io"
+  }
+]

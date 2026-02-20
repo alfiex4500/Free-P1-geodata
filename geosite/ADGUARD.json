@@ -1,0 +1,70 @@
+[
+  {
+    "type": "Domain",
+    "value": "adguardaccount.com"
+  },
+  {
+    "type": "Domain",
+    "value": "adguard.app"
+  },
+  {
+    "type": "Domain",
+    "value": "adguard.com"
+  },
+  {
+    "type": "Domain",
+    "value": "adguard.info"
+  },
+  {
+    "type": "Domain",
+    "value": "adguard.io"
+  },
+  {
+    "type": "Domain",
+    "value": "adguard.org"
+  },
+  {
+    "type": "Domain",
+    "value": "adtidy.net"
+  },
+  {
+    "type": "Domain",
+    "value": "adtidy.org"
+  },
+  {
+    "type": "Domain",
+    "value": "agrd.eu"
+  },
+  {
+    "type": "Domain",
+    "value": "agrd.io"
+  },
+  {
+    "type": "Domain",
+    "value": "adguard-dns.com"
+  },
+  {
+    "type": "Domain",
+    "value": "adguard-dns.io"
+  },
+  {
+    "type": "Domain",
+    "value": "adguard-mail.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mask.me"
+  },
+  {
+    "type": "Domain",
+    "value": "adguardvpn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "adguard-vpn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "adguard-vpn.online"
+  }
+]

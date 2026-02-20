@@ -1,0 +1,40 @@
+[
+  {
+    "type": "Full",
+    "value": "gigabyte2.azureedge.net"
+  },
+  {
+    "type": "Full",
+    "value": "sa78gs.wpc.edgecastcdn.net"
+  },
+  {
+    "type": "Full",
+    "value": "sni1dcb6gl.wpc.edgecastcdn.net"
+  },
+  {
+    "type": "Domain",
+    "value": "aorus.com"
+  },
+  {
+    "type": "Domain",
+    "value": "gigabyte.com"
+  },
+  {
+    "type": "Domain",
+    "value": "aoruszone.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "gigabyte.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

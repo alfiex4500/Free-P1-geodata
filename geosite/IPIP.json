@@ -1,0 +1,15 @@
+[
+  {
+    "type": "Domain",
+    "value": "ipip.net"
+  },
+  {
+    "type": "Domain",
+    "value": "myip.la",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

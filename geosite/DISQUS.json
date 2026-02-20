@@ -1,0 +1,14 @@
+[
+  {
+    "type": "Domain",
+    "value": "disqus.com"
+  },
+  {
+    "type": "Domain",
+    "value": "disquscdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "disqusservice.com"
+  }
+]

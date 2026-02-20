@@ -1,0 +1,35 @@
+[
+  {
+    "type": "Full",
+    "value": "impala-media-production.s3.amazonaws.com"
+  },
+  {
+    "type": "Domain",
+    "value": "sc-cdn.net"
+  },
+  {
+    "type": "Domain",
+    "value": "snap-dev.net"
+  },
+  {
+    "type": "Domain",
+    "value": "snap.com"
+  },
+  {
+    "type": "Domain",
+    "value": "snapchat.com"
+  },
+  {
+    "type": "Domain",
+    "value": "snapkit.co"
+  },
+  {
+    "type": "Domain",
+    "value": "snapads.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  }
+]

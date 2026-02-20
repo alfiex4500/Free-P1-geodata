@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Domain",
+    "value": "qbox.me"
+  },
+  {
+    "type": "Domain",
+    "value": "qiniu.com"
+  },
+  {
+    "type": "Domain",
+    "value": "qiniucdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "qiniudn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "qiniudns.com"
+  },
+  {
+    "type": "Domain",
+    "value": "qiniup.com"
+  },
+  {
+    "type": "Domain",
+    "value": "qnsdk.com"
+  },
+  {
+    "type": "Domain",
+    "value": "qnssl.com"
+  },
+  {
+    "type": "Domain",
+    "value": "staticfile.net"
+  },
+  {
+    "type": "Domain",
+    "value": "staticfile.org"
+  }
+]

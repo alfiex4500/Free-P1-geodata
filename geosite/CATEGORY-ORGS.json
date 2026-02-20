@@ -1,0 +1,522 @@
+[
+  {
+    "type": "Full",
+    "value": "csis-prod.s3.amazonaws.com"
+  },
+  {
+    "type": "Full",
+    "value": "a.ppy.sh"
+  },
+  {
+    "type": "Full",
+    "value": "assets.ppy.sh"
+  },
+  {
+    "type": "Full",
+    "value": "c.ppy.sh"
+  },
+  {
+    "type": "Full",
+    "value": "osu.ppy.sh"
+  },
+  {
+    "type": "Full",
+    "value": "m1.ppy.sh"
+  },
+  {
+    "type": "Full",
+    "value": "lazer.ppy.sh"
+  },
+  {
+    "type": "Full",
+    "value": "notify.ppy.sh"
+  },
+  {
+    "type": "Full",
+    "value": "sentry.ppy.sh"
+  },
+  {
+    "type": "Full",
+    "value": "spectator.ppy.sh"
+  },
+  {
+    "type": "Domain",
+    "value": "aomedia.org"
+  },
+  {
+    "type": "Domain",
+    "value": "atypi.org"
+  },
+  {
+    "type": "Domain",
+    "value": "change.org"
+  },
+  {
+    "type": "Domain",
+    "value": "globalsecurity.org"
+  },
+  {
+    "type": "Domain",
+    "value": "iana.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ietf.org"
+  },
+  {
+    "type": "Domain",
+    "value": "itu.int"
+  },
+  {
+    "type": "Domain",
+    "value": "opte.org"
+  },
+  {
+    "type": "Domain",
+    "value": "smpte.org"
+  },
+  {
+    "type": "Domain",
+    "value": "un.org"
+  },
+  {
+    "type": "Domain",
+    "value": "w3.org"
+  },
+  {
+    "type": "Domain",
+    "value": "who.int"
+  },
+  {
+    "type": "Domain",
+    "value": "wi-fi.org"
+  },
+  {
+    "type": "Domain",
+    "value": "wto.org"
+  },
+  {
+    "type": "Domain",
+    "value": "csis.org"
+  },
+  {
+    "type": "Domain",
+    "value": "emojipedia.org"
+  },
+  {
+    "type": "Domain",
+    "value": "worldemojiawards.com"
+  },
+  {
+    "type": "Domain",
+    "value": "worldemojiday.com"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--yt8h.la"
+  },
+  {
+    "type": "Domain",
+    "value": "attestation.app"
+  },
+  {
+    "type": "Domain",
+    "value": "grapheneos.app"
+  },
+  {
+    "type": "Domain",
+    "value": "grapheneos.ca"
+  },
+  {
+    "type": "Domain",
+    "value": "grapheneos.com"
+  },
+  {
+    "type": "Domain",
+    "value": "grapheneos.dev"
+  },
+  {
+    "type": "Domain",
+    "value": "grapheneos.foundation"
+  },
+  {
+    "type": "Domain",
+    "value": "grapheneos.info"
+  },
+  {
+    "type": "Domain",
+    "value": "grapheneos.net"
+  },
+  {
+    "type": "Domain",
+    "value": "grapheneos.network"
+  },
+  {
+    "type": "Domain",
+    "value": "grapheneos.online"
+  },
+  {
+    "type": "Domain",
+    "value": "grapheneos.org"
+  },
+  {
+    "type": "Domain",
+    "value": "grapheneos.ovh"
+  },
+  {
+    "type": "Domain",
+    "value": "grapheneos.page"
+  },
+  {
+    "type": "Domain",
+    "value": "grapheneos.social"
+  },
+  {
+    "type": "Domain",
+    "value": "seamlessupdate.app"
+  },
+  {
+    "type": "Domain",
+    "value": "vanadium.app"
+  },
+  {
+    "type": "Domain",
+    "value": "nist.gov"
+  },
+  {
+    "type": "Domain",
+    "value": "time.gov"
+  },
+  {
+    "type": "Domain",
+    "value": "openmaps.org"
+  },
+  {
+    "type": "Domain",
+    "value": "openstreetmap.com"
+  },
+  {
+    "type": "Domain",
+    "value": "openstreetmap.net"
+  },
+  {
+    "type": "Domain",
+    "value": "openstreetmap.org"
+  },
+  {
+    "type": "Domain",
+    "value": "openstreetmaps.org"
+  },
+  {
+    "type": "Domain",
+    "value": "osm.org"
+  },
+  {
+    "type": "Domain",
+    "value": "osmfoundation.org"
+  },
+  {
+    "type": "Domain",
+    "value": "stateofthemap.com"
+  },
+  {
+    "type": "Domain",
+    "value": "stateofthemap.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ppy.sh"
+  },
+  {
+    "type": "Domain",
+    "value": "ccstatic.org"
+  },
+  {
+    "type": "Domain",
+    "value": "creativecommons.org"
+  },
+  {
+    "type": "Domain",
+    "value": "creativecommons.engineering"
+  },
+  {
+    "type": "Domain",
+    "value": "licensebuttons.net"
+  },
+  {
+    "type": "Domain",
+    "value": "f-dro1d.org"
+  },
+  {
+    "type": "Domain",
+    "value": "f-droid.com"
+  },
+  {
+    "type": "Domain",
+    "value": "f-droid.org"
+  },
+  {
+    "type": "Domain",
+    "value": "fdroid.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieee.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieee.tv"
+  },
+  {
+    "type": "Domain",
+    "value": "tryengineering.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieee-ccnc.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieee-ecce.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieeemce.org"
+  },
+  {
+    "type": "Domain",
+    "value": "standardsuniversity.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieee-region6.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieee.ca"
+  },
+  {
+    "type": "Domain",
+    "value": "ieeer10.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieeer5.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieeer8.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieeeusa.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieeefoundation.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieee-into-focus.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieee-vics.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieeeday.org"
+  },
+  {
+    "type": "Domain",
+    "value": "datasheets360.com"
+  },
+  {
+    "type": "Domain",
+    "value": "globalspec.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ieee-isto.org"
+  },
+  {
+    "type": "Domain",
+    "value": "techstreet.com"
+  },
+  {
+    "type": "Domain",
+    "value": "computer.org"
+  },
+  {
+    "type": "Domain",
+    "value": "comsoc.org"
+  },
+  {
+    "type": "Domain",
+    "value": "embs.org"
+  },
+  {
+    "type": "Domain",
+    "value": "emcs.org"
+  },
+  {
+    "type": "Domain",
+    "value": "grss-ieee.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieee-aess.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieee-cas.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieee-ceda.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieee-edusociety.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieee-ies.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieee-ims.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieee-npss.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieee-pels.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieee-pes.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieee-ras.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieee-sensors.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieee-tems.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieee-uffc.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieeeaps.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieeecsc.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieeecss.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieeedeis.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieeemagnetics.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieeenano.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieeeoes.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieeesmc.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieeesystemscouncil.org"
+  },
+  {
+    "type": "Domain",
+    "value": "itsoc.org"
+  },
+  {
+    "type": "Domain",
+    "value": "mtt.org"
+  },
+  {
+    "type": "Domain",
+    "value": "photonicssociety.org"
+  },
+  {
+    "type": "Domain",
+    "value": "signalprocessingsociety.org"
+  },
+  {
+    "type": "Domain",
+    "value": "technologyandsociety.org"
+  },
+  {
+    "type": "Domain",
+    "value": "vtsociety.org"
+  },
+  {
+    "type": "Domain",
+    "value": "acousticbrainz.org"
+  },
+  {
+    "type": "Domain",
+    "value": "bookbrainz.org"
+  },
+  {
+    "type": "Domain",
+    "value": "coverartarchive.org"
+  },
+  {
+    "type": "Domain",
+    "value": "critiquebrainz.org"
+  },
+  {
+    "type": "Domain",
+    "value": "listenbrainz.org"
+  },
+  {
+    "type": "Domain",
+    "value": "messybrainz.org"
+  },
+  {
+    "type": "Domain",
+    "value": "metabrainz.org"
+  },
+  {
+    "type": "Domain",
+    "value": "musicbrainz.org"
+  },
+  {
+    "type": "Domain",
+    "value": "paskoocheh.com"
+  },
+  {
+    "type": "Domain",
+    "value": "rolfoundation.org"
+  },
+  {
+    "type": "Domain",
+    "value": "rolsociety.org"
+  }
+]

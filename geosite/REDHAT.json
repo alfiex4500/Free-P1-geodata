@@ -1,0 +1,10 @@
+[
+  {
+    "type": "Domain",
+    "value": "redhat.com"
+  },
+  {
+    "type": "Domain",
+    "value": "redhat.org"
+  }
+]

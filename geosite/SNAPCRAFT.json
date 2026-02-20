@@ -1,0 +1,10 @@
+[
+  {
+    "type": "Domain",
+    "value": "snapcraft.io"
+  },
+  {
+    "type": "Domain",
+    "value": "snapstore.io"
+  }
+]

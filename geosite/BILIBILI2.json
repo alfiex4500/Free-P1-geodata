@@ -1,0 +1,18 @@
+[
+  {
+    "type": "Domain",
+    "value": "bili2.cc"
+  },
+  {
+    "type": "Domain",
+    "value": "bili888.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bili999.com"
+  },
+  {
+    "type": "Regex",
+    "value": "(^|\\.)bilibili3(0[1-9]|1[0-2])\\.xyz$"
+  }
+]

@@ -1,0 +1,115 @@
+[
+  {
+    "type": "Domain",
+    "value": "unicom"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--8y0a063a"
+  },
+  {
+    "type": "Domain",
+    "value": "chinaunicom.com"
+  },
+  {
+    "type": "Domain",
+    "value": "wo116114.com"
+  },
+  {
+    "type": "Domain",
+    "value": "10155.com"
+  },
+  {
+    "type": "Domain",
+    "value": "114menhu.com"
+  },
+  {
+    "type": "Domain",
+    "value": "169ol.com"
+  },
+  {
+    "type": "Domain",
+    "value": "chinaunicom.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "10010.com"
+  },
+  {
+    "type": "Domain",
+    "value": "wosms.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "mychinaunicom.com"
+  },
+  {
+    "type": "Domain",
+    "value": "wo.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "chinaunicom.com.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "wo.com.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "wocloud.com.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "woread.com.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "10010.com.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "chinaunicom.com.hk",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "chinaunicomglobal.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "cuguplus.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "cuniq.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "cuniq.sg",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

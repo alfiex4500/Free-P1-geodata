@@ -1,0 +1,10 @@
+[
+  {
+    "type": "Domain",
+    "value": "openweathermap.org"
+  },
+  {
+    "type": "Domain",
+    "value": "openweather.co.uk"
+  }
+]

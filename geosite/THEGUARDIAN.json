@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Domain",
+    "value": "dev-guardianapis.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dev-theguardian.com"
+  },
+  {
+    "type": "Domain",
+    "value": "gu-web.net"
+  },
+  {
+    "type": "Domain",
+    "value": "guardianapis.com"
+  },
+  {
+    "type": "Domain",
+    "value": "theguardian.com"
+  },
+  {
+    "type": "Domain",
+    "value": "theguardiandns.com"
+  },
+  {
+    "type": "Domain",
+    "value": "guardianapps.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "guim.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "guimcode.co.uk"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "type": "Full",
+    "value": "tmdb-image-prod.b-cdn.net"
+  },
+  {
+    "type": "Domain",
+    "value": "themoviedb.org"
+  },
+  {
+    "type": "Domain",
+    "value": "tmdb.org"
+  }
+]

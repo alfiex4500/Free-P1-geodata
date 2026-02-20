@@ -1,0 +1,14 @@
+[
+  {
+    "type": "Domain",
+    "value": "quip-cdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "quip.com"
+  },
+  {
+    "type": "Domain",
+    "value": "quipelements.com"
+  }
+]

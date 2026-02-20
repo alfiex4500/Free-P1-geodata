@@ -1,0 +1,51 @@
+[
+  {
+    "type": "Domain",
+    "value": "gamersky.com"
+  },
+  {
+    "type": "Domain",
+    "value": "click.gamersky.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ja.gamersky.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ja1.gamersky.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ja2.gamersky.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "wmbd.gamersky.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  }
+]

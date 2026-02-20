@@ -1,0 +1,30 @@
+[
+  {
+    "type": "Full",
+    "value": "hellofontpreview.oss-cn-beijing.aliyuncs.com"
+  },
+  {
+    "type": "Full",
+    "value": "hellowebfonts.oss-cn-beijing.aliyuncs.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hanyi.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hellofont.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "hellowebfont.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hanyi.com.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "fontstar.com.cn"
+  }
+]

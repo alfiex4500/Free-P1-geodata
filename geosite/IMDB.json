@@ -1,0 +1,22 @@
+[
+  {
+    "type": "Domain",
+    "value": "imdb"
+  },
+  {
+    "type": "Domain",
+    "value": "boxofficemojo.com"
+  },
+  {
+    "type": "Domain",
+    "value": "imdb.com"
+  },
+  {
+    "type": "Domain",
+    "value": "imdb.to"
+  },
+  {
+    "type": "Domain",
+    "value": "media-imdb.com"
+  }
+]

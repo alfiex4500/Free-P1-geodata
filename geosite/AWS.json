@@ -1,0 +1,437 @@
+[
+  {
+    "type": "Domain",
+    "value": "aws"
+  },
+  {
+    "type": "Domain",
+    "value": "awsautopilot.com"
+  },
+  {
+    "type": "Domain",
+    "value": "amzndns.net"
+  },
+  {
+    "type": "Domain",
+    "value": "aesworkshops.com"
+  },
+  {
+    "type": "Domain",
+    "value": "amazonaws-china.com"
+  },
+  {
+    "type": "Domain",
+    "value": "amazonaws.biz"
+  },
+  {
+    "type": "Domain",
+    "value": "amzndns.org"
+  },
+  {
+    "type": "Domain",
+    "value": "amazonaws.com"
+  },
+  {
+    "type": "Domain",
+    "value": "amazonaws.info"
+  },
+  {
+    "type": "Domain",
+    "value": "amazonaws.net"
+  },
+  {
+    "type": "Domain",
+    "value": "amazonaws.org"
+  },
+  {
+    "type": "Domain",
+    "value": "amazonaws.tv"
+  },
+  {
+    "type": "Domain",
+    "value": "amazoncognito.com"
+  },
+  {
+    "type": "Domain",
+    "value": "amazonses.com"
+  },
+  {
+    "type": "Domain",
+    "value": "amazonworkdocs.com"
+  },
+  {
+    "type": "Domain",
+    "value": "amplifyapp.com"
+  },
+  {
+    "type": "Domain",
+    "value": "amplifyframework.com"
+  },
+  {
+    "type": "Domain",
+    "value": "awsautoscaling.com"
+  },
+  {
+    "type": "Domain",
+    "value": "aws.com"
+  },
+  {
+    "type": "Domain",
+    "value": "aws.dev"
+  },
+  {
+    "type": "Domain",
+    "value": "awsapprunner.com"
+  },
+  {
+    "type": "Domain",
+    "value": "awsapps.com"
+  },
+  {
+    "type": "Domain",
+    "value": "acmvalidations.com"
+  },
+  {
+    "type": "Domain",
+    "value": "awscommandlineinterface.com"
+  },
+  {
+    "type": "Domain",
+    "value": "acmvalidationsaws.com"
+  },
+  {
+    "type": "Domain",
+    "value": "aws-iot-hackathon.com"
+  },
+  {
+    "type": "Domain",
+    "value": "awsedstart.com"
+  },
+  {
+    "type": "Domain",
+    "value": "awseducate.com"
+  },
+  {
+    "type": "Domain",
+    "value": "awseducate.net"
+  },
+  {
+    "type": "Domain",
+    "value": "awseducate.org"
+  },
+  {
+    "type": "Domain",
+    "value": "awsglobalaccelerator.com"
+  },
+  {
+    "type": "Domain",
+    "value": "awsloft-johannesburg.com"
+  },
+  {
+    "type": "Domain",
+    "value": "awsloft-stockholm.com"
+  },
+  {
+    "type": "Domain",
+    "value": "awssecworkshops.com"
+  },
+  {
+    "type": "Domain",
+    "value": "awsstatic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "awsthinkbox.com"
+  },
+  {
+    "type": "Domain",
+    "value": "awstrack.me"
+  },
+  {
+    "type": "Domain",
+    "value": "cdkworkshop.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cloudfront.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cloudfront.net"
+  },
+  {
+    "type": "Domain",
+    "value": "containersonaws.com"
+  },
+  {
+    "type": "Domain",
+    "value": "elasticbeanstalk.com"
+  },
+  {
+    "type": "Domain",
+    "value": "thinkboxsoftware.com"
+  },
+  {
+    "type": "Domain",
+    "value": "awsbraket.com"
+  },
+  {
+    "type": "Domain",
+    "value": "amzndns.com"
+  },
+  {
+    "type": "Domain",
+    "value": "amzndns.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "amazonaws.co.uk"
+  },
+  {
+    "type": "Regex",
+    "value": ".+\\.awsdns-[0-9][0-9]\\.(co\\.uk|com|net|org)$"
+  },
+  {
+    "type": "Domain",
+    "value": "a2z.org.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "amazonaws.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "amazonaws.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "amazonwebservices.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "amazonworkdocs.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "amazonworkdocs.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "asfiovnxocqpcry.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "aws-border.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "aws-icp-domain-manager.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "awsapps.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "awsapps.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "awsstatic.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "cloudfront-cn.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "cloudfront-test.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "cloudfront.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "nwcdcloud.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "nwcdcloud.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "nwcddns.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "nwcdinfosec.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "route53.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "sagemaker.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "amzndns-cn.biz",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "amzndns-cn.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "amzndns-cn.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "amzndns-cn.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Regex",
+    "value": ".+\\.awsdns-cn-[0-9][0-9]\\.(biz|com|net|top)$",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Regex",
+    "value": ".+\\.awsdns-cn-[0-9][a-e0-9]\\.cn$",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

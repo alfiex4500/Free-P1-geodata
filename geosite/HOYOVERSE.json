@@ -1,0 +1,43 @@
+[
+  {
+    "type": "Domain",
+    "value": "genshinimpact.com"
+  },
+  {
+    "type": "Domain",
+    "value": "honkaiimpact3.com"
+  },
+  {
+    "type": "Domain",
+    "value": "honkaistarrail.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hoyo.link"
+  },
+  {
+    "type": "Domain",
+    "value": "hoyolab.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hoyoverse.com"
+  },
+  {
+    "type": "Domain",
+    "value": "n0vadesktop.com"
+  },
+  {
+    "type": "Domain",
+    "value": "zenlesszonezero.com"
+  },
+  {
+    "type": "Domain",
+    "value": "log-upload-os.hoyoverse.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  }
+]

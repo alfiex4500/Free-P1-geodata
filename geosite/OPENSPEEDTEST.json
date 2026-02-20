@@ -1,0 +1,10 @@
+[
+  {
+    "type": "Domain",
+    "value": "openspeedtest.com"
+  },
+  {
+    "type": "Domain",
+    "value": "open.cachefly.net"
+  }
+]

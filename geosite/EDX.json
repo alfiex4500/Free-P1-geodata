@@ -1,0 +1,10 @@
+[
+  {
+    "type": "Domain",
+    "value": "edx.org"
+  },
+  {
+    "type": "Domain",
+    "value": "edx-cdn.org"
+  }
+]

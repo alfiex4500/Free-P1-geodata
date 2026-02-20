@@ -1,0 +1,58 @@
+[
+  {
+    "type": "Domain",
+    "value": "dnspod.net"
+  },
+  {
+    "type": "Domain",
+    "value": "dnsv2.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dnspod.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "dnspod.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dot.pub"
+  },
+  {
+    "type": "Domain",
+    "value": "dnspod.mobi"
+  },
+  {
+    "type": "Domain",
+    "value": "dnsapi.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "dns.pub"
+  },
+  {
+    "type": "Domain",
+    "value": "dnsv4.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dnsv3.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dnspod.org"
+  },
+  {
+    "type": "Domain",
+    "value": "dnsv5.com"
+  },
+  {
+    "type": "Domain",
+    "value": "doh.pub"
+  },
+  {
+    "type": "Domain",
+    "value": "dnspod.com.cn"
+  }
+]

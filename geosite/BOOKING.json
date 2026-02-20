@@ -1,0 +1,19 @@
+[
+  {
+    "type": "Domain",
+    "value": "booking.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bstatic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "booking.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

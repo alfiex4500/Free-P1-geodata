@@ -1,0 +1,63 @@
+[
+  {
+    "type": "Full",
+    "value": "www.speedtest.net.cdn.cloudflare.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cdnst.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cellmaps.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ekahau.cloud"
+  },
+  {
+    "type": "Domain",
+    "value": "ekahau.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ookla.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ooklaserver.net"
+  },
+  {
+    "type": "Domain",
+    "value": "pingtest.net"
+  },
+  {
+    "type": "Domain",
+    "value": "speedtest.co"
+  },
+  {
+    "type": "Domain",
+    "value": "speedtest.net"
+  },
+  {
+    "type": "Domain",
+    "value": "speedtestcustom.com"
+  },
+  {
+    "type": "Domain",
+    "value": "webtest.net"
+  },
+  {
+    "type": "Domain",
+    "value": "ookla-speedtest-central.hgconair.hgc.com.hk"
+  },
+  {
+    "type": "Regex",
+    "value": "^speed\\.(coe|open)\\.ad\\.[a-z]{2,6}\\.prod\\.hosts\\.ooklaserver\\.net$",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  }
+]

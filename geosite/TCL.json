@@ -1,0 +1,80 @@
+[
+  {
+    "type": "Domain",
+    "value": "tclai.top"
+  },
+  {
+    "type": "Domain",
+    "value": "tcl.com"
+  },
+  {
+    "type": "Domain",
+    "value": "tcltech.com"
+  },
+  {
+    "type": "Domain",
+    "value": "leiniao.com"
+  },
+  {
+    "type": "Domain",
+    "value": "my7v.com"
+  },
+  {
+    "type": "Domain",
+    "value": "tcl.com.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "ads-uo.api.leiniao.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ads-ut.api.leiniao.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ads.api.my7v.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "euads-o.api.leiniao.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "hwads-t.api.my7v.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "testads.api.my7v.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "type": "Domain",
+    "value": "tendcloud.com"
+  },
+  {
+    "type": "Domain",
+    "value": "talkingdata.com"
+  },
+  {
+    "type": "Domain",
+    "value": "talkinggame.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cpatrk.net"
+  },
+  {
+    "type": "Domain",
+    "value": "tdsdk.cpatrk.net",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  }
+]

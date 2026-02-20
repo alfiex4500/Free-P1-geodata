@@ -1,0 +1,393 @@
+[
+  {
+    "type": "Domain",
+    "value": "xiaomiprint.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mitvos.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mi-img.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mi.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mifile.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "mijia.tech"
+  },
+  {
+    "type": "Domain",
+    "value": "xiaomisa.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "miui.com"
+  },
+  {
+    "type": "Domain",
+    "value": "miwifi.com"
+  },
+  {
+    "type": "Domain",
+    "value": "xiaomi.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "xiaomi.com"
+  },
+  {
+    "type": "Domain",
+    "value": "xiaomisa.com"
+  },
+  {
+    "type": "Domain",
+    "value": "xiaomicp.com"
+  },
+  {
+    "type": "Domain",
+    "value": "xiaomidns.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "xiaomidns.com"
+  },
+  {
+    "type": "Domain",
+    "value": "miot-spec.org"
+  },
+  {
+    "type": "Domain",
+    "value": "xiaomidns.net"
+  },
+  {
+    "type": "Domain",
+    "value": "xiaomiev.com"
+  },
+  {
+    "type": "Domain",
+    "value": "xiaomiinc.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "xiaomiinc.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mgslb.com"
+  },
+  {
+    "type": "Domain",
+    "value": "xiaomiinc.net"
+  },
+  {
+    "type": "Domain",
+    "value": "xiaomimobile.com"
+  },
+  {
+    "type": "Domain",
+    "value": "xiaominr.com"
+  },
+  {
+    "type": "Domain",
+    "value": "xiaomimimo.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mi-idc.com"
+  },
+  {
+    "type": "Domain",
+    "value": "xiaomi.net"
+  },
+  {
+    "type": "Domain",
+    "value": "xiaomisa.net"
+  },
+  {
+    "type": "Domain",
+    "value": "xiaomisa.org"
+  },
+  {
+    "type": "Domain",
+    "value": "xiaomiwear.com"
+  },
+  {
+    "type": "Domain",
+    "value": "xiaomixiaoai.com"
+  },
+  {
+    "type": "Domain",
+    "value": "migames.com"
+  },
+  {
+    "type": "Domain",
+    "value": "wali.com"
+  },
+  {
+    "type": "Domain",
+    "value": "airstarfinance.net"
+  },
+  {
+    "type": "Domain",
+    "value": "mipay.com"
+  },
+  {
+    "type": "Domain",
+    "value": "duokan.com"
+  },
+  {
+    "type": "Domain",
+    "value": "duokanbox.com"
+  },
+  {
+    "type": "Domain",
+    "value": "xiaomiyoupin.com"
+  },
+  {
+    "type": "Domain",
+    "value": "youpin.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "xiaoaiassist.com"
+  },
+  {
+    "type": "Domain",
+    "value": "zmifi.com"
+  },
+  {
+    "type": "Domain",
+    "value": "saxyit.com"
+  },
+  {
+    "type": "Domain",
+    "value": "miaibox.com"
+  },
+  {
+    "type": "Domain",
+    "value": "youpin.com.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "xiaomiinc.com.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "xiaomidns.com.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "c.mi.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "global.market.xiaomi.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "a.market.xiaomi.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ad.intl.xiaomi.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ad.mi.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ad.xiaomi.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ad1.xiaomi.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "admob.xiaomi.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "adv.sec.intl.miui.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "adv.sec.miui.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "data.mistat.india.xiaomi.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "data.mistat.intl.xiaomi.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "data.mistat.rus.xiaomi.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "data.mistat.xiaomi.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "logupdate.avlyun.sec.miui.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "misc.in.duokanbox.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "sentry.d.mi.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "sentry.d.xiaomi.net",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "stats.music.xiaomi.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "tjqonline.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "tracker.ai.xiaomi.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "tracker.xiaomixiaoai.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "tracking.miui.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  }
+]

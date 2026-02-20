@@ -1,0 +1,402 @@
+[
+  {
+    "type": "Domain",
+    "value": "ikea.ma"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.mx"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.au"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.be"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.bg"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.bh"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.ca"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.ch"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.cl"
+  },
+  {
+    "type": "Domain",
+    "value": "ingkacentres.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ingka.dev"
+  },
+  {
+    "type": "Domain",
+    "value": "ingka.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.net"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.us"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.ua"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.sk"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.si"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.sg"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.sa"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.rs"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.de"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.ro"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.qa"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.pt"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.pr"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.pl"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.ph"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.om"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.no"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.nl"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.my"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.at"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.ae"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.lv"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.cz"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.kr"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.jo"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.it"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.is"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.in"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.ie"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.lt"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.dk"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.hu"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.do"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.ee"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.eg"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.es"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.fi"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.fr"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.gr"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.hr"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.com.tw"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.com.tr"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.com.in"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.com.cy"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.com.sg"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.com.gr"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.com.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.com.ro"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.com.pt"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.com.pr"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.com.pl"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.com.om"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.com.my"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.com.mx"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.com.lv"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.com.ua"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.co.ca"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.com.kw"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.com.sa"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.com.eg"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.com.do"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.com.de"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.co.th"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.co.pl"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.co.ph"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.co.om"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.co.kr"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.co.il"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.co.id"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.co.de"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.com.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.co.at"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ingka-dt.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ingka-internal.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ingka-system.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

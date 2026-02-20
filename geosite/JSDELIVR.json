@@ -1,0 +1,18 @@
+[
+  {
+    "type": "Full",
+    "value": "cdn.jsdelivr.net"
+  },
+  {
+    "type": "Domain",
+    "value": "jsdelivr.com"
+  },
+  {
+    "type": "Domain",
+    "value": "jsdelivr.net"
+  },
+  {
+    "type": "Domain",
+    "value": "esm.run"
+  }
+]

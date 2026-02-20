@@ -1,0 +1,87 @@
+[
+  {
+    "type": "Domain",
+    "value": "a-map.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "a-map.co"
+  },
+  {
+    "type": "Domain",
+    "value": "a-map.link"
+  },
+  {
+    "type": "Domain",
+    "value": "a-map.vip"
+  },
+  {
+    "type": "Domain",
+    "value": "acloudrender.com"
+  },
+  {
+    "type": "Domain",
+    "value": "amap.com"
+  },
+  {
+    "type": "Domain",
+    "value": "amapauto.com"
+  },
+  {
+    "type": "Domain",
+    "value": "anav.com"
+  },
+  {
+    "type": "Domain",
+    "value": "autonavi.com"
+  },
+  {
+    "type": "Domain",
+    "value": "gaode.com"
+  },
+  {
+    "type": "Domain",
+    "value": "adashx.ut.amap.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "dualstack-logs.amap.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "logs.amap.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "optimus-ads.amap.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "v6-adashx.ut.amap.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  }
+]

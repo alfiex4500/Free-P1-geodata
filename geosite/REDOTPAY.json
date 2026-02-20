@@ -1,0 +1,22 @@
+[
+  {
+    "type": "Domain",
+    "value": "redotpay.com"
+  },
+  {
+    "type": "Domain",
+    "value": "redotpay.zendesk.com"
+  },
+  {
+    "type": "Domain",
+    "value": "pod-15-sunco-ws.zendesk.com"
+  },
+  {
+    "type": "Domain",
+    "value": "xhpjc6-cdn-settings.appsflyersdk.com"
+  },
+  {
+    "type": "Domain",
+    "value": "rp-static-apne1.s3.ap-northeast-1.amazonaws.com"
+  }
+]

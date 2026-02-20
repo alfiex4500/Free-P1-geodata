@@ -1,0 +1,22 @@
+[
+  {
+    "type": "Full",
+    "value": "gitlab-assets.oss-cn-hongkong.aliyuncs.com"
+  },
+  {
+    "type": "Domain",
+    "value": "gitlab.com"
+  },
+  {
+    "type": "Domain",
+    "value": "gitlab.io"
+  },
+  {
+    "type": "Domain",
+    "value": "gitlab.net"
+  },
+  {
+    "type": "Domain",
+    "value": "gitlab-static.net"
+  }
+]

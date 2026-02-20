@@ -1,0 +1,43 @@
+[
+  {
+    "type": "Full",
+    "value": "eset-prod-ca48648d0ce7cadf.elb.eu-central-1.amazonaws.com"
+  },
+  {
+    "type": "Full",
+    "value": "epc-de-agent-proxy.germanywestcentral.cloudapp.azure.com"
+  },
+  {
+    "type": "Domain",
+    "value": "e5.sk"
+  },
+  {
+    "type": "Domain",
+    "value": "eset.com"
+  },
+  {
+    "type": "Domain",
+    "value": "eset.eu"
+  },
+  {
+    "type": "Domain",
+    "value": "eset.sk"
+  },
+  {
+    "type": "Domain",
+    "value": "eset.systems"
+  },
+  {
+    "type": "Domain",
+    "value": "esetsoftware.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cn.eset.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "type": "Domain",
+    "value": "embl-hamburg.de"
+  },
+  {
+    "type": "Domain",
+    "value": "embl.de"
+  },
+  {
+    "type": "Domain",
+    "value": "embl.fr"
+  },
+  {
+    "type": "Domain",
+    "value": "embl.it"
+  },
+  {
+    "type": "Domain",
+    "value": "embl.org"
+  },
+  {
+    "type": "Domain",
+    "value": "emblstatic.net"
+  },
+  {
+    "type": "Domain",
+    "value": "ebi.ac.uk"
+  }
+]

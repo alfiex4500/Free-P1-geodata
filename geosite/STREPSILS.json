@@ -1,0 +1,144 @@
+[
+  {
+    "type": "Domain",
+    "value": "strepsils.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "strepsils.es"
+  },
+  {
+    "type": "Domain",
+    "value": "dobendan.de"
+  },
+  {
+    "type": "Domain",
+    "value": "strepsilsarabia.com"
+  },
+  {
+    "type": "Domain",
+    "value": "repsils.no"
+  },
+  {
+    "type": "Domain",
+    "value": "strepsils.at"
+  },
+  {
+    "type": "Domain",
+    "value": "strepsils.ch"
+  },
+  {
+    "type": "Domain",
+    "value": "strepsils.hr"
+  },
+  {
+    "type": "Domain",
+    "value": "strepsils.fr"
+  },
+  {
+    "type": "Domain",
+    "value": "cepacol.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cepacol.ca"
+  },
+  {
+    "type": "Domain",
+    "value": "strepsils.ro"
+  },
+  {
+    "type": "Domain",
+    "value": "strepsils.pt"
+  },
+  {
+    "type": "Domain",
+    "value": "strepsils.pl"
+  },
+  {
+    "type": "Domain",
+    "value": "strepsils.net"
+  },
+  {
+    "type": "Domain",
+    "value": "strepsils.ie"
+  },
+  {
+    "type": "Domain",
+    "value": "strepsils.hu"
+  },
+  {
+    "type": "Domain",
+    "value": "strepsils.si"
+  },
+  {
+    "type": "Domain",
+    "value": "strepsils.fi"
+  },
+  {
+    "type": "Domain",
+    "value": "strepsils.us"
+  },
+  {
+    "type": "Domain",
+    "value": "strepsils.co.kr"
+  },
+  {
+    "type": "Domain",
+    "value": "strepsils.com.tw"
+  },
+  {
+    "type": "Domain",
+    "value": "strepsils.com.ph"
+  },
+  {
+    "type": "Domain",
+    "value": "strepsils.com.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "strepsils.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "strepsils.com.co"
+  },
+  {
+    "type": "Domain",
+    "value": "strepsils.com.br"
+  },
+  {
+    "type": "Domain",
+    "value": "strepsils.com.ar"
+  },
+  {
+    "type": "Domain",
+    "value": "strepsils.co.za"
+  },
+  {
+    "type": "Domain",
+    "value": "strepsils.co.nz"
+  },
+  {
+    "type": "Domain",
+    "value": "graneodin.com.mx"
+  },
+  {
+    "type": "Domain",
+    "value": "strepsils.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "strepsils.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

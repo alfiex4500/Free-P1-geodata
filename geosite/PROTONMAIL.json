@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Domain",
+    "value": "pm.me"
+  },
+  {
+    "type": "Domain",
+    "value": "proton.me"
+  },
+  {
+    "type": "Domain",
+    "value": "protonmail.ch"
+  },
+  {
+    "type": "Domain",
+    "value": "protonmail.com"
+  },
+  {
+    "type": "Domain",
+    "value": "protonstatus.com"
+  },
+  {
+    "type": "Domain",
+    "value": "protontech.ch"
+  },
+  {
+    "type": "Domain",
+    "value": "protonvpn.ch"
+  },
+  {
+    "type": "Domain",
+    "value": "protonvpn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "protonweb.com"
+  }
+]

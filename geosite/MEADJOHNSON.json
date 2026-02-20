@@ -1,0 +1,36 @@
+[
+  {
+    "type": "Domain",
+    "value": "meadjohnson.com"
+  },
+  {
+    "type": "Domain",
+    "value": "meadjohnson.net"
+  },
+  {
+    "type": "Domain",
+    "value": "meadjohnson.com.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "meadjohnson.com.tw"
+  },
+  {
+    "type": "Domain",
+    "value": "enfinitas.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "meadjohnson.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

@@ -1,0 +1,109 @@
+[
+  {
+    "type": "Domain",
+    "value": "gog.com"
+  },
+  {
+    "type": "Domain",
+    "value": "gog-statics.com"
+  },
+  {
+    "type": "Full",
+    "value": "gog.qtlglb.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "gogalaxy.gog-statics.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "menu-static.gog-statics.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "productcard.gog-statics.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "static-login.gog-statics.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "www4-static.gog-statics.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Regex",
+    "value": "^cdn-akamai-.+\\.gog-services\\.com$",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Regex",
+    "value": "^gog-cdn-.+\\.footprint\\.net$",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Regex",
+    "value": "^images(-\\d)?\\.gog-statics\\.com$",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "gog-cdn-fastly.gog.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "gog-cdn.akamaized.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

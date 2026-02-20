@@ -1,0 +1,543 @@
+[
+  {
+    "type": "Full",
+    "value": "time.apple.com"
+  },
+  {
+    "type": "Full",
+    "value": "time.asia.apple.com"
+  },
+  {
+    "type": "Full",
+    "value": "time.euro.apple.com"
+  },
+  {
+    "type": "Full",
+    "value": "time.aws.com"
+  },
+  {
+    "type": "Full",
+    "value": "time.cloudflare.com"
+  },
+  {
+    "type": "Full",
+    "value": "time.facebook.com"
+  },
+  {
+    "type": "Full",
+    "value": "time1.facebook.com"
+  },
+  {
+    "type": "Full",
+    "value": "time2.facebook.com"
+  },
+  {
+    "type": "Full",
+    "value": "time3.facebook.com"
+  },
+  {
+    "type": "Full",
+    "value": "time4.facebook.com"
+  },
+  {
+    "type": "Full",
+    "value": "time5.facebook.com"
+  },
+  {
+    "type": "Full",
+    "value": "time.google.com"
+  },
+  {
+    "type": "Full",
+    "value": "time1.google.com"
+  },
+  {
+    "type": "Full",
+    "value": "time2.google.com"
+  },
+  {
+    "type": "Full",
+    "value": "time3.google.com"
+  },
+  {
+    "type": "Full",
+    "value": "time4.google.com"
+  },
+  {
+    "type": "Full",
+    "value": "ntp.ubuntu.com"
+  },
+  {
+    "type": "Full",
+    "value": "time.windows.com"
+  },
+  {
+    "type": "Full",
+    "value": "ut1-wwv.nist.gov"
+  },
+  {
+    "type": "Full",
+    "value": "ntp-b.nist.gov"
+  },
+  {
+    "type": "Full",
+    "value": "ntp-d.nist.gov"
+  },
+  {
+    "type": "Full",
+    "value": "ntp-wwv.nist.gov"
+  },
+  {
+    "type": "Full",
+    "value": "time.nist.gov"
+  },
+  {
+    "type": "Full",
+    "value": "time-a-g.nist.gov"
+  },
+  {
+    "type": "Full",
+    "value": "time-b-g.nist.gov"
+  },
+  {
+    "type": "Full",
+    "value": "time-c-g.nist.gov"
+  },
+  {
+    "type": "Full",
+    "value": "time-d-g.nist.gov"
+  },
+  {
+    "type": "Full",
+    "value": "time-e-g.nist.gov"
+  },
+  {
+    "type": "Full",
+    "value": "time-a-b.nist.gov"
+  },
+  {
+    "type": "Full",
+    "value": "time-b-b.nist.gov"
+  },
+  {
+    "type": "Full",
+    "value": "time-c-b.nist.gov"
+  },
+  {
+    "type": "Full",
+    "value": "time-d-b.nist.gov"
+  },
+  {
+    "type": "Full",
+    "value": "time-e-b.nist.gov"
+  },
+  {
+    "type": "Full",
+    "value": "time-a-wwv.nist.gov"
+  },
+  {
+    "type": "Full",
+    "value": "time-b-wwv.nist.gov"
+  },
+  {
+    "type": "Full",
+    "value": "time-c-wwv.nist.gov"
+  },
+  {
+    "type": "Full",
+    "value": "time-d-wwv.nist.gov"
+  },
+  {
+    "type": "Full",
+    "value": "time-e-wwv.nist.gov"
+  },
+  {
+    "type": "Full",
+    "value": "ntp-c.colorado.edu"
+  },
+  {
+    "type": "Full",
+    "value": "ut1-time.colorado.edu"
+  },
+  {
+    "type": "Full",
+    "value": "utcnist.colorado.edu"
+  },
+  {
+    "type": "Full",
+    "value": "utcnist2.colorado.edu"
+  },
+  {
+    "type": "Full",
+    "value": "utcnist3.colorado.edu"
+  },
+  {
+    "type": "Full",
+    "value": "ntp0.ntp-servers.net"
+  },
+  {
+    "type": "Full",
+    "value": "ntp1.ntp-servers.net"
+  },
+  {
+    "type": "Full",
+    "value": "ntp2.ntp-servers.net"
+  },
+  {
+    "type": "Full",
+    "value": "ntp3.ntp-servers.net"
+  },
+  {
+    "type": "Full",
+    "value": "ntp4.ntp-servers.net"
+  },
+  {
+    "type": "Full",
+    "value": "ntp5.ntp-servers.net"
+  },
+  {
+    "type": "Full",
+    "value": "ntp6.ntp-servers.net"
+  },
+  {
+    "type": "Full",
+    "value": "ntp7.ntp-servers.net"
+  },
+  {
+    "type": "Domain",
+    "value": "ntp.se"
+  },
+  {
+    "type": "Domain",
+    "value": "clock.isc.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ntp.fiord.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "ntp.nat.ms"
+  },
+  {
+    "type": "Domain",
+    "value": "ntp.nic.cz"
+  },
+  {
+    "type": "Domain",
+    "value": "ntp.ripe.net"
+  },
+  {
+    "type": "Domain",
+    "value": "ntp.ufe.cz"
+  },
+  {
+    "type": "Domain",
+    "value": "pool.ntp.org"
+  },
+  {
+    "type": "Domain",
+    "value": "time.nrc.ca"
+  },
+  {
+    "type": "Domain",
+    "value": "ntp.nict.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "ntp2.wakwak.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ntp1.wakwak.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ntp.tut.ac.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "ntp0.ring.gr.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "ntp1.tohoku.ac.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "ntp.tohoku.ac.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "ats1.e-timing.ne.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "ntp1.ring.gr.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "ntp2.ring.gr.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "ntp2.tohoku.ac.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "ntp-tk02.ocn.ad.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "ntp-os01.ocn.ad.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "ntp1.plala.or.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "ntp2.plala.or.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "ntp.ring.gr.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "ntp-tk01.ocn.ad.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "ntp3.v6.mfeed.ad.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "s2csntp.miz.nao.ac.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "ntp.t.ring.gr.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "ntp.dnsbalance.ring.gr.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "ntp.nc.u-tokyo.ac.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "ntp2.v6.mfeed.ad.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "ntp1.v6.mfeed.ad.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "ntp3.jst.mfeed.ad.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "ntp2.jst.mfeed.ad.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "ntp1.jst.mfeed.ad.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "ntp.jst.mfeed.ad.jp"
+  },
+  {
+    "type": "Full",
+    "value": "ntp.aliyun.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "ntp1.aliyun.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "ntp2.aliyun.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "ntp3.aliyun.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "ntp4.aliyun.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "ntp5.aliyun.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "ntp6.aliyun.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "ntp7.aliyun.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "time.amazonaws.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "time.izatcloud.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "time.xtracloud.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "ntp.tencent.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "ntp1.tencent.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "ntp2.tencent.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "ntp3.tencent.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "ntp4.tencent.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "ntp5.tencent.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "cn.pool.ntp.org",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ntp.neu.edu.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ntp.ntsc.ac.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ntp.org.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

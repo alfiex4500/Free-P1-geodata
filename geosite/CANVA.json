@@ -1,0 +1,26 @@
+[
+  {
+    "type": "Domain",
+    "value": "affinity.studio"
+  },
+  {
+    "type": "Domain",
+    "value": "canva.com"
+  },
+  {
+    "type": "Domain",
+    "value": "canvastatus.com"
+  },
+  {
+    "type": "Domain",
+    "value": "affinity.api.serifservices.com"
+  },
+  {
+    "type": "Domain",
+    "value": "affinity-beta.s3.amazonaws.com"
+  },
+  {
+    "type": "Domain",
+    "value": "affinity-lessons.s3.amazonaws.com"
+  }
+]

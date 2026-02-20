@@ -1,0 +1,43 @@
+[
+  {
+    "type": "Domain",
+    "value": "yo-star.com"
+  },
+  {
+    "type": "Domain",
+    "value": "yostar.net"
+  },
+  {
+    "type": "Domain",
+    "value": "yostarplat.com"
+  },
+  {
+    "type": "Domain",
+    "value": "stargazer-games.com"
+  },
+  {
+    "type": "Domain",
+    "value": "stellasora.global"
+  },
+  {
+    "type": "Domain",
+    "value": "stellasora.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "yostar.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "yostar-pictures.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "yostar.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

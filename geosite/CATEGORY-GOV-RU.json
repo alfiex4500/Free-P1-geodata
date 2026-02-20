@@ -1,0 +1,506 @@
+[
+  {
+    "type": "Domain",
+    "value": "psk"
+  },
+  {
+    "type": "Domain",
+    "value": "arkhangelsk.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "marine.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "gu-st.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "emias.info"
+  },
+  {
+    "type": "Domain",
+    "value": "mgfoms.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "edu.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "cbr.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "cikrf.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "ebs.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "goskey.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "izbirkom.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "kremlin.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "nalog.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--80ajghhoc2aj1c8b.xn--p1ai"
+  },
+  {
+    "type": "Domain",
+    "value": "mos.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "mosreg.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "spb.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "sevastopol.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "sev.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "adygeya.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "bashkiria.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "buryatia.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "chuvashia.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "crimea.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "dagestan.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "grozny.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "i-ola.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "izhevsk.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "astrakhan.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "karelia.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "kazan.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "bir.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "khakassia.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "mari-el.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "mari.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "mordovia.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "nalchik.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "ptz.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "rkomi.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "tatarstan.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "tuva.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "udm.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "udmurtia.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "ulan-ude.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "vladikavkaz.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "yakutia.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "altai.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "chita.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "kamchatka.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "khabarovsk.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "khv.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "krasnodar.su"
+  },
+  {
+    "type": "Domain",
+    "value": "krasnoyarsk.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "kuban.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "belgorod.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "perm.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "stavropol.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "stv.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "vl.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "vladivostok.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "amur.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "government.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "kalmykia.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "gosuslugi.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "kchr.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "bryansk.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "cbg.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "chel.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "chelyabinsk.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "ekburg.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--80acgfbsl1azdqr.xn--p1ai"
+  },
+  {
+    "type": "Domain",
+    "value": "irk.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "irkutsk.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "ivanovo.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "jar.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "kaluga.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "kemerovo.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "kirov.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "koenig.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "kostroma.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "kurgan.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "kursk.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "lipetsk.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "magadan.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "murmansk.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "nn.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "nov.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "novosibirsk.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "nsk.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "omsk.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "orb.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "oryol.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "penza.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "gov.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "psk.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "pskov.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "rnd.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "ryazan.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "sakhalin.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "samara.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "saratov.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "simbirsk.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "smolensk.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "tambov.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "tom.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "tomsk.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "tsaritsyn.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "tsk.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "tula.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "tver.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "tyumen.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "vladimir.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "vlg.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "volgograd.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "vologda.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "voronezh.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "vrn.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "vyatka.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "yaroslavl.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "yuzhno-sakhalinsk.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "chukotka.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "jamal.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "surgut.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "yamal.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "zdrav10.ru"
+  }
+]

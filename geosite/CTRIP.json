@@ -1,0 +1,258 @@
+[
+  {
+    "type": "Domain",
+    "value": "toursbms.com"
+  },
+  {
+    "type": "Domain",
+    "value": "tieyou.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ctrip.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "ctrip.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ctripbiz.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ctripgslb.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "ctripgslb.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hhtravel.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ctripgslb.net"
+  },
+  {
+    "type": "Domain",
+    "value": "ctripteam.com"
+  },
+  {
+    "type": "Domain",
+    "value": "doticloud.com"
+  },
+  {
+    "type": "Domain",
+    "value": "easytrip.com"
+  },
+  {
+    "type": "Domain",
+    "value": "qunarzz.com"
+  },
+  {
+    "type": "Domain",
+    "value": "qunar.com"
+  },
+  {
+    "type": "Domain",
+    "value": "suanya.com"
+  },
+  {
+    "type": "Domain",
+    "value": "shuntu.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "skysea.com"
+  },
+  {
+    "type": "Domain",
+    "value": "suanya.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "lvtds.com"
+  },
+  {
+    "type": "Domain",
+    "value": "colinker.com"
+  },
+  {
+    "type": "Domain",
+    "value": "toptown.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "c-ctrip.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vipdlt.com"
+  },
+  {
+    "type": "Domain",
+    "value": "tripcdn.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "tripcdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "izuchebao.com"
+  },
+  {
+    "type": "Domain",
+    "value": "qunarcdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ctripgslb.com.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "ctrip.co.id",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ctrip.co.kr",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ctrip.co.th",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ctrip.com.hk",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ctrip.my",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ctrip.sg",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ctripbuy.hk",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "hhtravel.com.tw",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "trip.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ak-p.tripcdn.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ak-s-cw.tripcdn.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ak-s.tripcdn.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "akatest.tripcdn.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "aw-d.tripcdn.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "aw-p.tripcdn.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "aw-s.tripcdn.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

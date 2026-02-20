@@ -1,0 +1,15 @@
+[
+  {
+    "type": "Domain",
+    "value": "hm.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hm.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

@@ -1,0 +1,85 @@
+[
+  {
+    "type": "Full",
+    "value": "publicca.googleapis.com"
+  },
+  {
+    "type": "Full",
+    "value": "preprod-publicca.googleapis.com"
+  },
+  {
+    "type": "Full",
+    "value": "clients1.google.com"
+  },
+  {
+    "type": "Full",
+    "value": "pki.google.com"
+  },
+  {
+    "type": "Domain",
+    "value": "pki.goog"
+  },
+  {
+    "type": "Full",
+    "value": "pki-goog.l.google.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "c.pki.goog",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "i.pki.goog",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "o.pki.goog",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "crl.pki.goog",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "crls.pki.goog",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "ocsp.pki.goog",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

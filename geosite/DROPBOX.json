@@ -1,0 +1,66 @@
+[
+  {
+    "type": "Full",
+    "value": "paper-attachments.s3.amazonaws.com"
+  },
+  {
+    "type": "Domain",
+    "value": "db.tt"
+  },
+  {
+    "type": "Domain",
+    "value": "dropbox-dns.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dropbox.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dropbox.tech"
+  },
+  {
+    "type": "Domain",
+    "value": "dropboxapi.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dropboxbusiness.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dropboxcaptcha.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dropboxforum.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dropboxforums.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dropboxinsiders.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dropboxmail.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dropboxpartners.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dropboxstatic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dropboxusercontent.com"
+  },
+  {
+    "type": "Domain",
+    "value": "getdropbox.com"
+  }
+]

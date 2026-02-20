@@ -1,0 +1,3326 @@
+[
+  {
+    "type": "Domain",
+    "value": "gov"
+  },
+  {
+    "type": "Domain",
+    "value": "mil"
+  },
+  {
+    "type": "Domain",
+    "value": "edu"
+  },
+  {
+    "type": "Domain",
+    "value": "ac"
+  },
+  {
+    "type": "Domain",
+    "value": "ad"
+  },
+  {
+    "type": "Domain",
+    "value": "ae"
+  },
+  {
+    "type": "Domain",
+    "value": "af"
+  },
+  {
+    "type": "Domain",
+    "value": "ag"
+  },
+  {
+    "type": "Domain",
+    "value": "ai"
+  },
+  {
+    "type": "Domain",
+    "value": "al"
+  },
+  {
+    "type": "Domain",
+    "value": "am"
+  },
+  {
+    "type": "Domain",
+    "value": "ao"
+  },
+  {
+    "type": "Domain",
+    "value": "aq"
+  },
+  {
+    "type": "Domain",
+    "value": "ar"
+  },
+  {
+    "type": "Domain",
+    "value": "as"
+  },
+  {
+    "type": "Domain",
+    "value": "at"
+  },
+  {
+    "type": "Domain",
+    "value": "au"
+  },
+  {
+    "type": "Domain",
+    "value": "aw"
+  },
+  {
+    "type": "Domain",
+    "value": "ax"
+  },
+  {
+    "type": "Domain",
+    "value": "az"
+  },
+  {
+    "type": "Domain",
+    "value": "ba"
+  },
+  {
+    "type": "Domain",
+    "value": "bb"
+  },
+  {
+    "type": "Domain",
+    "value": "bd"
+  },
+  {
+    "type": "Domain",
+    "value": "be"
+  },
+  {
+    "type": "Domain",
+    "value": "bf"
+  },
+  {
+    "type": "Domain",
+    "value": "bg"
+  },
+  {
+    "type": "Domain",
+    "value": "bh"
+  },
+  {
+    "type": "Domain",
+    "value": "bi"
+  },
+  {
+    "type": "Domain",
+    "value": "bj"
+  },
+  {
+    "type": "Domain",
+    "value": "bm"
+  },
+  {
+    "type": "Domain",
+    "value": "bn"
+  },
+  {
+    "type": "Domain",
+    "value": "bo"
+  },
+  {
+    "type": "Domain",
+    "value": "br"
+  },
+  {
+    "type": "Domain",
+    "value": "bs"
+  },
+  {
+    "type": "Domain",
+    "value": "bt"
+  },
+  {
+    "type": "Domain",
+    "value": "bv"
+  },
+  {
+    "type": "Domain",
+    "value": "bw"
+  },
+  {
+    "type": "Domain",
+    "value": "by"
+  },
+  {
+    "type": "Domain",
+    "value": "bz"
+  },
+  {
+    "type": "Domain",
+    "value": "ca"
+  },
+  {
+    "type": "Domain",
+    "value": "cd"
+  },
+  {
+    "type": "Domain",
+    "value": "cf"
+  },
+  {
+    "type": "Domain",
+    "value": "cg"
+  },
+  {
+    "type": "Domain",
+    "value": "ch"
+  },
+  {
+    "type": "Domain",
+    "value": "ci"
+  },
+  {
+    "type": "Domain",
+    "value": "ck"
+  },
+  {
+    "type": "Domain",
+    "value": "cl"
+  },
+  {
+    "type": "Domain",
+    "value": "cm"
+  },
+  {
+    "type": "Domain",
+    "value": "cr"
+  },
+  {
+    "type": "Domain",
+    "value": "cu"
+  },
+  {
+    "type": "Domain",
+    "value": "cv"
+  },
+  {
+    "type": "Domain",
+    "value": "cw"
+  },
+  {
+    "type": "Domain",
+    "value": "cx"
+  },
+  {
+    "type": "Domain",
+    "value": "cy"
+  },
+  {
+    "type": "Domain",
+    "value": "cz"
+  },
+  {
+    "type": "Domain",
+    "value": "de"
+  },
+  {
+    "type": "Domain",
+    "value": "dj"
+  },
+  {
+    "type": "Domain",
+    "value": "dk"
+  },
+  {
+    "type": "Domain",
+    "value": "dm"
+  },
+  {
+    "type": "Domain",
+    "value": "do"
+  },
+  {
+    "type": "Domain",
+    "value": "dz"
+  },
+  {
+    "type": "Domain",
+    "value": "ec"
+  },
+  {
+    "type": "Domain",
+    "value": "ee"
+  },
+  {
+    "type": "Domain",
+    "value": "eg"
+  },
+  {
+    "type": "Domain",
+    "value": "er"
+  },
+  {
+    "type": "Domain",
+    "value": "es"
+  },
+  {
+    "type": "Domain",
+    "value": "et"
+  },
+  {
+    "type": "Domain",
+    "value": "eu"
+  },
+  {
+    "type": "Domain",
+    "value": "fi"
+  },
+  {
+    "type": "Domain",
+    "value": "fj"
+  },
+  {
+    "type": "Domain",
+    "value": "fk"
+  },
+  {
+    "type": "Domain",
+    "value": "fm"
+  },
+  {
+    "type": "Domain",
+    "value": "fo"
+  },
+  {
+    "type": "Domain",
+    "value": "fr"
+  },
+  {
+    "type": "Domain",
+    "value": "ga"
+  },
+  {
+    "type": "Domain",
+    "value": "gb"
+  },
+  {
+    "type": "Domain",
+    "value": "gd"
+  },
+  {
+    "type": "Domain",
+    "value": "ge"
+  },
+  {
+    "type": "Domain",
+    "value": "gf"
+  },
+  {
+    "type": "Domain",
+    "value": "gg"
+  },
+  {
+    "type": "Domain",
+    "value": "gh"
+  },
+  {
+    "type": "Domain",
+    "value": "gi"
+  },
+  {
+    "type": "Domain",
+    "value": "gl"
+  },
+  {
+    "type": "Domain",
+    "value": "gm"
+  },
+  {
+    "type": "Domain",
+    "value": "gn"
+  },
+  {
+    "type": "Domain",
+    "value": "gp"
+  },
+  {
+    "type": "Domain",
+    "value": "gr"
+  },
+  {
+    "type": "Domain",
+    "value": "gs"
+  },
+  {
+    "type": "Domain",
+    "value": "gt"
+  },
+  {
+    "type": "Domain",
+    "value": "gu"
+  },
+  {
+    "type": "Domain",
+    "value": "gw"
+  },
+  {
+    "type": "Domain",
+    "value": "gy"
+  },
+  {
+    "type": "Domain",
+    "value": "hm"
+  },
+  {
+    "type": "Domain",
+    "value": "hn"
+  },
+  {
+    "type": "Domain",
+    "value": "hr"
+  },
+  {
+    "type": "Domain",
+    "value": "ht"
+  },
+  {
+    "type": "Domain",
+    "value": "hu"
+  },
+  {
+    "type": "Domain",
+    "value": "id"
+  },
+  {
+    "type": "Domain",
+    "value": "ie"
+  },
+  {
+    "type": "Domain",
+    "value": "il"
+  },
+  {
+    "type": "Domain",
+    "value": "im"
+  },
+  {
+    "type": "Domain",
+    "value": "in"
+  },
+  {
+    "type": "Domain",
+    "value": "io"
+  },
+  {
+    "type": "Domain",
+    "value": "iq"
+  },
+  {
+    "type": "Domain",
+    "value": "ir"
+  },
+  {
+    "type": "Domain",
+    "value": "is"
+  },
+  {
+    "type": "Domain",
+    "value": "it"
+  },
+  {
+    "type": "Domain",
+    "value": "je"
+  },
+  {
+    "type": "Domain",
+    "value": "jm"
+  },
+  {
+    "type": "Domain",
+    "value": "jo"
+  },
+  {
+    "type": "Domain",
+    "value": "jp"
+  },
+  {
+    "type": "Domain",
+    "value": "ke"
+  },
+  {
+    "type": "Domain",
+    "value": "kg"
+  },
+  {
+    "type": "Domain",
+    "value": "kh"
+  },
+  {
+    "type": "Domain",
+    "value": "ki"
+  },
+  {
+    "type": "Domain",
+    "value": "km"
+  },
+  {
+    "type": "Domain",
+    "value": "kn"
+  },
+  {
+    "type": "Domain",
+    "value": "kp"
+  },
+  {
+    "type": "Domain",
+    "value": "kr"
+  },
+  {
+    "type": "Domain",
+    "value": "kw"
+  },
+  {
+    "type": "Domain",
+    "value": "ky"
+  },
+  {
+    "type": "Domain",
+    "value": "kz"
+  },
+  {
+    "type": "Domain",
+    "value": "la"
+  },
+  {
+    "type": "Domain",
+    "value": "lb"
+  },
+  {
+    "type": "Domain",
+    "value": "lc"
+  },
+  {
+    "type": "Domain",
+    "value": "li"
+  },
+  {
+    "type": "Domain",
+    "value": "lk"
+  },
+  {
+    "type": "Domain",
+    "value": "lr"
+  },
+  {
+    "type": "Domain",
+    "value": "ls"
+  },
+  {
+    "type": "Domain",
+    "value": "lt"
+  },
+  {
+    "type": "Domain",
+    "value": "lu"
+  },
+  {
+    "type": "Domain",
+    "value": "lv"
+  },
+  {
+    "type": "Domain",
+    "value": "ly"
+  },
+  {
+    "type": "Domain",
+    "value": "ma"
+  },
+  {
+    "type": "Domain",
+    "value": "mc"
+  },
+  {
+    "type": "Domain",
+    "value": "md"
+  },
+  {
+    "type": "Domain",
+    "value": "mg"
+  },
+  {
+    "type": "Domain",
+    "value": "mh"
+  },
+  {
+    "type": "Domain",
+    "value": "mk"
+  },
+  {
+    "type": "Domain",
+    "value": "ml"
+  },
+  {
+    "type": "Domain",
+    "value": "mm"
+  },
+  {
+    "type": "Domain",
+    "value": "mn"
+  },
+  {
+    "type": "Domain",
+    "value": "mo"
+  },
+  {
+    "type": "Domain",
+    "value": "mp"
+  },
+  {
+    "type": "Domain",
+    "value": "mq"
+  },
+  {
+    "type": "Domain",
+    "value": "mr"
+  },
+  {
+    "type": "Domain",
+    "value": "ms"
+  },
+  {
+    "type": "Domain",
+    "value": "mt"
+  },
+  {
+    "type": "Domain",
+    "value": "mu"
+  },
+  {
+    "type": "Domain",
+    "value": "mv"
+  },
+  {
+    "type": "Domain",
+    "value": "mw"
+  },
+  {
+    "type": "Domain",
+    "value": "mx"
+  },
+  {
+    "type": "Domain",
+    "value": "my"
+  },
+  {
+    "type": "Domain",
+    "value": "mz"
+  },
+  {
+    "type": "Domain",
+    "value": "na"
+  },
+  {
+    "type": "Domain",
+    "value": "nc"
+  },
+  {
+    "type": "Domain",
+    "value": "ne"
+  },
+  {
+    "type": "Domain",
+    "value": "nf"
+  },
+  {
+    "type": "Domain",
+    "value": "ng"
+  },
+  {
+    "type": "Domain",
+    "value": "ni"
+  },
+  {
+    "type": "Domain",
+    "value": "nl"
+  },
+  {
+    "type": "Domain",
+    "value": "no"
+  },
+  {
+    "type": "Domain",
+    "value": "np"
+  },
+  {
+    "type": "Domain",
+    "value": "nr"
+  },
+  {
+    "type": "Domain",
+    "value": "nu"
+  },
+  {
+    "type": "Domain",
+    "value": "nz"
+  },
+  {
+    "type": "Domain",
+    "value": "om"
+  },
+  {
+    "type": "Domain",
+    "value": "pa"
+  },
+  {
+    "type": "Domain",
+    "value": "pe"
+  },
+  {
+    "type": "Domain",
+    "value": "pf"
+  },
+  {
+    "type": "Domain",
+    "value": "pg"
+  },
+  {
+    "type": "Domain",
+    "value": "ph"
+  },
+  {
+    "type": "Domain",
+    "value": "pk"
+  },
+  {
+    "type": "Domain",
+    "value": "pl"
+  },
+  {
+    "type": "Domain",
+    "value": "pm"
+  },
+  {
+    "type": "Domain",
+    "value": "pn"
+  },
+  {
+    "type": "Domain",
+    "value": "pr"
+  },
+  {
+    "type": "Domain",
+    "value": "ps"
+  },
+  {
+    "type": "Domain",
+    "value": "pt"
+  },
+  {
+    "type": "Domain",
+    "value": "py"
+  },
+  {
+    "type": "Domain",
+    "value": "qa"
+  },
+  {
+    "type": "Domain",
+    "value": "re"
+  },
+  {
+    "type": "Domain",
+    "value": "ro"
+  },
+  {
+    "type": "Domain",
+    "value": "rs"
+  },
+  {
+    "type": "Domain",
+    "value": "rw"
+  },
+  {
+    "type": "Domain",
+    "value": "sa"
+  },
+  {
+    "type": "Domain",
+    "value": "sb"
+  },
+  {
+    "type": "Domain",
+    "value": "sc"
+  },
+  {
+    "type": "Domain",
+    "value": "sd"
+  },
+  {
+    "type": "Domain",
+    "value": "se"
+  },
+  {
+    "type": "Domain",
+    "value": "sg"
+  },
+  {
+    "type": "Domain",
+    "value": "sh"
+  },
+  {
+    "type": "Domain",
+    "value": "si"
+  },
+  {
+    "type": "Domain",
+    "value": "sj"
+  },
+  {
+    "type": "Domain",
+    "value": "sk"
+  },
+  {
+    "type": "Domain",
+    "value": "sl"
+  },
+  {
+    "type": "Domain",
+    "value": "sm"
+  },
+  {
+    "type": "Domain",
+    "value": "sn"
+  },
+  {
+    "type": "Domain",
+    "value": "so"
+  },
+  {
+    "type": "Domain",
+    "value": "sr"
+  },
+  {
+    "type": "Domain",
+    "value": "ss"
+  },
+  {
+    "type": "Domain",
+    "value": "st"
+  },
+  {
+    "type": "Domain",
+    "value": "sv"
+  },
+  {
+    "type": "Domain",
+    "value": "sx"
+  },
+  {
+    "type": "Domain",
+    "value": "sy"
+  },
+  {
+    "type": "Domain",
+    "value": "sz"
+  },
+  {
+    "type": "Domain",
+    "value": "tc"
+  },
+  {
+    "type": "Domain",
+    "value": "td"
+  },
+  {
+    "type": "Domain",
+    "value": "tf"
+  },
+  {
+    "type": "Domain",
+    "value": "tg"
+  },
+  {
+    "type": "Domain",
+    "value": "th"
+  },
+  {
+    "type": "Domain",
+    "value": "tj"
+  },
+  {
+    "type": "Domain",
+    "value": "tk"
+  },
+  {
+    "type": "Domain",
+    "value": "tl"
+  },
+  {
+    "type": "Domain",
+    "value": "tm"
+  },
+  {
+    "type": "Domain",
+    "value": "tn"
+  },
+  {
+    "type": "Domain",
+    "value": "to"
+  },
+  {
+    "type": "Domain",
+    "value": "tr"
+  },
+  {
+    "type": "Domain",
+    "value": "tt"
+  },
+  {
+    "type": "Domain",
+    "value": "tw"
+  },
+  {
+    "type": "Domain",
+    "value": "tz"
+  },
+  {
+    "type": "Domain",
+    "value": "ua"
+  },
+  {
+    "type": "Domain",
+    "value": "ug"
+  },
+  {
+    "type": "Domain",
+    "value": "uk"
+  },
+  {
+    "type": "Domain",
+    "value": "us"
+  },
+  {
+    "type": "Domain",
+    "value": "uy"
+  },
+  {
+    "type": "Domain",
+    "value": "uz"
+  },
+  {
+    "type": "Domain",
+    "value": "va"
+  },
+  {
+    "type": "Domain",
+    "value": "vc"
+  },
+  {
+    "type": "Domain",
+    "value": "ve"
+  },
+  {
+    "type": "Domain",
+    "value": "vg"
+  },
+  {
+    "type": "Domain",
+    "value": "vi"
+  },
+  {
+    "type": "Domain",
+    "value": "vn"
+  },
+  {
+    "type": "Domain",
+    "value": "vu"
+  },
+  {
+    "type": "Domain",
+    "value": "wf"
+  },
+  {
+    "type": "Domain",
+    "value": "ws"
+  },
+  {
+    "type": "Domain",
+    "value": "ye"
+  },
+  {
+    "type": "Domain",
+    "value": "yt"
+  },
+  {
+    "type": "Domain",
+    "value": "za"
+  },
+  {
+    "type": "Domain",
+    "value": "zm"
+  },
+  {
+    "type": "Domain",
+    "value": "zw"
+  },
+  {
+    "type": "Domain",
+    "value": "afl"
+  },
+  {
+    "type": "Domain",
+    "value": "mlb"
+  },
+  {
+    "type": "Domain",
+    "value": "nba"
+  },
+  {
+    "type": "Domain",
+    "value": "nfl"
+  },
+  {
+    "type": "Domain",
+    "value": "nra"
+  },
+  {
+    "type": "Domain",
+    "value": "crs"
+  },
+  {
+    "type": "Domain",
+    "value": "dnp"
+  },
+  {
+    "type": "Domain",
+    "value": "dvag"
+  },
+  {
+    "type": "Domain",
+    "value": "erni"
+  },
+  {
+    "type": "Domain",
+    "value": "ice"
+  },
+  {
+    "type": "Domain",
+    "value": "locus"
+  },
+  {
+    "type": "Domain",
+    "value": "mckinsey"
+  },
+  {
+    "type": "Domain",
+    "value": "olayangroup"
+  },
+  {
+    "type": "Domain",
+    "value": "olayan"
+  },
+  {
+    "type": "Domain",
+    "value": "praxi"
+  },
+  {
+    "type": "Domain",
+    "value": "sap"
+  },
+  {
+    "type": "Domain",
+    "value": "seek"
+  },
+  {
+    "type": "Domain",
+    "value": "wtc"
+  },
+  {
+    "type": "Domain",
+    "value": "xerox"
+  },
+  {
+    "type": "Domain",
+    "value": "athleta"
+  },
+  {
+    "type": "Domain",
+    "value": "bloomberg"
+  },
+  {
+    "type": "Domain",
+    "value": "calvinklein"
+  },
+  {
+    "type": "Domain",
+    "value": "gap"
+  },
+  {
+    "type": "Domain",
+    "value": "gucci"
+  },
+  {
+    "type": "Domain",
+    "value": "hermes"
+  },
+  {
+    "type": "Domain",
+    "value": "lancaster"
+  },
+  {
+    "type": "Domain",
+    "value": "lipsy"
+  },
+  {
+    "type": "Domain",
+    "value": "mango"
+  },
+  {
+    "type": "Domain",
+    "value": "nextdirect"
+  },
+  {
+    "type": "Domain",
+    "value": "next"
+  },
+  {
+    "type": "Domain",
+    "value": "nike"
+  },
+  {
+    "type": "Domain",
+    "value": "omega"
+  },
+  {
+    "type": "Domain",
+    "value": "redstone"
+  },
+  {
+    "type": "Domain",
+    "value": "swatch"
+  },
+  {
+    "type": "Domain",
+    "value": "africa"
+  },
+  {
+    "type": "Domain",
+    "value": "capetown"
+  },
+  {
+    "type": "Domain",
+    "value": "durban"
+  },
+  {
+    "type": "Domain",
+    "value": "joburg"
+  },
+  {
+    "type": "Domain",
+    "value": "abudhabi"
+  },
+  {
+    "type": "Domain",
+    "value": "arab"
+  },
+  {
+    "type": "Domain",
+    "value": "dubai"
+  },
+  {
+    "type": "Domain",
+    "value": "krd"
+  },
+  {
+    "type": "Domain",
+    "value": "kyoto"
+  },
+  {
+    "type": "Domain",
+    "value": "nagoya"
+  },
+  {
+    "type": "Domain",
+    "value": "okinawa"
+  },
+  {
+    "type": "Domain",
+    "value": "osaka"
+  },
+  {
+    "type": "Domain",
+    "value": "ryukyu"
+  },
+  {
+    "type": "Domain",
+    "value": "taipei"
+  },
+  {
+    "type": "Domain",
+    "value": "tokyo"
+  },
+  {
+    "type": "Domain",
+    "value": "yokohama"
+  },
+  {
+    "type": "Domain",
+    "value": "alsace"
+  },
+  {
+    "type": "Domain",
+    "value": "amsterdam"
+  },
+  {
+    "type": "Domain",
+    "value": "bar"
+  },
+  {
+    "type": "Domain",
+    "value": "barcelona"
+  },
+  {
+    "type": "Domain",
+    "value": "bayern"
+  },
+  {
+    "type": "Domain",
+    "value": "bcn"
+  },
+  {
+    "type": "Domain",
+    "value": "berlin"
+  },
+  {
+    "type": "Domain",
+    "value": "brussels"
+  },
+  {
+    "type": "Domain",
+    "value": "bzh"
+  },
+  {
+    "type": "Domain",
+    "value": "cat"
+  },
+  {
+    "type": "Domain",
+    "value": "corsica"
+  },
+  {
+    "type": "Domain",
+    "value": "cymru"
+  },
+  {
+    "type": "Domain",
+    "value": "eus"
+  },
+  {
+    "type": "Domain",
+    "value": "frl"
+  },
+  {
+    "type": "Domain",
+    "value": "gal"
+  },
+  {
+    "type": "Domain",
+    "value": "gent"
+  },
+  {
+    "type": "Domain",
+    "value": "hamburg"
+  },
+  {
+    "type": "Domain",
+    "value": "helsinki"
+  },
+  {
+    "type": "Domain",
+    "value": "irish"
+  },
+  {
+    "type": "Domain",
+    "value": "ist"
+  },
+  {
+    "type": "Domain",
+    "value": "istanbul"
+  },
+  {
+    "type": "Domain",
+    "value": "koeln"
+  },
+  {
+    "type": "Domain",
+    "value": "london"
+  },
+  {
+    "type": "Domain",
+    "value": "madrid"
+  },
+  {
+    "type": "Domain",
+    "value": "nrw"
+  },
+  {
+    "type": "Domain",
+    "value": "paris"
+  },
+  {
+    "type": "Domain",
+    "value": "ruhr"
+  },
+  {
+    "type": "Domain",
+    "value": "saarland"
+  },
+  {
+    "type": "Domain",
+    "value": "scot"
+  },
+  {
+    "type": "Domain",
+    "value": "stockholm"
+  },
+  {
+    "type": "Domain",
+    "value": "swiss"
+  },
+  {
+    "type": "Domain",
+    "value": "tirol"
+  },
+  {
+    "type": "Domain",
+    "value": "vlaanderen"
+  },
+  {
+    "type": "Domain",
+    "value": "wales"
+  },
+  {
+    "type": "Domain",
+    "value": "wien"
+  },
+  {
+    "type": "Domain",
+    "value": "zuerich"
+  },
+  {
+    "type": "Domain",
+    "value": "boston"
+  },
+  {
+    "type": "Domain",
+    "value": "miami"
+  },
+  {
+    "type": "Domain",
+    "value": "nyc"
+  },
+  {
+    "type": "Domain",
+    "value": "quebec"
+  },
+  {
+    "type": "Domain",
+    "value": "vegas"
+  },
+  {
+    "type": "Domain",
+    "value": "kiwi"
+  },
+  {
+    "type": "Domain",
+    "value": "melbourne"
+  },
+  {
+    "type": "Domain",
+    "value": "sydney"
+  },
+  {
+    "type": "Domain",
+    "value": "lat"
+  },
+  {
+    "type": "Domain",
+    "value": "rio"
+  },
+  {
+    "type": "Domain",
+    "value": "aarp"
+  },
+  {
+    "type": "Domain",
+    "value": "abbott"
+  },
+  {
+    "type": "Domain",
+    "value": "abbvie"
+  },
+  {
+    "type": "Domain",
+    "value": "aetna"
+  },
+  {
+    "type": "Domain",
+    "value": "bms"
+  },
+  {
+    "type": "Domain",
+    "value": "boehringer"
+  },
+  {
+    "type": "Domain",
+    "value": "dabur"
+  },
+  {
+    "type": "Domain",
+    "value": "fresenius"
+  },
+  {
+    "type": "Domain",
+    "value": "jnj"
+  },
+  {
+    "type": "Domain",
+    "value": "sanofi"
+  },
+  {
+    "type": "Domain",
+    "value": "aeg"
+  },
+  {
+    "type": "Domain",
+    "value": "airbus"
+  },
+  {
+    "type": "Domain",
+    "value": "alstom"
+  },
+  {
+    "type": "Domain",
+    "value": "aramco"
+  },
+  {
+    "type": "Domain",
+    "value": "bosch"
+  },
+  {
+    "type": "Domain",
+    "value": "bostik"
+  },
+  {
+    "type": "Domain",
+    "value": "crown"
+  },
+  {
+    "type": "Domain",
+    "value": "dupont"
+  },
+  {
+    "type": "Domain",
+    "value": "flir"
+  },
+  {
+    "type": "Domain",
+    "value": "grainger"
+  },
+  {
+    "type": "Domain",
+    "value": "hitachi"
+  },
+  {
+    "type": "Domain",
+    "value": "ifm"
+  },
+  {
+    "type": "Domain",
+    "value": "ipiranga"
+  },
+  {
+    "type": "Domain",
+    "value": "jio"
+  },
+  {
+    "type": "Domain",
+    "value": "komatsu"
+  },
+  {
+    "type": "Domain",
+    "value": "kuokgroup"
+  },
+  {
+    "type": "Domain",
+    "value": "leclerc"
+  },
+  {
+    "type": "Domain",
+    "value": "lidl"
+  },
+  {
+    "type": "Domain",
+    "value": "lotte"
+  },
+  {
+    "type": "Domain",
+    "value": "man"
+  },
+  {
+    "type": "Domain",
+    "value": "mtr"
+  },
+  {
+    "type": "Domain",
+    "value": "reliance"
+  },
+  {
+    "type": "Domain",
+    "value": "rexroth"
+  },
+  {
+    "type": "Domain",
+    "value": "ril"
+  },
+  {
+    "type": "Domain",
+    "value": "rwe"
+  },
+  {
+    "type": "Domain",
+    "value": "sandvikcoromant"
+  },
+  {
+    "type": "Domain",
+    "value": "sandvik"
+  },
+  {
+    "type": "Domain",
+    "value": "schaeffler"
+  },
+  {
+    "type": "Domain",
+    "value": "schmidt"
+  },
+  {
+    "type": "Domain",
+    "value": "schwarz"
+  },
+  {
+    "type": "Domain",
+    "value": "sener"
+  },
+  {
+    "type": "Domain",
+    "value": "sew"
+  },
+  {
+    "type": "Domain",
+    "value": "sncf"
+  },
+  {
+    "type": "Domain",
+    "value": "total"
+  },
+  {
+    "type": "Domain",
+    "value": "walter"
+  },
+  {
+    "type": "Domain",
+    "value": "weber"
+  },
+  {
+    "type": "Domain",
+    "value": "weir"
+  },
+  {
+    "type": "Domain",
+    "value": "woodside"
+  },
+  {
+    "type": "Domain",
+    "value": "zara"
+  },
+  {
+    "type": "Domain",
+    "value": "africamagic"
+  },
+  {
+    "type": "Domain",
+    "value": "agakhan"
+  },
+  {
+    "type": "Domain",
+    "value": "akdn"
+  },
+  {
+    "type": "Domain",
+    "value": "bharti"
+  },
+  {
+    "type": "Domain",
+    "value": "bingo"
+  },
+  {
+    "type": "Domain",
+    "value": "casa"
+  },
+  {
+    "type": "Domain",
+    "value": "casino"
+  },
+  {
+    "type": "Domain",
+    "value": "dating"
+  },
+  {
+    "type": "Domain",
+    "value": "domains"
+  },
+  {
+    "type": "Domain",
+    "value": "extraspace"
+  },
+  {
+    "type": "Domain",
+    "value": "gay"
+  },
+  {
+    "type": "Domain",
+    "value": "genting"
+  },
+  {
+    "type": "Domain",
+    "value": "hot"
+  },
+  {
+    "type": "Domain",
+    "value": "ikano"
+  },
+  {
+    "type": "Domain",
+    "value": "imamat"
+  },
+  {
+    "type": "Domain",
+    "value": "lgbt"
+  },
+  {
+    "type": "Domain",
+    "value": "maif"
+  },
+  {
+    "type": "Domain",
+    "value": "mattel"
+  },
+  {
+    "type": "Domain",
+    "value": "moe"
+  },
+  {
+    "type": "Domain",
+    "value": "sas"
+  },
+  {
+    "type": "Domain",
+    "value": "shell"
+  },
+  {
+    "type": "Domain",
+    "value": "shia"
+  },
+  {
+    "type": "Domain",
+    "value": "style"
+  },
+  {
+    "type": "Domain",
+    "value": "sucks"
+  },
+  {
+    "type": "Domain",
+    "value": "tattoo"
+  },
+  {
+    "type": "Domain",
+    "value": "vana"
+  },
+  {
+    "type": "Domain",
+    "value": "virgin"
+  },
+  {
+    "type": "Domain",
+    "value": "vodka"
+  },
+  {
+    "type": "Domain",
+    "value": "wine"
+  },
+  {
+    "type": "Domain",
+    "value": "wme"
+  },
+  {
+    "type": "Domain",
+    "value": "wtf"
+  },
+  {
+    "type": "Domain",
+    "value": "bible"
+  },
+  {
+    "type": "Domain",
+    "value": "catholic"
+  },
+  {
+    "type": "Domain",
+    "value": "ismaili"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--mgbi4ecexp"
+  },
+  {
+    "type": "Domain",
+    "value": "cern"
+  },
+  {
+    "type": "Domain",
+    "value": "emerck"
+  },
+  {
+    "type": "Domain",
+    "value": "hisamitsu"
+  },
+  {
+    "type": "Domain",
+    "value": "lilly"
+  },
+  {
+    "type": "Domain",
+    "value": "lundbeck"
+  },
+  {
+    "type": "Domain",
+    "value": "merckmsd"
+  },
+  {
+    "type": "Domain",
+    "value": "msd"
+  },
+  {
+    "type": "Domain",
+    "value": "otsuka"
+  },
+  {
+    "type": "Domain",
+    "value": "pfizer"
+  },
+  {
+    "type": "Domain",
+    "value": "stada"
+  },
+  {
+    "type": "Domain",
+    "value": "teva"
+  },
+  {
+    "type": "Domain",
+    "value": "toray"
+  },
+  {
+    "type": "Domain",
+    "value": "weather"
+  },
+  {
+    "type": "Domain",
+    "value": "adult"
+  },
+  {
+    "type": "Domain",
+    "value": "porn"
+  },
+  {
+    "type": "Domain",
+    "value": "sex"
+  },
+  {
+    "type": "Domain",
+    "value": "sexy"
+  },
+  {
+    "type": "Domain",
+    "value": "xxx"
+  },
+  {
+    "type": "Domain",
+    "value": "auspost"
+  },
+  {
+    "type": "Domain",
+    "value": "dhl"
+  },
+  {
+    "type": "Domain",
+    "value": "fedex"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--lgbbat1ad8j"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--y9a3aq"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--mgbcpq6gpa1a"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--54b7fta0cc"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--90ais"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--90ae"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--wgbh1c"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--e1a4c"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--qxa6a"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--node"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--qxam"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--4dbrk0ce"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--h2brj9c"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--mgbbh1a71e"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--fpcrj9c3d"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--gecrj9c"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--s9brj9c"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--45brj9c"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--xkc2dl3a5ee0h"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--2scrj9c"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--rvc1e0am3e"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--45br5cyl"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--3hcrj9c"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--mgbbh1a"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--h2breg3eve"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--h2brj9c8c"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--mgbgu82a"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--mgba3a4f16a"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--mgba3a4fra"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--mgbtx2b"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--mgbayh7gpa"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--80ao21a"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--3e0b707e"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--q7ce6a"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--mix891f"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--mix082f"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--d1alf"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--mgbx4cd0ab"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--mgbah1a3hjkrd"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--l1acc"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--mgbc0a9azcg"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--mgb9awbf"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--mgbai9azgqp6j"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--mgbai9a5eva00b"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--ygbi2ammx"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--wgbl6a"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--mgberp4a5d4ar"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--mgberp4a5d4a87g"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--mgbqly7c0a67fbc"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--mgbqly7cvafr"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--90a3ac"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--yfro4i67o"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--fzc2c9e2c"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--mgbpl2fh"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--ogbpf8fl"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--mgbtf8fl"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--kpry57d"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--kprw13d"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--nnx388a"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--o3cw4h"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--pgbs0dh"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--j1amh"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--mgbaam7a8h"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--mgb2ddes"
+  },
+  {
+    "type": "Domain",
+    "value": "aaa"
+  },
+  {
+    "type": "Domain",
+    "value": "audi"
+  },
+  {
+    "type": "Domain",
+    "value": "bentley"
+  },
+  {
+    "type": "Domain",
+    "value": "bmw"
+  },
+  {
+    "type": "Domain",
+    "value": "bridgestone"
+  },
+  {
+    "type": "Domain",
+    "value": "case"
+  },
+  {
+    "type": "Domain",
+    "value": "datsun"
+  },
+  {
+    "type": "Domain",
+    "value": "dunlop"
+  },
+  {
+    "type": "Domain",
+    "value": "ferrari"
+  },
+  {
+    "type": "Domain",
+    "value": "firestone"
+  },
+  {
+    "type": "Domain",
+    "value": "ford"
+  },
+  {
+    "type": "Domain",
+    "value": "goodyear"
+  },
+  {
+    "type": "Domain",
+    "value": "honda"
+  },
+  {
+    "type": "Domain",
+    "value": "hyundai"
+  },
+  {
+    "type": "Domain",
+    "value": "infiniti"
+  },
+  {
+    "type": "Domain",
+    "value": "jaguar"
+  },
+  {
+    "type": "Domain",
+    "value": "jeep"
+  },
+  {
+    "type": "Domain",
+    "value": "kia"
+  },
+  {
+    "type": "Domain",
+    "value": "lamborghini"
+  },
+  {
+    "type": "Domain",
+    "value": "landrover"
+  },
+  {
+    "type": "Domain",
+    "value": "lexus"
+  },
+  {
+    "type": "Domain",
+    "value": "lincoln"
+  },
+  {
+    "type": "Domain",
+    "value": "mini"
+  },
+  {
+    "type": "Domain",
+    "value": "mitsubishi"
+  },
+  {
+    "type": "Domain",
+    "value": "nissan"
+  },
+  {
+    "type": "Domain",
+    "value": "seat"
+  },
+  {
+    "type": "Domain",
+    "value": "suzuki"
+  },
+  {
+    "type": "Domain",
+    "value": "tatamotors"
+  },
+  {
+    "type": "Domain",
+    "value": "toyota"
+  },
+  {
+    "type": "Domain",
+    "value": "tvs"
+  },
+  {
+    "type": "Domain",
+    "value": "volvo"
+  },
+  {
+    "type": "Domain",
+    "value": "android"
+  },
+  {
+    "type": "Domain",
+    "value": "apple"
+  },
+  {
+    "type": "Domain",
+    "value": "bestbuy"
+  },
+  {
+    "type": "Domain",
+    "value": "brother"
+  },
+  {
+    "type": "Domain",
+    "value": "canon"
+  },
+  {
+    "type": "Domain",
+    "value": "dell"
+  },
+  {
+    "type": "Domain",
+    "value": "fujitsu"
+  },
+  {
+    "type": "Domain",
+    "value": "goldpoint"
+  },
+  {
+    "type": "Domain",
+    "value": "ibm"
+  },
+  {
+    "type": "Domain",
+    "value": "nikon"
+  },
+  {
+    "type": "Domain",
+    "value": "nokia"
+  },
+  {
+    "type": "Domain",
+    "value": "panasonic"
+  },
+  {
+    "type": "Domain",
+    "value": "philips"
+  },
+  {
+    "type": "Domain",
+    "value": "pioneer"
+  },
+  {
+    "type": "Domain",
+    "value": "samsung"
+  },
+  {
+    "type": "Domain",
+    "value": "sharp"
+  },
+  {
+    "type": "Domain",
+    "value": "sony"
+  },
+  {
+    "type": "Domain",
+    "value": "toshiba"
+  },
+  {
+    "type": "Domain",
+    "value": "yodobashi"
+  },
+  {
+    "type": "Domain",
+    "value": "allfinanz"
+  },
+  {
+    "type": "Domain",
+    "value": "ally"
+  },
+  {
+    "type": "Domain",
+    "value": "americanexpress"
+  },
+  {
+    "type": "Domain",
+    "value": "amex"
+  },
+  {
+    "type": "Domain",
+    "value": "anz"
+  },
+  {
+    "type": "Domain",
+    "value": "banamex"
+  },
+  {
+    "type": "Domain",
+    "value": "barclaycard"
+  },
+  {
+    "type": "Domain",
+    "value": "barclays"
+  },
+  {
+    "type": "Domain",
+    "value": "bbt"
+  },
+  {
+    "type": "Domain",
+    "value": "bbva"
+  },
+  {
+    "type": "Domain",
+    "value": "bnpparibas"
+  },
+  {
+    "type": "Domain",
+    "value": "bofa"
+  },
+  {
+    "type": "Domain",
+    "value": "bradesco"
+  },
+  {
+    "type": "Domain",
+    "value": "capitalone"
+  },
+  {
+    "type": "Domain",
+    "value": "cba"
+  },
+  {
+    "type": "Domain",
+    "value": "cfa"
+  },
+  {
+    "type": "Domain",
+    "value": "citadel"
+  },
+  {
+    "type": "Domain",
+    "value": "citi"
+  },
+  {
+    "type": "Domain",
+    "value": "commbank"
+  },
+  {
+    "type": "Domain",
+    "value": "deloitte"
+  },
+  {
+    "type": "Domain",
+    "value": "discover"
+  },
+  {
+    "type": "Domain",
+    "value": "fidelity"
+  },
+  {
+    "type": "Domain",
+    "value": "hdfcbank"
+  },
+  {
+    "type": "Domain",
+    "value": "hdfc"
+  },
+  {
+    "type": "Domain",
+    "value": "hsbc"
+  },
+  {
+    "type": "Domain",
+    "value": "itau"
+  },
+  {
+    "type": "Domain",
+    "value": "jcb"
+  },
+  {
+    "type": "Domain",
+    "value": "jll"
+  },
+  {
+    "type": "Domain",
+    "value": "kfh"
+  },
+  {
+    "type": "Domain",
+    "value": "kpmg"
+  },
+  {
+    "type": "Domain",
+    "value": "lacaixa"
+  },
+  {
+    "type": "Domain",
+    "value": "lasalle"
+  },
+  {
+    "type": "Domain",
+    "value": "lplfinancial"
+  },
+  {
+    "type": "Domain",
+    "value": "lpl"
+  },
+  {
+    "type": "Domain",
+    "value": "nab"
+  },
+  {
+    "type": "Domain",
+    "value": "netbank"
+  },
+  {
+    "type": "Domain",
+    "value": "open"
+  },
+  {
+    "type": "Domain",
+    "value": "pictet"
+  },
+  {
+    "type": "Domain",
+    "value": "pnc"
+  },
+  {
+    "type": "Domain",
+    "value": "pohl"
+  },
+  {
+    "type": "Domain",
+    "value": "pramerica"
+  },
+  {
+    "type": "Domain",
+    "value": "prudential"
+  },
+  {
+    "type": "Domain",
+    "value": "pru"
+  },
+  {
+    "type": "Domain",
+    "value": "pwc"
+  },
+  {
+    "type": "Domain",
+    "value": "sbi"
+  },
+  {
+    "type": "Domain",
+    "value": "scb"
+  },
+  {
+    "type": "Domain",
+    "value": "softbank"
+  },
+  {
+    "type": "Domain",
+    "value": "statebank"
+  },
+  {
+    "type": "Domain",
+    "value": "temasek"
+  },
+  {
+    "type": "Domain",
+    "value": "ubank"
+  },
+  {
+    "type": "Domain",
+    "value": "ubs"
+  },
+  {
+    "type": "Domain",
+    "value": "vanguard"
+  },
+  {
+    "type": "Domain",
+    "value": "visa"
+  },
+  {
+    "type": "Domain",
+    "value": "wolterskluwer"
+  },
+  {
+    "type": "Domain",
+    "value": "aquarelle"
+  },
+  {
+    "type": "Domain",
+    "value": "diy"
+  },
+  {
+    "type": "Domain",
+    "value": "homedepot"
+  },
+  {
+    "type": "Domain",
+    "value": "homegoods"
+  },
+  {
+    "type": "Domain",
+    "value": "aig"
+  },
+  {
+    "type": "Domain",
+    "value": "allstate"
+  },
+  {
+    "type": "Domain",
+    "value": "americanfamily"
+  },
+  {
+    "type": "Domain",
+    "value": "amfam"
+  },
+  {
+    "type": "Domain",
+    "value": "amica"
+  },
+  {
+    "type": "Domain",
+    "value": "axa"
+  },
+  {
+    "type": "Domain",
+    "value": "farmers"
+  },
+  {
+    "type": "Domain",
+    "value": "mma"
+  },
+  {
+    "type": "Domain",
+    "value": "nissay"
+  },
+  {
+    "type": "Domain",
+    "value": "progressive"
+  },
+  {
+    "type": "Domain",
+    "value": "redumbrella"
+  },
+  {
+    "type": "Domain",
+    "value": "statefarm"
+  },
+  {
+    "type": "Domain",
+    "value": "tiaa"
+  },
+  {
+    "type": "Domain",
+    "value": "travelersinsurance"
+  },
+  {
+    "type": "Domain",
+    "value": "travelers"
+  },
+  {
+    "type": "Domain",
+    "value": "trv"
+  },
+  {
+    "type": "Domain",
+    "value": "vig"
+  },
+  {
+    "type": "Domain",
+    "value": "beats"
+  },
+  {
+    "type": "Domain",
+    "value": "blockbuster"
+  },
+  {
+    "type": "Domain",
+    "value": "netflix"
+  },
+  {
+    "type": "Domain",
+    "value": "playstation"
+  },
+  {
+    "type": "Domain",
+    "value": "tab"
+  },
+  {
+    "type": "Domain",
+    "value": "williamhill"
+  },
+  {
+    "type": "Domain",
+    "value": "xbox"
+  },
+  {
+    "type": "Domain",
+    "value": "asda"
+  },
+  {
+    "type": "Domain",
+    "value": "george"
+  },
+  {
+    "type": "Domain",
+    "value": "homesense"
+  },
+  {
+    "type": "Domain",
+    "value": "lego"
+  },
+  {
+    "type": "Domain",
+    "value": "marshalls"
+  },
+  {
+    "type": "Domain",
+    "value": "obi"
+  },
+  {
+    "type": "Domain",
+    "value": "samsclub"
+  },
+  {
+    "type": "Domain",
+    "value": "staples"
+  },
+  {
+    "type": "Domain",
+    "value": "target"
+  },
+  {
+    "type": "Domain",
+    "value": "thd"
+  },
+  {
+    "type": "Domain",
+    "value": "tjmaxx"
+  },
+  {
+    "type": "Domain",
+    "value": "tjx"
+  },
+  {
+    "type": "Domain",
+    "value": "tkmaxx"
+  },
+  {
+    "type": "Domain",
+    "value": "walmart"
+  },
+  {
+    "type": "Domain",
+    "value": "abb"
+  },
+  {
+    "type": "Domain",
+    "value": "accenture"
+  },
+  {
+    "type": "Domain",
+    "value": "aco"
+  },
+  {
+    "type": "Domain",
+    "value": "airtel"
+  },
+  {
+    "type": "Domain",
+    "value": "amazon"
+  },
+  {
+    "type": "Domain",
+    "value": "aol"
+  },
+  {
+    "type": "Domain",
+    "value": "aws"
+  },
+  {
+    "type": "Domain",
+    "value": "azure"
+  },
+  {
+    "type": "Domain",
+    "value": "chrome"
+  },
+  {
+    "type": "Domain",
+    "value": "cisco"
+  },
+  {
+    "type": "Domain",
+    "value": "dclk"
+  },
+  {
+    "type": "Domain",
+    "value": "dish"
+  },
+  {
+    "type": "Domain",
+    "value": "dtv"
+  },
+  {
+    "type": "Domain",
+    "value": "epson"
+  },
+  {
+    "type": "Domain",
+    "value": "ericsson"
+  },
+  {
+    "type": "Domain",
+    "value": "fairwinds"
+  },
+  {
+    "type": "Domain",
+    "value": "fido"
+  },
+  {
+    "type": "Domain",
+    "value": "flickr"
+  },
+  {
+    "type": "Domain",
+    "value": "frogans"
+  },
+  {
+    "type": "Domain",
+    "value": "frontier"
+  },
+  {
+    "type": "Domain",
+    "value": "ftr"
+  },
+  {
+    "type": "Domain",
+    "value": "gbiz"
+  },
+  {
+    "type": "Domain",
+    "value": "gea"
+  },
+  {
+    "type": "Domain",
+    "value": "ggee"
+  },
+  {
+    "type": "Domain",
+    "value": "gle"
+  },
+  {
+    "type": "Domain",
+    "value": "gmail"
+  },
+  {
+    "type": "Domain",
+    "value": "gmo"
+  },
+  {
+    "type": "Domain",
+    "value": "gmx"
+  },
+  {
+    "type": "Domain",
+    "value": "godaddy"
+  },
+  {
+    "type": "Domain",
+    "value": "goog"
+  },
+  {
+    "type": "Domain",
+    "value": "google"
+  },
+  {
+    "type": "Domain",
+    "value": "goo"
+  },
+  {
+    "type": "Domain",
+    "value": "guge"
+  },
+  {
+    "type": "Domain",
+    "value": "hangout"
+  },
+  {
+    "type": "Domain",
+    "value": "hkt"
+  },
+  {
+    "type": "Domain",
+    "value": "hotmail"
+  },
+  {
+    "type": "Domain",
+    "value": "hughes"
+  },
+  {
+    "type": "Domain",
+    "value": "ieee"
+  },
+  {
+    "type": "Domain",
+    "value": "intuit"
+  },
+  {
+    "type": "Domain",
+    "value": "java"
+  },
+  {
+    "type": "Domain",
+    "value": "jmp"
+  },
+  {
+    "type": "Domain",
+    "value": "jprs"
+  },
+  {
+    "type": "Domain",
+    "value": "juniper"
+  },
+  {
+    "type": "Domain",
+    "value": "kddi"
+  },
+  {
+    "type": "Domain",
+    "value": "kindle"
+  },
+  {
+    "type": "Domain",
+    "value": "kpn"
+  },
+  {
+    "type": "Domain",
+    "value": "lanxess"
+  },
+  {
+    "type": "Domain",
+    "value": "locker"
+  },
+  {
+    "type": "Domain",
+    "value": "microsoft"
+  },
+  {
+    "type": "Domain",
+    "value": "mint"
+  },
+  {
+    "type": "Domain",
+    "value": "mit"
+  },
+  {
+    "type": "Domain",
+    "value": "mtn"
+  },
+  {
+    "type": "Domain",
+    "value": "nec"
+  },
+  {
+    "type": "Domain",
+    "value": "neustar"
+  },
+  {
+    "type": "Domain",
+    "value": "nexus"
+  },
+  {
+    "type": "Domain",
+    "value": "nico"
+  },
+  {
+    "type": "Domain",
+    "value": "norton"
+  },
+  {
+    "type": "Domain",
+    "value": "ntt"
+  },
+  {
+    "type": "Domain",
+    "value": "office"
+  },
+  {
+    "type": "Domain",
+    "value": "ollo"
+  },
+  {
+    "type": "Domain",
+    "value": "oracle"
+  },
+  {
+    "type": "Domain",
+    "value": "orange"
+  },
+  {
+    "type": "Domain",
+    "value": "ovh"
+  },
+  {
+    "type": "Domain",
+    "value": "pccw"
+  },
+  {
+    "type": "Domain",
+    "value": "richardli"
+  },
+  {
+    "type": "Domain",
+    "value": "ricoh"
+  },
+  {
+    "type": "Domain",
+    "value": "rogers"
+  },
+  {
+    "type": "Domain",
+    "value": "sakura"
+  },
+  {
+    "type": "Domain",
+    "value": "sfr"
+  },
+  {
+    "type": "Domain",
+    "value": "shaw"
+  },
+  {
+    "type": "Domain",
+    "value": "skype"
+  },
+  {
+    "type": "Domain",
+    "value": "sling"
+  },
+  {
+    "type": "Domain",
+    "value": "smart"
+  },
+  {
+    "type": "Domain",
+    "value": "stcgroup"
+  },
+  {
+    "type": "Domain",
+    "value": "stc"
+  },
+  {
+    "type": "Domain",
+    "value": "tci"
+  },
+  {
+    "type": "Domain",
+    "value": "tdk"
+  },
+  {
+    "type": "Domain",
+    "value": "uol"
+  },
+  {
+    "type": "Domain",
+    "value": "verisign"
+  },
+  {
+    "type": "Domain",
+    "value": "viva"
+  },
+  {
+    "type": "Domain",
+    "value": "vivo"
+  },
+  {
+    "type": "Domain",
+    "value": "windows"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo"
+  },
+  {
+    "type": "Domain",
+    "value": "yamaxun"
+  },
+  {
+    "type": "Domain",
+    "value": "yandex"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube"
+  },
+  {
+    "type": "Domain",
+    "value": "zappos"
+  },
+  {
+    "type": "Domain",
+    "value": "chanel"
+  },
+  {
+    "type": "Domain",
+    "value": "clinique"
+  },
+  {
+    "type": "Domain",
+    "value": "lamer"
+  },
+  {
+    "type": "Domain",
+    "value": "natura"
+  },
+  {
+    "type": "Domain",
+    "value": "origins"
+  },
+  {
+    "type": "Domain",
+    "value": "barefoot"
+  },
+  {
+    "type": "Domain",
+    "value": "cuisinella"
+  },
+  {
+    "type": "Domain",
+    "value": "edeka"
+  },
+  {
+    "type": "Domain",
+    "value": "fage"
+  },
+  {
+    "type": "Domain",
+    "value": "ferrero"
+  },
+  {
+    "type": "Domain",
+    "value": "food"
+  },
+  {
+    "type": "Domain",
+    "value": "gallo"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--5su34j936bgsg"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--b4w605ferd"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--cckwcxetd"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--cg4bki"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--flw351e"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--fzys8d69uvgm"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--jlq480n2rg"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--kcrx77d1x4a"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--mgba3a3ejt"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--mgba7c0bbn0a"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--ngbe9e0a"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--qcka1pmc"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--w4r85el8fhu5dnra"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--w4rs40l"
+  },
+  {
+    "type": "Domain",
+    "value": "caravan"
+  },
+  {
+    "type": "Domain",
+    "value": "cipriani"
+  },
+  {
+    "type": "Domain",
+    "value": "clubmed"
+  },
+  {
+    "type": "Domain",
+    "value": "delta"
+  },
+  {
+    "type": "Domain",
+    "value": "firmdale"
+  },
+  {
+    "type": "Domain",
+    "value": "hyatt"
+  },
+  {
+    "type": "Domain",
+    "value": "kerryhotels"
+  },
+  {
+    "type": "Domain",
+    "value": "kerryproperties"
+  },
+  {
+    "type": "Domain",
+    "value": "marriott"
+  },
+  {
+    "type": "Domain",
+    "value": "shangrila"
+  },
+  {
+    "type": "Domain",
+    "value": "tui"
+  },
+  {
+    "type": "Domain",
+    "value": "viking"
+  },
+  {
+    "type": "Domain",
+    "value": "able"
+  },
+  {
+    "type": "Domain",
+    "value": "cbre"
+  },
+  {
+    "type": "Domain",
+    "value": "chintai"
+  },
+  {
+    "type": "Domain",
+    "value": "lefrak"
+  },
+  {
+    "type": "Domain",
+    "value": "abc"
+  },
+  {
+    "type": "Domain",
+    "value": "arte"
+  },
+  {
+    "type": "Domain",
+    "value": "bbc"
+  },
+  {
+    "type": "Domain",
+    "value": "cbn"
+  },
+  {
+    "type": "Domain",
+    "value": "eurovision"
+  },
+  {
+    "type": "Domain",
+    "value": "fox"
+  },
+  {
+    "type": "Domain",
+    "value": "gallup"
+  },
+  {
+    "type": "Domain",
+    "value": "globo"
+  },
+  {
+    "type": "Domain",
+    "value": "hbo"
+  },
+  {
+    "type": "Domain",
+    "value": "imdb"
+  },
+  {
+    "type": "Domain",
+    "value": "itv"
+  },
+  {
+    "type": "Domain",
+    "value": "nhk"
+  },
+  {
+    "type": "Domain",
+    "value": "nowtv"
+  },
+  {
+    "type": "Domain",
+    "value": "sbs"
+  },
+  {
+    "type": "Domain",
+    "value": "seven"
+  },
+  {
+    "type": "Domain",
+    "value": "sky"
+  },
+  {
+    "type": "Domain",
+    "value": "weatherchannel"
+  },
+  {
+    "type": "Domain",
+    "value": "bauhaus"
+  },
+  {
+    "type": "Domain",
+    "value": "latrobe"
+  },
+  {
+    "type": "Domain",
+    "value": "monash"
+  },
+  {
+    "type": "Domain",
+    "value": "meme"
+  },
+  {
+    "type": "Domain",
+    "value": "ing"
+  },
+  {
+    "type": "Domain",
+    "value": "foo"
+  },
+  {
+    "type": "Domain",
+    "value": "zip"
+  },
+  {
+    "type": "Domain",
+    "value": "mov"
+  },
+  {
+    "type": "Domain",
+    "value": "dad"
+  },
+  {
+    "type": "Domain",
+    "value": "phd"
+  },
+  {
+    "type": "Domain",
+    "value": "prof"
+  },
+  {
+    "type": "Domain",
+    "value": "esq"
+  },
+  {
+    "type": "Domain",
+    "value": "rsvp"
+  },
+  {
+    "type": "Domain",
+    "value": "boo"
+  },
+  {
+    "type": "Domain",
+    "value": "day"
+  },
+  {
+    "type": "Domain",
+    "value": "new"
+  },
+  {
+    "type": "Domain",
+    "value": "dev"
+  },
+  {
+    "type": "Domain",
+    "value": "page"
+  },
+  {
+    "type": "Domain",
+    "value": "app"
+  },
+  {
+    "type": "Domain",
+    "value": "how"
+  },
+  {
+    "type": "Domain",
+    "value": "soy"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--q9jyb4c"
+  },
+  {
+    "type": "Domain",
+    "value": "moscow"
+  },
+  {
+    "type": "Domain",
+    "value": "ru"
+  },
+  {
+    "type": "Domain",
+    "value": "su"
+  },
+  {
+    "type": "Domain",
+    "value": "tatar"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--80adxhks"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--80asehdb"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--80aswg"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--c1avg"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--d1acj3b"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--p1acf"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--p1ai"
+  }
+]

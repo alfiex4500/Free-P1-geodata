@@ -1,0 +1,121 @@
+[
+  {
+    "type": "Domain",
+    "value": "genshinimpact.com"
+  },
+  {
+    "type": "Domain",
+    "value": "honkaiimpact3.com"
+  },
+  {
+    "type": "Domain",
+    "value": "honkaistarrail.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hoyo.link"
+  },
+  {
+    "type": "Domain",
+    "value": "hoyolab.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hoyoverse.com"
+  },
+  {
+    "type": "Domain",
+    "value": "n0vadesktop.com"
+  },
+  {
+    "type": "Domain",
+    "value": "zenlesszonezero.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mhystatic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mhyurl.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "mihayo.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mihayou.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mihoyo.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mihoyocg.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mihoyogift.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mihoyomall.com"
+  },
+  {
+    "type": "Domain",
+    "value": "miyoushe.com"
+  },
+  {
+    "type": "Domain",
+    "value": "benghuai.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bh3.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bhsr.com"
+  },
+  {
+    "type": "Domain",
+    "value": "themisweeps.com"
+  },
+  {
+    "type": "Domain",
+    "value": "yuanshen.com"
+  },
+  {
+    "type": "Domain",
+    "value": "juequling.com"
+  },
+  {
+    "type": "Domain",
+    "value": "log-upload-os.hoyoverse.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Regex",
+    "value": "^.+-mihayo\\.akamaized\\.net$",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "log-upload.mihoyo.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  }
+]

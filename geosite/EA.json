@@ -1,0 +1,662 @@
+[
+  {
+    "type": "Full",
+    "value": "ea.tt.omtrdc.net"
+  },
+  {
+    "type": "Full",
+    "value": "eaassets-a.akamaihd.net"
+  },
+  {
+    "type": "Full",
+    "value": "cloudsync-prod.s3.amazonaws.com"
+  },
+  {
+    "type": "Full",
+    "value": "origin-a.akamaihd.net"
+  },
+  {
+    "type": "Full",
+    "value": "rtm.tnt-ea.com"
+  },
+  {
+    "type": "Full",
+    "value": "ssl-lvlt.cdn.ea.com"
+  },
+  {
+    "type": "Domain",
+    "value": "awayoutgame.com"
+  },
+  {
+    "type": "Domain",
+    "value": "battlefieldbadcompany2.com"
+  },
+  {
+    "type": "Domain",
+    "value": "battlefront2.com"
+  },
+  {
+    "type": "Domain",
+    "value": "battlefrontii.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bejewled-stars.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bejeweledstars.com"
+  },
+  {
+    "type": "Domain",
+    "value": "capitalgames.com"
+  },
+  {
+    "type": "Domain",
+    "value": "chillingo.com"
+  },
+  {
+    "type": "Domain",
+    "value": "commandandconquer.com"
+  },
+  {
+    "type": "Domain",
+    "value": "conquerwithcharacter.com"
+  },
+  {
+    "type": "Domain",
+    "value": "crysis.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "dawngate.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dawngatechronicles.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dicela.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dicela.net"
+  },
+  {
+    "type": "Domain",
+    "value": "ea-anz-press.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ea.com"
+  },
+  {
+    "type": "Domain",
+    "value": "eaaccess.com"
+  },
+  {
+    "type": "Domain",
+    "value": "eacashcard.com"
+  },
+  {
+    "type": "Domain",
+    "value": "eacodigos.com"
+  },
+  {
+    "type": "Domain",
+    "value": "eamobile.com"
+  },
+  {
+    "type": "Domain",
+    "value": "eanordic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "eaplay.com"
+  },
+  {
+    "type": "Domain",
+    "value": "easports.com"
+  },
+  {
+    "type": "Domain",
+    "value": "easports.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "easportsactive.com"
+  },
+  {
+    "type": "Domain",
+    "value": "easportsactiveonline.com"
+  },
+  {
+    "type": "Domain",
+    "value": "easportsfootball.com"
+  },
+  {
+    "type": "Domain",
+    "value": "easportsfootballclub.com"
+  },
+  {
+    "type": "Domain",
+    "value": "easportsmma.com"
+  },
+  {
+    "type": "Domain",
+    "value": "easportsworld.com"
+  },
+  {
+    "type": "Domain",
+    "value": "electronicarts.com"
+  },
+  {
+    "type": "Domain",
+    "value": "electronicarts.fr"
+  },
+  {
+    "type": "Domain",
+    "value": "futpromos.com"
+  },
+  {
+    "type": "Domain",
+    "value": "futunited.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ghostgames.com"
+  },
+  {
+    "type": "Domain",
+    "value": "heroesofdragonage.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hutpromos.com"
+  },
+  {
+    "type": "Domain",
+    "value": "maddenchampionship.com"
+  },
+  {
+    "type": "Domain",
+    "value": "maddenrewards.com"
+  },
+  {
+    "type": "Domain",
+    "value": "maddenseason.info"
+  },
+  {
+    "type": "Domain",
+    "value": "maddenseason.net"
+  },
+  {
+    "type": "Domain",
+    "value": "maddenseason.org"
+  },
+  {
+    "type": "Domain",
+    "value": "maxis.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mysimsracing.com"
+  },
+  {
+    "type": "Domain",
+    "value": "play4free.com"
+  },
+  {
+    "type": "Domain",
+    "value": "playapex.com"
+  },
+  {
+    "type": "Domain",
+    "value": "pogo.com"
+  },
+  {
+    "type": "Domain",
+    "value": "pogobeta.com"
+  },
+  {
+    "type": "Domain",
+    "value": "popcap.com"
+  },
+  {
+    "type": "Domain",
+    "value": "projectapex.com"
+  },
+  {
+    "type": "Domain",
+    "value": "pvzheroes.com"
+  },
+  {
+    "type": "Domain",
+    "value": "spearhead.kr"
+  },
+  {
+    "type": "Domain",
+    "value": "speedhunters.com"
+  },
+  {
+    "type": "Domain",
+    "value": "spore.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ssx3.com"
+  },
+  {
+    "type": "Domain",
+    "value": "starwarsbattlefront.com"
+  },
+  {
+    "type": "Domain",
+    "value": "starwarsbattlefront2.com"
+  },
+  {
+    "type": "Domain",
+    "value": "tiberiumalliances.com"
+  },
+  {
+    "type": "Domain",
+    "value": "tiburon.com"
+  },
+  {
+    "type": "Domain",
+    "value": "tnt-ea.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ultimaforever.com"
+  },
+  {
+    "type": "Domain",
+    "value": "unravel2.com"
+  },
+  {
+    "type": "Domain",
+    "value": "unraveltwo.com"
+  },
+  {
+    "type": "Domain",
+    "value": "visceralgames.com"
+  },
+  {
+    "type": "Domain",
+    "value": "yogify.com"
+  },
+  {
+    "type": "Domain",
+    "value": "anthemgame.com"
+  },
+  {
+    "type": "Domain",
+    "value": "anthemthegame.com"
+  },
+  {
+    "type": "Domain",
+    "value": "apexlegends.com"
+  },
+  {
+    "type": "Domain",
+    "value": "battlefield.com"
+  },
+  {
+    "type": "Domain",
+    "value": "battlefield1943.com"
+  },
+  {
+    "type": "Domain",
+    "value": "battlefield3.com"
+  },
+  {
+    "type": "Domain",
+    "value": "battlefield4.com"
+  },
+  {
+    "type": "Domain",
+    "value": "battlefield5.com"
+  },
+  {
+    "type": "Domain",
+    "value": "battlefieldheroes.com"
+  },
+  {
+    "type": "Domain",
+    "value": "battlefieldv.com"
+  },
+  {
+    "type": "Domain",
+    "value": "battlelog.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bioware.com"
+  },
+  {
+    "type": "Domain",
+    "value": "biowarestore.com"
+  },
+  {
+    "type": "Domain",
+    "value": "eamythic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "eamythic.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cncrivals.com"
+  },
+  {
+    "type": "Domain",
+    "value": "camelot-europe.com"
+  },
+  {
+    "type": "Domain",
+    "value": "camelotherald.com"
+  },
+  {
+    "type": "Domain",
+    "value": "camelotherald.net"
+  },
+  {
+    "type": "Domain",
+    "value": "daoc.net"
+  },
+  {
+    "type": "Domain",
+    "value": "darkageofcamelot.com"
+  },
+  {
+    "type": "Domain",
+    "value": "darkness-risen.com"
+  },
+  {
+    "type": "Domain",
+    "value": "deadspacegame.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dice.se"
+  },
+  {
+    "type": "Domain",
+    "value": "dragonage.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dragonagekeep.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dragonagemovie.com"
+  },
+  {
+    "type": "Domain",
+    "value": "thedreadwolfrises.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dungeonkeeper.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "dungeonkeeper.com"
+  },
+  {
+    "type": "Domain",
+    "value": "eafootballworld.com"
+  },
+  {
+    "type": "Domain",
+    "value": "fifastreet.com"
+  },
+  {
+    "type": "Domain",
+    "value": "fifastreet3.com"
+  },
+  {
+    "type": "Domain",
+    "value": "frostbite.com"
+  },
+  {
+    "type": "Domain",
+    "value": "industrialtoys.com"
+  },
+  {
+    "type": "Domain",
+    "value": "masseffect.com"
+  },
+  {
+    "type": "Domain",
+    "value": "masseffectarchives.com"
+  },
+  {
+    "type": "Domain",
+    "value": "eamirrorsedge.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mirrorsedge.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mirrorsedge.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "mirrorsedge.net"
+  },
+  {
+    "type": "Domain",
+    "value": "mirrorsedge2.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mirrorsedge2d.com"
+  },
+  {
+    "type": "Domain",
+    "value": "blackboxgames.com"
+  },
+  {
+    "type": "Domain",
+    "value": "eablackbox.com"
+  },
+  {
+    "type": "Domain",
+    "value": "needforspeed.com"
+  },
+  {
+    "type": "Domain",
+    "value": "needforspeedboost.com"
+  },
+  {
+    "type": "Domain",
+    "value": "needforspeeddriftkings.com"
+  },
+  {
+    "type": "Domain",
+    "value": "needforspeedeliminator.com"
+  },
+  {
+    "type": "Domain",
+    "value": "needforspeedlightning.com"
+  },
+  {
+    "type": "Domain",
+    "value": "needforspeedoverdrive.com"
+  },
+  {
+    "type": "Domain",
+    "value": "needforspeedproven.com"
+  },
+  {
+    "type": "Domain",
+    "value": "needforspeedredline.com"
+  },
+  {
+    "type": "Domain",
+    "value": "needforspeedshowdown.com"
+  },
+  {
+    "type": "Domain",
+    "value": "needforspeedstreetkings.com"
+  },
+  {
+    "type": "Domain",
+    "value": "needforspeedtakedown.com"
+  },
+  {
+    "type": "Domain",
+    "value": "needforspeedtherun.com"
+  },
+  {
+    "type": "Domain",
+    "value": "needforspeedtimeattack.com"
+  },
+  {
+    "type": "Domain",
+    "value": "needforspeedundergroundeast.com"
+  },
+  {
+    "type": "Domain",
+    "value": "nfsworld.com"
+  },
+  {
+    "type": "Domain",
+    "value": "teamneedforspeed.com"
+  },
+  {
+    "type": "Domain",
+    "value": "plantsvszombies2.com"
+  },
+  {
+    "type": "Domain",
+    "value": "pvzgw2.com"
+  },
+  {
+    "type": "Domain",
+    "value": "seaofsolitude.com"
+  },
+  {
+    "type": "Domain",
+    "value": "simcity-buildit.com"
+  },
+  {
+    "type": "Domain",
+    "value": "simcity.com"
+  },
+  {
+    "type": "Domain",
+    "value": "skate2.com"
+  },
+  {
+    "type": "Domain",
+    "value": "starwarsfallenorder.com"
+  },
+  {
+    "type": "Domain",
+    "value": "starwarsjedifallenorder.com"
+  },
+  {
+    "type": "Domain",
+    "value": "starwarstheoldrepublic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "swjedifallenorder.com"
+  },
+  {
+    "type": "Domain",
+    "value": "swjfo.com"
+  },
+  {
+    "type": "Domain",
+    "value": "swtor.com"
+  },
+  {
+    "type": "Domain",
+    "value": "swtor.net"
+  },
+  {
+    "type": "Domain",
+    "value": "mysims.com"
+  },
+  {
+    "type": "Domain",
+    "value": "thesims.com"
+  },
+  {
+    "type": "Domain",
+    "value": "thesims3.com"
+  },
+  {
+    "type": "Domain",
+    "value": "thesims4.com"
+  },
+  {
+    "type": "Domain",
+    "value": "thesimssocial.com"
+  },
+  {
+    "type": "Domain",
+    "value": "titanfall.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mythicentertainment.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mythicentertainment.net"
+  },
+  {
+    "type": "Domain",
+    "value": "mythicgames.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ultimaonline.com"
+  },
+  {
+    "type": "Domain",
+    "value": "uo.com"
+  },
+  {
+    "type": "Domain",
+    "value": "uoherald.com"
+  },
+  {
+    "type": "Domain",
+    "value": "xdsummit.com"
+  },
+  {
+    "type": "Domain",
+    "value": "eastore.com"
+  },
+  {
+    "type": "Domain",
+    "value": "lordofultima.com"
+  },
+  {
+    "type": "Domain",
+    "value": "origin.com"
+  },
+  {
+    "type": "Domain",
+    "value": "origin.tv"
+  },
+  {
+    "type": "Domain",
+    "value": "eakorea.co.kr"
+  },
+  {
+    "type": "Domain",
+    "value": "dungeonkeeper.com.cn"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "type": "Domain",
+    "value": "blogjava.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cnblogs.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cnitblog.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cnweblog.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cppblog.com"
+  },
+  {
+    "type": "Domain",
+    "value": "phpweblog.net"
+  },
+  {
+    "type": "Domain",
+    "value": "teachblog.net"
+  }
+]

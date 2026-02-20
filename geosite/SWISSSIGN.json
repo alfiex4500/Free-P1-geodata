@@ -1,0 +1,126 @@
+[
+  {
+    "type": "Domain",
+    "value": "digital-id.ch"
+  },
+  {
+    "type": "Domain",
+    "value": "digitalid.ch"
+  },
+  {
+    "type": "Domain",
+    "value": "managed-pki.ch"
+  },
+  {
+    "type": "Domain",
+    "value": "managed-pki.de"
+  },
+  {
+    "type": "Domain",
+    "value": "pki-post.ch"
+  },
+  {
+    "type": "Domain",
+    "value": "pki-posta.ch"
+  },
+  {
+    "type": "Domain",
+    "value": "pki-poste.ch"
+  },
+  {
+    "type": "Domain",
+    "value": "root-signing.ch"
+  },
+  {
+    "type": "Domain",
+    "value": "rootsigning.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ssl-certificate.ch"
+  },
+  {
+    "type": "Domain",
+    "value": "swissid.ch"
+  },
+  {
+    "type": "Domain",
+    "value": "swissign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "swissign.li"
+  },
+  {
+    "type": "Domain",
+    "value": "swisssign-group.ch"
+  },
+  {
+    "type": "Domain",
+    "value": "swisssign-group.com"
+  },
+  {
+    "type": "Domain",
+    "value": "swisssign-group.li"
+  },
+  {
+    "type": "Domain",
+    "value": "swisssign.ch"
+  },
+  {
+    "type": "Domain",
+    "value": "swisssign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "swisssign.li"
+  },
+  {
+    "type": "Domain",
+    "value": "swisssign.net"
+  },
+  {
+    "type": "Domain",
+    "value": "swisssign.org"
+  },
+  {
+    "type": "Domain",
+    "value": "swisssigner.ch"
+  },
+  {
+    "type": "Domain",
+    "value": "swisssigner.com"
+  },
+  {
+    "type": "Domain",
+    "value": "swisssigngroup.ch"
+  },
+  {
+    "type": "Domain",
+    "value": "swisssigngroup.com"
+  },
+  {
+    "type": "Domain",
+    "value": "swissstick.com"
+  },
+  {
+    "type": "Domain",
+    "value": "swisstsa.ch"
+  },
+  {
+    "type": "Domain",
+    "value": "swisstsa.li"
+  },
+  {
+    "type": "Domain",
+    "value": "trustdoc.ch"
+  },
+  {
+    "type": "Domain",
+    "value": "trustsign.ch"
+  },
+  {
+    "type": "Domain",
+    "value": "zert.ch"
+  }
+]

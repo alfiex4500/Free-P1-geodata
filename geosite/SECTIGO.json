@@ -1,0 +1,111 @@
+[
+  {
+    "type": "Domain",
+    "value": "enterprisessl.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hackerguardian.com"
+  },
+  {
+    "type": "Domain",
+    "value": "instantssl.com"
+  },
+  {
+    "type": "Domain",
+    "value": "optimumssl.com"
+  },
+  {
+    "type": "Domain",
+    "value": "positivessl.com"
+  },
+  {
+    "type": "Domain",
+    "value": "sectigo.com"
+  },
+  {
+    "type": "Domain",
+    "value": "trust-provider.com"
+  },
+  {
+    "type": "Domain",
+    "value": "usertrust.com"
+  },
+  {
+    "type": "Domain",
+    "value": "aoc.cat"
+  },
+  {
+    "type": "Domain",
+    "value": "catcert.cat"
+  },
+  {
+    "type": "Domain",
+    "value": "incommon-rsa.org"
+  },
+  {
+    "type": "Domain",
+    "value": "netsolssl.com"
+  },
+  {
+    "type": "Domain",
+    "value": "comodoca.com"
+  },
+  {
+    "type": "Domain",
+    "value": "comodoca2.com"
+  },
+  {
+    "type": "Domain",
+    "value": "comodoca3.com"
+  },
+  {
+    "type": "Domain",
+    "value": "comodoca4.com"
+  },
+  {
+    "type": "Domain",
+    "value": "oemssl.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "oemssl.cn.cdn.cloudflare.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "sectigochina.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "sectigochina.com.cdn.cloudflare.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "trust-provider.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

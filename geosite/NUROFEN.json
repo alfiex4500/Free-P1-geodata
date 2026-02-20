@@ -1,0 +1,124 @@
+[
+  {
+    "type": "Full",
+    "value": "nurofensk-prod-env.eu-west-1.elasticbeanstalk.com"
+  },
+  {
+    "type": "Domain",
+    "value": "nurofen.fr"
+  },
+  {
+    "type": "Domain",
+    "value": "nurofen.pl"
+  },
+  {
+    "type": "Domain",
+    "value": "nurofen.at"
+  },
+  {
+    "type": "Domain",
+    "value": "nurofengel.com"
+  },
+  {
+    "type": "Domain",
+    "value": "nurofen.hr"
+  },
+  {
+    "type": "Domain",
+    "value": "nurofen.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "nurofen.com"
+  },
+  {
+    "type": "Domain",
+    "value": "nurofen.hu"
+  },
+  {
+    "type": "Domain",
+    "value": "nurofen.sk"
+  },
+  {
+    "type": "Domain",
+    "value": "nurofen.cz"
+  },
+  {
+    "type": "Domain",
+    "value": "nurofen.de"
+  },
+  {
+    "type": "Domain",
+    "value": "nurofen.es"
+  },
+  {
+    "type": "Domain",
+    "value": "nurofen.ro"
+  },
+  {
+    "type": "Domain",
+    "value": "nurofen.pt"
+  },
+  {
+    "type": "Domain",
+    "value": "nurofen.bg"
+  },
+  {
+    "type": "Domain",
+    "value": "nurofen.ie"
+  },
+  {
+    "type": "Domain",
+    "value": "nurofen.it"
+  },
+  {
+    "type": "Domain",
+    "value": "nurofen.net"
+  },
+  {
+    "type": "Domain",
+    "value": "nurofen.no"
+  },
+  {
+    "type": "Domain",
+    "value": "nurofen.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "nurofen.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "nurofen.co.il"
+  },
+  {
+    "type": "Domain",
+    "value": "nurofen.com.sg"
+  },
+  {
+    "type": "Domain",
+    "value": "nurofen.co.za"
+  },
+  {
+    "type": "Domain",
+    "value": "nurofen.co.nz"
+  },
+  {
+    "type": "Domain",
+    "value": "nurofen.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "nurofen.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

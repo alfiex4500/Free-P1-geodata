@@ -1,0 +1,55 @@
+[
+  {
+    "type": "Domain",
+    "value": "hongxiu.com"
+  },
+  {
+    "type": "Domain",
+    "value": "lrts.me"
+  },
+  {
+    "type": "Domain",
+    "value": "qdmm.com"
+  },
+  {
+    "type": "Domain",
+    "value": "qidian.com"
+  },
+  {
+    "type": "Domain",
+    "value": "readnovel.com"
+  },
+  {
+    "type": "Domain",
+    "value": "rongshuxia.com"
+  },
+  {
+    "type": "Domain",
+    "value": "tingbook.com"
+  },
+  {
+    "type": "Domain",
+    "value": "xs.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "xs8.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "xxsy.net"
+  },
+  {
+    "type": "Domain",
+    "value": "yuewen.com"
+  },
+  {
+    "type": "Domain",
+    "value": "webnovel.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

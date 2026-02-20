@@ -1,0 +1,10 @@
+[
+  {
+    "type": "Full",
+    "value": "csis-prod.s3.amazonaws.com"
+  },
+  {
+    "type": "Domain",
+    "value": "csis.org"
+  }
+]

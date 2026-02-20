@@ -1,0 +1,10 @@
+[
+  {
+    "type": "Domain",
+    "value": "sentry.io"
+  },
+  {
+    "type": "Domain",
+    "value": "sentry-cdn.com"
+  }
+]

@@ -1,0 +1,301 @@
+[
+  {
+    "type": "Full",
+    "value": "az764295.vo.msecnd.net"
+  },
+  {
+    "type": "Full",
+    "value": "bingsettingssearch.trafficmanager.net"
+  },
+  {
+    "type": "Full",
+    "value": "default.exp-tas.com"
+  },
+  {
+    "type": "Full",
+    "value": "developer.microsoft.com"
+  },
+  {
+    "type": "Full",
+    "value": "download.visualstudio.microsoft.com"
+  },
+  {
+    "type": "Full",
+    "value": "dtlgalleryint.cloudapp.net"
+  },
+  {
+    "type": "Full",
+    "value": "packages.microsoft.com"
+  },
+  {
+    "type": "Full",
+    "value": "poshtestgallery.cloudapp.net"
+  },
+  {
+    "type": "Full",
+    "value": "psg-int-centralus.cloudapp.net"
+  },
+  {
+    "type": "Full",
+    "value": "psg-int-eastus.cloudapp.net"
+  },
+  {
+    "type": "Full",
+    "value": "rink.hockeyapp.net"
+  },
+  {
+    "type": "Full",
+    "value": "vscode-sync-insiders.trafficmanager.net"
+  },
+  {
+    "type": "Full",
+    "value": "vscode-sync.trafficmanager.net"
+  },
+  {
+    "type": "Full",
+    "value": "vscode.blob.core.windows.net"
+  },
+  {
+    "type": "Full",
+    "value": "vscode.search.windows.net"
+  },
+  {
+    "type": "Full",
+    "value": "vsmarketplacebadge.apphb.com"
+  },
+  {
+    "type": "Domain",
+    "value": "adaptivecards.io"
+  },
+  {
+    "type": "Domain",
+    "value": "api-extractor.com"
+  },
+  {
+    "type": "Domain",
+    "value": "apisof.net"
+  },
+  {
+    "type": "Domain",
+    "value": "appcenter.ms"
+  },
+  {
+    "type": "Domain",
+    "value": "blazor.net"
+  },
+  {
+    "type": "Domain",
+    "value": "botframework.com"
+  },
+  {
+    "type": "Domain",
+    "value": "codethemicrobit.com"
+  },
+  {
+    "type": "Domain",
+    "value": "devopsassessment.net"
+  },
+  {
+    "type": "Domain",
+    "value": "dot.net"
+  },
+  {
+    "type": "Domain",
+    "value": "gamesstack.com"
+  },
+  {
+    "type": "Domain",
+    "value": "graphengine.io"
+  },
+  {
+    "type": "Domain",
+    "value": "insiderdevtour.com"
+  },
+  {
+    "type": "Domain",
+    "value": "jwt.ms"
+  },
+  {
+    "type": "Domain",
+    "value": "microbit.org"
+  },
+  {
+    "type": "Domain",
+    "value": "microsoftadc.com"
+  },
+  {
+    "type": "Domain",
+    "value": "microsoftgamestack.com"
+  },
+  {
+    "type": "Domain",
+    "value": "microsoftiotinsiderlabs.com"
+  },
+  {
+    "type": "Domain",
+    "value": "microsoftreactor.info"
+  },
+  {
+    "type": "Domain",
+    "value": "microsoftreactor.net"
+  },
+  {
+    "type": "Domain",
+    "value": "microsoftreactor.org"
+  },
+  {
+    "type": "Domain",
+    "value": "microsoftsilverlight.com"
+  },
+  {
+    "type": "Domain",
+    "value": "microsoftsilverlight.org"
+  },
+  {
+    "type": "Domain",
+    "value": "microsoftsilverlight.net"
+  },
+  {
+    "type": "Domain",
+    "value": "microsoftsqlserver.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mmdnn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mono-project.com"
+  },
+  {
+    "type": "Domain",
+    "value": "msdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "msinnovationchallenge.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mspairlift.com"
+  },
+  {
+    "type": "Domain",
+    "value": "msropendata.com"
+  },
+  {
+    "type": "Domain",
+    "value": "nuget.org"
+  },
+  {
+    "type": "Domain",
+    "value": "nugettest.org"
+  },
+  {
+    "type": "Domain",
+    "value": "opentranslatorstothings.org"
+  },
+  {
+    "type": "Domain",
+    "value": "poshtestgallery.com"
+  },
+  {
+    "type": "Domain",
+    "value": "pwabuilder.com"
+  },
+  {
+    "type": "Domain",
+    "value": "sankie.net"
+  },
+  {
+    "type": "Domain",
+    "value": "sqlserveronlinux.com"
+  },
+  {
+    "type": "Domain",
+    "value": "timelinestoryteller.com"
+  },
+  {
+    "type": "Domain",
+    "value": "uwpcommunitytoolkit.com"
+  },
+  {
+    "type": "Domain",
+    "value": "visualstudio-staging.com"
+  },
+  {
+    "type": "Domain",
+    "value": "visualstudio.com"
+  },
+  {
+    "type": "Domain",
+    "value": "visualstudio.co"
+  },
+  {
+    "type": "Domain",
+    "value": "visualstudio.eu"
+  },
+  {
+    "type": "Domain",
+    "value": "visualstudio.net"
+  },
+  {
+    "type": "Domain",
+    "value": "vfsforgit.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vfsforgit.org"
+  },
+  {
+    "type": "Domain",
+    "value": "vsassets.io"
+  },
+  {
+    "type": "Domain",
+    "value": "vscode.dev"
+  },
+  {
+    "type": "Domain",
+    "value": "vscode-cdn.net"
+  },
+  {
+    "type": "Domain",
+    "value": "vscode-unpkg.net"
+  },
+  {
+    "type": "Domain",
+    "value": "xamarin.com"
+  },
+  {
+    "type": "Domain",
+    "value": "visualstudio.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "microsoftreactor.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "microsoftreactor.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "reactorms.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

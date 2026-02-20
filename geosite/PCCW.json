@@ -1,0 +1,118 @@
+[
+  {
+    "type": "Full",
+    "value": "api.viu.now.com"
+  },
+  {
+    "type": "Full",
+    "value": "dfp6rglgjqszk.cloudfront.net"
+  },
+  {
+    "type": "Full",
+    "value": "d1k2us671qcoau.cloudfront.net"
+  },
+  {
+    "type": "Full",
+    "value": "d2anahhhmp1ffz.cloudfront.net"
+  },
+  {
+    "type": "Domain",
+    "value": "netvigator.com"
+  },
+  {
+    "type": "Domain",
+    "value": "now.com"
+  },
+  {
+    "type": "Domain",
+    "value": "pccwsolutions.com"
+  },
+  {
+    "type": "Domain",
+    "value": "moov.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "esmarthealth.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hkcsl.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hkt-enterprise.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hkt-eye.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hkt.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hkteducation.com"
+  },
+  {
+    "type": "Domain",
+    "value": "viu.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hktpremier.com"
+  },
+  {
+    "type": "Domain",
+    "value": "viu.tv"
+  },
+  {
+    "type": "Domain",
+    "value": "uhub.com"
+  },
+  {
+    "type": "Domain",
+    "value": "pccw.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hktshop.com"
+  },
+  {
+    "type": "Domain",
+    "value": "pccwglobal.com"
+  },
+  {
+    "type": "Domain",
+    "value": "nowe.com"
+  },
+  {
+    "type": "Domain",
+    "value": "nowe.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "now-tv.com"
+  },
+  {
+    "type": "Domain",
+    "value": "now-ashare.com"
+  },
+  {
+    "type": "Domain",
+    "value": "theclub.com.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "1010.com.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "now.com.hk"
+  },
+  {
+    "type": "Regex",
+    "value": "^ewcdn[0-9]+\\.nowe\\.com$"
+  }
+]

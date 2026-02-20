@@ -1,0 +1,28 @@
+[
+  {
+    "type": "Domain",
+    "value": "zhihu.com"
+  },
+  {
+    "type": "Domain",
+    "value": "zhimg.com"
+  },
+  {
+    "type": "Domain",
+    "value": "crash2.zhihu.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "zhihu-web-analytics.zhihu.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  }
+]

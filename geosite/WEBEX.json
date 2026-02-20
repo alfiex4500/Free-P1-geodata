@@ -1,0 +1,71 @@
+[
+  {
+    "type": "Domain",
+    "value": "webex.ca"
+  },
+  {
+    "type": "Domain",
+    "value": "webex.fr"
+  },
+  {
+    "type": "Domain",
+    "value": "webex.es"
+  },
+  {
+    "type": "Domain",
+    "value": "webex.de"
+  },
+  {
+    "type": "Domain",
+    "value": "webex.com"
+  },
+  {
+    "type": "Domain",
+    "value": "webex.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "webex.co.nz"
+  },
+  {
+    "type": "Domain",
+    "value": "webex.co.kr"
+  },
+  {
+    "type": "Domain",
+    "value": "webex.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "webex.com.br"
+  },
+  {
+    "type": "Domain",
+    "value": "webex.com.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "webex.com.mx"
+  },
+  {
+    "type": "Domain",
+    "value": "webex.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "webex.co.it"
+  },
+  {
+    "type": "Domain",
+    "value": "webex.co.in"
+  },
+  {
+    "type": "Domain",
+    "value": "webex.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "type": "Domain",
+    "value": "gannett-cdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "gannett.com"
+  },
+  {
+    "type": "Domain",
+    "value": "gannettdigital.com"
+  },
+  {
+    "type": "Domain",
+    "value": "usatoday.com"
+  },
+  {
+    "type": "Domain",
+    "value": "usatodaynetworkservice.com"
+  }
+]

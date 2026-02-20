@@ -1,0 +1,310 @@
+[
+  {
+    "type": "Domain",
+    "value": "jlc-cnc.com"
+  },
+  {
+    "type": "Domain",
+    "value": "lceda.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "boe.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ymtc.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "bouffalolab.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cxmt.com"
+  },
+  {
+    "type": "Domain",
+    "value": "esp8266.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "esp8266.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ymtc.com"
+  },
+  {
+    "type": "Domain",
+    "value": "espressif.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "espressif.com"
+  },
+  {
+    "type": "Domain",
+    "value": "analog.com"
+  },
+  {
+    "type": "Domain",
+    "value": "eda.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "elecfans.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hqchip.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hqdoc.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hqpcb.com"
+  },
+  {
+    "type": "Domain",
+    "value": "infineon.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "quecmall.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "zs-jlc.com"
+  },
+  {
+    "type": "Domain",
+    "value": "iotronic.tech"
+  },
+  {
+    "type": "Domain",
+    "value": "rock-chips.com"
+  },
+  {
+    "type": "Domain",
+    "value": "seeed.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "seeed.cc"
+  },
+  {
+    "type": "Domain",
+    "value": "szlcsc.com"
+  },
+  {
+    "type": "Domain",
+    "value": "jlc-drm.com"
+  },
+  {
+    "type": "Domain",
+    "value": "sipeed.com"
+  },
+  {
+    "type": "Domain",
+    "value": "maixhub.com"
+  },
+  {
+    "type": "Domain",
+    "value": "szjlc.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "wch.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "wch-ic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "fa-part.com"
+  },
+  {
+    "type": "Domain",
+    "value": "forface3d.com"
+  },
+  {
+    "type": "Domain",
+    "value": "jlc-3dp.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "jlc-3dp.com"
+  },
+  {
+    "type": "Domain",
+    "value": "jlc-bbs.com"
+  },
+  {
+    "type": "Domain",
+    "value": "jlc-cad.com"
+  },
+  {
+    "type": "Domain",
+    "value": "jlc-cam.com"
+  },
+  {
+    "type": "Domain",
+    "value": "zxhgroup.com"
+  },
+  {
+    "type": "Domain",
+    "value": "arrow.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "sz-jlc.com"
+  },
+  {
+    "type": "Domain",
+    "value": "jlc-ecad.com"
+  },
+  {
+    "type": "Domain",
+    "value": "jlc-erp.com"
+  },
+  {
+    "type": "Domain",
+    "value": "jlc-fpc.com"
+  },
+  {
+    "type": "Domain",
+    "value": "jlc-gw.com"
+  },
+  {
+    "type": "Domain",
+    "value": "jlc-jh.com"
+  },
+  {
+    "type": "Domain",
+    "value": "jlc-layout.com"
+  },
+  {
+    "type": "Domain",
+    "value": "jlc-pcb.com"
+  },
+  {
+    "type": "Domain",
+    "value": "jlc-smt.com"
+  },
+  {
+    "type": "Domain",
+    "value": "jlc-zh.com"
+  },
+  {
+    "type": "Domain",
+    "value": "jlc.com"
+  },
+  {
+    "type": "Domain",
+    "value": "jlc3dp.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "jlccad.com"
+  },
+  {
+    "type": "Domain",
+    "value": "jlccam.com"
+  },
+  {
+    "type": "Domain",
+    "value": "jlccnc.com"
+  },
+  {
+    "type": "Domain",
+    "value": "jlcdfm.com"
+  },
+  {
+    "type": "Domain",
+    "value": "jlcecad.com"
+  },
+  {
+    "type": "Domain",
+    "value": "jlceda.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "jlceda.com"
+  },
+  {
+    "type": "Domain",
+    "value": "jlcerp.com"
+  },
+  {
+    "type": "Domain",
+    "value": "jlcfa.com"
+  },
+  {
+    "type": "Domain",
+    "value": "jlcgroup.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "jlcops.com"
+  },
+  {
+    "type": "Domain",
+    "value": "jlcsj.com"
+  },
+  {
+    "type": "Domain",
+    "value": "jlcsmt.com"
+  },
+  {
+    "type": "Domain",
+    "value": "jlc-dfm.com"
+  },
+  {
+    "type": "Domain",
+    "value": "lckfb.com"
+  },
+  {
+    "type": "Domain",
+    "value": "oshwhub.com"
+  },
+  {
+    "type": "Domain",
+    "value": "sanweihou.com"
+  },
+  {
+    "type": "Domain",
+    "value": "seeedstudio.com.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "ti.com.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "seeed.com.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "quectel.com.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "espressif.com.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "esp8266.com.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "boe.com.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "ymtc.com.cn"
+  }
+]

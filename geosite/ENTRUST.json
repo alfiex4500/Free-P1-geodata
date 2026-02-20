@@ -1,0 +1,47 @@
+[
+  {
+    "type": "Domain",
+    "value": "entrust.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "entrust.com"
+  },
+  {
+    "type": "Domain",
+    "value": "entrust.net"
+  },
+  {
+    "type": "Domain",
+    "value": "entrustdatacard.com"
+  },
+  {
+    "type": "Domain",
+    "value": "affirmtrust.com"
+  },
+  {
+    "type": "Domain",
+    "value": "atos.net"
+  },
+  {
+    "type": "Domain",
+    "value": "myatos.net"
+  },
+  {
+    "type": "Domain",
+    "value": "certificat2.com"
+  },
+  {
+    "type": "Domain",
+    "value": "trendmicro.com"
+  },
+  {
+    "type": "Full",
+    "value": "www.entrust.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

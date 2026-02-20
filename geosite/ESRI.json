@@ -1,0 +1,14 @@
+[
+  {
+    "type": "Domain",
+    "value": "arcgis.com"
+  },
+  {
+    "type": "Domain",
+    "value": "arcgisonline.com"
+  },
+  {
+    "type": "Domain",
+    "value": "esri.com"
+  }
+]

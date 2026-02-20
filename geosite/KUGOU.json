@@ -1,0 +1,93 @@
+[
+  {
+    "type": "Domain",
+    "value": "fanxingliveshow.com"
+  },
+  {
+    "type": "Domain",
+    "value": "kgimg.com"
+  },
+  {
+    "type": "Domain",
+    "value": "kglink.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "ktv.com"
+  },
+  {
+    "type": "Domain",
+    "value": "kugoo.com"
+  },
+  {
+    "type": "Domain",
+    "value": "kugou.com"
+  },
+  {
+    "type": "Domain",
+    "value": "kugou.net"
+  },
+  {
+    "type": "Domain",
+    "value": "kugouaudio.com"
+  },
+  {
+    "type": "Domain",
+    "value": "kugouipv6.com"
+  },
+  {
+    "type": "Domain",
+    "value": "kugoukid.com"
+  },
+  {
+    "type": "Domain",
+    "value": "kugouliveshow.com"
+  },
+  {
+    "type": "Domain",
+    "value": "kugouringtone.com"
+  },
+  {
+    "type": "Domain",
+    "value": "kugousenior.com"
+  },
+  {
+    "type": "Domain",
+    "value": "kugoustore.com"
+  },
+  {
+    "type": "Domain",
+    "value": "kugouvoice.com"
+  },
+  {
+    "type": "Domain",
+    "value": "kugouyouth.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ads.service.kugou.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "adserviceretry.kglink.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "adserviceretry.kugou.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  }
+]

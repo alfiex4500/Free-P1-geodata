@@ -1,0 +1,10 @@
+[
+  {
+    "type": "Domain",
+    "value": "kubernetes.io"
+  },
+  {
+    "type": "Domain",
+    "value": "k8s.io"
+  }
+]

@@ -1,0 +1,787 @@
+[
+  {
+    "type": "Full",
+    "value": "cdn.js7k.com"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo"
+  },
+  {
+    "type": "Domain",
+    "value": "flickr"
+  },
+  {
+    "type": "Domain",
+    "value": "oath.cloud"
+  },
+  {
+    "type": "Domain",
+    "value": "oath.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ouroath.com"
+  },
+  {
+    "type": "Domain",
+    "value": "static-verizon.com"
+  },
+  {
+    "type": "Domain",
+    "value": "uplynk.com"
+  },
+  {
+    "type": "Domain",
+    "value": "verizon.com"
+  },
+  {
+    "type": "Domain",
+    "value": "verizon.net"
+  },
+  {
+    "type": "Domain",
+    "value": "verizonbusinessfios.com"
+  },
+  {
+    "type": "Domain",
+    "value": "verizondigitalmedia.com"
+  },
+  {
+    "type": "Domain",
+    "value": "verizonenterprise.com"
+  },
+  {
+    "type": "Domain",
+    "value": "verizonfios.com"
+  },
+  {
+    "type": "Domain",
+    "value": "verizonmedia.com"
+  },
+  {
+    "type": "Domain",
+    "value": "verizonwireless.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vzw.com"
+  },
+  {
+    "type": "Domain",
+    "value": "xo.com"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.ps"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.sn"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.at"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.az"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.ba"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.be"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.bg"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.bi"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.bs"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.bt"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.by"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.ca"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.cat"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.cd"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.cg"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.ch"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.cl"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.cm"
+  },
+  {
+    "type": "Domain",
+    "value": "staticflickr.com"
+  },
+  {
+    "type": "Domain",
+    "value": "flickr.net"
+  },
+  {
+    "type": "Domain",
+    "value": "flickr.com"
+  },
+  {
+    "type": "Domain",
+    "value": "flic.kr"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.ae"
+  },
+  {
+    "type": "Domain",
+    "value": "yusercontent.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ymail.com"
+  },
+  {
+    "type": "Domain",
+    "value": "yimg.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "yimg.com"
+  },
+  {
+    "type": "Domain",
+    "value": "yho.com"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoosportsbook.com"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoosandbox.com"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoomusic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoohealth.com"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoofinance.com"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoodns.net"
+  },
+  {
+    "type": "Domain",
+    "value": "yahooapis.com"
+  },
+  {
+    "type": "Domain",
+    "value": "techcrunch.com"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com"
+  },
+  {
+    "type": "Domain",
+    "value": "myguide.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "maktoob.com"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.ws"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.vg"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.tn"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.as"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.tm"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.tl"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.de"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.tk"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.tg"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.st"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.sr"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.so"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.is"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.sm"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.sk"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.si"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.dk"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.sg"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.dj"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.se"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.rw"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.ro"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.pt"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.am"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.pn"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.pl"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.ph"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.nu"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.no"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.nl"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.net"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.mx"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.mw"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.mk"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.me"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.md"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.lv"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.lu"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.lt"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.la"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.jo"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.cz"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.je"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.it"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.sh"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.dm"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.ee"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.es"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.fi"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.fm"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.fr"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.ge"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.gg"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.gl"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.gm"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.gp"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.gr"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.gy"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.hr"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.hu"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.ie"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.im"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.in"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.bd"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.ly"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.bz"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.vn"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.vc"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.uy"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.ua"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.tw"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.tr"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.tj"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.sv"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.sg"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.sb"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.sa"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.py"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.pr"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.pk"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.ph"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.pe"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.pa"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.om"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.nf"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.na"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.my"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.mx"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.mt"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.lb"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.kw"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.gt"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.gi"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.fj"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.es"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.eg"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.ec"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.do"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.co"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.br"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.bo"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.ar"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.ai"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.ag"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.af"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.co.za"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo-news.com.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.co.vi"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.co.ve"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.co.uz"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.co.tz"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.co.th"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.co.nz"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.co.mz"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.co.kr"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.co.in"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.co.il"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.co.id"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.co.cr"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.co.ck"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.co.bw"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.co.ao"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ads.yahoo.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "gemini.yahoo.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ysm.yahoo.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  }
+]

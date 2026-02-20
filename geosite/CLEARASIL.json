@@ -1,0 +1,24 @@
+[
+  {
+    "type": "Domain",
+    "value": "clearasil.us"
+  },
+  {
+    "type": "Domain",
+    "value": "clearasil.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "clearasil.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

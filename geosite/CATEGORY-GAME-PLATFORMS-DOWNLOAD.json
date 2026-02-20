@@ -1,0 +1,2095 @@
+[
+  {
+    "type": "Full",
+    "value": "download.cdp.bethesda.net"
+  },
+  {
+    "type": "Full",
+    "value": "content.cdp.bethesda.net"
+  },
+  {
+    "type": "Full",
+    "value": "lion.secure.dyn.riotcdn.net"
+  },
+  {
+    "type": "Full",
+    "value": "lol.secure.dyn.riotcdn.net"
+  },
+  {
+    "type": "Full",
+    "value": "ks-foundation.secure.dyn.riotcdn.net"
+  },
+  {
+    "type": "Full",
+    "value": "riot-client.secure.dyn.riotcdn.net"
+  },
+  {
+    "type": "Full",
+    "value": "mock-game.secure.dyn.riotcdn.net"
+  },
+  {
+    "type": "Full",
+    "value": "valorant.secure.dyn.riotcdn.net"
+  },
+  {
+    "type": "Full",
+    "value": "wildrift.secure.dyn.riotcdn.net"
+  },
+  {
+    "type": "Full",
+    "value": "ares.secure.dyn.riotcdn.net"
+  },
+  {
+    "type": "Full",
+    "value": "bacon.secure.dyn.riotcdn.net"
+  },
+  {
+    "type": "Full",
+    "value": "ritoplus.secure.dyn.riotcdn.net"
+  },
+  {
+    "type": "Full",
+    "value": "wildrift.dyn.riotcdn.net"
+  },
+  {
+    "type": "Full",
+    "value": "lol.dyn.riotcdn.net"
+  },
+  {
+    "type": "Full",
+    "value": "dyn.riotcdn.net"
+  },
+  {
+    "type": "Full",
+    "value": "valorant.dyn.riotcdn.net"
+  },
+  {
+    "type": "Full",
+    "value": "global.dyn.riotcdn.net"
+  },
+  {
+    "type": "Full",
+    "value": "mock-game.dyn.riotcdn.net"
+  },
+  {
+    "type": "Full",
+    "value": "ks-foundation.dyn.riotcdn.net"
+  },
+  {
+    "type": "Full",
+    "value": "riot-client.dyn.riotcdn.net"
+  },
+  {
+    "type": "Full",
+    "value": "gamedownloads-rockstargames-com.akamaized.net"
+  },
+  {
+    "type": "Full",
+    "value": "download.epicgames.com"
+  },
+  {
+    "type": "Full",
+    "value": "download2.epicgames.com"
+  },
+  {
+    "type": "Full",
+    "value": "download3.epicgames.com"
+  },
+  {
+    "type": "Full",
+    "value": "download4.epicgames.com"
+  },
+  {
+    "type": "Full",
+    "value": "epicgames-download1.akamaized.net"
+  },
+  {
+    "type": "Full",
+    "value": "fastly-download.epicgames.com"
+  },
+  {
+    "type": "Full",
+    "value": "cloudflare.epicgamescdn.com"
+  },
+  {
+    "type": "Full",
+    "value": "blizzard.gcdn.cloudn.co.kr"
+  },
+  {
+    "type": "Full",
+    "value": "blzddist1-a.akamaihd.net"
+  },
+  {
+    "type": "Full",
+    "value": "blzddistkr1-a.akamaihd.net"
+  },
+  {
+    "type": "Full",
+    "value": "level3.blizzard.com"
+  },
+  {
+    "type": "Full",
+    "value": "level3.ssl.blizzard.com"
+  },
+  {
+    "type": "Full",
+    "value": "kr.cdn.blizzard.com"
+  },
+  {
+    "type": "Full",
+    "value": "us.cdn.blizzard.com"
+  },
+  {
+    "type": "Full",
+    "value": "eu.cdn.blizzard.com"
+  },
+  {
+    "type": "Full",
+    "value": "gog-cdn.akamaized.net"
+  },
+  {
+    "type": "Full",
+    "value": "gog-cdn-fastly-cp77.gog.com"
+  },
+  {
+    "type": "Full",
+    "value": "gog-cdn-fastly.gog.com"
+  },
+  {
+    "type": "Full",
+    "value": "recommendations-api.gog.com"
+  },
+  {
+    "type": "Full",
+    "value": "sections.gog.com"
+  },
+  {
+    "type": "Full",
+    "value": "galaxy-promos.gog.com"
+  },
+  {
+    "type": "Full",
+    "value": "marketing-sections.gog.com"
+  },
+  {
+    "type": "Full",
+    "value": "xvcf1.xboxlive.com"
+  },
+  {
+    "type": "Full",
+    "value": "xvcf2.xboxlive.com"
+  },
+  {
+    "type": "Full",
+    "value": "assets1.xboxlive.com"
+  },
+  {
+    "type": "Full",
+    "value": "assets2.xboxlive.com"
+  },
+  {
+    "type": "Full",
+    "value": "uplaypc-s-ubisoft.cdn.ubi.com"
+  },
+  {
+    "type": "Full",
+    "value": "uplaypc-s-ubisoft-ww.cdn.ubi.com"
+  },
+  {
+    "type": "Full",
+    "value": "ubisoftconnect.cdn.ubi.com"
+  },
+  {
+    "type": "Full",
+    "value": "origin-a.akamaihd.net"
+  },
+  {
+    "type": "Full",
+    "value": "prod.cloudflare.cdn.ea.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache10-atl3.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache10-fra1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache10-fra2.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache10-iad1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache10-lax1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache10-lhr1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache10-ord1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache10-seo1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache10-sgp1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache10-tyo3.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache11-fra1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache11-fra2.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache11-iad1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache11-lhr1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache11-tyo3.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache12-fra1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache12-fra2.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache12-iad1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache12-lhr1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache12-tyo3.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache13-fra1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache13-fra2.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache13-iad1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache13-lhr1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache14-fra1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache14-fra2.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache14-iad1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache14-lhr1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache15-fra2.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache15-iad1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache15-lhr1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache16-fra2.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache16-iad1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache16-lhr1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache1-ams1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache1-atl1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache1-atl3.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache1-bom1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache1-bom2.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache1-dfw1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache1-eze1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache1-fra1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache1-fra2.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache1-gru1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache1-hkg1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache1-iad1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache1-jnb1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache1-lax1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache1-lhr1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache1-maa1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache1-maa2.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache1-mad1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache1-ord1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache1-par1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache1-scl1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache1-sea1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache1-seo1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache1-sgp1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache1-sto1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache1-sto2.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache1-syd1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache1-tyo3.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache1-vie1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache1-waw1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache2-ams1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache2-atl1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache2-atl3.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache2-bom2.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache2-dfw1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache2-eze1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache2-fra1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache2-fra2.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache2-gru1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache2-hkg1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache2-iad1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache2-jnb1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache2-lax1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache2-lhr1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache2-maa2.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache2-mad1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache2-ord1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache2-par1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache2-scl1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache2-sea1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache2-seo1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache2-sgp1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache2-sto1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache2-sto2.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache2-syd1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache2-tyo3.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache2-vie1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache2-waw1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache3-ams1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache3-atl1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache3-atl3.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache3-dfw1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache3-dxb1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache3-eze1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache3-fra1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache3-fra2.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache3-gru1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache3-hkg1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache3-iad1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache3-jnb1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache3-lax1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache3-lhr1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache3-lim1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache3-mad1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache3-ord1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache3-par1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache3-scl1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache3-sea1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache3-seo1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache3-sgp1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache3-sto1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache3-sto2.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache3-syd1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache3-tyo3.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache3-vie1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache3-waw1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache4-ams1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache4-atl1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache4-atl3.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache4-dfw1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache4-dxb1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache4-eze1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache4-fra1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache4-fra2.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache4-gru1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache4-hkg1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache4-iad1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache4-jnb1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache4-lax1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache4-lhr1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache4-lim1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache4-mad1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache4-ord1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache4-par1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache4-scl1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache4-sea1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache4-seo1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache4-sgp1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache4-sto1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache4-sto2.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache4-syd1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache4-tyo3.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache4-vie1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache4-waw1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache5-ams1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache5-atl1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache5-atl3.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache5-dfw1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache5-fra1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache5-fra2.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache5-gru1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache5-hkg1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache5-iad1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache5-lax1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache5-lhr1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache5-mad1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache5-ord1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache5-par1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache5-sea1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache5-seo1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache5-sgp1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache5-sto1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache5-sto2.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache5-syd1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache5-tyo3.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache5-vie1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache5-waw1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache6-ams1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache6-atl1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache6-atl3.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache6-dfw1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache6-fra1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache6-fra2.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache6-gru1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache6-hkg1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache6-iad1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache6-lax1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache6-lhr1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache6-mad1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache6-ord1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache6-par1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache6-sea1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache6-seo1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache6-sgp1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache6-sto1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache6-sto2.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache6-syd1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache6-tyo3.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache6-vie1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache6-waw1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache7-ams1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache7-atl3.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache7-dfw1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache7-fra1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache7-fra2.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache7-gru1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache7-hkg1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache7-iad1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache7-lax1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache7-lhr1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache7-ord1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache7-par1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache7-seo1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache7-sgp1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache7-sto2.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache7-tyo3.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache7-vie1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache7-waw1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache8-ams1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache8-atl3.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache8-dfw1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache8-fra1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache8-fra2.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache8-gru1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache8-hkg1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache8-iad1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache8-lax1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache8-lhr1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache8-ord1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache8-par1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache8-seo1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache8-sgp1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache8-sto2.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache8-tyo3.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache8-vie1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache8-waw1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache9-atl3.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache9-fra1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache9-fra2.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache9-hkg1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache9-iad1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache9-lax1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache9-lhr1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache9-ord1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache9-seo1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache9-sgp1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache9-tyo3.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache11-lax1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache12-lax1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache13-lax1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache14-lax1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache15-lax1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache16-lax1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache17-lax1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache18-lax1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache19-lax1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache20-lax1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache21-lax1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache17-iad1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache18-iad1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache19-iad1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache20-iad1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache21-iad1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache22-iad1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache23-iad1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache24-iad1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache25-iad1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache26-iad1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache27-iad1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache28-iad1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache15-fra1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache16-fra1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache21-fra1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache22-fra1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache23-fra1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache24-fra1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache25-fra1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache26-fra1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache27-fra1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache28-fra1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache29-fra1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache30-fra1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache31-fra1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache32-fra1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache33-fra1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache34-fra1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache35-fra1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache36-fra1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache37-fra1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache38-fra1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache39-fra1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache40-fra1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache41-fra1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache42-fra1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache43-fra1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache44-fra1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache45-fra1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache46-fra1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache47-fra1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache48-fra1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache49-fra1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache50-fra1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache51-fra1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache52-fra1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache53-fra1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache54-fra1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache55-fra1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache56-fra1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache57-fra1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache58-fra1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache59-fra1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache61-fra1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache62-fra1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache63-fra1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache64-fra1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache65-fra1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache66-fra1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache67-fra1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache68-fra1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache69-fra1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache7-atl1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache8-atl1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache9-atl1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache10-atl1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache11-atl1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache7-sto1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache8-sto1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache9-sto1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache10-sto1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache11-ord1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache12-ord1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache13-ord1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache14-ord1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache15-ord1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache16-ord1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache17-ord1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache18-ord1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache19-ord1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache20-ord1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache1-man1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache2-man1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache8-sea1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache10-sea1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache11-sea1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache12-sea1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache19-lhr1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache20-lhr1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache21-lhr1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache22-lhr1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache23-lhr1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache24-lhr1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache25-lhr1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache26-lhr1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache27-lhr1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache28-lhr1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache29-lhr1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache30-lhr1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache31-lhr1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache32-lhr1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache33-lhr1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache34-lhr1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache35-lhr1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache1-tyo1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache2-tyo1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache1-tyo2.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache2-tyo2.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache3-tyo2.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache4-tyo2.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache9-ams1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache10-ams1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache11-ams1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache12-ams1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache13-ams1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache14-ams1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache15-ams1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache16-ams1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache17-ams1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache18-ams1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache11-sgp1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache12-sgp1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache1-okc1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache2-okc1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache3-okc1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache4-okc1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache5-okc1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache6-okc1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache7-okc1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache8-okc1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache9-vie1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache10-vie1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache11-vie1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache12-vie1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache9-sto2.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache10-sto2.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache1-lim1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache2-lim1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache1-dxb1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache2-dxb1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache10-gru1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache12-atl1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache13-atl1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache17-fra1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache18-fra1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache19-fra1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache20-fra1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache3-tyo1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache4-tyo1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache5-tyo1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache6-tyo1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "cache9-gru1.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "steampipe.akamaized.net"
+  },
+  {
+    "type": "Full",
+    "value": "steampipe-kr.akamaized.net"
+  },
+  {
+    "type": "Full",
+    "value": "steampipe-partner.akamaized.net"
+  },
+  {
+    "type": "Full",
+    "value": "akamai.cdn.steampipe.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "fastly.cdn.steampipe.steamcontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "steam.eca.qtlglb.com"
+  },
+  {
+    "type": "Full",
+    "value": "steam.naeu.qtlglb.com"
+  },
+  {
+    "type": "Full",
+    "value": "steam.ru.qtlglb.com"
+  },
+  {
+    "type": "Full",
+    "value": "edge.steam-dns.top.comcast.net"
+  },
+  {
+    "type": "Domain",
+    "value": "egdownload.fastly-edge.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dl.playstation.net"
+  },
+  {
+    "type": "Full",
+    "value": "epicgames-download1-1251447533.file.myqcloud.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "blzdist-phx.necdn.leihuo.netease.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "blzdist-wow.necdn.leihuo.netease.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "blzdist-hs.necdn.leihuo.netease.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "blzdist-di.necdn.leihuo.netease.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "blzdist-ow.necdn.leihuo.netease.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "blzdist-d3.necdn.leihuo.netease.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "assets1.xboxlive.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "assets2.xboxlive.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "dl.delivery.mp.microsoft.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "tlu.dl.delivery.mp.microsoft.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "ubisoftconnect.eo-edgefunctions7.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "uplaypc-s-ubisoft.cdn.ubionline.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "uplaypc-s-ubisoft.cdn.ubionline.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "dl.steam.clngaa.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "st.dl.eccdnx.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "st.dl.bscstorage.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "trts.baishancdnx.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "st-bak.viv.wanwang.space",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "cdn-ali.content.steamchina.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "xz.pphimalayanrt.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "lv.queniujq.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "alibaba.cdn.steampipe.steamcontent.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "cdn-ws.content.steamchina.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "cdn-qc.content.steamchina.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

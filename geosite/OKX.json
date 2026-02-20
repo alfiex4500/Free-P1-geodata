@@ -1,0 +1,35 @@
+[
+  {
+    "type": "Domain",
+    "value": "okex.com"
+  },
+  {
+    "type": "Domain",
+    "value": "okx-dns.com"
+  },
+  {
+    "type": "Domain",
+    "value": "okx-dns1.com"
+  },
+  {
+    "type": "Domain",
+    "value": "okx-dns2.com"
+  },
+  {
+    "type": "Domain",
+    "value": "okx.cab"
+  },
+  {
+    "type": "Domain",
+    "value": "okx.com"
+  },
+  {
+    "type": "Domain",
+    "value": "oklink.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

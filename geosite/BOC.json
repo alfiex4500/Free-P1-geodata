@@ -1,0 +1,87 @@
+[
+  {
+    "type": "Domain",
+    "value": "bocgi.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bocifunds.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "boc.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "bocfullertonbank.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bocamchina.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bocaviation.com"
+  },
+  {
+    "type": "Domain",
+    "value": "boccfc.cc"
+  },
+  {
+    "type": "Domain",
+    "value": "boccfc.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "bankofchina.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bocgins.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bocichina.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bocichina.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "bocim.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bank-of-china.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bocifunds.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bocigroup.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bocifunds.com.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "bocichina.com.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "bocservices.com.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "bochk.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

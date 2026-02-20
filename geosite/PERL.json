@@ -1,0 +1,22 @@
+[
+  {
+    "type": "Domain",
+    "value": "perl.org"
+  },
+  {
+    "type": "Domain",
+    "value": "cpan.org"
+  },
+  {
+    "type": "Domain",
+    "value": "metacpan.org"
+  },
+  {
+    "type": "Domain",
+    "value": "modperl.pl"
+  },
+  {
+    "type": "Domain",
+    "value": "perl.apache.org"
+  }
+]

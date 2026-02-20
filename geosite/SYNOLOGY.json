@@ -1,0 +1,92 @@
+[
+  {
+    "type": "Domain",
+    "value": "gofile.me"
+  },
+  {
+    "type": "Domain",
+    "value": "quickconnect.to"
+  },
+  {
+    "type": "Domain",
+    "value": "synology.com"
+  },
+  {
+    "type": "Domain",
+    "value": "synologydownload.com"
+  },
+  {
+    "type": "Domain",
+    "value": "synologyupdate.com"
+  },
+  {
+    "type": "Domain",
+    "value": "diskstation.me"
+  },
+  {
+    "type": "Domain",
+    "value": "dscloud.biz"
+  },
+  {
+    "type": "Domain",
+    "value": "dscloud.me"
+  },
+  {
+    "type": "Domain",
+    "value": "dscloud.mobi"
+  },
+  {
+    "type": "Domain",
+    "value": "dsmynas.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dsmynas.net"
+  },
+  {
+    "type": "Domain",
+    "value": "dsmynas.org"
+  },
+  {
+    "type": "Domain",
+    "value": "familyds.com"
+  },
+  {
+    "type": "Domain",
+    "value": "familyds.net"
+  },
+  {
+    "type": "Domain",
+    "value": "familyds.org"
+  },
+  {
+    "type": "Domain",
+    "value": "i234.me"
+  },
+  {
+    "type": "Domain",
+    "value": "myds.me"
+  },
+  {
+    "type": "Domain",
+    "value": "synology.me"
+  },
+  {
+    "type": "Domain",
+    "value": "quickconnect.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "synology.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

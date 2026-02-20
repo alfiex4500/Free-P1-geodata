@@ -1,0 +1,83 @@
+[
+  {
+    "type": "Domain",
+    "value": "calgon.fr"
+  },
+  {
+    "type": "Domain",
+    "value": "calgon.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "calgon.ie"
+  },
+  {
+    "type": "Domain",
+    "value": "calgon.it"
+  },
+  {
+    "type": "Domain",
+    "value": "calgon.com"
+  },
+  {
+    "type": "Domain",
+    "value": "calgon.at"
+  },
+  {
+    "type": "Domain",
+    "value": "calgon.de"
+  },
+  {
+    "type": "Domain",
+    "value": "calgon.es"
+  },
+  {
+    "type": "Domain",
+    "value": "calgonit.com"
+  },
+  {
+    "type": "Domain",
+    "value": "calgon.ch"
+  },
+  {
+    "type": "Domain",
+    "value": "calgoncarbon.com"
+  },
+  {
+    "type": "Domain",
+    "value": "calgon.nl"
+  },
+  {
+    "type": "Domain",
+    "value": "calgon.pt"
+  },
+  {
+    "type": "Domain",
+    "value": "calgon.be"
+  },
+  {
+    "type": "Domain",
+    "value": "calgon.tv"
+  },
+  {
+    "type": "Domain",
+    "value": "calgoncarbon-china.com"
+  },
+  {
+    "type": "Domain",
+    "value": "calgon.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "calgon.com.tr"
+  },
+  {
+    "type": "Domain",
+    "value": "calgon.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

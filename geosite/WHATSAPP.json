@@ -1,0 +1,64 @@
+[
+  {
+    "type": "Domain",
+    "value": "wa.me"
+  },
+  {
+    "type": "Domain",
+    "value": "whatsapp-plus.info"
+  },
+  {
+    "type": "Domain",
+    "value": "whatsapp-plus.me"
+  },
+  {
+    "type": "Domain",
+    "value": "whatsapp-plus.net"
+  },
+  {
+    "type": "Domain",
+    "value": "whatsapp.cc"
+  },
+  {
+    "type": "Domain",
+    "value": "whatsapp.com"
+  },
+  {
+    "type": "Domain",
+    "value": "whatsapp.info"
+  },
+  {
+    "type": "Domain",
+    "value": "whatsapp.net"
+  },
+  {
+    "type": "Domain",
+    "value": "whatsapp.org"
+  },
+  {
+    "type": "Domain",
+    "value": "whatsapp.tv"
+  },
+  {
+    "type": "Domain",
+    "value": "whatsappbrand.com"
+  },
+  {
+    "type": "Domain",
+    "value": "graph.whatsapp.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "graph.whatsapp.net",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  }
+]

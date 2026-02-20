@@ -1,0 +1,46 @@
+[
+  {
+    "type": "Full",
+    "value": "espn.api.edge.bamgrid.com"
+  },
+  {
+    "type": "Full",
+    "value": "espn.hb.omtrdc.net"
+  },
+  {
+    "type": "Full",
+    "value": "espndotcom.tt.omtrdc.net"
+  },
+  {
+    "type": "Domain",
+    "value": "dtci.co"
+  },
+  {
+    "type": "Domain",
+    "value": "dtci.technology"
+  },
+  {
+    "type": "Domain",
+    "value": "espn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "espn.net"
+  },
+  {
+    "type": "Domain",
+    "value": "espncdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "espnqa.com"
+  },
+  {
+    "type": "Domain",
+    "value": "watchespn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "espn.co.uk"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "type": "Domain",
+    "value": "didi.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "didialift.com"
+  },
+  {
+    "type": "Domain",
+    "value": "didichuxing.com"
+  },
+  {
+    "type": "Domain",
+    "value": "didistatic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "udache.com"
+  },
+  {
+    "type": "Domain",
+    "value": "xiaojukeji.com"
+  },
+  {
+    "type": "Domain",
+    "value": "diditaxi.com.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "didi-food.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "didiaustralia.blog",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "didiglobal.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "didimobility.co.jp",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

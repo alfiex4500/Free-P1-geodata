@@ -1,0 +1,1224 @@
+[
+  {
+    "type": "Full",
+    "value": "d1v5ir2lpwr8os.cloudfront.net"
+  },
+  {
+    "type": "Full",
+    "value": "d22qjgkvxw22r6.cloudfront.net"
+  },
+  {
+    "type": "Full",
+    "value": "d25xi40x97liuc.cloudfront.net"
+  },
+  {
+    "type": "Full",
+    "value": "d27xxe7juh1us6.cloudfront.net"
+  },
+  {
+    "type": "Full",
+    "value": "dmqdd6hw24ucf.cloudfront.net"
+  },
+  {
+    "type": "Full",
+    "value": "images-eu.ssl-images-amazon.com"
+  },
+  {
+    "type": "Full",
+    "value": "images-na.ssl-images-amazon.com"
+  },
+  {
+    "type": "Full",
+    "value": "images-fe.ssl-images-amazon.com"
+  },
+  {
+    "type": "Full",
+    "value": "msh.amazon.co.uk"
+  },
+  {
+    "type": "Full",
+    "value": "static.siege-amazon.com"
+  },
+  {
+    "type": "Domain",
+    "value": "aws"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--cckwcxetd"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--jlq480n2rg"
+  },
+  {
+    "type": "Domain",
+    "value": "yamaxun"
+  },
+  {
+    "type": "Domain",
+    "value": "zappos"
+  },
+  {
+    "type": "Domain",
+    "value": "kindle"
+  },
+  {
+    "type": "Domain",
+    "value": "imdb"
+  },
+  {
+    "type": "Domain",
+    "value": "amazon"
+  },
+  {
+    "type": "Domain",
+    "value": "amazonaws.biz"
+  },
+  {
+    "type": "Domain",
+    "value": "amazonpay.com"
+  },
+  {
+    "type": "Domain",
+    "value": "aboutamazon.fr"
+  },
+  {
+    "type": "Domain",
+    "value": "aboutamazon.in"
+  },
+  {
+    "type": "Domain",
+    "value": "aboutamazon.it"
+  },
+  {
+    "type": "Domain",
+    "value": "aboutamazon.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "aboutamazon.pl"
+  },
+  {
+    "type": "Domain",
+    "value": "amaaozn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "amazon-fashions.com"
+  },
+  {
+    "type": "Domain",
+    "value": "amazon-jp-recruiting.com"
+  },
+  {
+    "type": "Domain",
+    "value": "amazon-lantern.com"
+  },
+  {
+    "type": "Domain",
+    "value": "amazon-launchpad.com"
+  },
+  {
+    "type": "Domain",
+    "value": "amazon.ae"
+  },
+  {
+    "type": "Domain",
+    "value": "amazon.ca"
+  },
+  {
+    "type": "Domain",
+    "value": "amazon.com"
+  },
+  {
+    "type": "Domain",
+    "value": "amazon.de"
+  },
+  {
+    "type": "Domain",
+    "value": "wholeplanetfoundation.org"
+  },
+  {
+    "type": "Domain",
+    "value": "wholekidsfoundation.org"
+  },
+  {
+    "type": "Domain",
+    "value": "wholefoodsmarket.com"
+  },
+  {
+    "type": "Domain",
+    "value": "wholefoods.com"
+  },
+  {
+    "type": "Domain",
+    "value": "wholecitiesfoundation.org"
+  },
+  {
+    "type": "Domain",
+    "value": "wfm.com"
+  },
+  {
+    "type": "Domain",
+    "value": "primevideo.tv"
+  },
+  {
+    "type": "Domain",
+    "value": "amazon.dev"
+  },
+  {
+    "type": "Domain",
+    "value": "amazon.es"
+  },
+  {
+    "type": "Domain",
+    "value": "amazon.fr"
+  },
+  {
+    "type": "Domain",
+    "value": "amazon.in"
+  },
+  {
+    "type": "Domain",
+    "value": "amazon.it"
+  },
+  {
+    "type": "Domain",
+    "value": "amazon.jobs"
+  },
+  {
+    "type": "Domain",
+    "value": "amazon.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "amazon.nl"
+  },
+  {
+    "type": "Domain",
+    "value": "amazon.red"
+  },
+  {
+    "type": "Domain",
+    "value": "amazon.sg"
+  },
+  {
+    "type": "Domain",
+    "value": "amazonalexavoxcon.com"
+  },
+  {
+    "type": "Domain",
+    "value": "amazonauthorinsights.com"
+  },
+  {
+    "type": "Domain",
+    "value": "amazonbusiness.org"
+  },
+  {
+    "type": "Domain",
+    "value": "amazonbusinessblog.com"
+  },
+  {
+    "type": "Domain",
+    "value": "amazondevicesupport.com"
+  },
+  {
+    "type": "Domain",
+    "value": "amazonfctours.com"
+  },
+  {
+    "type": "Domain",
+    "value": "amazonianblog.com"
+  },
+  {
+    "type": "Domain",
+    "value": "amazonimages.com"
+  },
+  {
+    "type": "Domain",
+    "value": "amazonlaunchpad.com"
+  },
+  {
+    "type": "Domain",
+    "value": "amazonliterarypartnership.com"
+  },
+  {
+    "type": "Domain",
+    "value": "amazonlumberyard.wang"
+  },
+  {
+    "type": "Domain",
+    "value": "amazonaws.org"
+  },
+  {
+    "type": "Domain",
+    "value": "amazonpay.in"
+  },
+  {
+    "type": "Domain",
+    "value": "amazonsdi.com"
+  },
+  {
+    "type": "Domain",
+    "value": "amazonstudiosguilds.com"
+  },
+  {
+    "type": "Domain",
+    "value": "amazonvideodirect.com"
+  },
+  {
+    "type": "Domain",
+    "value": "amzn.asia"
+  },
+  {
+    "type": "Domain",
+    "value": "amzn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "amzn.to"
+  },
+  {
+    "type": "Domain",
+    "value": "amznl.com"
+  },
+  {
+    "type": "Domain",
+    "value": "associates-amazon.com"
+  },
+  {
+    "type": "Domain",
+    "value": "amazonaws.net"
+  },
+  {
+    "type": "Domain",
+    "value": "gdansk-amazon.com"
+  },
+  {
+    "type": "Domain",
+    "value": "images-amazon.com"
+  },
+  {
+    "type": "Domain",
+    "value": "media-amazon.com"
+  },
+  {
+    "type": "Domain",
+    "value": "primeday.info"
+  },
+  {
+    "type": "Domain",
+    "value": "siege-amazon.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ssl-images-amazon.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ueberamazon.de"
+  },
+  {
+    "type": "Domain",
+    "value": "yamaxun.com"
+  },
+  {
+    "type": "Domain",
+    "value": "alexa.com"
+  },
+  {
+    "type": "Domain",
+    "value": "audible.com"
+  },
+  {
+    "type": "Domain",
+    "value": "createspace.com"
+  },
+  {
+    "type": "Domain",
+    "value": "amazontrust.com"
+  },
+  {
+    "type": "Domain",
+    "value": "awstrust.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ss2.us"
+  },
+  {
+    "type": "Domain",
+    "value": "aboutamazon.es"
+  },
+  {
+    "type": "Domain",
+    "value": "awsautopilot.com"
+  },
+  {
+    "type": "Domain",
+    "value": "amzndns.net"
+  },
+  {
+    "type": "Domain",
+    "value": "aesworkshops.com"
+  },
+  {
+    "type": "Domain",
+    "value": "amazonaws-china.com"
+  },
+  {
+    "type": "Domain",
+    "value": "aboutamazon.de"
+  },
+  {
+    "type": "Domain",
+    "value": "amzndns.org"
+  },
+  {
+    "type": "Domain",
+    "value": "amazonaws.com"
+  },
+  {
+    "type": "Domain",
+    "value": "amazonaws.info"
+  },
+  {
+    "type": "Domain",
+    "value": "gameon-masters.com"
+  },
+  {
+    "type": "Domain",
+    "value": "aboutamazon.eu"
+  },
+  {
+    "type": "Domain",
+    "value": "acmvalidations.com"
+  },
+  {
+    "type": "Domain",
+    "value": "amazoncognito.com"
+  },
+  {
+    "type": "Domain",
+    "value": "amazonses.com"
+  },
+  {
+    "type": "Domain",
+    "value": "amazonworkdocs.com"
+  },
+  {
+    "type": "Domain",
+    "value": "amplifyapp.com"
+  },
+  {
+    "type": "Domain",
+    "value": "amplifyframework.com"
+  },
+  {
+    "type": "Domain",
+    "value": "awsautoscaling.com"
+  },
+  {
+    "type": "Domain",
+    "value": "aws.com"
+  },
+  {
+    "type": "Domain",
+    "value": "aws.dev"
+  },
+  {
+    "type": "Domain",
+    "value": "awsapprunner.com"
+  },
+  {
+    "type": "Domain",
+    "value": "awsapps.com"
+  },
+  {
+    "type": "Domain",
+    "value": "amazonaws.tv"
+  },
+  {
+    "type": "Domain",
+    "value": "awscommandlineinterface.com"
+  },
+  {
+    "type": "Domain",
+    "value": "acmvalidationsaws.com"
+  },
+  {
+    "type": "Domain",
+    "value": "aws-iot-hackathon.com"
+  },
+  {
+    "type": "Domain",
+    "value": "awsedstart.com"
+  },
+  {
+    "type": "Domain",
+    "value": "awseducate.com"
+  },
+  {
+    "type": "Domain",
+    "value": "awseducate.net"
+  },
+  {
+    "type": "Domain",
+    "value": "awseducate.org"
+  },
+  {
+    "type": "Domain",
+    "value": "awsglobalaccelerator.com"
+  },
+  {
+    "type": "Domain",
+    "value": "awsloft-johannesburg.com"
+  },
+  {
+    "type": "Domain",
+    "value": "awsloft-stockholm.com"
+  },
+  {
+    "type": "Domain",
+    "value": "awssecworkshops.com"
+  },
+  {
+    "type": "Domain",
+    "value": "awsstatic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "awsthinkbox.com"
+  },
+  {
+    "type": "Domain",
+    "value": "awstrack.me"
+  },
+  {
+    "type": "Domain",
+    "value": "cdkworkshop.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cloudfront.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cloudfront.net"
+  },
+  {
+    "type": "Domain",
+    "value": "containersonaws.com"
+  },
+  {
+    "type": "Domain",
+    "value": "elasticbeanstalk.com"
+  },
+  {
+    "type": "Domain",
+    "value": "thinkboxsoftware.com"
+  },
+  {
+    "type": "Domain",
+    "value": "awsbraket.com"
+  },
+  {
+    "type": "Domain",
+    "value": "amzndns.com"
+  },
+  {
+    "type": "Domain",
+    "value": "primevideo.org"
+  },
+  {
+    "type": "Domain",
+    "value": "primevideo.info"
+  },
+  {
+    "type": "Domain",
+    "value": "primevideo.com"
+  },
+  {
+    "type": "Domain",
+    "value": "aboutamazon.com"
+  },
+  {
+    "type": "Domain",
+    "value": "boxofficemojo.com"
+  },
+  {
+    "type": "Domain",
+    "value": "imdb.com"
+  },
+  {
+    "type": "Domain",
+    "value": "imdb.to"
+  },
+  {
+    "type": "Domain",
+    "value": "media-imdb.com"
+  },
+  {
+    "type": "Domain",
+    "value": "a2z.com"
+  },
+  {
+    "type": "Domain",
+    "value": "kindle.it"
+  },
+  {
+    "type": "Domain",
+    "value": "kindle.in"
+  },
+  {
+    "type": "Domain",
+    "value": "kindle.com"
+  },
+  {
+    "type": "Domain",
+    "value": "kindle.de"
+  },
+  {
+    "type": "Domain",
+    "value": "kindle.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "kindle.fr"
+  },
+  {
+    "type": "Domain",
+    "value": "kindleproject.com"
+  },
+  {
+    "type": "Domain",
+    "value": "kindleoasisnews.com"
+  },
+  {
+    "type": "Domain",
+    "value": "kindle.es"
+  },
+  {
+    "type": "Domain",
+    "value": "kindleoasis.com"
+  },
+  {
+    "type": "Domain",
+    "value": "kindleoasis.info"
+  },
+  {
+    "type": "Domain",
+    "value": "kindleoasis.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "kindleoasis.org"
+  },
+  {
+    "type": "Domain",
+    "value": "kindleoasis.us"
+  },
+  {
+    "type": "Domain",
+    "value": "primevideo.cc"
+  },
+  {
+    "type": "Domain",
+    "value": "prime-video.com"
+  },
+  {
+    "type": "Domain",
+    "value": "aiv-cdn.net"
+  },
+  {
+    "type": "Domain",
+    "value": "amazonprimevideos.com"
+  },
+  {
+    "type": "Domain",
+    "value": "amazonvideo.cc"
+  },
+  {
+    "type": "Domain",
+    "value": "amazonvideo.com"
+  },
+  {
+    "type": "Domain",
+    "value": "amazon.com.br"
+  },
+  {
+    "type": "Domain",
+    "value": "amazon.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "amazonaws.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "amzndns.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "amazon.com.tr"
+  },
+  {
+    "type": "Domain",
+    "value": "kindle.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "kindle.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "wholefoodsmarket.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "amazon.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "amazon.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "amazon.com.mx"
+  },
+  {
+    "type": "Domain",
+    "value": "aboutamazon.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "aboutamazon.co.uk"
+  },
+  {
+    "type": "Regex",
+    "value": ".+\\.awsdns-[0-9][0-9]\\.(co\\.uk|com|net|org)$"
+  },
+  {
+    "type": "Domain",
+    "value": "aboutamazon.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "alexafund.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "alexafund.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "amazon.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "amazonbusiness.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "amazonbusiness.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "amazonchoice.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "amazonchoice.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "amazonchoices.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "amazonchoices.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "amazoninspire.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "amazoninspire.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "amazonlaunchpad.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "amazonlaunchpad.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "amazonlending.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "amazonnow.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "amazonnow.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "assoc-amazon.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "primeday.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "primeday.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "yamaxun.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "z.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "images-cn.ssl-images-amazon.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "images-cn-8.ssl-images-amazon.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "amazon-adsystem.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "serving-sys.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "a2z.org.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "amazonaws.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "amazonaws.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "amazonwebservices.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "amazonworkdocs.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "amazonworkdocs.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "asfiovnxocqpcry.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "aws-border.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "aws-icp-domain-manager.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "awsapps.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "awsapps.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "awsstatic.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "cloudfront-cn.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "cloudfront-test.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "cloudfront.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "nwcdcloud.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "nwcdcloud.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "nwcddns.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "nwcdinfosec.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "route53.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "sagemaker.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "amzndns-cn.biz",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "amzndns-cn.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "amzndns-cn.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "amzndns-cn.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Regex",
+    "value": ".+\\.awsdns-cn-[0-9][0-9]\\.(biz|com|net|top)$",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Regex",
+    "value": ".+\\.awsdns-cn-[0-9][a-e0-9]\\.cn$",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "kindle.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "kindleoasis.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "kindleoasis.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "amazonprimevideo.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "amazonprimevideo.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

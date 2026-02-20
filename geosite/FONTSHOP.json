@@ -1,0 +1,18 @@
+[
+  {
+    "type": "Full",
+    "value": "fontshop-prod-responsive-images.s3.amazonaws.com"
+  },
+  {
+    "type": "Domain",
+    "value": "fontbook.com"
+  },
+  {
+    "type": "Domain",
+    "value": "fontshop.com"
+  },
+  {
+    "type": "Domain",
+    "value": "fstopimages.com"
+  }
+]

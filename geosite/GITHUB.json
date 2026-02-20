@@ -1,0 +1,148 @@
+[
+  {
+    "type": "Full",
+    "value": "github-api.arkoselabs.com"
+  },
+  {
+    "type": "Full",
+    "value": "github-cloud.s3.amazonaws.com"
+  },
+  {
+    "type": "Domain",
+    "value": "githubnext.com"
+  },
+  {
+    "type": "Domain",
+    "value": "git.io"
+  },
+  {
+    "type": "Domain",
+    "value": "atom.io"
+  },
+  {
+    "type": "Domain",
+    "value": "ghcr.io"
+  },
+  {
+    "type": "Domain",
+    "value": "githubpreview.dev"
+  },
+  {
+    "type": "Domain",
+    "value": "github.ai"
+  },
+  {
+    "type": "Domain",
+    "value": "github.blog"
+  },
+  {
+    "type": "Domain",
+    "value": "github.com"
+  },
+  {
+    "type": "Domain",
+    "value": "github.community"
+  },
+  {
+    "type": "Domain",
+    "value": "github.dev"
+  },
+  {
+    "type": "Domain",
+    "value": "github.io"
+  },
+  {
+    "type": "Domain",
+    "value": "githubstatus.com"
+  },
+  {
+    "type": "Domain",
+    "value": "githubassets.com"
+  },
+  {
+    "type": "Domain",
+    "value": "githubhackathon.com"
+  },
+  {
+    "type": "Domain",
+    "value": "gh.io"
+  },
+  {
+    "type": "Domain",
+    "value": "dependabot.com"
+  },
+  {
+    "type": "Domain",
+    "value": "githubapp.com"
+  },
+  {
+    "type": "Domain",
+    "value": "githubuniverse.com"
+  },
+  {
+    "type": "Domain",
+    "value": "githubusercontent.com"
+  },
+  {
+    "type": "Domain",
+    "value": "myoctocat.com"
+  },
+  {
+    "type": "Domain",
+    "value": "octocaptcha.com"
+  },
+  {
+    "type": "Domain",
+    "value": "opensource.guide"
+  },
+  {
+    "type": "Domain",
+    "value": "repo.new"
+  },
+  {
+    "type": "Domain",
+    "value": "thegithubshop.com"
+  },
+  {
+    "type": "Domain",
+    "value": "npmjs.org"
+  },
+  {
+    "type": "Domain",
+    "value": "githubcopilot.com"
+  },
+  {
+    "type": "Domain",
+    "value": "npm.community"
+  },
+  {
+    "type": "Domain",
+    "value": "npmjs.com"
+  },
+  {
+    "type": "Domain",
+    "value": "blob.core.windows.net"
+  },
+  {
+    "type": "Regex",
+    "value": "^github-production-release-asset-[0-9a-zA-Z]{6}\\.s3\\.amazonaws\\.com$"
+  },
+  {
+    "type": "Domain",
+    "value": "collector.github.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "copilot-telemetry.githubusercontent.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  }
+]

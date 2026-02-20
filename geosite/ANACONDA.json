@@ -1,0 +1,18 @@
+[
+  {
+    "type": "Domain",
+    "value": "anaconda.cloud"
+  },
+  {
+    "type": "Domain",
+    "value": "anaconda.com"
+  },
+  {
+    "type": "Domain",
+    "value": "anaconda.org"
+  },
+  {
+    "type": "Domain",
+    "value": "conda.io"
+  }
+]

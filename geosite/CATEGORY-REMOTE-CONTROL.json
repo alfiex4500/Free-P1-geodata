@@ -1,0 +1,39 @@
+[
+  {
+    "type": "Full",
+    "value": "client-teamviewer-com.trafficmanager.net"
+  },
+  {
+    "type": "Full",
+    "value": "teamviewer.com.cdn.cloudflare.net"
+  },
+  {
+    "type": "Domain",
+    "value": "anydesk.com"
+  },
+  {
+    "type": "Domain",
+    "value": "nomachine.com"
+  },
+  {
+    "type": "Domain",
+    "value": "rustdesk.com"
+  },
+  {
+    "type": "Domain",
+    "value": "teamviewer.com"
+  },
+  {
+    "type": "Domain",
+    "value": "teamviewer.us"
+  },
+  {
+    "type": "Domain",
+    "value": "teamviewer.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

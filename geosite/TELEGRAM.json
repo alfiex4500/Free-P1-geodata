@@ -1,0 +1,82 @@
+[
+  {
+    "type": "Domain",
+    "value": "cdn-telegram.org"
+  },
+  {
+    "type": "Domain",
+    "value": "comments.app"
+  },
+  {
+    "type": "Domain",
+    "value": "contest.com"
+  },
+  {
+    "type": "Domain",
+    "value": "fragment.com"
+  },
+  {
+    "type": "Domain",
+    "value": "graph.org"
+  },
+  {
+    "type": "Domain",
+    "value": "quiz.directory"
+  },
+  {
+    "type": "Domain",
+    "value": "t.me"
+  },
+  {
+    "type": "Domain",
+    "value": "tdesktop.com"
+  },
+  {
+    "type": "Domain",
+    "value": "telega.one"
+  },
+  {
+    "type": "Domain",
+    "value": "telegra.ph"
+  },
+  {
+    "type": "Domain",
+    "value": "telegram-cdn.org"
+  },
+  {
+    "type": "Domain",
+    "value": "telegram.dog"
+  },
+  {
+    "type": "Domain",
+    "value": "telegram.me"
+  },
+  {
+    "type": "Domain",
+    "value": "telegram.org"
+  },
+  {
+    "type": "Domain",
+    "value": "telegram.space"
+  },
+  {
+    "type": "Domain",
+    "value": "telesco.pe"
+  },
+  {
+    "type": "Domain",
+    "value": "tg.dev"
+  },
+  {
+    "type": "Domain",
+    "value": "ton.org"
+  },
+  {
+    "type": "Domain",
+    "value": "tx.me"
+  },
+  {
+    "type": "Domain",
+    "value": "usercontent.dev"
+  }
+]

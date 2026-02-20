@@ -1,0 +1,49 @@
+[
+  {
+    "type": "Domain",
+    "value": "farfetch-apps.com"
+  },
+  {
+    "type": "Domain",
+    "value": "farfetch-contents.com"
+  },
+  {
+    "type": "Domain",
+    "value": "farfetch.com"
+  },
+  {
+    "type": "Domain",
+    "value": "farfetch.net"
+  },
+  {
+    "type": "Domain",
+    "value": "fflnk.net"
+  },
+  {
+    "type": "Domain",
+    "value": "farfetch.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "farfetch.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "farfetch.net.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

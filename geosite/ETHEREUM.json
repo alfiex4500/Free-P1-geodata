@@ -1,0 +1,18 @@
+[
+  {
+    "type": "Domain",
+    "value": "devcon.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ethereum.foundation"
+  },
+  {
+    "type": "Domain",
+    "value": "ethereum.org"
+  },
+  {
+    "type": "Domain",
+    "value": "etherscan.io"
+  }
+]

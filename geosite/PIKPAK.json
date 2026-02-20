@@ -1,0 +1,35 @@
+[
+  {
+    "type": "Domain",
+    "value": "mypikpak.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mypikpak.net"
+  },
+  {
+    "type": "Domain",
+    "value": "pickpackapp.com"
+  },
+  {
+    "type": "Domain",
+    "value": "pikpak.io"
+  },
+  {
+    "type": "Domain",
+    "value": "pikpak.me"
+  },
+  {
+    "type": "Domain",
+    "value": "pikpakdrive.com"
+  },
+  {
+    "type": "Full",
+    "value": "o4504926511693824.ingest.sentry.io",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  }
+]

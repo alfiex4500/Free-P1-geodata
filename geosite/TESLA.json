@@ -1,0 +1,79 @@
+[
+  {
+    "type": "Full",
+    "value": "tesla-cdn.thron.com"
+  },
+  {
+    "type": "Domain",
+    "value": "solarcity.com"
+  },
+  {
+    "type": "Domain",
+    "value": "tesla.com"
+  },
+  {
+    "type": "Domain",
+    "value": "tesla.services"
+  },
+  {
+    "type": "Domain",
+    "value": "teslaenergy.services"
+  },
+  {
+    "type": "Domain",
+    "value": "teslamotors.com"
+  },
+  {
+    "type": "Domain",
+    "value": "teslazta.net"
+  },
+  {
+    "type": "Domain",
+    "value": "ts.la"
+  },
+  {
+    "type": "Domain",
+    "value": "tesla.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "tesla.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "teslamotors.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "teslamotors.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "tesla-cdn.thron.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

@@ -1,0 +1,99 @@
+[
+  {
+    "type": "Domain",
+    "value": "sandisk.com"
+  },
+  {
+    "type": "Domain",
+    "value": "sandisk.sg"
+  },
+  {
+    "type": "Domain",
+    "value": "sandisk.it"
+  },
+  {
+    "type": "Domain",
+    "value": "westerndigital.com"
+  },
+  {
+    "type": "Domain",
+    "value": "wdc.com"
+  },
+  {
+    "type": "Domain",
+    "value": "g-technology.com"
+  },
+  {
+    "type": "Domain",
+    "value": "sandisk.ae"
+  },
+  {
+    "type": "Domain",
+    "value": "wd.com"
+  },
+  {
+    "type": "Domain",
+    "value": "sandisk.id"
+  },
+  {
+    "type": "Domain",
+    "value": "sandisk.nl"
+  },
+  {
+    "type": "Domain",
+    "value": "sandisk.in"
+  },
+  {
+    "type": "Domain",
+    "value": "sandisk.de"
+  },
+  {
+    "type": "Domain",
+    "value": "sandisk.es"
+  },
+  {
+    "type": "Domain",
+    "value": "sandisk.fr"
+  },
+  {
+    "type": "Domain",
+    "value": "sandisk.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "sandisk.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "sandisk.com.tw"
+  },
+  {
+    "type": "Domain",
+    "value": "sandisk.com.tr"
+  },
+  {
+    "type": "Domain",
+    "value": "sandisk.com.br"
+  },
+  {
+    "type": "Domain",
+    "value": "sandisk.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "sandisk.co.kr"
+  },
+  {
+    "type": "Domain",
+    "value": "sandisk.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "sandisk.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

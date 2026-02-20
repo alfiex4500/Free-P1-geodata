@@ -1,0 +1,18 @@
+[
+  {
+    "type": "Domain",
+    "value": "deps.dev"
+  },
+  {
+    "type": "Domain",
+    "value": "deps.info"
+  },
+  {
+    "type": "Domain",
+    "value": "opensourceinsight.dev"
+  },
+  {
+    "type": "Domain",
+    "value": "opensourceinsights.dev"
+  }
+]

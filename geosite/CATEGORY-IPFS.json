@@ -1,0 +1,86 @@
+[
+  {
+    "type": "Domain",
+    "value": "ipns.co"
+  },
+  {
+    "type": "Domain",
+    "value": "ipfs.tech"
+  },
+  {
+    "type": "Domain",
+    "value": "cloudflare-ipfs.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cf-ipfs.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ipfs.io"
+  },
+  {
+    "type": "Domain",
+    "value": "ipfs-gateway.cloud"
+  },
+  {
+    "type": "Domain",
+    "value": "c4rex.co"
+  },
+  {
+    "type": "Domain",
+    "value": "via0.com"
+  },
+  {
+    "type": "Domain",
+    "value": "nftstorage.link"
+  },
+  {
+    "type": "Domain",
+    "value": "jorropo.net"
+  },
+  {
+    "type": "Domain",
+    "value": "crustwebsites.net"
+  },
+  {
+    "type": "Domain",
+    "value": "4everland.io"
+  },
+  {
+    "type": "Domain",
+    "value": "dweb.link"
+  },
+  {
+    "type": "Domain",
+    "value": "ipfs.anonymize.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ipfs.runfission.com"
+  },
+  {
+    "type": "Domain",
+    "value": "gateway.pinata.cloud"
+  },
+  {
+    "type": "Domain",
+    "value": "ipfs.eternum.io"
+  },
+  {
+    "type": "Domain",
+    "value": "ipfs.best-practice.se"
+  },
+  {
+    "type": "Domain",
+    "value": "ipfs.lain.la"
+  },
+  {
+    "type": "Domain",
+    "value": "ipfs.fleek.co"
+  },
+  {
+    "type": "Domain",
+    "value": "ipfs.eth.aragon.network"
+  }
+]

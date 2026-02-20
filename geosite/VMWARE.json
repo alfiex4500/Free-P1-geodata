@@ -1,0 +1,423 @@
+[
+  {
+    "type": "Full",
+    "value": "vmware.tt.omtrdc.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cfblob.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cloudchoose.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cloudvolumes.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cmpaas.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cpedge.com"
+  },
+  {
+    "type": "Domain",
+    "value": "crit-staging.com"
+  },
+  {
+    "type": "Domain",
+    "value": "experience-vmware.com"
+  },
+  {
+    "type": "Domain",
+    "value": "gemfire.net"
+  },
+  {
+    "type": "Domain",
+    "value": "geodesummit.com"
+  },
+  {
+    "type": "Domain",
+    "value": "getboxer.com"
+  },
+  {
+    "type": "Domain",
+    "value": "gitstar.com"
+  },
+  {
+    "type": "Domain",
+    "value": "gitstar.net"
+  },
+  {
+    "type": "Domain",
+    "value": "gopivotal.net"
+  },
+  {
+    "type": "Domain",
+    "value": "greenplum.net"
+  },
+  {
+    "type": "Domain",
+    "value": "hwslabs.com"
+  },
+  {
+    "type": "Domain",
+    "value": "immidio.com"
+  },
+  {
+    "type": "Domain",
+    "value": "itfromtheinside.com"
+  },
+  {
+    "type": "Domain",
+    "value": "latamvmwareforum.com"
+  },
+  {
+    "type": "Domain",
+    "value": "pivotalinitiative.com"
+  },
+  {
+    "type": "Domain",
+    "value": "snapvolumes.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ssdevrd.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vcanedge.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vcloudair.net"
+  },
+  {
+    "type": "Domain",
+    "value": "vfabric.net"
+  },
+  {
+    "type": "Domain",
+    "value": "vidmpreview.com"
+  },
+  {
+    "type": "Domain",
+    "value": "virsto.com"
+  },
+  {
+    "type": "Domain",
+    "value": "virsto.net"
+  },
+  {
+    "type": "Domain",
+    "value": "vmglobal.net"
+  },
+  {
+    "type": "Domain",
+    "value": "vmmark.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vmtestdrive.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vmw.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vmware-cloudmanagement.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vmware-techcenter.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vmware.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vmware20mosaic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vmwareausnews.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vmwarecertificationvideos.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vmwarecloud.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vmwaredemandcenter.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vmwareemeablog.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vmwaregrid.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vmwarehorizon.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vmwareidentity.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vmwarelearning.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vmwarelearningplatform.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vmwarestuff.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vmwareusergroupstore.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vmwareviewpoint.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vmwarevmc.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vmwdemo.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vmwgcomms.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vmwhorizonair.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vmwidm-ads.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vmwidm.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vmwlabconnect.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vmwlearningplatform.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vmworld.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vmworld2010.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vmworld2013.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vmwsalesrewards.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vmwservices.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vnware.net"
+  },
+  {
+    "type": "Domain",
+    "value": "whychoosehorizon.com"
+  },
+  {
+    "type": "Domain",
+    "value": "whychooseview.com"
+  },
+  {
+    "type": "Domain",
+    "value": "whychoosevmwareeuc.com"
+  },
+  {
+    "type": "Domain",
+    "value": "windowsuem.com"
+  },
+  {
+    "type": "Domain",
+    "value": "workspaceair.com"
+  },
+  {
+    "type": "Domain",
+    "value": "xlstudio.com"
+  },
+  {
+    "type": "Domain",
+    "value": "avinetworks.com"
+  },
+  {
+    "type": "Domain",
+    "value": "badaas.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bitnami.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bitnamiapp.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bitnamistudio.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dockerizer.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cloudcredibility.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cloudhealthtech.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cloudlive.com"
+  },
+  {
+    "type": "Domain",
+    "value": "kubeacademy.com"
+  },
+  {
+    "type": "Domain",
+    "value": "kubeapps.com"
+  },
+  {
+    "type": "Domain",
+    "value": "nyansa.com"
+  },
+  {
+    "type": "Domain",
+    "value": "velocloud.com"
+  },
+  {
+    "type": "Domain",
+    "value": "gopivotal.com"
+  },
+  {
+    "type": "Domain",
+    "value": "heptio.com"
+  },
+  {
+    "type": "Domain",
+    "value": "aliveipc.com"
+  },
+  {
+    "type": "Domain",
+    "value": "aliveitsm.com"
+  },
+  {
+    "type": "Domain",
+    "value": "aliveprofiler.com"
+  },
+  {
+    "type": "Domain",
+    "value": "alivercm.com"
+  },
+  {
+    "type": "Domain",
+    "value": "aliverewind.com"
+  },
+  {
+    "type": "Domain",
+    "value": "alivertsm.com"
+  },
+  {
+    "type": "Domain",
+    "value": "alivevm.com"
+  },
+  {
+    "type": "Domain",
+    "value": "alivevmax.com"
+  },
+  {
+    "type": "Domain",
+    "value": "alivevue.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vsphere.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vsphere.net"
+  },
+  {
+    "type": "Domain",
+    "value": "air-watch.com"
+  },
+  {
+    "type": "Domain",
+    "value": "airwatchexpress.com"
+  },
+  {
+    "type": "Domain",
+    "value": "airwatchqa.com"
+  },
+  {
+    "type": "Domain",
+    "value": "getws1.com"
+  },
+  {
+    "type": "Domain",
+    "value": "getwsone.com"
+  },
+  {
+    "type": "Domain",
+    "value": "whatisairwatch.com"
+  },
+  {
+    "type": "Domain",
+    "value": "whatisworkspaceone.com"
+  },
+  {
+    "type": "Domain",
+    "value": "workspaceone.com"
+  },
+  {
+    "type": "Domain",
+    "value": "heptio.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

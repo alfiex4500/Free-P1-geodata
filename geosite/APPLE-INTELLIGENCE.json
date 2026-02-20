@@ -1,0 +1,22 @@
+[
+  {
+    "type": "Full",
+    "value": "apple-relay.apple.com"
+  },
+  {
+    "type": "Full",
+    "value": "apple-relay.cloudflare.com"
+  },
+  {
+    "type": "Full",
+    "value": "apple-relay.fastly-edge.com"
+  },
+  {
+    "type": "Full",
+    "value": "apple-relay.mask.apple-dns.net"
+  },
+  {
+    "type": "Full",
+    "value": "gspe1-ssl.ls.apple.com"
+  }
+]

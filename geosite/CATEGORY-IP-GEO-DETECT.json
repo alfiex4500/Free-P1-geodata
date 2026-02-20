@@ -1,0 +1,266 @@
+[
+  {
+    "type": "Domain",
+    "value": "2ip.io"
+  },
+  {
+    "type": "Domain",
+    "value": "2ip.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "2ip.ua"
+  },
+  {
+    "type": "Domain",
+    "value": "abstractapi.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bigdatacloud.net"
+  },
+  {
+    "type": "Domain",
+    "value": "db-ip.com"
+  },
+  {
+    "type": "Domain",
+    "value": "extreme-ip-lookup.com"
+  },
+  {
+    "type": "Domain",
+    "value": "fraudguard.io"
+  },
+  {
+    "type": "Domain",
+    "value": "freegeoip.app"
+  },
+  {
+    "type": "Domain",
+    "value": "freeipapi.com"
+  },
+  {
+    "type": "Domain",
+    "value": "geoplugin.net"
+  },
+  {
+    "type": "Domain",
+    "value": "getipintel.net"
+  },
+  {
+    "type": "Domain",
+    "value": "ifconfig.co"
+  },
+  {
+    "type": "Domain",
+    "value": "ifconfig.me"
+  },
+  {
+    "type": "Domain",
+    "value": "ip-api.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ip-score.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ip2location.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ip2location.io"
+  },
+  {
+    "type": "Domain",
+    "value": "ip4.me"
+  },
+  {
+    "type": "Domain",
+    "value": "ip6.me"
+  },
+  {
+    "type": "Domain",
+    "value": "ip6only.me"
+  },
+  {
+    "type": "Domain",
+    "value": "ip8.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ipaddress.my"
+  },
+  {
+    "type": "Domain",
+    "value": "ipapi.co"
+  },
+  {
+    "type": "Domain",
+    "value": "ipbase.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ipchicken.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ipdata.co"
+  },
+  {
+    "type": "Domain",
+    "value": "ipfind.io"
+  },
+  {
+    "type": "Domain",
+    "value": "ipgeolocation.io"
+  },
+  {
+    "type": "Domain",
+    "value": "ipify.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ipinfo.io"
+  },
+  {
+    "type": "Domain",
+    "value": "ipleak.net"
+  },
+  {
+    "type": "Domain",
+    "value": "iplocate.io"
+  },
+  {
+    "type": "Domain",
+    "value": "iplocation.io"
+  },
+  {
+    "type": "Domain",
+    "value": "iplocation.net"
+  },
+  {
+    "type": "Domain",
+    "value": "ipqualityscore.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ipregistry.co"
+  },
+  {
+    "type": "Domain",
+    "value": "ipstack.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ipwhois.io"
+  },
+  {
+    "type": "Domain",
+    "value": "maxmind.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mon-ip.com"
+  },
+  {
+    "type": "Domain",
+    "value": "monip.org"
+  },
+  {
+    "type": "Domain",
+    "value": "myexternalip.com"
+  },
+  {
+    "type": "Domain",
+    "value": "myip.com"
+  },
+  {
+    "type": "Domain",
+    "value": "myip.ms"
+  },
+  {
+    "type": "Domain",
+    "value": "myip.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "myipaddress.com"
+  },
+  {
+    "type": "Domain",
+    "value": "proxycheck.io"
+  },
+  {
+    "type": "Domain",
+    "value": "seeip.org"
+  },
+  {
+    "type": "Domain",
+    "value": "showmyip.com"
+  },
+  {
+    "type": "Domain",
+    "value": "showmyipaddress.com"
+  },
+  {
+    "type": "Domain",
+    "value": "sxgeo.city"
+  },
+  {
+    "type": "Domain",
+    "value": "sypexgeo.net"
+  },
+  {
+    "type": "Domain",
+    "value": "tracemyip.org"
+  },
+  {
+    "type": "Domain",
+    "value": "whatismyip.com"
+  },
+  {
+    "type": "Domain",
+    "value": "whatismyip.net"
+  },
+  {
+    "type": "Domain",
+    "value": "whatismyip.org"
+  },
+  {
+    "type": "Domain",
+    "value": "whatismyipaddress.com"
+  },
+  {
+    "type": "Domain",
+    "value": "whatismyisp.com"
+  },
+  {
+    "type": "Domain",
+    "value": "whatismyv6.com"
+  },
+  {
+    "type": "Domain",
+    "value": "whatsmyip.com"
+  },
+  {
+    "type": "Domain",
+    "value": "whatsmyip.org"
+  },
+  {
+    "type": "Domain",
+    "value": "where-am-i.co"
+  },
+  {
+    "type": "Domain",
+    "value": "whoer.net"
+  },
+  {
+    "type": "Domain",
+    "value": "wieistmeineip.de"
+  },
+  {
+    "type": "Domain",
+    "value": "wtfismyip.com"
+  }
+]

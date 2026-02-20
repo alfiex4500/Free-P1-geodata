@@ -1,0 +1,59 @@
+[
+  {
+    "type": "Domain",
+    "value": "u3d.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "unity.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "unitychina.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "ads.unitychina.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "splash-ads.cdn.unity.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "splash-ads.unitychina.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "unityads.unity.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "unityads.unitychina.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  }
+]

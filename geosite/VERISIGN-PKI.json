@@ -1,0 +1,202 @@
+[
+  {
+    "type": "Domain",
+    "value": "adobe-crl.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "certipath-aia.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "certipath-crl.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "crl.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "csc3-2004-aia.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "csc3-2004-crl.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "csc3-2009-2-aia.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "csc3-2009-2-crl.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "csc3-2009-aia.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "csc3-2009-crl.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "csc3-2010-aia.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "csc3-2010-crl.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "eca-client-crl.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "eca-client-ocsp.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "evintl-aia.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "evintl-crl.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "evintl-ocsp.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "evintl-t1-crl.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "evsecure-aia.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "evsecure-crl.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "evsecure-ocsp.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "evsecure-t1-aia.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "evsecure-t1-crl.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ocsp.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "onsitecrl.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "orgc3-crl.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "pki-ocsp.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ssp-aia.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ssp-crl.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ssp-ocsp.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "svr-wimax-ocsp.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "svrintl-aia.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "svrintl-crl.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "svrintl-g3-aia.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "svrintl-g3-crl.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "svrintl-t1-aia.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "svrintl-t1-crl.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "svrsecure-aia.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "svrsecure-crl.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "svrsecure-g2-aia.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "svrsecure-g2-crl.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "svrsecure-g3-aia.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "svrsecure-g3-crl.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "svrsecure-oracle-aia.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "svrsecure-oracle-crl.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "svrsecure-oracle-ocsp.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "svrsecure-t1-aia.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "svrsecure-t1-crl.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "svrtrial-g2-aia.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "svrtrial-g2-crl.verisign.com"
+  }
+]

@@ -1,0 +1,5534 @@
+[
+  {
+    "type": "Full",
+    "value": "google-ohttp-relay-safebrowsing.fastly-edge.com"
+  },
+  {
+    "type": "Full",
+    "value": "android.googlesource.com"
+  },
+  {
+    "type": "Full",
+    "value": "yt3.googleusercontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "firebase.google.com"
+  },
+  {
+    "type": "Full",
+    "value": "firebase.googleapis.com"
+  },
+  {
+    "type": "Full",
+    "value": "firebaseappcheck.googleapis.com"
+  },
+  {
+    "type": "Full",
+    "value": "firebasedynamiclinks-ipv4.googleapis.com"
+  },
+  {
+    "type": "Full",
+    "value": "firebasedynamiclinks-ipv6.googleapis.com"
+  },
+  {
+    "type": "Full",
+    "value": "firebasedynamiclinks.googleapis.com"
+  },
+  {
+    "type": "Full",
+    "value": "firebaseinappmessaging.googleapis.com"
+  },
+  {
+    "type": "Full",
+    "value": "firebaseinstallations.googleapis.com"
+  },
+  {
+    "type": "Full",
+    "value": "firebaselogging-pa.googleapis.com"
+  },
+  {
+    "type": "Full",
+    "value": "firebaselogging.googleapis.com"
+  },
+  {
+    "type": "Full",
+    "value": "firebaseperusertopics-pa.googleapis.com"
+  },
+  {
+    "type": "Full",
+    "value": "firebaseremoteconfig.googleapis.com"
+  },
+  {
+    "type": "Full",
+    "value": "ai.google.dev"
+  },
+  {
+    "type": "Full",
+    "value": "alkalicore-pa.clients6.google.com"
+  },
+  {
+    "type": "Full",
+    "value": "alkalimakersuite-pa.clients6.google.com"
+  },
+  {
+    "type": "Full",
+    "value": "webchannel-alkalimakersuite-pa.clients6.google.com"
+  },
+  {
+    "type": "Full",
+    "value": "cloudaicompanion.googleapis.com"
+  },
+  {
+    "type": "Full",
+    "value": "cloudcode-pa.googleapis.com"
+  },
+  {
+    "type": "Full",
+    "value": "daily-cloudcode-pa.googleapis.com"
+  },
+  {
+    "type": "Full",
+    "value": "notebooklm-pa.googleapis.com"
+  },
+  {
+    "type": "Full",
+    "value": "notebooklm.googleapis.com"
+  },
+  {
+    "type": "Full",
+    "value": "antigravity-pa.googleapis.com"
+  },
+  {
+    "type": "Full",
+    "value": "antigravity.googleapis.com"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.ae"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.at"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.be"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.bg"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.ca"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.cat"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.ch"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.cl"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.cn"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.co.cr"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.co.id"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.co.il"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.co.in"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.co.jp"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.co.kr"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.co.nz"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.co.th"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.co.uk"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.co.ve"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.co.za"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.com"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.com.ar"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.com.au"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.com.bo"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.com.br"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.com.co"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.com.cu"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.com.do"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.com.ec"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.com.eg"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.com.gt"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.com.hk"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.com.ly"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.com.mx"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.com.my"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.com.ni"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.com.pa"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.com.pe"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.com.ph"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.com.pk"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.com.pr"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.com.py"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.com.sg"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.com.sv"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.com.tr"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.com.tw"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.com.ua"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.com.uy"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.com.vn"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.cz"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.de"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.dk"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.es"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.fi"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.fr"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.gr"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.hn"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.hr"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.hu"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.is"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.it"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.li"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.lt"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.lu"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.lv"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.nl"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.no"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.pl"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.pt"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.ro"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.ru"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.se"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.si"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.sk"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.googleusercontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.l.google.com"
+  },
+  {
+    "type": "Full",
+    "value": "publicca.googleapis.com"
+  },
+  {
+    "type": "Full",
+    "value": "preprod-publicca.googleapis.com"
+  },
+  {
+    "type": "Full",
+    "value": "clients1.google.com"
+  },
+  {
+    "type": "Full",
+    "value": "pki.google.com"
+  },
+  {
+    "type": "Full",
+    "value": "ai.google.dev"
+  },
+  {
+    "type": "Full",
+    "value": "alkalicore-pa.clients6.google.com"
+  },
+  {
+    "type": "Full",
+    "value": "alkalimakersuite-pa.clients6.google.com"
+  },
+  {
+    "type": "Full",
+    "value": "webchannel-alkalimakersuite-pa.clients6.google.com"
+  },
+  {
+    "type": "Full",
+    "value": "cloudaicompanion.googleapis.com"
+  },
+  {
+    "type": "Full",
+    "value": "cloudcode-pa.googleapis.com"
+  },
+  {
+    "type": "Full",
+    "value": "daily-cloudcode-pa.googleapis.com"
+  },
+  {
+    "type": "Full",
+    "value": "notebooklm-pa.googleapis.com"
+  },
+  {
+    "type": "Full",
+    "value": "notebooklm.googleapis.com"
+  },
+  {
+    "type": "Full",
+    "value": "antigravity-pa.googleapis.com"
+  },
+  {
+    "type": "Full",
+    "value": "antigravity.googleapis.com"
+  },
+  {
+    "type": "Full",
+    "value": "alt7-mtalk.google.com"
+  },
+  {
+    "type": "Full",
+    "value": "alt8-mtalk.google.com"
+  },
+  {
+    "type": "Full",
+    "value": "mtalk-dev.google.com"
+  },
+  {
+    "type": "Full",
+    "value": "mtalk-staging.google.com"
+  },
+  {
+    "type": "Full",
+    "value": "mtalk4.google.com"
+  },
+  {
+    "type": "Domain",
+    "value": "chrome"
+  },
+  {
+    "type": "Domain",
+    "value": "dclk"
+  },
+  {
+    "type": "Domain",
+    "value": "gbiz"
+  },
+  {
+    "type": "Domain",
+    "value": "gle"
+  },
+  {
+    "type": "Domain",
+    "value": "gmail"
+  },
+  {
+    "type": "Domain",
+    "value": "goo"
+  },
+  {
+    "type": "Domain",
+    "value": "goog"
+  },
+  {
+    "type": "Domain",
+    "value": "google"
+  },
+  {
+    "type": "Domain",
+    "value": "guge"
+  },
+  {
+    "type": "Domain",
+    "value": "hangout"
+  },
+  {
+    "type": "Domain",
+    "value": "nexus"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--flw351e"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--qcka1pmc"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube"
+  },
+  {
+    "type": "Domain",
+    "value": "android"
+  },
+  {
+    "type": "Domain",
+    "value": "snapseed.com"
+  },
+  {
+    "type": "Domain",
+    "value": "google.mg"
+  },
+  {
+    "type": "Domain",
+    "value": "google.as"
+  },
+  {
+    "type": "Domain",
+    "value": "google.at"
+  },
+  {
+    "type": "Domain",
+    "value": "google.az"
+  },
+  {
+    "type": "Domain",
+    "value": "google.ba"
+  },
+  {
+    "type": "Domain",
+    "value": "google.be"
+  },
+  {
+    "type": "Domain",
+    "value": "google.bf"
+  },
+  {
+    "type": "Domain",
+    "value": "google.bg"
+  },
+  {
+    "type": "Domain",
+    "value": "google.bi"
+  },
+  {
+    "type": "Domain",
+    "value": "google.bj"
+  },
+  {
+    "type": "Domain",
+    "value": "google.bs"
+  },
+  {
+    "type": "Domain",
+    "value": "google.bt"
+  },
+  {
+    "type": "Domain",
+    "value": "google.by"
+  },
+  {
+    "type": "Domain",
+    "value": "google.ca"
+  },
+  {
+    "type": "Domain",
+    "value": "google.cat"
+  },
+  {
+    "type": "Domain",
+    "value": "google.cd"
+  },
+  {
+    "type": "Domain",
+    "value": "google.cf"
+  },
+  {
+    "type": "Domain",
+    "value": "google.cg"
+  },
+  {
+    "type": "Domain",
+    "value": "google.ch"
+  },
+  {
+    "type": "Domain",
+    "value": "google.ci"
+  },
+  {
+    "type": "Domain",
+    "value": "google.cl"
+  },
+  {
+    "type": "Domain",
+    "value": "google.cm"
+  },
+  {
+    "type": "Domain",
+    "value": "google.co"
+  },
+  {
+    "type": "Domain",
+    "value": "google.com"
+  },
+  {
+    "type": "Domain",
+    "value": "google.cv"
+  },
+  {
+    "type": "Domain",
+    "value": "google.cz"
+  },
+  {
+    "type": "Domain",
+    "value": "google.de"
+  },
+  {
+    "type": "Domain",
+    "value": "google.dj"
+  },
+  {
+    "type": "Domain",
+    "value": "fastlane.tools"
+  },
+  {
+    "type": "Domain",
+    "value": "fastlane.ci"
+  },
+  {
+    "type": "Domain",
+    "value": "deepmind.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ai.studio"
+  },
+  {
+    "type": "Domain",
+    "value": "polymerproject.org"
+  },
+  {
+    "type": "Domain",
+    "value": "polymer-project.org"
+  },
+  {
+    "type": "Domain",
+    "value": "v8project.org"
+  },
+  {
+    "type": "Domain",
+    "value": "v8.dev"
+  },
+  {
+    "type": "Domain",
+    "value": "blogspot.mk"
+  },
+  {
+    "type": "Domain",
+    "value": "blogspot.md"
+  },
+  {
+    "type": "Domain",
+    "value": "blogspot.lu"
+  },
+  {
+    "type": "Domain",
+    "value": "blogspot.lt"
+  },
+  {
+    "type": "Domain",
+    "value": "blogspot.li"
+  },
+  {
+    "type": "Domain",
+    "value": "blogspot.kr"
+  },
+  {
+    "type": "Domain",
+    "value": "blogspot.de"
+  },
+  {
+    "type": "Domain",
+    "value": "stxmosquitoproject.net"
+  },
+  {
+    "type": "Domain",
+    "value": "blogspot.it"
+  },
+  {
+    "type": "Domain",
+    "value": "blogspot.is"
+  },
+  {
+    "type": "Domain",
+    "value": "blogspot.in"
+  },
+  {
+    "type": "Domain",
+    "value": "blogspot.ie"
+  },
+  {
+    "type": "Domain",
+    "value": "blogspot.hu"
+  },
+  {
+    "type": "Domain",
+    "value": "blogspot.hr"
+  },
+  {
+    "type": "Domain",
+    "value": "blogspot.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "blogspot.gr"
+  },
+  {
+    "type": "Domain",
+    "value": "blogspot.fr"
+  },
+  {
+    "type": "Domain",
+    "value": "blogspot.rs"
+  },
+  {
+    "type": "Domain",
+    "value": "blogspot.tw"
+  },
+  {
+    "type": "Domain",
+    "value": "blogspot.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "blogspot.cz"
+  },
+  {
+    "type": "Domain",
+    "value": "blogspot.cv"
+  },
+  {
+    "type": "Domain",
+    "value": "blogblog.com"
+  },
+  {
+    "type": "Domain",
+    "value": "blogspot.my"
+  },
+  {
+    "type": "Domain",
+    "value": "blogger.com"
+  },
+  {
+    "type": "Domain",
+    "value": "blogspot.no"
+  },
+  {
+    "type": "Domain",
+    "value": "blogspot.pe"
+  },
+  {
+    "type": "Domain",
+    "value": "blogspot.pt"
+  },
+  {
+    "type": "Domain",
+    "value": "blogspot.qa"
+  },
+  {
+    "type": "Domain",
+    "value": "blogspot.re"
+  },
+  {
+    "type": "Domain",
+    "value": "blogspot.ro"
+  },
+  {
+    "type": "Domain",
+    "value": "blogspot.fi"
+  },
+  {
+    "type": "Domain",
+    "value": "blogspot.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "blogspot.se"
+  },
+  {
+    "type": "Domain",
+    "value": "blogspot.sg"
+  },
+  {
+    "type": "Domain",
+    "value": "blogspot.com"
+  },
+  {
+    "type": "Domain",
+    "value": "blogspot.si"
+  },
+  {
+    "type": "Domain",
+    "value": "blogspot.sk"
+  },
+  {
+    "type": "Domain",
+    "value": "blogspot.sn"
+  },
+  {
+    "type": "Domain",
+    "value": "blogspot.td"
+  },
+  {
+    "type": "Domain",
+    "value": "blogspot.dk"
+  },
+  {
+    "type": "Domain",
+    "value": "blogspot.ug"
+  },
+  {
+    "type": "Domain",
+    "value": "blogspot.vn"
+  },
+  {
+    "type": "Domain",
+    "value": "blogspot.cl"
+  },
+  {
+    "type": "Domain",
+    "value": "blogspot.ch"
+  },
+  {
+    "type": "Domain",
+    "value": "blogspot.cf"
+  },
+  {
+    "type": "Domain",
+    "value": "blogspot.ca"
+  },
+  {
+    "type": "Domain",
+    "value": "blogspot.bj"
+  },
+  {
+    "type": "Domain",
+    "value": "blogspot.bg"
+  },
+  {
+    "type": "Domain",
+    "value": "blogspot.be"
+  },
+  {
+    "type": "Domain",
+    "value": "blogspot.ba"
+  },
+  {
+    "type": "Domain",
+    "value": "blogspot.am"
+  },
+  {
+    "type": "Domain",
+    "value": "blogspot.al"
+  },
+  {
+    "type": "Domain",
+    "value": "blogspot.ae"
+  },
+  {
+    "type": "Domain",
+    "value": "blogspot.mx"
+  },
+  {
+    "type": "Domain",
+    "value": "blogspot.nl"
+  },
+  {
+    "type": "Domain",
+    "value": "opensourceinsights.dev"
+  },
+  {
+    "type": "Domain",
+    "value": "opensourceinsight.dev"
+  },
+  {
+    "type": "Domain",
+    "value": "deps.info"
+  },
+  {
+    "type": "Domain",
+    "value": "deps.dev"
+  },
+  {
+    "type": "Domain",
+    "value": "google.dk"
+  },
+  {
+    "type": "Domain",
+    "value": "google.dm"
+  },
+  {
+    "type": "Domain",
+    "value": "google.dz"
+  },
+  {
+    "type": "Domain",
+    "value": "google.ee"
+  },
+  {
+    "type": "Domain",
+    "value": "google.es"
+  },
+  {
+    "type": "Domain",
+    "value": "google.fi"
+  },
+  {
+    "type": "Domain",
+    "value": "google.fm"
+  },
+  {
+    "type": "Domain",
+    "value": "google.fr"
+  },
+  {
+    "type": "Domain",
+    "value": "google.ga"
+  },
+  {
+    "type": "Domain",
+    "value": "google.ge"
+  },
+  {
+    "type": "Domain",
+    "value": "google.gg"
+  },
+  {
+    "type": "Domain",
+    "value": "google.gl"
+  },
+  {
+    "type": "Domain",
+    "value": "google.gm"
+  },
+  {
+    "type": "Domain",
+    "value": "google.gr"
+  },
+  {
+    "type": "Domain",
+    "value": "google.gy"
+  },
+  {
+    "type": "Domain",
+    "value": "google.hn"
+  },
+  {
+    "type": "Domain",
+    "value": "google.hr"
+  },
+  {
+    "type": "Domain",
+    "value": "google.ht"
+  },
+  {
+    "type": "Domain",
+    "value": "google.hu"
+  },
+  {
+    "type": "Domain",
+    "value": "google.ie"
+  },
+  {
+    "type": "Domain",
+    "value": "google.im"
+  },
+  {
+    "type": "Domain",
+    "value": "google.iq"
+  },
+  {
+    "type": "Domain",
+    "value": "google.is"
+  },
+  {
+    "type": "Domain",
+    "value": "google.it"
+  },
+  {
+    "type": "Domain",
+    "value": "google.je"
+  },
+  {
+    "type": "Domain",
+    "value": "google.jo"
+  },
+  {
+    "type": "Domain",
+    "value": "google.kg"
+  },
+  {
+    "type": "Domain",
+    "value": "google.ki"
+  },
+  {
+    "type": "Domain",
+    "value": "google.kz"
+  },
+  {
+    "type": "Domain",
+    "value": "google.la"
+  },
+  {
+    "type": "Domain",
+    "value": "google.li"
+  },
+  {
+    "type": "Domain",
+    "value": "google.lk"
+  },
+  {
+    "type": "Domain",
+    "value": "google.lt"
+  },
+  {
+    "type": "Domain",
+    "value": "google.lu"
+  },
+  {
+    "type": "Domain",
+    "value": "google.lv"
+  },
+  {
+    "type": "Domain",
+    "value": "google.md"
+  },
+  {
+    "type": "Domain",
+    "value": "google.me"
+  },
+  {
+    "type": "Domain",
+    "value": "stxmosquitoproject.com"
+  },
+  {
+    "type": "Domain",
+    "value": "google.mk"
+  },
+  {
+    "type": "Domain",
+    "value": "google.ml"
+  },
+  {
+    "type": "Domain",
+    "value": "google.mn"
+  },
+  {
+    "type": "Domain",
+    "value": "google.ms"
+  },
+  {
+    "type": "Domain",
+    "value": "google.mu"
+  },
+  {
+    "type": "Domain",
+    "value": "google.mv"
+  },
+  {
+    "type": "Domain",
+    "value": "google.mw"
+  },
+  {
+    "type": "Domain",
+    "value": "google.ne"
+  },
+  {
+    "type": "Domain",
+    "value": "google.nl"
+  },
+  {
+    "type": "Domain",
+    "value": "google.no"
+  },
+  {
+    "type": "Domain",
+    "value": "google.nr"
+  },
+  {
+    "type": "Domain",
+    "value": "google.nu"
+  },
+  {
+    "type": "Domain",
+    "value": "google.pl"
+  },
+  {
+    "type": "Domain",
+    "value": "google.pn"
+  },
+  {
+    "type": "Domain",
+    "value": "google.ps"
+  },
+  {
+    "type": "Domain",
+    "value": "google.pt"
+  },
+  {
+    "type": "Domain",
+    "value": "google.ro"
+  },
+  {
+    "type": "Domain",
+    "value": "google.rs"
+  },
+  {
+    "type": "Domain",
+    "value": "google.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "google.rw"
+  },
+  {
+    "type": "Domain",
+    "value": "google.sc"
+  },
+  {
+    "type": "Domain",
+    "value": "google.se"
+  },
+  {
+    "type": "Domain",
+    "value": "google.sh"
+  },
+  {
+    "type": "Domain",
+    "value": "google.si"
+  },
+  {
+    "type": "Domain",
+    "value": "google.sk"
+  },
+  {
+    "type": "Domain",
+    "value": "google.sm"
+  },
+  {
+    "type": "Domain",
+    "value": "google.sn"
+  },
+  {
+    "type": "Domain",
+    "value": "google.so"
+  },
+  {
+    "type": "Domain",
+    "value": "google.sr"
+  },
+  {
+    "type": "Domain",
+    "value": "google.st"
+  },
+  {
+    "type": "Domain",
+    "value": "google.td"
+  },
+  {
+    "type": "Domain",
+    "value": "google.tg"
+  },
+  {
+    "type": "Domain",
+    "value": "google.tl"
+  },
+  {
+    "type": "Domain",
+    "value": "google.tm"
+  },
+  {
+    "type": "Domain",
+    "value": "google.tn"
+  },
+  {
+    "type": "Domain",
+    "value": "google.to"
+  },
+  {
+    "type": "Domain",
+    "value": "stxmosquito.com"
+  },
+  {
+    "type": "Domain",
+    "value": "google.vg"
+  },
+  {
+    "type": "Domain",
+    "value": "google.vu"
+  },
+  {
+    "type": "Domain",
+    "value": "google.ws"
+  },
+  {
+    "type": "Domain",
+    "value": "0emm.com"
+  },
+  {
+    "type": "Domain",
+    "value": "1e100.net"
+  },
+  {
+    "type": "Domain",
+    "value": "1ucrs.com"
+  },
+  {
+    "type": "Domain",
+    "value": "466453.com"
+  },
+  {
+    "type": "Domain",
+    "value": "abc.xyz"
+  },
+  {
+    "type": "Domain",
+    "value": "adgoogle.net"
+  },
+  {
+    "type": "Domain",
+    "value": "admeld.com"
+  },
+  {
+    "type": "Domain",
+    "value": "angulardart.org"
+  },
+  {
+    "type": "Domain",
+    "value": "api.ai"
+  },
+  {
+    "type": "Domain",
+    "value": "apigee.com"
+  },
+  {
+    "type": "Domain",
+    "value": "appbridge.ca"
+  },
+  {
+    "type": "Domain",
+    "value": "appbridge.io"
+  },
+  {
+    "type": "Domain",
+    "value": "appbridge.it"
+  },
+  {
+    "type": "Domain",
+    "value": "appspot.com"
+  },
+  {
+    "type": "Domain",
+    "value": "apture.com"
+  },
+  {
+    "type": "Domain",
+    "value": "area120.com"
+  },
+  {
+    "type": "Domain",
+    "value": "asp-cc.com"
+  },
+  {
+    "type": "Domain",
+    "value": "autodraw.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bandpage.com"
+  },
+  {
+    "type": "Domain",
+    "value": "baselinestudy.com"
+  },
+  {
+    "type": "Domain",
+    "value": "baselinestudy.org"
+  },
+  {
+    "type": "Domain",
+    "value": "bazel.build"
+  },
+  {
+    "type": "Domain",
+    "value": "bdn.dev"
+  },
+  {
+    "type": "Domain",
+    "value": "beatthatquote.com"
+  },
+  {
+    "type": "Domain",
+    "value": "blink.org"
+  },
+  {
+    "type": "Domain",
+    "value": "brocaproject.com"
+  },
+  {
+    "type": "Domain",
+    "value": "brotli.org"
+  },
+  {
+    "type": "Domain",
+    "value": "bumpshare.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bumptop.ca"
+  },
+  {
+    "type": "Domain",
+    "value": "bumptop.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bumptop.net"
+  },
+  {
+    "type": "Domain",
+    "value": "bumptop.org"
+  },
+  {
+    "type": "Domain",
+    "value": "bumptunes.com"
+  },
+  {
+    "type": "Domain",
+    "value": "campuslondon.com"
+  },
+  {
+    "type": "Domain",
+    "value": "certificate-transparency.org"
+  },
+  {
+    "type": "Domain",
+    "value": "chrome.com"
+  },
+  {
+    "type": "Domain",
+    "value": "chromebook.com"
+  },
+  {
+    "type": "Domain",
+    "value": "chromecast.com"
+  },
+  {
+    "type": "Domain",
+    "value": "chromeos.dev"
+  },
+  {
+    "type": "Domain",
+    "value": "chromium.org"
+  },
+  {
+    "type": "Domain",
+    "value": "chronicle.security"
+  },
+  {
+    "type": "Domain",
+    "value": "chroniclesec.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cloudburstresearch.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cloudfunctions.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cloudproxy.app"
+  },
+  {
+    "type": "Domain",
+    "value": "cloudrobotics.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cobrasearch.com"
+  },
+  {
+    "type": "Domain",
+    "value": "codespot.com"
+  },
+  {
+    "type": "Domain",
+    "value": "conscrypt.com"
+  },
+  {
+    "type": "Domain",
+    "value": "conscrypt.org"
+  },
+  {
+    "type": "Domain",
+    "value": "cookiechoices.org"
+  },
+  {
+    "type": "Domain",
+    "value": "coova.com"
+  },
+  {
+    "type": "Domain",
+    "value": "coova.net"
+  },
+  {
+    "type": "Domain",
+    "value": "coova.org"
+  },
+  {
+    "type": "Domain",
+    "value": "crossmediapanel.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cs4hs.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dartsearch.net"
+  },
+  {
+    "type": "Domain",
+    "value": "dataliberation.org"
+  },
+  {
+    "type": "Domain",
+    "value": "debug.com"
+  },
+  {
+    "type": "Domain",
+    "value": "debugproject.com"
+  },
+  {
+    "type": "Domain",
+    "value": "devsitetest.how"
+  },
+  {
+    "type": "Domain",
+    "value": "dialogflow.com"
+  },
+  {
+    "type": "Domain",
+    "value": "digitalassetlinks.org"
+  },
+  {
+    "type": "Domain",
+    "value": "docs.new"
+  },
+  {
+    "type": "Domain",
+    "value": "episodic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "feedburner.com"
+  },
+  {
+    "type": "Domain",
+    "value": "fflick.com"
+  },
+  {
+    "type": "Domain",
+    "value": "financeleadsonline.com"
+  },
+  {
+    "type": "Domain",
+    "value": "fitbit.com"
+  },
+  {
+    "type": "Domain",
+    "value": "foofle.com"
+  },
+  {
+    "type": "Domain",
+    "value": "froogle.com"
+  },
+  {
+    "type": "Domain",
+    "value": "fuchsia.dev"
+  },
+  {
+    "type": "Domain",
+    "value": "g-tun.com"
+  },
+  {
+    "type": "Domain",
+    "value": "g.co"
+  },
+  {
+    "type": "Domain",
+    "value": "g.dev"
+  },
+  {
+    "type": "Domain",
+    "value": "g.page"
+  },
+  {
+    "type": "Domain",
+    "value": "gateway.dev"
+  },
+  {
+    "type": "Domain",
+    "value": "gcr.io"
+  },
+  {
+    "type": "Domain",
+    "value": "gerritcodereview.com"
+  },
+  {
+    "type": "Domain",
+    "value": "getbumptop.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ggoogle.com"
+  },
+  {
+    "type": "Domain",
+    "value": "gipscorp.com"
+  },
+  {
+    "type": "Domain",
+    "value": "globaledu.org"
+  },
+  {
+    "type": "Domain",
+    "value": "gmail.com"
+  },
+  {
+    "type": "Domain",
+    "value": "gmodules.com"
+  },
+  {
+    "type": "Domain",
+    "value": "gogle.com"
+  },
+  {
+    "type": "Domain",
+    "value": "gogole.com"
+  },
+  {
+    "type": "Domain",
+    "value": "gonglchuangl.net"
+  },
+  {
+    "type": "Domain",
+    "value": "goo.gl"
+  },
+  {
+    "type": "Domain",
+    "value": "googel.com"
+  },
+  {
+    "type": "Domain",
+    "value": "googil.com"
+  },
+  {
+    "type": "Domain",
+    "value": "googl.com"
+  },
+  {
+    "type": "Domain",
+    "value": "google-access.net"
+  },
+  {
+    "type": "Domain",
+    "value": "google-syndication.com"
+  },
+  {
+    "type": "Domain",
+    "value": "google.berlin"
+  },
+  {
+    "type": "Domain",
+    "value": "google.dev"
+  },
+  {
+    "type": "Domain",
+    "value": "google.net"
+  },
+  {
+    "type": "Domain",
+    "value": "google.org"
+  },
+  {
+    "type": "Domain",
+    "value": "google.ventures"
+  },
+  {
+    "type": "Domain",
+    "value": "googleacquisitionmigration.com"
+  },
+  {
+    "type": "Domain",
+    "value": "googleapis.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "googleapis.com"
+  },
+  {
+    "type": "Domain",
+    "value": "googleapps.com"
+  },
+  {
+    "type": "Domain",
+    "value": "googlearth.com"
+  },
+  {
+    "type": "Domain",
+    "value": "googleblog.com"
+  },
+  {
+    "type": "Domain",
+    "value": "googlebot.com"
+  },
+  {
+    "type": "Domain",
+    "value": "googlecapital.com"
+  },
+  {
+    "type": "Domain",
+    "value": "googlecert.net"
+  },
+  {
+    "type": "Domain",
+    "value": "googlecode.com"
+  },
+  {
+    "type": "Domain",
+    "value": "googlecommerce.com"
+  },
+  {
+    "type": "Domain",
+    "value": "kaggleusercontent.com"
+  },
+  {
+    "type": "Domain",
+    "value": "kaggle.net"
+  },
+  {
+    "type": "Domain",
+    "value": "kaggle.io"
+  },
+  {
+    "type": "Domain",
+    "value": "kaggle.com"
+  },
+  {
+    "type": "Domain",
+    "value": "googledanmark.com"
+  },
+  {
+    "type": "Domain",
+    "value": "googledomains.com"
+  },
+  {
+    "type": "Domain",
+    "value": "googledrive.com"
+  },
+  {
+    "type": "Domain",
+    "value": "googlee.com"
+  },
+  {
+    "type": "Domain",
+    "value": "googleearth.com"
+  },
+  {
+    "type": "Domain",
+    "value": "googlefiber.com"
+  },
+  {
+    "type": "Domain",
+    "value": "googlefiber.net"
+  },
+  {
+    "type": "Domain",
+    "value": "googlefinland.com"
+  },
+  {
+    "type": "Domain",
+    "value": "googlemail.com"
+  },
+  {
+    "type": "Domain",
+    "value": "googlemaps.com"
+  },
+  {
+    "type": "Domain",
+    "value": "googlepagecreator.com"
+  },
+  {
+    "type": "Domain",
+    "value": "googlephotos.com"
+  },
+  {
+    "type": "Domain",
+    "value": "googleplus.com"
+  },
+  {
+    "type": "Domain",
+    "value": "googlesource.com"
+  },
+  {
+    "type": "Domain",
+    "value": "googlestore.com"
+  },
+  {
+    "type": "Domain",
+    "value": "googlesverige.com"
+  },
+  {
+    "type": "Domain",
+    "value": "googleusercontent.com"
+  },
+  {
+    "type": "Domain",
+    "value": "googleventures.com"
+  },
+  {
+    "type": "Domain",
+    "value": "googlezip.net"
+  },
+  {
+    "type": "Domain",
+    "value": "googlr.com"
+  },
+  {
+    "type": "Domain",
+    "value": "goolge.com"
+  },
+  {
+    "type": "Domain",
+    "value": "gooogle.com"
+  },
+  {
+    "type": "Domain",
+    "value": "gridaware.app"
+  },
+  {
+    "type": "Domain",
+    "value": "gsrc.io"
+  },
+  {
+    "type": "Domain",
+    "value": "gstatic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "gsuite.com"
+  },
+  {
+    "type": "Domain",
+    "value": "gv.com"
+  },
+  {
+    "type": "Domain",
+    "value": "gvt0.com"
+  },
+  {
+    "type": "Domain",
+    "value": "gvt1.com"
+  },
+  {
+    "type": "Domain",
+    "value": "gvt2.com"
+  },
+  {
+    "type": "Domain",
+    "value": "gvt3.com"
+  },
+  {
+    "type": "Domain",
+    "value": "gvt5.com"
+  },
+  {
+    "type": "Domain",
+    "value": "gvt6.com"
+  },
+  {
+    "type": "Domain",
+    "value": "gvt7.com"
+  },
+  {
+    "type": "Domain",
+    "value": "gvt9.com"
+  },
+  {
+    "type": "Domain",
+    "value": "haplorrhini.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hdrplusdata.org"
+  },
+  {
+    "type": "Domain",
+    "value": "hindiweb.com"
+  },
+  {
+    "type": "Domain",
+    "value": "html5rocks.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hwgo.com"
+  },
+  {
+    "type": "Domain",
+    "value": "iamremarkable.org"
+  },
+  {
+    "type": "Domain",
+    "value": "idx.dev"
+  },
+  {
+    "type": "Domain",
+    "value": "igoogle.com"
+  },
+  {
+    "type": "Domain",
+    "value": "impermium.com"
+  },
+  {
+    "type": "Domain",
+    "value": "itasoftware.com"
+  },
+  {
+    "type": "Domain",
+    "value": "j2objc.org"
+  },
+  {
+    "type": "Domain",
+    "value": "jibemobile.com"
+  },
+  {
+    "type": "Domain",
+    "value": "keyhole.com"
+  },
+  {
+    "type": "Domain",
+    "value": "keytransparency.com"
+  },
+  {
+    "type": "Domain",
+    "value": "keytransparency.foo"
+  },
+  {
+    "type": "Domain",
+    "value": "keytransparency.org"
+  },
+  {
+    "type": "Domain",
+    "value": "lanternal.com"
+  },
+  {
+    "type": "Domain",
+    "value": "like.com"
+  },
+  {
+    "type": "Domain",
+    "value": "madewithcode.com"
+  },
+  {
+    "type": "Domain",
+    "value": "material.io"
+  },
+  {
+    "type": "Domain",
+    "value": "mdialog.com"
+  },
+  {
+    "type": "Domain",
+    "value": "meet.new"
+  },
+  {
+    "type": "Domain",
+    "value": "mfg-inspector.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mobileview.page"
+  },
+  {
+    "type": "Domain",
+    "value": "moodstocks.com"
+  },
+  {
+    "type": "Domain",
+    "value": "near.by"
+  },
+  {
+    "type": "Domain",
+    "value": "nest.com"
+  },
+  {
+    "type": "Domain",
+    "value": "nomulus.foo"
+  },
+  {
+    "type": "Domain",
+    "value": "oauthz.com"
+  },
+  {
+    "type": "Domain",
+    "value": "on.here"
+  },
+  {
+    "type": "Domain",
+    "value": "on2.com"
+  },
+  {
+    "type": "Domain",
+    "value": "onefifteen.net"
+  },
+  {
+    "type": "Domain",
+    "value": "onefifteen.org"
+  },
+  {
+    "type": "Domain",
+    "value": "oneworldmanystories.com"
+  },
+  {
+    "type": "Domain",
+    "value": "openthread.io"
+  },
+  {
+    "type": "Domain",
+    "value": "openweave.io"
+  },
+  {
+    "type": "Domain",
+    "value": "orbitera.com"
+  },
+  {
+    "type": "Domain",
+    "value": "page.link"
+  },
+  {
+    "type": "Domain",
+    "value": "pagespeedmobilizer.com"
+  },
+  {
+    "type": "Domain",
+    "value": "pageview.mobi"
+  },
+  {
+    "type": "Domain",
+    "value": "panoramio.com"
+  },
+  {
+    "type": "Domain",
+    "value": "partylikeits1986.org"
+  },
+  {
+    "type": "Domain",
+    "value": "paxlicense.org"
+  },
+  {
+    "type": "Domain",
+    "value": "picasa.com"
+  },
+  {
+    "type": "Domain",
+    "value": "picasaweb.com"
+  },
+  {
+    "type": "Domain",
+    "value": "picasaweb.net"
+  },
+  {
+    "type": "Domain",
+    "value": "picasaweb.org"
+  },
+  {
+    "type": "Domain",
+    "value": "picnik.com"
+  },
+  {
+    "type": "Domain",
+    "value": "pittpatt.com"
+  },
+  {
+    "type": "Domain",
+    "value": "pixate.com"
+  },
+  {
+    "type": "Domain",
+    "value": "postini.com"
+  },
+  {
+    "type": "Domain",
+    "value": "privacysandbox.com"
+  },
+  {
+    "type": "Domain",
+    "value": "projectara.com"
+  },
+  {
+    "type": "Domain",
+    "value": "projectbaseline.com"
+  },
+  {
+    "type": "Domain",
+    "value": "publishproxy.com"
+  },
+  {
+    "type": "Domain",
+    "value": "questvisual.com"
+  },
+  {
+    "type": "Domain",
+    "value": "quickoffice.com"
+  },
+  {
+    "type": "Domain",
+    "value": "quiksee.com"
+  },
+  {
+    "type": "Domain",
+    "value": "revolv.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ridepenguin.com"
+  },
+  {
+    "type": "Domain",
+    "value": "run.app"
+  },
+  {
+    "type": "Domain",
+    "value": "savethedate.foo"
+  },
+  {
+    "type": "Domain",
+    "value": "saynow.com"
+  },
+  {
+    "type": "Domain",
+    "value": "schemer.com"
+  },
+  {
+    "type": "Domain",
+    "value": "screenwisetrends.com"
+  },
+  {
+    "type": "Domain",
+    "value": "screenwisetrendspanel.com"
+  },
+  {
+    "type": "Domain",
+    "value": "sheets.new"
+  },
+  {
+    "type": "Domain",
+    "value": "slides.new"
+  },
+  {
+    "type": "Domain",
+    "value": "google.al"
+  },
+  {
+    "type": "Domain",
+    "value": "solveforx.com"
+  },
+  {
+    "type": "Domain",
+    "value": "stadia.dev"
+  },
+  {
+    "type": "Domain",
+    "value": "stcroixmosquito.com"
+  },
+  {
+    "type": "Domain",
+    "value": "stcroixmosquitoproject.com"
+  },
+  {
+    "type": "Domain",
+    "value": "studywatchbyverily.com"
+  },
+  {
+    "type": "Domain",
+    "value": "studywatchbyverily.org"
+  },
+  {
+    "type": "Domain",
+    "value": "google.tt"
+  },
+  {
+    "type": "Domain",
+    "value": "google.am"
+  },
+  {
+    "type": "Domain",
+    "value": "stxmosquitoproject.org"
+  },
+  {
+    "type": "Domain",
+    "value": "synergyse.com"
+  },
+  {
+    "type": "Domain",
+    "value": "tensorflow.org"
+  },
+  {
+    "type": "Domain",
+    "value": "tfhub.dev"
+  },
+  {
+    "type": "Domain",
+    "value": "thecleversense.com"
+  },
+  {
+    "type": "Domain",
+    "value": "thegooglestore.com"
+  },
+  {
+    "type": "Domain",
+    "value": "thinkquarterly.com"
+  },
+  {
+    "type": "Domain",
+    "value": "thinkwithgoogle.com"
+  },
+  {
+    "type": "Domain",
+    "value": "tiltbrush.com"
+  },
+  {
+    "type": "Domain",
+    "value": "txcloud.net"
+  },
+  {
+    "type": "Domain",
+    "value": "txvia.com"
+  },
+  {
+    "type": "Domain",
+    "value": "unfiltered.news"
+  },
+  {
+    "type": "Domain",
+    "value": "useplannr.com"
+  },
+  {
+    "type": "Domain",
+    "value": "usvimosquito.com"
+  },
+  {
+    "type": "Domain",
+    "value": "usvimosquitoproject.com"
+  },
+  {
+    "type": "Domain",
+    "value": "velostrata.com"
+  },
+  {
+    "type": "Domain",
+    "value": "verily.com"
+  },
+  {
+    "type": "Domain",
+    "value": "verilylifesciences.com"
+  },
+  {
+    "type": "Domain",
+    "value": "verilystudyhub.com"
+  },
+  {
+    "type": "Domain",
+    "value": "verilystudywatch.com"
+  },
+  {
+    "type": "Domain",
+    "value": "verilystudywatch.org"
+  },
+  {
+    "type": "Domain",
+    "value": "wallet.com"
+  },
+  {
+    "type": "Domain",
+    "value": "waymo.com"
+  },
+  {
+    "type": "Domain",
+    "value": "waze.com"
+  },
+  {
+    "type": "Domain",
+    "value": "web.app"
+  },
+  {
+    "type": "Domain",
+    "value": "web.dev"
+  },
+  {
+    "type": "Domain",
+    "value": "webappfieldguide.com"
+  },
+  {
+    "type": "Domain",
+    "value": "webmproject.org"
+  },
+  {
+    "type": "Domain",
+    "value": "webpkgcache.com"
+  },
+  {
+    "type": "Domain",
+    "value": "webrtc.org"
+  },
+  {
+    "type": "Domain",
+    "value": "weltweitwachsen.de"
+  },
+  {
+    "type": "Domain",
+    "value": "whatbrowser.org"
+  },
+  {
+    "type": "Domain",
+    "value": "whats.new"
+  },
+  {
+    "type": "Domain",
+    "value": "widevine.com"
+  },
+  {
+    "type": "Domain",
+    "value": "withgoogle.com"
+  },
+  {
+    "type": "Domain",
+    "value": "womenwill.com"
+  },
+  {
+    "type": "Domain",
+    "value": "womenwill.id"
+  },
+  {
+    "type": "Domain",
+    "value": "womenwill.in"
+  },
+  {
+    "type": "Domain",
+    "value": "womenwill.mx"
+  },
+  {
+    "type": "Domain",
+    "value": "x.company"
+  },
+  {
+    "type": "Domain",
+    "value": "x.team"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--9kr7l.com"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--9trs65b.com"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--flw351e.com"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--ggle-55da.com"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--gogl-0nd52e.com"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--gogl-1nd42e.com"
+  },
+  {
+    "type": "Domain",
+    "value": "xplr.co"
+  },
+  {
+    "type": "Domain",
+    "value": "zukunftswerkstatt.de"
+  },
+  {
+    "type": "Domain",
+    "value": "flutter.dev"
+  },
+  {
+    "type": "Domain",
+    "value": "flutterapp.com"
+  },
+  {
+    "type": "Domain",
+    "value": "pub.dev"
+  },
+  {
+    "type": "Domain",
+    "value": "go-lang.com"
+  },
+  {
+    "type": "Domain",
+    "value": "go-lang.net"
+  },
+  {
+    "type": "Domain",
+    "value": "go-lang.org"
+  },
+  {
+    "type": "Domain",
+    "value": "go.dev"
+  },
+  {
+    "type": "Domain",
+    "value": "godoc.org"
+  },
+  {
+    "type": "Domain",
+    "value": "golang.com"
+  },
+  {
+    "type": "Domain",
+    "value": "golang.net"
+  },
+  {
+    "type": "Domain",
+    "value": "golang.org"
+  },
+  {
+    "type": "Domain",
+    "value": "googleplay.com"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--ngstr-lra8j.com"
+  },
+  {
+    "type": "Domain",
+    "value": "charlestonroadregistry.com"
+  },
+  {
+    "type": "Domain",
+    "value": "crr.com"
+  },
+  {
+    "type": "Domain",
+    "value": "get.app"
+  },
+  {
+    "type": "Domain",
+    "value": "get.dev"
+  },
+  {
+    "type": "Domain",
+    "value": "get.how"
+  },
+  {
+    "type": "Domain",
+    "value": "get.new"
+  },
+  {
+    "type": "Domain",
+    "value": "get.page"
+  },
+  {
+    "type": "Domain",
+    "value": "get.rsvp"
+  },
+  {
+    "type": "Domain",
+    "value": "hey.boo"
+  },
+  {
+    "type": "Domain",
+    "value": "iam.soy"
+  },
+  {
+    "type": "Domain",
+    "value": "new.day"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--p8j9a0d9c9a.xn--q9jyb4c"
+  },
+  {
+    "type": "Domain",
+    "value": "google.ae"
+  },
+  {
+    "type": "Domain",
+    "value": "android.com"
+  },
+  {
+    "type": "Domain",
+    "value": "androidify.com"
+  },
+  {
+    "type": "Domain",
+    "value": "google.ad"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.az"
+  },
+  {
+    "type": "Domain",
+    "value": "ytimg.com"
+  },
+  {
+    "type": "Domain",
+    "value": "withyoutube.com"
+  },
+  {
+    "type": "Domain",
+    "value": "youtu.be"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube-nocookie.com"
+  },
+  {
+    "type": "Domain",
+    "value": "yt.be"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.ae"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.al"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.am"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.at"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.ro"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.ba"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.be"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.bg"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.bh"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.bo"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.by"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.ca"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.cat"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.ch"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.qa"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.co"
+  },
+  {
+    "type": "Domain",
+    "value": "youtubemobilesupport.com"
+  },
+  {
+    "type": "Domain",
+    "value": "youtubekids.com"
+  },
+  {
+    "type": "Domain",
+    "value": "youtubego.in"
+  },
+  {
+    "type": "Domain",
+    "value": "youtubego.id"
+  },
+  {
+    "type": "Domain",
+    "value": "youtubego.com"
+  },
+  {
+    "type": "Domain",
+    "value": "youtubegaming.com"
+  },
+  {
+    "type": "Domain",
+    "value": "youtubefanfest.com"
+  },
+  {
+    "type": "Domain",
+    "value": "youtubeeducation.com"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.vn"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.uy"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.ug"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.ua"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.tv"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.tn"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.sv"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.soy"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.rs"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.sk"
+  },
+  {
+    "type": "Domain",
+    "value": "ggpht.com"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.com"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.si"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.sg"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.se"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.sa"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.ee"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.sn"
+  },
+  {
+    "type": "Domain",
+    "value": "googlevideo.com"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.cl"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.pt"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.pr"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.pl"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.pk"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.ph"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.pe"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.pa"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.no"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.nl"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.ni"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.ng"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.my"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.mx"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.mn"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.mk"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.me"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.md"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.ma"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.ly"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.lv"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.lu"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.lt"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.lk"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.la"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.kz"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.kr"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.jo"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.it"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.is"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.iq"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.in"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.ie"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.hu"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.hr"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.gt"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.gr"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.ge"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.fr"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.fi"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.es"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.cr"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.cz"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.de"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.dk"
+  },
+  {
+    "type": "Domain",
+    "value": "firebaseio.com"
+  },
+  {
+    "type": "Domain",
+    "value": "firebaseapp.com"
+  },
+  {
+    "type": "Domain",
+    "value": "firebase.io"
+  },
+  {
+    "type": "Domain",
+    "value": "firebase.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dartpad.dev"
+  },
+  {
+    "type": "Domain",
+    "value": "dartlang.org"
+  },
+  {
+    "type": "Domain",
+    "value": "dart.dev"
+  },
+  {
+    "type": "Domain",
+    "value": "google.com.do"
+  },
+  {
+    "type": "Domain",
+    "value": "google.com.mm"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.com.ro"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.com.qa"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.com.py"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.com.pt"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.com.pk"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.com.ph"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.com.pe"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.com.pa"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.com.om"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.com.ni"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.com.ng"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.com.my"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.com.mx"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.com.mt"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.com.mk"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.com.ly"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.com.lv"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.com.lb"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.com.kw"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.com.jo"
+  },
+  {
+    "type": "Domain",
+    "value": "google.com.sl"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.com.hr"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.com.hn"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.com.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.com.gt"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.com.gr"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.com.gh"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.com.es"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.com.eg"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.com.ee"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.com.ec"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.com.do"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.com.co"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.com.by"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.com.br"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.com.bo"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.com.bh"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.com.bd"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.com.az"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.com.ar"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.co.za"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.co.ve"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.co.ug"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.co.tz"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.co.th"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.co.nz"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.co.ma"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.co.kr"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.co.ke"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.co.in"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.co.il"
+  },
+  {
+    "type": "Domain",
+    "value": "youtubego.co.id"
+  },
+  {
+    "type": "Domain",
+    "value": "youtubego.co.in"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.co.id"
+  },
+  {
+    "type": "Domain",
+    "value": "youtubego.com.br"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.co.hu"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.co.cr"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.co.at"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.co.ae"
+  },
+  {
+    "type": "Domain",
+    "value": "google.co.ao"
+  },
+  {
+    "type": "Domain",
+    "value": "google.co.bw"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.com.sv"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.com.tn"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.com.tr"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.com.tw"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.com.ua"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.com.uy"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.com.ve"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.co.zw"
+  },
+  {
+    "type": "Domain",
+    "value": "womenwill.com.br"
+  },
+  {
+    "type": "Domain",
+    "value": "thinkquarterly.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "google.com.af"
+  },
+  {
+    "type": "Domain",
+    "value": "howtogetmo.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "googlecompare.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "google.com.vn"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.com.sg"
+  },
+  {
+    "type": "Domain",
+    "value": "google.com.uy"
+  },
+  {
+    "type": "Domain",
+    "value": "google.com.ua"
+  },
+  {
+    "type": "Domain",
+    "value": "google.com.tw"
+  },
+  {
+    "type": "Domain",
+    "value": "google.com.ai"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.com.sa"
+  },
+  {
+    "type": "Domain",
+    "value": "google.com.vc"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.com.jm"
+  },
+  {
+    "type": "Domain",
+    "value": "google.com.sg"
+  },
+  {
+    "type": "Domain",
+    "value": "google.com.sb"
+  },
+  {
+    "type": "Domain",
+    "value": "google.com.sa"
+  },
+  {
+    "type": "Domain",
+    "value": "google.com.qa"
+  },
+  {
+    "type": "Domain",
+    "value": "google.com.py"
+  },
+  {
+    "type": "Domain",
+    "value": "google.com.pr"
+  },
+  {
+    "type": "Domain",
+    "value": "google.com.pk"
+  },
+  {
+    "type": "Domain",
+    "value": "google.com.tj"
+  },
+  {
+    "type": "Domain",
+    "value": "google.com.pg"
+  },
+  {
+    "type": "Domain",
+    "value": "google.com.pe"
+  },
+  {
+    "type": "Domain",
+    "value": "google.com.pa"
+  },
+  {
+    "type": "Domain",
+    "value": "google.com.om"
+  },
+  {
+    "type": "Domain",
+    "value": "google.com.np"
+  },
+  {
+    "type": "Domain",
+    "value": "google.com.ni"
+  },
+  {
+    "type": "Domain",
+    "value": "google.com.ng"
+  },
+  {
+    "type": "Domain",
+    "value": "google.com.na"
+  },
+  {
+    "type": "Domain",
+    "value": "google.com.my"
+  },
+  {
+    "type": "Domain",
+    "value": "google.com.mx"
+  },
+  {
+    "type": "Domain",
+    "value": "google.com.mt"
+  },
+  {
+    "type": "Domain",
+    "value": "google.com.ph"
+  },
+  {
+    "type": "Domain",
+    "value": "google.com.ly"
+  },
+  {
+    "type": "Domain",
+    "value": "google.com.lb"
+  },
+  {
+    "type": "Domain",
+    "value": "google.com.kw"
+  },
+  {
+    "type": "Domain",
+    "value": "google.com.kh"
+  },
+  {
+    "type": "Domain",
+    "value": "google.com.jm"
+  },
+  {
+    "type": "Domain",
+    "value": "google.com.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "google.com.gt"
+  },
+  {
+    "type": "Domain",
+    "value": "google.com.gi"
+  },
+  {
+    "type": "Domain",
+    "value": "google.com.gh"
+  },
+  {
+    "type": "Domain",
+    "value": "google.com.fj"
+  },
+  {
+    "type": "Domain",
+    "value": "google.com.et"
+  },
+  {
+    "type": "Domain",
+    "value": "google.com.eg"
+  },
+  {
+    "type": "Domain",
+    "value": "google.com.ec"
+  },
+  {
+    "type": "Domain",
+    "value": "google.com.sv"
+  },
+  {
+    "type": "Domain",
+    "value": "google.com.cy"
+  },
+  {
+    "type": "Domain",
+    "value": "google.com.cu"
+  },
+  {
+    "type": "Domain",
+    "value": "google.com.co"
+  },
+  {
+    "type": "Domain",
+    "value": "google.com.bz"
+  },
+  {
+    "type": "Domain",
+    "value": "google.com.br"
+  },
+  {
+    "type": "Domain",
+    "value": "google.com.bo"
+  },
+  {
+    "type": "Domain",
+    "value": "google.com.bn"
+  },
+  {
+    "type": "Domain",
+    "value": "google.com.bh"
+  },
+  {
+    "type": "Domain",
+    "value": "google.com.bd"
+  },
+  {
+    "type": "Domain",
+    "value": "google.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "google.com.ar"
+  },
+  {
+    "type": "Domain",
+    "value": "google.com.tr"
+  },
+  {
+    "type": "Domain",
+    "value": "google.com.ag"
+  },
+  {
+    "type": "Domain",
+    "value": "google.co.zw"
+  },
+  {
+    "type": "Domain",
+    "value": "google.co.zm"
+  },
+  {
+    "type": "Domain",
+    "value": "google.co.za"
+  },
+  {
+    "type": "Domain",
+    "value": "google.co.vi"
+  },
+  {
+    "type": "Domain",
+    "value": "google.co.ve"
+  },
+  {
+    "type": "Domain",
+    "value": "google.co.uz"
+  },
+  {
+    "type": "Domain",
+    "value": "google.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "blogspot.com.tr"
+  },
+  {
+    "type": "Domain",
+    "value": "blogspot.com.es"
+  },
+  {
+    "type": "Domain",
+    "value": "blogspot.com.uy"
+  },
+  {
+    "type": "Domain",
+    "value": "blogspot.com.ar"
+  },
+  {
+    "type": "Domain",
+    "value": "blogspot.com.cy"
+  },
+  {
+    "type": "Domain",
+    "value": "blogspot.com.eg"
+  },
+  {
+    "type": "Domain",
+    "value": "blogspot.com.ee"
+  },
+  {
+    "type": "Domain",
+    "value": "blogspot.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "blogspot.com.co"
+  },
+  {
+    "type": "Domain",
+    "value": "blogspot.com.ng"
+  },
+  {
+    "type": "Domain",
+    "value": "blogspot.com.br"
+  },
+  {
+    "type": "Domain",
+    "value": "blogspot.com.mt"
+  },
+  {
+    "type": "Domain",
+    "value": "blogspot.co.za"
+  },
+  {
+    "type": "Domain",
+    "value": "blogspot.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "blogspot.co.nz"
+  },
+  {
+    "type": "Domain",
+    "value": "blogspot.co.ke"
+  },
+  {
+    "type": "Domain",
+    "value": "blogspot.co.il"
+  },
+  {
+    "type": "Domain",
+    "value": "blogspot.co.id"
+  },
+  {
+    "type": "Domain",
+    "value": "blogspot.co.at"
+  },
+  {
+    "type": "Domain",
+    "value": "blogspot.com.by"
+  },
+  {
+    "type": "Domain",
+    "value": "google.co.ug"
+  },
+  {
+    "type": "Domain",
+    "value": "google.co.tz"
+  },
+  {
+    "type": "Domain",
+    "value": "google.co.th"
+  },
+  {
+    "type": "Domain",
+    "value": "google.co.nz"
+  },
+  {
+    "type": "Domain",
+    "value": "google.co.mz"
+  },
+  {
+    "type": "Domain",
+    "value": "google.co.ma"
+  },
+  {
+    "type": "Domain",
+    "value": "google.co.ls"
+  },
+  {
+    "type": "Domain",
+    "value": "google.co.kr"
+  },
+  {
+    "type": "Domain",
+    "value": "google.co.ke"
+  },
+  {
+    "type": "Domain",
+    "value": "google.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "google.co.in"
+  },
+  {
+    "type": "Domain",
+    "value": "google.co.il"
+  },
+  {
+    "type": "Domain",
+    "value": "google.co.id"
+  },
+  {
+    "type": "Domain",
+    "value": "google.co.cr"
+  },
+  {
+    "type": "Domain",
+    "value": "google.co.ck"
+  },
+  {
+    "type": "Domain",
+    "value": "google.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "g.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "gkecnapps.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "googlecnapps.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "gstatic.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "gstaticcnapps.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "2mdn-cn.net",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "2mdn.net",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "admob-cn.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "admob.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "adsense.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "adsensecustomsearchads.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "adsenseformobileapps.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "adservice.google.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "adtrafficquality.google",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "advertisercommunity.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "advertiserscommunity.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "adwords-community.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "adwords.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "adwordsexpress.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "analytics-alv.google.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "app-analytics-services.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "app-analytics-services-att.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "app-measurement-cn.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "app-measurement.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "doubleclick-cn.net",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "doubleclick.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "doubleclick.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "doubleclick.net",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "fcmatch.google.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "google-analytics-cn.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "google-analytics.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "googleadapis.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "googleadapis.l.google.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "googleads-cn.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "googleads.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "googleadservices-cn.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "googleadservices.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "googleadsserving.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "googleanalytics.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "googleoptimize-cn.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "googleoptimize.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "googlesyndication-cn.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "googlesyndication.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "googletagmanager-cn.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "googletagmanager.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "googletagservices-cn.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "googletagservices.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "googletraveladservices-cn.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "googletraveladservices.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "googlevads-cn.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "mail-ads.google.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "mobileads.google.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "marketingplatform.google.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "pagead.l.google.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "partnerad.l.google.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "urchin.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "analytics.google.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "gvt1-cn.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "gvt2-cn.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "www.recaptcha.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "265.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "2mdn-cn.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "2mdn.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "admob-cn.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "adservice.google.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "app-analytics-services.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "app-measurement-cn.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "app-measurement.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "apps5.oingo.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "avail.googleflights.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "beacons.gcp.gvt2.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "beacons.gvt2.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "beacons2.gvt2.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "beacons3.gvt2.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "c.admob.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "c.android.clients.google.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "cache-management-prod.google.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "cache.pack.google.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "checkin.gstatic.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "clickserve.cc-dt.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "clickserve.dartsearch.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "clickserver.googleads.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "clientservices.googleapis.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "cn.widevine.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "cnappinstall.googleadapis.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "connectivitycheck.gstatic.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "content.googleadapis.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "crashlyticsreports-pa.googleapis.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "csi.gstatic.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "dartsearch-cn.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "dg-meta.video.google.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "dl.google.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "dl.l.google.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "doubleclick-cn.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "doubleclick.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "download.mlcc.google.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "download.qatp1.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "download.tensorflow.google.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "emmapplecodevice.googleapis.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "fontfiles.googleapis.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "fonts.googleapis.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "fonts.gstatic.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "g0.gstatic.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "g1.gstatic.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "g2.gstatic.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "g3.gstatic.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "go.corp.google.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "gonglchuangl.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "gongyichuangyi.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "google-analytics-cn.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "google-analytics.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "googleadservices-cn.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "googleadservices.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "googleanalytics.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "googleapis-cn.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "googleapps-cn.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "googleflights-cn.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "googleoptimize-cn.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "googleoptimize.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "googlesyndication-cn.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "googlesyndication.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "googletagmanager-cn.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "googletagmanager.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "googletagservices-cn.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "googletagservices.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "googletraveladservices-cn.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "googletraveladservices.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "googlevads-cn.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "gstatic-cn.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "gstaticadssl.l.google.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "gtm.oasisfeng.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "imasdk.googleapis.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "l2-uberproxy.corp.google.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "logger-dev.corp.google.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "logger.corp.google.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "login.corp.google.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "monitoring.qpdp1.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "pagead-googlehosted.l.google.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "performanceparameters.googleapis.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "prod-controlbe.floonet.goog",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "prod-databe.floonet.goog",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "prod.databe.floonet.goog",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "proxyconfig.corp.google.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "qagpublic.qatp1.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "qgadmin.qcpp1.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "qiao-cn.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "qpx.googleflights.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "qualysapi.qatp1.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "qualysguard.qpdp1.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "r.cert.corp.google.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "rapture-prod.corp.google.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "recaptcha-cn.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "recaptcha.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "redirector.bdn.dev",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "redirector.c.chat.google.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "redirector.c.mail.google.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "redirector.c.pack.google.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "redirector.c.youtubeeducation.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "redirector.gcpcdn.gvt1.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "redirector.gvt1.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "redirector.offline-maps.gvt1.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "redirector.snap.gvt1.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "redirector.xn--ngstr-lra8j.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "safebrowsing-cache.google.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "safebrowsing.googleapis.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "scanservice1.qcpp1.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "service.urchin.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "ssl-google-analytics.l.google.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "ssl.gstatic.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "sslredirect.corp.google.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "staging-controlbe.floonet.goog",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "staging-databe.floonet.goog",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "staging.databe.floonet.goog",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "streaming-uberproxy-rotation.corp.google.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "streaming-uberproxy.corp.google.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "sup-ssh-relay.corp.google.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "sup-ssh-relay2.corp.google.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "sup.corp.google.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "sup.l.google.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "tac.googleapis.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "test.gbugs-qa.chromium.org",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "tools.google.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "tools.l.google.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "uberproxy-debug4.corp.google.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "uberproxy.corp.google.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "uberproxy6.corp.google.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "update.crashlytics.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "update.googleapis.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "wear.googleapis.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "www-google-analytics.l.google.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "www-googletagmanager.l.google.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "www.destinationurl.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "www.gstatic.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "www.pxcc.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "xn--flw351e.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Regex",
+    "value": "^r+[0-9]+(---|\\.)sn-(2x3|ni5|j5o)\\w{5}\\.xn--ngstr-lra8j\\.com$",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Regex",
+    "value": "^r+[0-9]+(---|\\.)sn-(2x3|ni5|j5o)\\w{5}\\.googlevideo\\.com$",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "redirector.c.play.google.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ggpht.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ads.youtube.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "firebase-settings.crashlytics.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "pki-goog.l.google.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "c.pki.goog",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "i.pki.goog",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "o.pki.goog",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "crl.pki.goog",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "crls.pki.goog",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "ocsp.pki.goog",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "alt1-mtalk.google.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "alt2-mtalk.google.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "alt3-mtalk.google.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "alt4-mtalk.google.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "alt5-mtalk.google.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "alt6-mtalk.google.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "mtalk.google.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

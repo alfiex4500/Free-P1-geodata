@@ -1,0 +1,72 @@
+[
+  {
+    "type": "Domain",
+    "value": "91changxie.com"
+  },
+  {
+    "type": "Domain",
+    "value": "deepin.com"
+  },
+  {
+    "type": "Domain",
+    "value": "sndu.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "51changxie.com"
+  },
+  {
+    "type": "Domain",
+    "value": "51jianxie.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "deepin.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "changxie.com"
+  },
+  {
+    "type": "Domain",
+    "value": "chinauos.com"
+  },
+  {
+    "type": "Domain",
+    "value": "linglong.space"
+  },
+  {
+    "type": "Domain",
+    "value": "uniontech.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "uniontech.com"
+  },
+  {
+    "type": "Domain",
+    "value": "deepin.org.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "linyaps.org.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "deepin.io",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "deepin.org",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

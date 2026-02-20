@@ -1,0 +1,228 @@
+[
+  {
+    "type": "Full",
+    "value": "lolstatic-a.akamaihd.net"
+  },
+  {
+    "type": "Domain",
+    "value": "leagueoflegends.com"
+  },
+  {
+    "type": "Domain",
+    "value": "riot-games.com"
+  },
+  {
+    "type": "Domain",
+    "value": "historyofdota.org"
+  },
+  {
+    "type": "Domain",
+    "value": "instituteofwar.org"
+  },
+  {
+    "type": "Domain",
+    "value": "molesports.com"
+  },
+  {
+    "type": "Domain",
+    "value": "rgpub.io"
+  },
+  {
+    "type": "Domain",
+    "value": "leagueoflegends.info"
+  },
+  {
+    "type": "Domain",
+    "value": "riot.com"
+  },
+  {
+    "type": "Domain",
+    "value": "riot.net"
+  },
+  {
+    "type": "Domain",
+    "value": "riotcdn.net"
+  },
+  {
+    "type": "Domain",
+    "value": "riotgames.com"
+  },
+  {
+    "type": "Domain",
+    "value": "riotgames.info"
+  },
+  {
+    "type": "Domain",
+    "value": "riotgames.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "riotgames.net"
+  },
+  {
+    "type": "Domain",
+    "value": "riotgames.tv"
+  },
+  {
+    "type": "Domain",
+    "value": "riotpin.com"
+  },
+  {
+    "type": "Domain",
+    "value": "riotpoints.com"
+  },
+  {
+    "type": "Domain",
+    "value": "rstatic.net"
+  },
+  {
+    "type": "Domain",
+    "value": "historyofdota.com"
+  },
+  {
+    "type": "Domain",
+    "value": "supremacy.net"
+  },
+  {
+    "type": "Domain",
+    "value": "championshipseriesleague.com"
+  },
+  {
+    "type": "Domain",
+    "value": "lcsmerch.com"
+  },
+  {
+    "type": "Domain",
+    "value": "leaguehighschool.com"
+  },
+  {
+    "type": "Domain",
+    "value": "leagueoflegends.ca"
+  },
+  {
+    "type": "Domain",
+    "value": "supremacy.com"
+  },
+  {
+    "type": "Domain",
+    "value": "historyofdota.net"
+  },
+  {
+    "type": "Domain",
+    "value": "leagueoflegends.kr"
+  },
+  {
+    "type": "Domain",
+    "value": "leagueoflegends.net"
+  },
+  {
+    "type": "Domain",
+    "value": "leagueoflegends.org"
+  },
+  {
+    "type": "Domain",
+    "value": "leagueoflegendsscripts.com"
+  },
+  {
+    "type": "Domain",
+    "value": "leaguesharp.info"
+  },
+  {
+    "type": "Domain",
+    "value": "leaguoflegends.com"
+  },
+  {
+    "type": "Domain",
+    "value": "learnwithleague.com"
+  },
+  {
+    "type": "Domain",
+    "value": "lol-europe.com"
+  },
+  {
+    "type": "Domain",
+    "value": "lolclub.org"
+  },
+  {
+    "type": "Domain",
+    "value": "lolespor.com"
+  },
+  {
+    "type": "Domain",
+    "value": "lolesports.com"
+  },
+  {
+    "type": "Domain",
+    "value": "lolfanart.net"
+  },
+  {
+    "type": "Domain",
+    "value": "lolpcs.com"
+  },
+  {
+    "type": "Domain",
+    "value": "lolstatic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "lolusercontent.com"
+  },
+  {
+    "type": "Domain",
+    "value": "convrgencegame.com"
+  },
+  {
+    "type": "Domain",
+    "value": "pvp.net"
+  },
+  {
+    "type": "Domain",
+    "value": "pvp.tv"
+  },
+  {
+    "type": "Domain",
+    "value": "ulol.com"
+  },
+  {
+    "type": "Domain",
+    "value": "playvalorant.com"
+  },
+  {
+    "type": "Domain",
+    "value": "riotforgegames.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ruinedking.com"
+  },
+  {
+    "type": "Domain",
+    "value": "riotgames.co.kr"
+  },
+  {
+    "type": "Domain",
+    "value": "leagueoflegends.co.kr"
+  },
+  {
+    "type": "Domain",
+    "value": "lolshop.co.kr"
+  },
+  {
+    "type": "Domain",
+    "value": "leagueoflegends.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "lpl.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

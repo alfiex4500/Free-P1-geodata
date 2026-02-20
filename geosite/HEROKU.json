@@ -1,0 +1,50 @@
+[
+  {
+    "type": "Domain",
+    "value": "heroku.co"
+  },
+  {
+    "type": "Domain",
+    "value": "heroku.com"
+  },
+  {
+    "type": "Domain",
+    "value": "heroku.me"
+  },
+  {
+    "type": "Domain",
+    "value": "herokuapp.com"
+  },
+  {
+    "type": "Domain",
+    "value": "herokucdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "herokucharge.com"
+  },
+  {
+    "type": "Domain",
+    "value": "herokussl.com"
+  },
+  {
+    "type": "Domain",
+    "value": "heroku-app.com"
+  },
+  {
+    "type": "Domain",
+    "value": "heroku-charge.com"
+  },
+  {
+    "type": "Domain",
+    "value": "codei.sh"
+  },
+  {
+    "type": "Domain",
+    "value": "codeish.co"
+  },
+  {
+    "type": "Domain",
+    "value": "codeish.io"
+  }
+]

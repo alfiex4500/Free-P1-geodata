@@ -1,0 +1,37 @@
+[
+  {
+    "type": "Domain",
+    "value": "ximalaya.com"
+  },
+  {
+    "type": "Domain",
+    "value": "xmcdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "adbehavior.ximalaya.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "adse.wsa.ximalaya.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "adse.ximalaya.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  }
+]

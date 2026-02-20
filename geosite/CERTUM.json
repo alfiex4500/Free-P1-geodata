@@ -1,0 +1,14 @@
+[
+  {
+    "type": "Domain",
+    "value": "certum.pl"
+  },
+  {
+    "type": "Domain",
+    "value": "ocsp-certum.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ocsp-responder.com"
+  }
+]

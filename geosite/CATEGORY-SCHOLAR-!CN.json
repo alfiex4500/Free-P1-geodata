@@ -1,0 +1,1766 @@
+[
+  {
+    "type": "Full",
+    "value": "medone-education.thieme.com"
+  },
+  {
+    "type": "Full",
+    "value": "angle.com.tw"
+  },
+  {
+    "type": "Full",
+    "value": "beck-online.beck.de"
+  },
+  {
+    "type": "Full",
+    "value": "databank.worldbank.org"
+  },
+  {
+    "type": "Full",
+    "value": "database.asahi.com"
+  },
+  {
+    "type": "Full",
+    "value": "dl.begellhouse.com"
+  },
+  {
+    "type": "Full",
+    "value": "elib.maruzen.co.jp"
+  },
+  {
+    "type": "Full",
+    "value": "firstsearch.oclc.org"
+  },
+  {
+    "type": "Full",
+    "value": "muse.jhu.edu"
+  },
+  {
+    "type": "Full",
+    "value": "t21.nikkei.co.jp"
+  },
+  {
+    "type": "Full",
+    "value": "t21ipau.nikkei.co.jp"
+  },
+  {
+    "type": "Full",
+    "value": "ulrichsweb.serialssolutions.com"
+  },
+  {
+    "type": "Full",
+    "value": "wrds-www.wharton.upenn.edu"
+  },
+  {
+    "type": "Full",
+    "value": "imperial.insendi.com"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.ae"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.at"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.be"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.bg"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.ca"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.cat"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.ch"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.cl"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.cn"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.co.cr"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.co.id"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.co.il"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.co.in"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.co.jp"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.co.kr"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.co.nz"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.co.th"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.co.uk"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.co.ve"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.co.za"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.com"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.com.ar"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.com.au"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.com.bo"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.com.br"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.com.co"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.com.cu"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.com.do"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.com.ec"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.com.eg"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.com.gt"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.com.hk"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.com.ly"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.com.mx"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.com.my"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.com.ni"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.com.pa"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.com.pe"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.com.ph"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.com.pk"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.com.pr"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.com.py"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.com.sg"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.com.sv"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.com.tr"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.com.tw"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.com.ua"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.com.uy"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.com.vn"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.cz"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.de"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.dk"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.es"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.fi"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.fr"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.gr"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.hn"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.hr"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.hu"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.is"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.it"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.li"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.lt"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.lu"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.lv"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.nl"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.no"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.pl"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.pt"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.ro"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.ru"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.se"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.si"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.google.sk"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.googleusercontent.com"
+  },
+  {
+    "type": "Full",
+    "value": "scholar.l.google.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mit"
+  },
+  {
+    "type": "Domain",
+    "value": "knovel.com"
+  },
+  {
+    "type": "Domain",
+    "value": "1lib.limited"
+  },
+  {
+    "type": "Domain",
+    "value": "acs.org"
+  },
+  {
+    "type": "Domain",
+    "value": "agu.org"
+  },
+  {
+    "type": "Domain",
+    "value": "aiaa.org"
+  },
+  {
+    "type": "Domain",
+    "value": "aimsciences.org"
+  },
+  {
+    "type": "Domain",
+    "value": "airiti.com"
+  },
+  {
+    "type": "Domain",
+    "value": "airitilibrary.com"
+  },
+  {
+    "type": "Domain",
+    "value": "alexanderstreet.com"
+  },
+  {
+    "type": "Domain",
+    "value": "alphaxiv.org"
+  },
+  {
+    "type": "Domain",
+    "value": "altmetric.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ams.org"
+  },
+  {
+    "type": "Domain",
+    "value": "analytictech.com"
+  },
+  {
+    "type": "Domain",
+    "value": "anatomy.tv"
+  },
+  {
+    "type": "Domain",
+    "value": "annualreviews.org"
+  },
+  {
+    "type": "Domain",
+    "value": "aps.org"
+  },
+  {
+    "type": "Domain",
+    "value": "arabidopsis.org"
+  },
+  {
+    "type": "Domain",
+    "value": "artstor.org"
+  },
+  {
+    "type": "Domain",
+    "value": "arxiv.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ascelibrary.org"
+  },
+  {
+    "type": "Domain",
+    "value": "asha.org"
+  },
+  {
+    "type": "Domain",
+    "value": "asm.org"
+  },
+  {
+    "type": "Domain",
+    "value": "asme.org"
+  },
+  {
+    "type": "Domain",
+    "value": "asminternational.org"
+  },
+  {
+    "type": "Domain",
+    "value": "asn-online.org"
+  },
+  {
+    "type": "Domain",
+    "value": "aspbjournals.org"
+  },
+  {
+    "type": "Domain",
+    "value": "aspenpublishing.com"
+  },
+  {
+    "type": "Domain",
+    "value": "astm.org"
+  },
+  {
+    "type": "Domain",
+    "value": "berkeley.edu"
+  },
+  {
+    "type": "Domain",
+    "value": "biologists.com"
+  },
+  {
+    "type": "Domain",
+    "value": "biomedcentral.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bioone.org"
+  },
+  {
+    "type": "Domain",
+    "value": "biorxiv.org"
+  },
+  {
+    "type": "Domain",
+    "value": "bloomsburycollections.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bloomsburydesignlibrary.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bmj.com"
+  },
+  {
+    "type": "Domain",
+    "value": "booksinprint.com"
+  },
+  {
+    "type": "Domain",
+    "value": "brepolis.net"
+  },
+  {
+    "type": "Domain",
+    "value": "brill.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bvdinfo.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cairn.info"
+  },
+  {
+    "type": "Domain",
+    "value": "capitaliq.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cas.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ceicdata.com"
+  },
+  {
+    "type": "Domain",
+    "value": "chemnetbase.com"
+  },
+  {
+    "type": "Domain",
+    "value": "choicereviews.org"
+  },
+  {
+    "type": "Domain",
+    "value": "cios.org"
+  },
+  {
+    "type": "Domain",
+    "value": "cmu.edu"
+  },
+  {
+    "type": "Domain",
+    "value": "cochranelibrary.com"
+  },
+  {
+    "type": "Domain",
+    "value": "computingreviews.com"
+  },
+  {
+    "type": "Domain",
+    "value": "csrankings.org"
+  },
+  {
+    "type": "Domain",
+    "value": "degruyter.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dentalhypotheses.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ebsco.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ebscohost.com"
+  },
+  {
+    "type": "Domain",
+    "value": "electrochem.org"
+  },
+  {
+    "type": "Domain",
+    "value": "elgaronline.com"
+  },
+  {
+    "type": "Domain",
+    "value": "elifesciences.org"
+  },
+  {
+    "type": "Domain",
+    "value": "embase.com"
+  },
+  {
+    "type": "Domain",
+    "value": "emerald.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ems-ph.org"
+  },
+  {
+    "type": "Domain",
+    "value": "eurekaselect.com"
+  },
+  {
+    "type": "Domain",
+    "value": "europepmc.org"
+  },
+  {
+    "type": "Domain",
+    "value": "facultyopinions.com"
+  },
+  {
+    "type": "Domain",
+    "value": "frontiersin.org"
+  },
+  {
+    "type": "Domain",
+    "value": "gale.com"
+  },
+  {
+    "type": "Domain",
+    "value": "galegroup.com"
+  },
+  {
+    "type": "Domain",
+    "value": "geolytics.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ggsrv.com"
+  },
+  {
+    "type": "Domain",
+    "value": "global-sci.org"
+  },
+  {
+    "type": "Domain",
+    "value": "heinonline.org"
+  },
+  {
+    "type": "Domain",
+    "value": "highwirepress.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hindawi.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hotcrp.com"
+  },
+  {
+    "type": "Domain",
+    "value": "icevirtuallibrary.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mitpressjournals.org"
+  },
+  {
+    "type": "Domain",
+    "value": "mit.net"
+  },
+  {
+    "type": "Domain",
+    "value": "mit.edu"
+  },
+  {
+    "type": "Domain",
+    "value": "aclweb.org"
+  },
+  {
+    "type": "Domain",
+    "value": "igi-global.com"
+  },
+  {
+    "type": "Domain",
+    "value": "igpublish.com"
+  },
+  {
+    "type": "Domain",
+    "value": "isiknowledge.com"
+  },
+  {
+    "type": "Domain",
+    "value": "informs.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ioinformatics.org"
+  },
+  {
+    "type": "Domain",
+    "value": "iop.org"
+  },
+  {
+    "type": "Domain",
+    "value": "isca-speech.org"
+  },
+  {
+    "type": "Domain",
+    "value": "iwaponline.com"
+  },
+  {
+    "type": "Domain",
+    "value": "jamanetwork.com"
+  },
+  {
+    "type": "Domain",
+    "value": "japanknowledge.com"
+  },
+  {
+    "type": "Domain",
+    "value": "jbe-platform.com"
+  },
+  {
+    "type": "Domain",
+    "value": "jmlr.org"
+  },
+  {
+    "type": "Domain",
+    "value": "jneurosci.org"
+  },
+  {
+    "type": "Domain",
+    "value": "jove.com"
+  },
+  {
+    "type": "Domain",
+    "value": "newisiknowledge.com"
+  },
+  {
+    "type": "Domain",
+    "value": "jstor.org"
+  },
+  {
+    "type": "Domain",
+    "value": "karger.com"
+  },
+  {
+    "type": "Domain",
+    "value": "kuke.com"
+  },
+  {
+    "type": "Domain",
+    "value": "webofscience.com"
+  },
+  {
+    "type": "Domain",
+    "value": "lexisnexis.com"
+  },
+  {
+    "type": "Domain",
+    "value": "literatumonline.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mdpi.com"
+  },
+  {
+    "type": "Domain",
+    "value": "medrxiv.org"
+  },
+  {
+    "type": "Domain",
+    "value": "morganclaypool.com"
+  },
+  {
+    "type": "Domain",
+    "value": "nature.com"
+  },
+  {
+    "type": "Domain",
+    "value": "naturemag.org"
+  },
+  {
+    "type": "Domain",
+    "value": "webofknowledge.com"
+  },
+  {
+    "type": "Domain",
+    "value": "nejm.org"
+  },
+  {
+    "type": "Domain",
+    "value": "neurology.org"
+  },
+  {
+    "type": "Domain",
+    "value": "clarivate.com"
+  },
+  {
+    "type": "Domain",
+    "value": "oecd-ilibrary.org"
+  },
+  {
+    "type": "Domain",
+    "value": "openreview.net"
+  },
+  {
+    "type": "Domain",
+    "value": "optica.org"
+  },
+  {
+    "type": "Domain",
+    "value": "osapublishing.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ovid.com"
+  },
+  {
+    "type": "Domain",
+    "value": "peerj.com"
+  },
+  {
+    "type": "Domain",
+    "value": "physiology.org"
+  },
+  {
+    "type": "Domain",
+    "value": "plos.org"
+  },
+  {
+    "type": "Domain",
+    "value": "pnas.org"
+  },
+  {
+    "type": "Domain",
+    "value": "princeton.edu"
+  },
+  {
+    "type": "Domain",
+    "value": "projecteuclid.org"
+  },
+  {
+    "type": "Domain",
+    "value": "researchgate.net"
+  },
+  {
+    "type": "Domain",
+    "value": "routledgehandbooks.com"
+  },
+  {
+    "type": "Domain",
+    "value": "royalsocietypublishing.org"
+  },
+  {
+    "type": "Domain",
+    "value": "rsc.org"
+  },
+  {
+    "type": "Domain",
+    "value": "rupress.org"
+  },
+  {
+    "type": "Domain",
+    "value": "sae.org"
+  },
+  {
+    "type": "Domain",
+    "value": "sagepub.com"
+  },
+  {
+    "type": "Domain",
+    "value": "scholarpedia.org"
+  },
+  {
+    "type": "Domain",
+    "value": "science.com"
+  },
+  {
+    "type": "Domain",
+    "value": "science.org"
+  },
+  {
+    "type": "Domain",
+    "value": "sciencemag.org"
+  },
+  {
+    "type": "Domain",
+    "value": "scienceonline.org"
+  },
+  {
+    "type": "Domain",
+    "value": "scientificamerican.com"
+  },
+  {
+    "type": "Domain",
+    "value": "scitation.org"
+  },
+  {
+    "type": "Domain",
+    "value": "semanticscholar.org"
+  },
+  {
+    "type": "Domain",
+    "value": "siam.org"
+  },
+  {
+    "type": "Domain",
+    "value": "sigcomm.org"
+  },
+  {
+    "type": "Domain",
+    "value": "sigops.org"
+  },
+  {
+    "type": "Domain",
+    "value": "silverchair-cdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "spiedigitallibrary.org"
+  },
+  {
+    "type": "Domain",
+    "value": "statsmakemecry.com"
+  },
+  {
+    "type": "Domain",
+    "value": "thelancet.com"
+  },
+  {
+    "type": "Domain",
+    "value": "tickdata.com"
+  },
+  {
+    "type": "Domain",
+    "value": "thieme.de"
+  },
+  {
+    "type": "Domain",
+    "value": "thieme-connect.com"
+  },
+  {
+    "type": "Domain",
+    "value": "thieme-connect.de"
+  },
+  {
+    "type": "Domain",
+    "value": "totalmateria.com"
+  },
+  {
+    "type": "Domain",
+    "value": "uchicago.edu"
+  },
+  {
+    "type": "Domain",
+    "value": "ucla.edu"
+  },
+  {
+    "type": "Domain",
+    "value": "umass.edu"
+  },
+  {
+    "type": "Domain",
+    "value": "usaco.org"
+  },
+  {
+    "type": "Domain",
+    "value": "usenix.org"
+  },
+  {
+    "type": "Domain",
+    "value": "westlaw.com"
+  },
+  {
+    "type": "Domain",
+    "value": "wiley.com"
+  },
+  {
+    "type": "Domain",
+    "value": "wolterskluwer.com"
+  },
+  {
+    "type": "Domain",
+    "value": "worldscientific.com"
+  },
+  {
+    "type": "Domain",
+    "value": "yale.edu"
+  },
+  {
+    "type": "Domain",
+    "value": "zenodo.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ac.ir"
+  },
+  {
+    "type": "Domain",
+    "value": "edu.ir"
+  },
+  {
+    "type": "Domain",
+    "value": "iranlms.ir"
+  },
+  {
+    "type": "Domain",
+    "value": "jtt.ir"
+  },
+  {
+    "type": "Domain",
+    "value": "sanjesh.org"
+  },
+  {
+    "type": "Domain",
+    "value": "sharif.edu"
+  },
+  {
+    "type": "Domain",
+    "value": "sharif.ir"
+  },
+  {
+    "type": "Domain",
+    "value": "srttu.edu"
+  },
+  {
+    "type": "Domain",
+    "value": "anb.org"
+  },
+  {
+    "type": "Domain",
+    "value": "cell.com"
+  },
+  {
+    "type": "Domain",
+    "value": "clinicalkey.com"
+  },
+  {
+    "type": "Domain",
+    "value": "els-cdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "elsevier-ae.com"
+  },
+  {
+    "type": "Domain",
+    "value": "elsevier.com"
+  },
+  {
+    "type": "Domain",
+    "value": "elsevier.io"
+  },
+  {
+    "type": "Domain",
+    "value": "engineeringvillage.com"
+  },
+  {
+    "type": "Domain",
+    "value": "evise.com"
+  },
+  {
+    "type": "Domain",
+    "value": "fundinginstitutional.com"
+  },
+  {
+    "type": "Domain",
+    "value": "aacrjournals.org"
+  },
+  {
+    "type": "Domain",
+    "value": "oxfordpoliticstrove.com"
+  },
+  {
+    "type": "Domain",
+    "value": "acm.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieeeoes.org"
+  },
+  {
+    "type": "Domain",
+    "value": "scopus.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ieee.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieee.tv"
+  },
+  {
+    "type": "Domain",
+    "value": "tryengineering.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieee-ccnc.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieee-ecce.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieeemce.org"
+  },
+  {
+    "type": "Domain",
+    "value": "standardsuniversity.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieee-region6.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieee.ca"
+  },
+  {
+    "type": "Domain",
+    "value": "ieeer10.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieeer5.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieeer8.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieeeusa.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieeefoundation.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieee-into-focus.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieee-vics.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieeeday.org"
+  },
+  {
+    "type": "Domain",
+    "value": "datasheets360.com"
+  },
+  {
+    "type": "Domain",
+    "value": "globalspec.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ieee-isto.org"
+  },
+  {
+    "type": "Domain",
+    "value": "techstreet.com"
+  },
+  {
+    "type": "Domain",
+    "value": "computer.org"
+  },
+  {
+    "type": "Domain",
+    "value": "comsoc.org"
+  },
+  {
+    "type": "Domain",
+    "value": "embs.org"
+  },
+  {
+    "type": "Domain",
+    "value": "emcs.org"
+  },
+  {
+    "type": "Domain",
+    "value": "grss-ieee.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieee-aess.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieee-cas.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieee-ceda.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieee-edusociety.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieee-ies.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieee-ims.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieee-npss.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieee-pels.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieee-pes.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieee-ras.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieee-sensors.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieee-tems.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieee-uffc.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieeeaps.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieeecsc.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieeecss.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieeedeis.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieeemagnetics.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieeenano.org"
+  },
+  {
+    "type": "Domain",
+    "value": "scival.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ieeesmc.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieeesystemscouncil.org"
+  },
+  {
+    "type": "Domain",
+    "value": "itsoc.org"
+  },
+  {
+    "type": "Domain",
+    "value": "mtt.org"
+  },
+  {
+    "type": "Domain",
+    "value": "photonicssociety.org"
+  },
+  {
+    "type": "Domain",
+    "value": "signalprocessingsociety.org"
+  },
+  {
+    "type": "Domain",
+    "value": "technologyandsociety.org"
+  },
+  {
+    "type": "Domain",
+    "value": "vtsociety.org"
+  },
+  {
+    "type": "Domain",
+    "value": "doi.org"
+  },
+  {
+    "type": "Domain",
+    "value": "doi.info"
+  },
+  {
+    "type": "Domain",
+    "value": "apress.com"
+  },
+  {
+    "type": "Domain",
+    "value": "springer.com"
+  },
+  {
+    "type": "Domain",
+    "value": "springerlink.com"
+  },
+  {
+    "type": "Domain",
+    "value": "springernature.com"
+  },
+  {
+    "type": "Domain",
+    "value": "wkap.nl"
+  },
+  {
+    "type": "Domain",
+    "value": "apa.org"
+  },
+  {
+    "type": "Domain",
+    "value": "psyccareers.com"
+  },
+  {
+    "type": "Domain",
+    "value": "serialssolutions.com"
+  },
+  {
+    "type": "Domain",
+    "value": "proquest.com"
+  },
+  {
+    "type": "Domain",
+    "value": "tandfonline.com"
+  },
+  {
+    "type": "Domain",
+    "value": "taylorandfrancis.com"
+  },
+  {
+    "type": "Domain",
+    "value": "taylorfrancis.com"
+  },
+  {
+    "type": "Domain",
+    "value": "oxfordreference.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bookshome.info"
+  },
+  {
+    "type": "Domain",
+    "value": "z-lib.org"
+  },
+  {
+    "type": "Domain",
+    "value": "1lib.domains"
+  },
+  {
+    "type": "Domain",
+    "value": "1lib.education"
+  },
+  {
+    "type": "Domain",
+    "value": "1lib.eu"
+  },
+  {
+    "type": "Domain",
+    "value": "reaxys.com"
+  },
+  {
+    "type": "Domain",
+    "value": "1lib.pl"
+  },
+  {
+    "type": "Domain",
+    "value": "1lib.sk"
+  },
+  {
+    "type": "Domain",
+    "value": "1lib.to"
+  },
+  {
+    "type": "Domain",
+    "value": "1lib.tw"
+  },
+  {
+    "type": "Domain",
+    "value": "2lib.org"
+  },
+  {
+    "type": "Domain",
+    "value": "3lib.net"
+  },
+  {
+    "type": "Domain",
+    "value": "art1lib.com"
+  },
+  {
+    "type": "Domain",
+    "value": "b-ok.africa"
+  },
+  {
+    "type": "Domain",
+    "value": "booksc.org"
+  },
+  {
+    "type": "Domain",
+    "value": "b-ok.cc"
+  },
+  {
+    "type": "Domain",
+    "value": "b-ok.global"
+  },
+  {
+    "type": "Domain",
+    "value": "b-ok.org"
+  },
+  {
+    "type": "Domain",
+    "value": "book4you.org"
+  },
+  {
+    "type": "Domain",
+    "value": "bookfi.net"
+  },
+  {
+    "type": "Domain",
+    "value": "booksc.eu"
+  },
+  {
+    "type": "Domain",
+    "value": "booksc.me"
+  },
+  {
+    "type": "Domain",
+    "value": "b-ok.asia"
+  },
+  {
+    "type": "Domain",
+    "value": "1lib.cz"
+  },
+  {
+    "type": "Domain",
+    "value": "libsolutions.net"
+  },
+  {
+    "type": "Domain",
+    "value": "bookshome.net"
+  },
+  {
+    "type": "Domain",
+    "value": "bookshome.world"
+  },
+  {
+    "type": "Domain",
+    "value": "de1lib.org"
+  },
+  {
+    "type": "Domain",
+    "value": "zlibcdn2.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hk1lib.org"
+  },
+  {
+    "type": "Domain",
+    "value": "libsolutions.app"
+  },
+  {
+    "type": "Domain",
+    "value": "libsolutions.domains"
+  },
+  {
+    "type": "Domain",
+    "value": "1lib.cloud"
+  },
+  {
+    "type": "Domain",
+    "value": "ma1lib.org"
+  },
+  {
+    "type": "Domain",
+    "value": "sg1lib.org"
+  },
+  {
+    "type": "Domain",
+    "value": "singlelogin.app"
+  },
+  {
+    "type": "Domain",
+    "value": "singlelogin.me"
+  },
+  {
+    "type": "Domain",
+    "value": "singlelogin.re"
+  },
+  {
+    "type": "Domain",
+    "value": "singlelogin.site"
+  },
+  {
+    "type": "Domain",
+    "value": "z-lib.fm"
+  },
+  {
+    "type": "Domain",
+    "value": "z-lib.gd"
+  },
+  {
+    "type": "Domain",
+    "value": "z-lib.gl"
+  },
+  {
+    "type": "Domain",
+    "value": "booksc.xyz"
+  },
+  {
+    "type": "Domain",
+    "value": "z-library.sk"
+  },
+  {
+    "type": "Domain",
+    "value": "z-library.se"
+  },
+  {
+    "type": "Domain",
+    "value": "zlib.life"
+  },
+  {
+    "type": "Domain",
+    "value": "zlibcdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "oxfordre.com"
+  },
+  {
+    "type": "Domain",
+    "value": "sci-hub.se"
+  },
+  {
+    "type": "Domain",
+    "value": "sci-hub.ee"
+  },
+  {
+    "type": "Domain",
+    "value": "sci-hub.st"
+  },
+  {
+    "type": "Domain",
+    "value": "ac.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "oxfordmusiconline.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cambridge.org"
+  },
+  {
+    "type": "Domain",
+    "value": "sciencedirect.com"
+  },
+  {
+    "type": "Domain",
+    "value": "sciencedirectassets.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mendeley.com"
+  },
+  {
+    "type": "Domain",
+    "value": "oxfordmedicine.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cambridgeschoolshakespeare.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cambridgedigital.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cambridgemaths.org"
+  },
+  {
+    "type": "Domain",
+    "value": "universitypressscholarship.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ouplaw.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ukwhoswho.com"
+  },
+  {
+    "type": "Domain",
+    "value": "imperialbusiness.school"
+  },
+  {
+    "type": "Domain",
+    "value": "sipriyearbook.org"
+  },
+  {
+    "type": "Domain",
+    "value": "oxfordwesternmusic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "oxfordfirstsource.com"
+  },
+  {
+    "type": "Domain",
+    "value": "oxfordscholarlyeditions.com"
+  },
+  {
+    "type": "Domain",
+    "value": "amamanualofstyle.com"
+  },
+  {
+    "type": "Domain",
+    "value": "epigeum.com"
+  },
+  {
+    "type": "Domain",
+    "value": "oxfordhandbooks.com"
+  },
+  {
+    "type": "Domain",
+    "value": "omscr.com"
+  },
+  {
+    "type": "Domain",
+    "value": "oxfordaasc.com"
+  },
+  {
+    "type": "Domain",
+    "value": "veryshortintroductions.com"
+  },
+  {
+    "type": "Domain",
+    "value": "oxfordscholarship.com"
+  },
+  {
+    "type": "Domain",
+    "value": "oup.com"
+  },
+  {
+    "type": "Domain",
+    "value": "oxfordartonline.com"
+  },
+  {
+    "type": "Domain",
+    "value": "oxfordlawtrove.com"
+  },
+  {
+    "type": "Domain",
+    "value": "oxfordclinicalpsych.com"
+  },
+  {
+    "type": "Domain",
+    "value": "oxforddnb.com"
+  },
+  {
+    "type": "Domain",
+    "value": "blackstonespoliceservice.com"
+  },
+  {
+    "type": "Domain",
+    "value": "oed.com"
+  },
+  {
+    "type": "Domain",
+    "value": "oxfordbibliographies.com"
+  },
+  {
+    "type": "Domain",
+    "value": "academic.eb.com"
+  },
+  {
+    "type": "Domain",
+    "value": "sci-hub.it.nf"
+  },
+  {
+    "type": "Domain",
+    "value": "dln1.ncdn.ec"
+  },
+  {
+    "type": "Domain",
+    "value": "tandf.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "dlib.eastview.com"
+  },
+  {
+    "type": "Domain",
+    "value": "nii.ac.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "sci-hub.mksa.top"
+  },
+  {
+    "type": "Domain",
+    "value": "sci.hubg.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ncl.edu.tw"
+  },
+  {
+    "type": "Domain",
+    "value": "lawdata.com.tw"
+  },
+  {
+    "type": "Domain",
+    "value": "acaric.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "infolinker.com.tw"
+  },
+  {
+    "type": "Domain",
+    "value": "hanzhen.xmulib.org"
+  },
+  {
+    "type": "Domain",
+    "value": "icsd.fiz-karlsruhe.de"
+  },
+  {
+    "type": "Domain",
+    "value": "amdigital.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "jstage.jst.go.jp"
+  }
+]

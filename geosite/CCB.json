@@ -1,0 +1,76 @@
+[
+  {
+    "type": "Domain",
+    "value": "ccbfutures.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ccbfund.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ccb.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ccbxt.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ccbcos.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ccbfund.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "ccb.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "ccbfutures.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "ccbleasing.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ccb-life.com.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "ccbfund.com.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "ccblife-test.com.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "ccbtrust.com.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "ccb.com.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "ccbintl.com.hk",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ccbseoul.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "type": "Domain",
+    "value": "cell.com"
+  },
+  {
+    "type": "Domain",
+    "value": "clinicalkey.com"
+  },
+  {
+    "type": "Domain",
+    "value": "els-cdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "elsevier-ae.com"
+  },
+  {
+    "type": "Domain",
+    "value": "elsevier.com"
+  },
+  {
+    "type": "Domain",
+    "value": "elsevier.io"
+  },
+  {
+    "type": "Domain",
+    "value": "engineeringvillage.com"
+  },
+  {
+    "type": "Domain",
+    "value": "evise.com"
+  },
+  {
+    "type": "Domain",
+    "value": "fundinginstitutional.com"
+  },
+  {
+    "type": "Domain",
+    "value": "knovel.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mendeley.com"
+  },
+  {
+    "type": "Domain",
+    "value": "reaxys.com"
+  },
+  {
+    "type": "Domain",
+    "value": "scival.com"
+  },
+  {
+    "type": "Domain",
+    "value": "scopus.com"
+  }
+]

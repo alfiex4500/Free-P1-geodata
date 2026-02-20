@@ -1,0 +1,270 @@
+[
+  {
+    "type": "Full",
+    "value": "nvidia.tt.omtrdc.net"
+  },
+  {
+    "type": "Domain",
+    "value": "nvidia.nl"
+  },
+  {
+    "type": "Domain",
+    "value": "nvidiaforhp.com"
+  },
+  {
+    "type": "Domain",
+    "value": "geforce.com"
+  },
+  {
+    "type": "Domain",
+    "value": "tegrazone.kr"
+  },
+  {
+    "type": "Domain",
+    "value": "tegrazone.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "gputechconf.com"
+  },
+  {
+    "type": "Domain",
+    "value": "tegrazone.com"
+  },
+  {
+    "type": "Domain",
+    "value": "tegrazone.co"
+  },
+  {
+    "type": "Domain",
+    "value": "gputechconf.eu"
+  },
+  {
+    "type": "Domain",
+    "value": "gputechconf.in"
+  },
+  {
+    "type": "Domain",
+    "value": "gputechconf.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "nvidia.asia"
+  },
+  {
+    "type": "Domain",
+    "value": "nvidia.at"
+  },
+  {
+    "type": "Domain",
+    "value": "nvidia.be"
+  },
+  {
+    "type": "Domain",
+    "value": "nvidia.ch"
+  },
+  {
+    "type": "Domain",
+    "value": "shotwithgeforce.com"
+  },
+  {
+    "type": "Domain",
+    "value": "nvidiagrid.net"
+  },
+  {
+    "type": "Domain",
+    "value": "nvidia.fr"
+  },
+  {
+    "type": "Domain",
+    "value": "nvidia.tw"
+  },
+  {
+    "type": "Domain",
+    "value": "nvidia.cz"
+  },
+  {
+    "type": "Domain",
+    "value": "nvidia.com"
+  },
+  {
+    "type": "Domain",
+    "value": "nvidia.se"
+  },
+  {
+    "type": "Domain",
+    "value": "nvidia.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "nvidia.ro"
+  },
+  {
+    "type": "Domain",
+    "value": "nvidia.pl"
+  },
+  {
+    "type": "Domain",
+    "value": "nvidia.no"
+  },
+  {
+    "type": "Domain",
+    "value": "nvidia.mx"
+  },
+  {
+    "type": "Domain",
+    "value": "nvidia.lu"
+  },
+  {
+    "type": "Domain",
+    "value": "nvidia.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "nvidia.it"
+  },
+  {
+    "type": "Domain",
+    "value": "nvidia.in"
+  },
+  {
+    "type": "Domain",
+    "value": "nvidia.de"
+  },
+  {
+    "type": "Domain",
+    "value": "nvidia.dk"
+  },
+  {
+    "type": "Domain",
+    "value": "nvidia.es"
+  },
+  {
+    "type": "Domain",
+    "value": "nvidia.eu"
+  },
+  {
+    "type": "Domain",
+    "value": "nvidia.fi"
+  },
+  {
+    "type": "Domain",
+    "value": "nvidia.co.at"
+  },
+  {
+    "type": "Domain",
+    "value": "nvidia.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "gputechconf.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "nvidia.com.ua"
+  },
+  {
+    "type": "Domain",
+    "value": "nvidia.com.tw"
+  },
+  {
+    "type": "Domain",
+    "value": "nvidia.com.tr"
+  },
+  {
+    "type": "Domain",
+    "value": "geforce.co.kr"
+  },
+  {
+    "type": "Domain",
+    "value": "nvidia.com.pl"
+  },
+  {
+    "type": "Domain",
+    "value": "nvidia.com.pe"
+  },
+  {
+    "type": "Domain",
+    "value": "nvidia.com.mx"
+  },
+  {
+    "type": "Domain",
+    "value": "nvidia.com.br"
+  },
+  {
+    "type": "Domain",
+    "value": "nvidia.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "nvidia.co.kr"
+  },
+  {
+    "type": "Domain",
+    "value": "nvidia.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "nvidia.co.in"
+  },
+  {
+    "type": "Domain",
+    "value": "geforce.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "gputechconf.com.tw"
+  },
+  {
+    "type": "Domain",
+    "value": "tegrazone.co.kr"
+  },
+  {
+    "type": "Domain",
+    "value": "nvidia.com.ve"
+  },
+  {
+    "type": "Domain",
+    "value": "gputechconf.co.kr"
+  },
+  {
+    "type": "Domain",
+    "value": "geforce.com.tw"
+  },
+  {
+    "type": "Domain",
+    "value": "geforce.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "gputechconf.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "nvidia.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "cn.download.nvidia.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

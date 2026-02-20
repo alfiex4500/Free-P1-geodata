@@ -1,0 +1,204 @@
+[
+  {
+    "type": "Full",
+    "value": "location.microsoft.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bing"
+  },
+  {
+    "type": "Domain",
+    "value": "microsoftdiplomados.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bing123.com"
+  },
+  {
+    "type": "Domain",
+    "value": "flipwithsurface.com"
+  },
+  {
+    "type": "Domain",
+    "value": "masalladeloslimites.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bingapis.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bingapistatistics.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bingparachute.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bingsandbox.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bingvisualsearch.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bingworld.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bluehatnights.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dictate.ms"
+  },
+  {
+    "type": "Domain",
+    "value": "sprinklesapp.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bing.net"
+  },
+  {
+    "type": "Domain",
+    "value": "bingagencyawards.com"
+  },
+  {
+    "type": "Domain",
+    "value": "microsoft-give.com"
+  },
+  {
+    "type": "Domain",
+    "value": "microsoftcloudsummit.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bing.com"
+  },
+  {
+    "type": "Domain",
+    "value": "microsoftlatamholiday.com"
+  },
+  {
+    "type": "Domain",
+    "value": "microsoftmxfilantropia.com"
+  },
+  {
+    "type": "Domain",
+    "value": "microsoftpartnersolutions.com"
+  },
+  {
+    "type": "Domain",
+    "value": "msunlimitedcloudsummit.com"
+  },
+  {
+    "type": "Domain",
+    "value": "office365love.com"
+  },
+  {
+    "type": "Domain",
+    "value": "office365tw.com"
+  },
+  {
+    "type": "Domain",
+    "value": "renovacionoffice.com"
+  },
+  {
+    "type": "Domain",
+    "value": "copilot.microsoft.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bing.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "bingads.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "cn.bing.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "cn.bing.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "cn.mm.bing.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ditu.live.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "r.bing.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "th.bing.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "bj1.api.bing.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "emoi-cncdn.bing.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

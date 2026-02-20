@@ -1,0 +1,59 @@
+[
+  {
+    "type": "Domain",
+    "value": "tvbweekly.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bigbigshop.com"
+  },
+  {
+    "type": "Domain",
+    "value": "encoretvb.com"
+  },
+  {
+    "type": "Domain",
+    "value": "tvb.com"
+  },
+  {
+    "type": "Domain",
+    "value": "tvbanywhere.com"
+  },
+  {
+    "type": "Domain",
+    "value": "tvbusa.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mytvsuper.com"
+  },
+  {
+    "type": "Domain",
+    "value": "tvb.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "tvbanywhere.com.sg"
+  },
+  {
+    "type": "Domain",
+    "value": "tvbeventpower.com.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "bigbigchannel.com.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "tvmedia.net.au"
+  },
+  {
+    "type": "Domain",
+    "value": "tvbc.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

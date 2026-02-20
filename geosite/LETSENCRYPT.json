@@ -1,0 +1,14 @@
+[
+  {
+    "type": "Domain",
+    "value": "lencr.org"
+  },
+  {
+    "type": "Domain",
+    "value": "letsencrypt.com"
+  },
+  {
+    "type": "Domain",
+    "value": "letsencrypt.org"
+  }
+]

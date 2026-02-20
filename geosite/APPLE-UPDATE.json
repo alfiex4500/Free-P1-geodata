@@ -1,0 +1,86 @@
+[
+  {
+    "type": "Domain",
+    "value": "appldnld.apple.com"
+  },
+  {
+    "type": "Domain",
+    "value": "configuration.apple.com"
+  },
+  {
+    "type": "Domain",
+    "value": "fcs-keys-pub-prod.cdn-apple.com"
+  },
+  {
+    "type": "Domain",
+    "value": "gdmf-ados.apple.com"
+  },
+  {
+    "type": "Domain",
+    "value": "gdmf.apple.com"
+  },
+  {
+    "type": "Domain",
+    "value": "gg.apple.com"
+  },
+  {
+    "type": "Domain",
+    "value": "gs.apple.com"
+  },
+  {
+    "type": "Domain",
+    "value": "gsra.apple.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ig.apple.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mesu.apple.com"
+  },
+  {
+    "type": "Domain",
+    "value": "oscdn.apple.com"
+  },
+  {
+    "type": "Domain",
+    "value": "osrecovery.apple.com"
+  },
+  {
+    "type": "Domain",
+    "value": "skl.apple.com"
+  },
+  {
+    "type": "Domain",
+    "value": "swcdn.apple.com"
+  },
+  {
+    "type": "Domain",
+    "value": "swdist.apple.com"
+  },
+  {
+    "type": "Domain",
+    "value": "swdownload.apple.com"
+  },
+  {
+    "type": "Domain",
+    "value": "swscan.apple.com"
+  },
+  {
+    "type": "Domain",
+    "value": "updates-http.cdn-apple.com"
+  },
+  {
+    "type": "Domain",
+    "value": "updates.cdn-apple.com"
+  },
+  {
+    "type": "Domain",
+    "value": "wkms-public.apple.com"
+  },
+  {
+    "type": "Domain",
+    "value": "xp.apple.com"
+  }
+]

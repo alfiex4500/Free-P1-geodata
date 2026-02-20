@@ -1,0 +1,22 @@
+[
+  {
+    "type": "Domain",
+    "value": "jav.app"
+  },
+  {
+    "type": "Domain",
+    "value": "javdb.com"
+  },
+  {
+    "type": "Domain",
+    "value": "jdbimgs.com"
+  },
+  {
+    "type": "Domain",
+    "value": "jdbstatic.com"
+  },
+  {
+    "type": "Regex",
+    "value": "javdb\\d+\\.com$"
+  }
+]

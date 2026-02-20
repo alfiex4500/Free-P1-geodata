@@ -1,0 +1,104 @@
+[
+  {
+    "type": "Full",
+    "value": "d1v5ir2lpwr8os.cloudfront.net"
+  },
+  {
+    "type": "Full",
+    "value": "d22qjgkvxw22r6.cloudfront.net"
+  },
+  {
+    "type": "Full",
+    "value": "d25xi40x97liuc.cloudfront.net"
+  },
+  {
+    "type": "Full",
+    "value": "d27xxe7juh1us6.cloudfront.net"
+  },
+  {
+    "type": "Full",
+    "value": "dmqdd6hw24ucf.cloudfront.net"
+  },
+  {
+    "type": "Full",
+    "value": "images-eu.ssl-images-amazon.com"
+  },
+  {
+    "type": "Full",
+    "value": "images-na.ssl-images-amazon.com"
+  },
+  {
+    "type": "Full",
+    "value": "images-fe.ssl-images-amazon.com"
+  },
+  {
+    "type": "Full",
+    "value": "msh.amazon.co.uk"
+  },
+  {
+    "type": "Full",
+    "value": "static.siege-amazon.com"
+  },
+  {
+    "type": "Domain",
+    "value": "aiv-cdn.net"
+  },
+  {
+    "type": "Domain",
+    "value": "amazonprimevideos.com"
+  },
+  {
+    "type": "Domain",
+    "value": "amazonvideo.cc"
+  },
+  {
+    "type": "Domain",
+    "value": "amazonvideo.com"
+  },
+  {
+    "type": "Domain",
+    "value": "prime-video.com"
+  },
+  {
+    "type": "Domain",
+    "value": "primevideo.cc"
+  },
+  {
+    "type": "Domain",
+    "value": "primevideo.com"
+  },
+  {
+    "type": "Domain",
+    "value": "primevideo.info"
+  },
+  {
+    "type": "Domain",
+    "value": "primevideo.org"
+  },
+  {
+    "type": "Domain",
+    "value": "primevideo.tv"
+  },
+  {
+    "type": "Domain",
+    "value": "prod.service.minerva.devices.a2z.com"
+  },
+  {
+    "type": "Domain",
+    "value": "amazonprimevideo.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "amazonprimevideo.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

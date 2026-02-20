@@ -1,0 +1,19 @@
+[
+  {
+    "type": "Domain",
+    "value": "fflogs.com"
+  },
+  {
+    "type": "Domain",
+    "value": "rpglogs.com"
+  },
+  {
+    "type": "Domain",
+    "value": "rpglogs.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

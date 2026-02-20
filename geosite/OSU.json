@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Full",
+    "value": "a.ppy.sh"
+  },
+  {
+    "type": "Full",
+    "value": "assets.ppy.sh"
+  },
+  {
+    "type": "Full",
+    "value": "c.ppy.sh"
+  },
+  {
+    "type": "Full",
+    "value": "osu.ppy.sh"
+  },
+  {
+    "type": "Full",
+    "value": "m1.ppy.sh"
+  },
+  {
+    "type": "Full",
+    "value": "lazer.ppy.sh"
+  },
+  {
+    "type": "Full",
+    "value": "notify.ppy.sh"
+  },
+  {
+    "type": "Full",
+    "value": "sentry.ppy.sh"
+  },
+  {
+    "type": "Full",
+    "value": "spectator.ppy.sh"
+  }
+]

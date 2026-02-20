@@ -1,0 +1,19 @@
+[
+  {
+    "type": "Domain",
+    "value": "thetype.com"
+  },
+  {
+    "type": "Domain",
+    "value": "typeisbeautiful.com"
+  },
+  {
+    "type": "Domain",
+    "value": "thetype.cloud",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

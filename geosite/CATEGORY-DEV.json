@@ -1,0 +1,2241 @@
+[
+  {
+    "type": "Full",
+    "value": "github-api.arkoselabs.com"
+  },
+  {
+    "type": "Full",
+    "value": "github-cloud.s3.amazonaws.com"
+  },
+  {
+    "type": "Full",
+    "value": "az764295.vo.msecnd.net"
+  },
+  {
+    "type": "Full",
+    "value": "bingsettingssearch.trafficmanager.net"
+  },
+  {
+    "type": "Full",
+    "value": "default.exp-tas.com"
+  },
+  {
+    "type": "Full",
+    "value": "developer.microsoft.com"
+  },
+  {
+    "type": "Full",
+    "value": "download.visualstudio.microsoft.com"
+  },
+  {
+    "type": "Full",
+    "value": "dtlgalleryint.cloudapp.net"
+  },
+  {
+    "type": "Full",
+    "value": "packages.microsoft.com"
+  },
+  {
+    "type": "Full",
+    "value": "poshtestgallery.cloudapp.net"
+  },
+  {
+    "type": "Full",
+    "value": "psg-int-centralus.cloudapp.net"
+  },
+  {
+    "type": "Full",
+    "value": "psg-int-eastus.cloudapp.net"
+  },
+  {
+    "type": "Full",
+    "value": "rink.hockeyapp.net"
+  },
+  {
+    "type": "Full",
+    "value": "vscode-sync-insiders.trafficmanager.net"
+  },
+  {
+    "type": "Full",
+    "value": "vscode-sync.trafficmanager.net"
+  },
+  {
+    "type": "Full",
+    "value": "vscode.blob.core.windows.net"
+  },
+  {
+    "type": "Full",
+    "value": "vscode.search.windows.net"
+  },
+  {
+    "type": "Full",
+    "value": "vsmarketplacebadge.apphb.com"
+  },
+  {
+    "type": "Full",
+    "value": "amp.akamaized.net"
+  },
+  {
+    "type": "Full",
+    "value": "android.googlesource.com"
+  },
+  {
+    "type": "Full",
+    "value": "homebrew.bintray.com"
+  },
+  {
+    "type": "Full",
+    "value": "cdn.jsdelivr.net"
+  },
+  {
+    "type": "Full",
+    "value": "developers.facebook.com"
+  },
+  {
+    "type": "Full",
+    "value": "docker-images-prod.6aa30f8b08e16409b46e0173d6de2f56.r2.cloudflarestorage.com"
+  },
+  {
+    "type": "Full",
+    "value": "docker-pinata-support.s3.amazonaws.com"
+  },
+  {
+    "type": "Full",
+    "value": "firebase.google.com"
+  },
+  {
+    "type": "Full",
+    "value": "firebase.googleapis.com"
+  },
+  {
+    "type": "Full",
+    "value": "firebaseappcheck.googleapis.com"
+  },
+  {
+    "type": "Full",
+    "value": "firebasedynamiclinks-ipv4.googleapis.com"
+  },
+  {
+    "type": "Full",
+    "value": "firebasedynamiclinks-ipv6.googleapis.com"
+  },
+  {
+    "type": "Full",
+    "value": "firebasedynamiclinks.googleapis.com"
+  },
+  {
+    "type": "Full",
+    "value": "firebaseinappmessaging.googleapis.com"
+  },
+  {
+    "type": "Full",
+    "value": "firebaseinstallations.googleapis.com"
+  },
+  {
+    "type": "Full",
+    "value": "firebaselogging-pa.googleapis.com"
+  },
+  {
+    "type": "Full",
+    "value": "firebaselogging.googleapis.com"
+  },
+  {
+    "type": "Full",
+    "value": "firebaseperusertopics-pa.googleapis.com"
+  },
+  {
+    "type": "Full",
+    "value": "firebaseremoteconfig.googleapis.com"
+  },
+  {
+    "type": "Full",
+    "value": "gitlab-assets.oss-cn-hongkong.aliyuncs.com"
+  },
+  {
+    "type": "Full",
+    "value": "notary-submissions-prod.s3-accelerate.amazonaws.com"
+  },
+  {
+    "type": "Full",
+    "value": "notary-submissions-prod.s3.us-west-2.amazonaws.com"
+  },
+  {
+    "type": "Full",
+    "value": "appleworldwidedeveloper.hb-api.omtrdc.net"
+  },
+  {
+    "type": "Full",
+    "value": "appleworldwidedeveloper.sc.omtrdc.net"
+  },
+  {
+    "type": "Full",
+    "value": "p-events-delivery.akamaized.net"
+  },
+  {
+    "type": "Full",
+    "value": "d29vzk4ow07wi7.cloudfront.net"
+  },
+  {
+    "type": "Domain",
+    "value": "android"
+  },
+  {
+    "type": "Domain",
+    "value": "java"
+  },
+  {
+    "type": "Domain",
+    "value": "androidify.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ruby-lang.org"
+  },
+  {
+    "type": "Domain",
+    "value": "atom.io"
+  },
+  {
+    "type": "Domain",
+    "value": "badgen.net"
+  },
+  {
+    "type": "Domain",
+    "value": "bitvise.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cdnjs.com"
+  },
+  {
+    "type": "Domain",
+    "value": "centos.org"
+  },
+  {
+    "type": "Domain",
+    "value": "chocolatey.org"
+  },
+  {
+    "type": "Domain",
+    "value": "clojure.org"
+  },
+  {
+    "type": "Domain",
+    "value": "cnpmjs.org"
+  },
+  {
+    "type": "Domain",
+    "value": "cygwin.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cython.org"
+  },
+  {
+    "type": "Domain",
+    "value": "deno.com"
+  },
+  {
+    "type": "Domain",
+    "value": "deno.land"
+  },
+  {
+    "type": "Domain",
+    "value": "dev.to"
+  },
+  {
+    "type": "Domain",
+    "value": "elixir-lang.org"
+  },
+  {
+    "type": "Domain",
+    "value": "elrepo.org"
+  },
+  {
+    "type": "Domain",
+    "value": "erlang.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ffmpeg.org"
+  },
+  {
+    "type": "Domain",
+    "value": "freebsd.org"
+  },
+  {
+    "type": "Domain",
+    "value": "gentoo.org"
+  },
+  {
+    "type": "Domain",
+    "value": "getcomposer.org"
+  },
+  {
+    "type": "Domain",
+    "value": "getzola.org"
+  },
+  {
+    "type": "Domain",
+    "value": "git-scm.com"
+  },
+  {
+    "type": "Domain",
+    "value": "gnu.org"
+  },
+  {
+    "type": "Domain",
+    "value": "godbolt.org"
+  },
+  {
+    "type": "Domain",
+    "value": "hex.pm"
+  },
+  {
+    "type": "Domain",
+    "value": "hexdocs.pm"
+  },
+  {
+    "type": "Domain",
+    "value": "imageglass.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ius.io"
+  },
+  {
+    "type": "Domain",
+    "value": "jenkins.io"
+  },
+  {
+    "type": "Domain",
+    "value": "js.org"
+  },
+  {
+    "type": "Domain",
+    "value": "jupyter.org"
+  },
+  {
+    "type": "Domain",
+    "value": "kali.org"
+  },
+  {
+    "type": "Domain",
+    "value": "linuxfromscratch.org"
+  },
+  {
+    "type": "Domain",
+    "value": "linuxmint.com"
+  },
+  {
+    "type": "Domain",
+    "value": "lua.org"
+  },
+  {
+    "type": "Domain",
+    "value": "macports.org"
+  },
+  {
+    "type": "Domain",
+    "value": "mariadb.org"
+  },
+  {
+    "type": "Domain",
+    "value": "mingw.org"
+  },
+  {
+    "type": "Domain",
+    "value": "mobatek.net"
+  },
+  {
+    "type": "Domain",
+    "value": "mpv.io"
+  },
+  {
+    "type": "Domain",
+    "value": "mysql.com"
+  },
+  {
+    "type": "Domain",
+    "value": "neovim.io"
+  },
+  {
+    "type": "Domain",
+    "value": "netfilter.org"
+  },
+  {
+    "type": "Domain",
+    "value": "newpipe.net"
+  },
+  {
+    "type": "Domain",
+    "value": "nftables.org"
+  },
+  {
+    "type": "Domain",
+    "value": "nixos.org"
+  },
+  {
+    "type": "Domain",
+    "value": "nodesource.com"
+  },
+  {
+    "type": "Domain",
+    "value": "notepad-plus-plus.org"
+  },
+  {
+    "type": "Domain",
+    "value": "openresty.org"
+  },
+  {
+    "type": "Domain",
+    "value": "openssl.org"
+  },
+  {
+    "type": "Domain",
+    "value": "opensuse.org"
+  },
+  {
+    "type": "Domain",
+    "value": "packagist.org"
+  },
+  {
+    "type": "Domain",
+    "value": "pcre.org"
+  },
+  {
+    "type": "Domain",
+    "value": "phantomjs.org"
+  },
+  {
+    "type": "Domain",
+    "value": "php.net"
+  },
+  {
+    "type": "Domain",
+    "value": "postgresql.org"
+  },
+  {
+    "type": "Domain",
+    "value": "putty.org"
+  },
+  {
+    "type": "Domain",
+    "value": "r-project.org"
+  },
+  {
+    "type": "Domain",
+    "value": "raspberrypi.org"
+  },
+  {
+    "type": "Domain",
+    "value": "raspbian.org"
+  },
+  {
+    "type": "Domain",
+    "value": "regex101.com"
+  },
+  {
+    "type": "Domain",
+    "value": "rpmfusion.org"
+  },
+  {
+    "type": "Domain",
+    "value": "scientificlinux.org"
+  },
+  {
+    "type": "Domain",
+    "value": "scoop.sh"
+  },
+  {
+    "type": "Domain",
+    "value": "shellcheck.net"
+  },
+  {
+    "type": "Domain",
+    "value": "shields.io"
+  },
+  {
+    "type": "Domain",
+    "value": "sqlite.org"
+  },
+  {
+    "type": "Domain",
+    "value": "sublimetext.com"
+  },
+  {
+    "type": "Domain",
+    "value": "tampermonkey.net"
+  },
+  {
+    "type": "Domain",
+    "value": "termius.com"
+  },
+  {
+    "type": "Domain",
+    "value": "unpkg.com"
+  },
+  {
+    "type": "Domain",
+    "value": "videojs.com"
+  },
+  {
+    "type": "Domain",
+    "value": "videolan.org"
+  },
+  {
+    "type": "Domain",
+    "value": "wapm.io"
+  },
+  {
+    "type": "Domain",
+    "value": "wasmer.io"
+  },
+  {
+    "type": "Domain",
+    "value": "webflow.com"
+  },
+  {
+    "type": "Domain",
+    "value": "weblate.org"
+  },
+  {
+    "type": "Domain",
+    "value": "wireshark.org"
+  },
+  {
+    "type": "Domain",
+    "value": "x.org"
+  },
+  {
+    "type": "Domain",
+    "value": "xposed.info"
+  },
+  {
+    "type": "Domain",
+    "value": "yarnpkg.com"
+  },
+  {
+    "type": "Domain",
+    "value": "zsh.org"
+  },
+  {
+    "type": "Domain",
+    "value": "dart.dev"
+  },
+  {
+    "type": "Domain",
+    "value": "dartlang.org"
+  },
+  {
+    "type": "Domain",
+    "value": "dartpad.dev"
+  },
+  {
+    "type": "Domain",
+    "value": "flutter.dev"
+  },
+  {
+    "type": "Domain",
+    "value": "flutterapp.com"
+  },
+  {
+    "type": "Domain",
+    "value": "pub.dev"
+  },
+  {
+    "type": "Domain",
+    "value": "intellij.com"
+  },
+  {
+    "type": "Domain",
+    "value": "intellij.net"
+  },
+  {
+    "type": "Domain",
+    "value": "intellij.org"
+  },
+  {
+    "type": "Domain",
+    "value": "jetbrains.com"
+  },
+  {
+    "type": "Domain",
+    "value": "jetbrains.net"
+  },
+  {
+    "type": "Domain",
+    "value": "jetbrains.space"
+  },
+  {
+    "type": "Domain",
+    "value": "jetbrains.team"
+  },
+  {
+    "type": "Domain",
+    "value": "datalore.io"
+  },
+  {
+    "type": "Domain",
+    "value": "kotlinlang.org"
+  },
+  {
+    "type": "Domain",
+    "value": "jb.gg"
+  },
+  {
+    "type": "Domain",
+    "value": "youtrack.cloud"
+  },
+  {
+    "type": "Domain",
+    "value": "mongodb.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mongodb.org"
+  },
+  {
+    "type": "Domain",
+    "value": "brew.sh"
+  },
+  {
+    "type": "Domain",
+    "value": "rubygems.org"
+  },
+  {
+    "type": "Domain",
+    "value": "redhat.com"
+  },
+  {
+    "type": "Domain",
+    "value": "redhat.org"
+  },
+  {
+    "type": "Domain",
+    "value": "archlinux.org"
+  },
+  {
+    "type": "Domain",
+    "value": "archlinuxarm.org"
+  },
+  {
+    "type": "Domain",
+    "value": "archlinuxcn.org"
+  },
+  {
+    "type": "Domain",
+    "value": "githubnext.com"
+  },
+  {
+    "type": "Domain",
+    "value": "git.io"
+  },
+  {
+    "type": "Domain",
+    "value": "ghcr.io"
+  },
+  {
+    "type": "Domain",
+    "value": "githubpreview.dev"
+  },
+  {
+    "type": "Domain",
+    "value": "github.ai"
+  },
+  {
+    "type": "Domain",
+    "value": "github.blog"
+  },
+  {
+    "type": "Domain",
+    "value": "github.com"
+  },
+  {
+    "type": "Domain",
+    "value": "github.community"
+  },
+  {
+    "type": "Domain",
+    "value": "github.dev"
+  },
+  {
+    "type": "Domain",
+    "value": "github.io"
+  },
+  {
+    "type": "Domain",
+    "value": "githubstatus.com"
+  },
+  {
+    "type": "Domain",
+    "value": "githubassets.com"
+  },
+  {
+    "type": "Domain",
+    "value": "githubhackathon.com"
+  },
+  {
+    "type": "Domain",
+    "value": "gh.io"
+  },
+  {
+    "type": "Domain",
+    "value": "dependabot.com"
+  },
+  {
+    "type": "Domain",
+    "value": "githubapp.com"
+  },
+  {
+    "type": "Domain",
+    "value": "githubuniverse.com"
+  },
+  {
+    "type": "Domain",
+    "value": "githubusercontent.com"
+  },
+  {
+    "type": "Domain",
+    "value": "myoctocat.com"
+  },
+  {
+    "type": "Domain",
+    "value": "octocaptcha.com"
+  },
+  {
+    "type": "Domain",
+    "value": "opensource.guide"
+  },
+  {
+    "type": "Domain",
+    "value": "repo.new"
+  },
+  {
+    "type": "Domain",
+    "value": "thegithubshop.com"
+  },
+  {
+    "type": "Domain",
+    "value": "npmjs.org"
+  },
+  {
+    "type": "Domain",
+    "value": "githubcopilot.com"
+  },
+  {
+    "type": "Domain",
+    "value": "npm.community"
+  },
+  {
+    "type": "Domain",
+    "value": "npmjs.com"
+  },
+  {
+    "type": "Domain",
+    "value": "perl.org"
+  },
+  {
+    "type": "Domain",
+    "value": "cpan.org"
+  },
+  {
+    "type": "Domain",
+    "value": "metacpan.org"
+  },
+  {
+    "type": "Domain",
+    "value": "modperl.pl"
+  },
+  {
+    "type": "Domain",
+    "value": "pycon.org"
+  },
+  {
+    "type": "Domain",
+    "value": "pypa.io"
+  },
+  {
+    "type": "Domain",
+    "value": "pypi.io"
+  },
+  {
+    "type": "Domain",
+    "value": "pypi.org"
+  },
+  {
+    "type": "Domain",
+    "value": "python.org"
+  },
+  {
+    "type": "Domain",
+    "value": "pythonhosted.org"
+  },
+  {
+    "type": "Domain",
+    "value": "fury.blog"
+  },
+  {
+    "type": "Domain",
+    "value": "fury.co"
+  },
+  {
+    "type": "Domain",
+    "value": "fury.dev"
+  },
+  {
+    "type": "Domain",
+    "value": "fury.help"
+  },
+  {
+    "type": "Domain",
+    "value": "kubernetes.io"
+  },
+  {
+    "type": "Domain",
+    "value": "gemfury.com"
+  },
+  {
+    "type": "Domain",
+    "value": "adaptivecards.io"
+  },
+  {
+    "type": "Domain",
+    "value": "api-extractor.com"
+  },
+  {
+    "type": "Domain",
+    "value": "adventofcode.com"
+  },
+  {
+    "type": "Domain",
+    "value": "appcenter.ms"
+  },
+  {
+    "type": "Domain",
+    "value": "blazor.net"
+  },
+  {
+    "type": "Domain",
+    "value": "botframework.com"
+  },
+  {
+    "type": "Domain",
+    "value": "codethemicrobit.com"
+  },
+  {
+    "type": "Domain",
+    "value": "devopsassessment.net"
+  },
+  {
+    "type": "Domain",
+    "value": "dot.net"
+  },
+  {
+    "type": "Domain",
+    "value": "gamesstack.com"
+  },
+  {
+    "type": "Domain",
+    "value": "graphengine.io"
+  },
+  {
+    "type": "Domain",
+    "value": "insiderdevtour.com"
+  },
+  {
+    "type": "Domain",
+    "value": "jwt.ms"
+  },
+  {
+    "type": "Domain",
+    "value": "microbit.org"
+  },
+  {
+    "type": "Domain",
+    "value": "microsoftadc.com"
+  },
+  {
+    "type": "Domain",
+    "value": "microsoftgamestack.com"
+  },
+  {
+    "type": "Domain",
+    "value": "microsoftiotinsiderlabs.com"
+  },
+  {
+    "type": "Domain",
+    "value": "microsoftreactor.info"
+  },
+  {
+    "type": "Domain",
+    "value": "microsoftreactor.net"
+  },
+  {
+    "type": "Domain",
+    "value": "microsoftreactor.org"
+  },
+  {
+    "type": "Domain",
+    "value": "microsoftsilverlight.com"
+  },
+  {
+    "type": "Domain",
+    "value": "microsoftsilverlight.org"
+  },
+  {
+    "type": "Domain",
+    "value": "microsoftsilverlight.net"
+  },
+  {
+    "type": "Domain",
+    "value": "microsoftsqlserver.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mmdnn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mono-project.com"
+  },
+  {
+    "type": "Domain",
+    "value": "msdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "msinnovationchallenge.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mspairlift.com"
+  },
+  {
+    "type": "Domain",
+    "value": "msropendata.com"
+  },
+  {
+    "type": "Domain",
+    "value": "nuget.org"
+  },
+  {
+    "type": "Domain",
+    "value": "nugettest.org"
+  },
+  {
+    "type": "Domain",
+    "value": "opentranslatorstothings.org"
+  },
+  {
+    "type": "Domain",
+    "value": "poshtestgallery.com"
+  },
+  {
+    "type": "Domain",
+    "value": "pwabuilder.com"
+  },
+  {
+    "type": "Domain",
+    "value": "sankie.net"
+  },
+  {
+    "type": "Domain",
+    "value": "sqlserveronlinux.com"
+  },
+  {
+    "type": "Domain",
+    "value": "timelinestoryteller.com"
+  },
+  {
+    "type": "Domain",
+    "value": "uwpcommunitytoolkit.com"
+  },
+  {
+    "type": "Domain",
+    "value": "visualstudio-staging.com"
+  },
+  {
+    "type": "Domain",
+    "value": "visualstudio.com"
+  },
+  {
+    "type": "Domain",
+    "value": "visualstudio.co"
+  },
+  {
+    "type": "Domain",
+    "value": "visualstudio.eu"
+  },
+  {
+    "type": "Domain",
+    "value": "visualstudio.net"
+  },
+  {
+    "type": "Domain",
+    "value": "vfsforgit.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vfsforgit.org"
+  },
+  {
+    "type": "Domain",
+    "value": "vsassets.io"
+  },
+  {
+    "type": "Domain",
+    "value": "vscode.dev"
+  },
+  {
+    "type": "Domain",
+    "value": "vscode-cdn.net"
+  },
+  {
+    "type": "Domain",
+    "value": "vscode-unpkg.net"
+  },
+  {
+    "type": "Domain",
+    "value": "xamarin.com"
+  },
+  {
+    "type": "Domain",
+    "value": "lede-project.org"
+  },
+  {
+    "type": "Domain",
+    "value": "openwrt.org"
+  },
+  {
+    "type": "Domain",
+    "value": "unity.com"
+  },
+  {
+    "type": "Domain",
+    "value": "unity3d.com"
+  },
+  {
+    "type": "Domain",
+    "value": "azurecr.io"
+  },
+  {
+    "type": "Domain",
+    "value": "docker.io"
+  },
+  {
+    "type": "Domain",
+    "value": "ecr.aws"
+  },
+  {
+    "type": "Domain",
+    "value": "gcr.io"
+  },
+  {
+    "type": "Domain",
+    "value": "quay.io"
+  },
+  {
+    "type": "Domain",
+    "value": "gitbook.io"
+  },
+  {
+    "type": "Domain",
+    "value": "gitbook.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dotdeb.org"
+  },
+  {
+    "type": "Domain",
+    "value": "polymer-project.org"
+  },
+  {
+    "type": "Domain",
+    "value": "polymerproject.org"
+  },
+  {
+    "type": "Domain",
+    "value": "qt.io"
+  },
+  {
+    "type": "Domain",
+    "value": "qt-project.org"
+  },
+  {
+    "type": "Domain",
+    "value": "lfai.foundation"
+  },
+  {
+    "type": "Domain",
+    "value": "linuxfoundation.org"
+  },
+  {
+    "type": "Domain",
+    "value": "kernel.org"
+  },
+  {
+    "type": "Domain",
+    "value": "linux.org"
+  },
+  {
+    "type": "Domain",
+    "value": "openjsf.org"
+  },
+  {
+    "type": "Domain",
+    "value": "amp.dev"
+  },
+  {
+    "type": "Domain",
+    "value": "ampproject.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ampproject.net"
+  },
+  {
+    "type": "Domain",
+    "value": "ampproject.org"
+  },
+  {
+    "type": "Domain",
+    "value": "electronjs.org"
+  },
+  {
+    "type": "Domain",
+    "value": "jquery.com"
+  },
+  {
+    "type": "Domain",
+    "value": "jquerymobile.com"
+  },
+  {
+    "type": "Domain",
+    "value": "jqueryui.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mochajs.org"
+  },
+  {
+    "type": "Domain",
+    "value": "nodejs.org"
+  },
+  {
+    "type": "Domain",
+    "value": "v8.dev"
+  },
+  {
+    "type": "Domain",
+    "value": "v8project.org"
+  },
+  {
+    "type": "Domain",
+    "value": "apache.org"
+  },
+  {
+    "type": "Domain",
+    "value": "android.com"
+  },
+  {
+    "type": "Domain",
+    "value": "apisof.net"
+  },
+  {
+    "type": "Domain",
+    "value": "artixlinux.org"
+  },
+  {
+    "type": "Domain",
+    "value": "fury.io"
+  },
+  {
+    "type": "Domain",
+    "value": "k8s.io"
+  },
+  {
+    "type": "Domain",
+    "value": "osdn.net"
+  },
+  {
+    "type": "Domain",
+    "value": "piwheels.org"
+  },
+  {
+    "type": "Domain",
+    "value": "haskell.org"
+  },
+  {
+    "type": "Domain",
+    "value": "haskellstack.org"
+  },
+  {
+    "type": "Domain",
+    "value": "stackage.org"
+  },
+  {
+    "type": "Domain",
+    "value": "jsdelivr.com"
+  },
+  {
+    "type": "Domain",
+    "value": "jsdelivr.net"
+  },
+  {
+    "type": "Domain",
+    "value": "esm.run"
+  },
+  {
+    "type": "Domain",
+    "value": "rust-lang.org"
+  },
+  {
+    "type": "Domain",
+    "value": "rustup.rs"
+  },
+  {
+    "type": "Domain",
+    "value": "crates.io"
+  },
+  {
+    "type": "Domain",
+    "value": "docs.rs"
+  },
+  {
+    "type": "Domain",
+    "value": "anaconda.cloud"
+  },
+  {
+    "type": "Domain",
+    "value": "anaconda.com"
+  },
+  {
+    "type": "Domain",
+    "value": "anaconda.org"
+  },
+  {
+    "type": "Domain",
+    "value": "conda.io"
+  },
+  {
+    "type": "Domain",
+    "value": "bootstrapcdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "getbootstrap.com"
+  },
+  {
+    "type": "Domain",
+    "value": "codeberg.org"
+  },
+  {
+    "type": "Domain",
+    "value": "codeberg.page"
+  },
+  {
+    "type": "Domain",
+    "value": "fontawesome.com"
+  },
+  {
+    "type": "Domain",
+    "value": "fortawesome.com"
+  },
+  {
+    "type": "Domain",
+    "value": "accountkit.com"
+  },
+  {
+    "type": "Domain",
+    "value": "atscaleconference.com"
+  },
+  {
+    "type": "Domain",
+    "value": "botorch.org"
+  },
+  {
+    "type": "Domain",
+    "value": "buck.build"
+  },
+  {
+    "type": "Domain",
+    "value": "buckbuild.com"
+  },
+  {
+    "type": "Domain",
+    "value": "componentkit.org"
+  },
+  {
+    "type": "Domain",
+    "value": "draftjs.org"
+  },
+  {
+    "type": "Domain",
+    "value": "f8.com"
+  },
+  {
+    "type": "Domain",
+    "value": "facebookappcenter.info"
+  },
+  {
+    "type": "Domain",
+    "value": "facebookappcenter.net"
+  },
+  {
+    "type": "Domain",
+    "value": "facebookappcenter.org"
+  },
+  {
+    "type": "Domain",
+    "value": "facebookconnect.com"
+  },
+  {
+    "type": "Domain",
+    "value": "facebookdevelopergarage.com"
+  },
+  {
+    "type": "Domain",
+    "value": "faciometrics.com"
+  },
+  {
+    "type": "Domain",
+    "value": "fasttext.cc"
+  },
+  {
+    "type": "Domain",
+    "value": "fbf8.com"
+  },
+  {
+    "type": "Domain",
+    "value": "fbinfer.com"
+  },
+  {
+    "type": "Domain",
+    "value": "fblitho.com"
+  },
+  {
+    "type": "Domain",
+    "value": "fbredex.com"
+  },
+  {
+    "type": "Domain",
+    "value": "fbrell.com"
+  },
+  {
+    "type": "Domain",
+    "value": "flow.dev"
+  },
+  {
+    "type": "Domain",
+    "value": "flow.org"
+  },
+  {
+    "type": "Domain",
+    "value": "flowtype.org"
+  },
+  {
+    "type": "Domain",
+    "value": "frescolib.org"
+  },
+  {
+    "type": "Domain",
+    "value": "hacklang.org"
+  },
+  {
+    "type": "Domain",
+    "value": "hhvm.com"
+  },
+  {
+    "type": "Domain",
+    "value": "makeitopen.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mcrouter.net"
+  },
+  {
+    "type": "Domain",
+    "value": "mcrouter.org"
+  },
+  {
+    "type": "Domain",
+    "value": "messengerdevelopers.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ogp.me"
+  },
+  {
+    "type": "Domain",
+    "value": "opengraphprotocol.com"
+  },
+  {
+    "type": "Domain",
+    "value": "opengraphprotocol.org"
+  },
+  {
+    "type": "Domain",
+    "value": "parse.com"
+  },
+  {
+    "type": "Domain",
+    "value": "pyrobot.org"
+  },
+  {
+    "type": "Domain",
+    "value": "react.com"
+  },
+  {
+    "type": "Domain",
+    "value": "reactjs.com"
+  },
+  {
+    "type": "Domain",
+    "value": "reactjs.org"
+  },
+  {
+    "type": "Domain",
+    "value": "recoiljs.org"
+  },
+  {
+    "type": "Domain",
+    "value": "rocksdb.com"
+  },
+  {
+    "type": "Domain",
+    "value": "rocksdb.net"
+  },
+  {
+    "type": "Domain",
+    "value": "rocksdb.org"
+  },
+  {
+    "type": "Domain",
+    "value": "yogalayout.com"
+  },
+  {
+    "type": "Domain",
+    "value": "nginx.com"
+  },
+  {
+    "type": "Domain",
+    "value": "nginx.org"
+  },
+  {
+    "type": "Domain",
+    "value": "vim.org"
+  },
+  {
+    "type": "Domain",
+    "value": "remirepo.net"
+  },
+  {
+    "type": "Domain",
+    "value": "sentry.io"
+  },
+  {
+    "type": "Domain",
+    "value": "sentry-cdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "framer.com"
+  },
+  {
+    "type": "Domain",
+    "value": "framer.website"
+  },
+  {
+    "type": "Domain",
+    "value": "framercanvas.com"
+  },
+  {
+    "type": "Domain",
+    "value": "framerstatic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "framerusercontent.com"
+  },
+  {
+    "type": "Domain",
+    "value": "github1s.com"
+  },
+  {
+    "type": "Domain",
+    "value": "sourcegraph.com"
+  },
+  {
+    "type": "Domain",
+    "value": "consul.io"
+  },
+  {
+    "type": "Domain",
+    "value": "hashicorp.com"
+  },
+  {
+    "type": "Domain",
+    "value": "nomadproject.io"
+  },
+  {
+    "type": "Domain",
+    "value": "packer.io"
+  },
+  {
+    "type": "Domain",
+    "value": "terraform.io"
+  },
+  {
+    "type": "Domain",
+    "value": "vagrantcloud.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vagrantup.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vaultproject.io"
+  },
+  {
+    "type": "Domain",
+    "value": "redis.io"
+  },
+  {
+    "type": "Domain",
+    "value": "redislabs.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mystrikingly.com"
+  },
+  {
+    "type": "Domain",
+    "value": "strikingly.com"
+  },
+  {
+    "type": "Domain",
+    "value": "strikinglycdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "braventures.com"
+  },
+  {
+    "type": "Domain",
+    "value": "braveux.com"
+  },
+  {
+    "type": "Domain",
+    "value": "compass.is"
+  },
+  {
+    "type": "Domain",
+    "value": "fightforux.com"
+  },
+  {
+    "type": "Domain",
+    "value": "forthebadge.com"
+  },
+  {
+    "type": "Domain",
+    "value": "stockagainstphotography.com"
+  },
+  {
+    "type": "Domain",
+    "value": "compose-spec.io"
+  },
+  {
+    "type": "Domain",
+    "value": "docker.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dockerstatic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "firebase.com"
+  },
+  {
+    "type": "Domain",
+    "value": "firebase.io"
+  },
+  {
+    "type": "Domain",
+    "value": "firebaseapp.com"
+  },
+  {
+    "type": "Domain",
+    "value": "firebaseio.com"
+  },
+  {
+    "type": "Domain",
+    "value": "gitlab.com"
+  },
+  {
+    "type": "Domain",
+    "value": "gitlab.io"
+  },
+  {
+    "type": "Domain",
+    "value": "gitlab.net"
+  },
+  {
+    "type": "Domain",
+    "value": "gitlab-static.net"
+  },
+  {
+    "type": "Domain",
+    "value": "grazie.ai"
+  },
+  {
+    "type": "Domain",
+    "value": "jetbrains.ai"
+  },
+  {
+    "type": "Domain",
+    "value": "debian.org"
+  },
+  {
+    "type": "Domain",
+    "value": "readthedocs.org"
+  },
+  {
+    "type": "Domain",
+    "value": "fastlane.ci"
+  },
+  {
+    "type": "Domain",
+    "value": "fastlane.tools"
+  },
+  {
+    "type": "Domain",
+    "value": "getfedora.org"
+  },
+  {
+    "type": "Domain",
+    "value": "fedoraforum.org"
+  },
+  {
+    "type": "Domain",
+    "value": "fedorapeople.org"
+  },
+  {
+    "type": "Domain",
+    "value": "fedoraproject.org"
+  },
+  {
+    "type": "Domain",
+    "value": "fedoramagazine.org"
+  },
+  {
+    "type": "Domain",
+    "value": "flathub.org"
+  },
+  {
+    "type": "Domain",
+    "value": "flatpak.org"
+  },
+  {
+    "type": "Domain",
+    "value": "01.org"
+  },
+  {
+    "type": "Domain",
+    "value": "hyperscan.io"
+  },
+  {
+    "type": "Domain",
+    "value": "intellinuxgraphics.com"
+  },
+  {
+    "type": "Domain",
+    "value": "intellinuxgraphics.net"
+  },
+  {
+    "type": "Domain",
+    "value": "oneapi.com"
+  },
+  {
+    "type": "Domain",
+    "value": "oneapi.io"
+  },
+  {
+    "type": "Domain",
+    "value": "opencas.io"
+  },
+  {
+    "type": "Domain",
+    "value": "opendroneid.org"
+  },
+  {
+    "type": "Domain",
+    "value": "openvino.ai"
+  },
+  {
+    "type": "Domain",
+    "value": "openvinotoolkit.org"
+  },
+  {
+    "type": "Domain",
+    "value": "renderingtoolkit.org"
+  },
+  {
+    "type": "Domain",
+    "value": "snap-telemetry.io"
+  },
+  {
+    "type": "Domain",
+    "value": "universalscalablefirmware.org"
+  },
+  {
+    "type": "Domain",
+    "value": "acpica.com"
+  },
+  {
+    "type": "Domain",
+    "value": "clearlinux.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ospray.net"
+  },
+  {
+    "type": "Domain",
+    "value": "ospray.org"
+  },
+  {
+    "type": "Domain",
+    "value": "canonical.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ubuntu.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ubuntu.net"
+  },
+  {
+    "type": "Domain",
+    "value": "ubuntuforums.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ubuntu-touch.io"
+  },
+  {
+    "type": "Domain",
+    "value": "launchpad.net"
+  },
+  {
+    "type": "Domain",
+    "value": "launchpadcontent.net"
+  },
+  {
+    "type": "Domain",
+    "value": "launchpadlibrarian.com"
+  },
+  {
+    "type": "Domain",
+    "value": "launchpadlibrarian.net"
+  },
+  {
+    "type": "Domain",
+    "value": "launchpadlibrarian.org"
+  },
+  {
+    "type": "Domain",
+    "value": "snapcraft.io"
+  },
+  {
+    "type": "Domain",
+    "value": "snapstore.io"
+  },
+  {
+    "type": "Domain",
+    "value": "scala-lang.org"
+  },
+  {
+    "type": "Domain",
+    "value": "scala-sbt.org"
+  },
+  {
+    "type": "Domain",
+    "value": "termux.com"
+  },
+  {
+    "type": "Domain",
+    "value": "termux.dev"
+  },
+  {
+    "type": "Domain",
+    "value": "termux.org"
+  },
+  {
+    "type": "Domain",
+    "value": "macruby.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cups.org"
+  },
+  {
+    "type": "Domain",
+    "value": "macruby.net"
+  },
+  {
+    "type": "Domain",
+    "value": "swift.org"
+  },
+  {
+    "type": "Domain",
+    "value": "appleswift.com"
+  },
+  {
+    "type": "Domain",
+    "value": "webobjects.com"
+  },
+  {
+    "type": "Domain",
+    "value": "wpewebkit.org"
+  },
+  {
+    "type": "Domain",
+    "value": "calendarserver.org"
+  },
+  {
+    "type": "Domain",
+    "value": "macruby.org"
+  },
+  {
+    "type": "Domain",
+    "value": "macosforge.org"
+  },
+  {
+    "type": "Domain",
+    "value": "servicetalk.io"
+  },
+  {
+    "type": "Domain",
+    "value": "apple-cloudkit.com"
+  },
+  {
+    "type": "Domain",
+    "value": "foundationdb.org"
+  },
+  {
+    "type": "Domain",
+    "value": "apple-mapkit.com"
+  },
+  {
+    "type": "Domain",
+    "value": "webkitgtk.org"
+  },
+  {
+    "type": "Domain",
+    "value": "carekit.org"
+  },
+  {
+    "type": "Domain",
+    "value": "researchandcare.org"
+  },
+  {
+    "type": "Domain",
+    "value": "researchkit.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "researchkit.net"
+  },
+  {
+    "type": "Domain",
+    "value": "researchkit.org"
+  },
+  {
+    "type": "Domain",
+    "value": "researchkit.tv"
+  },
+  {
+    "type": "Domain",
+    "value": "webkit.org"
+  },
+  {
+    "type": "Domain",
+    "value": "readthedocs.io"
+  },
+  {
+    "type": "Domain",
+    "value": "readthedocs.com"
+  },
+  {
+    "type": "Domain",
+    "value": "readthedocs-hosted.com"
+  },
+  {
+    "type": "Domain",
+    "value": "topcoder.com"
+  },
+  {
+    "type": "Domain",
+    "value": "thesffblog.com"
+  },
+  {
+    "type": "Domain",
+    "value": "tex-talk.net"
+  },
+  {
+    "type": "Domain",
+    "value": "embed.ly"
+  },
+  {
+    "type": "Domain",
+    "value": "embedly.com"
+  },
+  {
+    "type": "Domain",
+    "value": "playerjs.io"
+  },
+  {
+    "type": "Domain",
+    "value": "go-lang.com"
+  },
+  {
+    "type": "Domain",
+    "value": "go-lang.net"
+  },
+  {
+    "type": "Domain",
+    "value": "go-lang.org"
+  },
+  {
+    "type": "Domain",
+    "value": "go.dev"
+  },
+  {
+    "type": "Domain",
+    "value": "godoc.org"
+  },
+  {
+    "type": "Domain",
+    "value": "golang.com"
+  },
+  {
+    "type": "Domain",
+    "value": "golang.net"
+  },
+  {
+    "type": "Domain",
+    "value": "golang.org"
+  },
+  {
+    "type": "Domain",
+    "value": "alpinelinux.org"
+  },
+  {
+    "type": "Domain",
+    "value": "java.com"
+  },
+  {
+    "type": "Domain",
+    "value": "java.net"
+  },
+  {
+    "type": "Domain",
+    "value": "jfrog.com"
+  },
+  {
+    "type": "Domain",
+    "value": "jfrog.org"
+  },
+  {
+    "type": "Domain",
+    "value": "bintray.com"
+  },
+  {
+    "type": "Domain",
+    "value": "sourcehut.org"
+  },
+  {
+    "type": "Domain",
+    "value": "sr.ht"
+  },
+  {
+    "type": "Domain",
+    "value": "askubuntu.com"
+  },
+  {
+    "type": "Domain",
+    "value": "blogoverflow.com"
+  },
+  {
+    "type": "Domain",
+    "value": "codeforaliving.io"
+  },
+  {
+    "type": "Domain",
+    "value": "mathoverflow.net"
+  },
+  {
+    "type": "Domain",
+    "value": "serverfault.com"
+  },
+  {
+    "type": "Domain",
+    "value": "sstatic.net"
+  },
+  {
+    "type": "Domain",
+    "value": "stackapps.com"
+  },
+  {
+    "type": "Domain",
+    "value": "stackauth.com"
+  },
+  {
+    "type": "Domain",
+    "value": "stackexchange.com"
+  },
+  {
+    "type": "Domain",
+    "value": "stackmod.blog"
+  },
+  {
+    "type": "Domain",
+    "value": "stackoverflow.blog"
+  },
+  {
+    "type": "Domain",
+    "value": "stackoverflow.co"
+  },
+  {
+    "type": "Domain",
+    "value": "stackoverflow.com"
+  },
+  {
+    "type": "Domain",
+    "value": "stackoverflow.email"
+  },
+  {
+    "type": "Domain",
+    "value": "stackoverflow.help"
+  },
+  {
+    "type": "Domain",
+    "value": "stackoverflow.net"
+  },
+  {
+    "type": "Domain",
+    "value": "stackoverflowbusiness.com"
+  },
+  {
+    "type": "Domain",
+    "value": "stackoverflowcareers.com"
+  },
+  {
+    "type": "Domain",
+    "value": "stackoverflowjobs.com"
+  },
+  {
+    "type": "Domain",
+    "value": "stackoverflowsolutions.com"
+  },
+  {
+    "type": "Domain",
+    "value": "stackoverflowteams.com"
+  },
+  {
+    "type": "Domain",
+    "value": "stacksnippets.net"
+  },
+  {
+    "type": "Domain",
+    "value": "superuser.com"
+  },
+  {
+    "type": "Domain",
+    "value": "devstreaming-cdn.apple.com"
+  },
+  {
+    "type": "Domain",
+    "value": "developerservices2.apple.com"
+  },
+  {
+    "type": "Domain",
+    "value": "playgrounds-cdn.apple.com"
+  },
+  {
+    "type": "Domain",
+    "value": "developer.apple.com"
+  },
+  {
+    "type": "Domain",
+    "value": "devimages-cdn.apple.com"
+  },
+  {
+    "type": "Domain",
+    "value": "greenend.org.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "mcr.microsoft.com"
+  },
+  {
+    "type": "Domain",
+    "value": "timestamp.apple.com"
+  },
+  {
+    "type": "Domain",
+    "value": "visualstudio.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "blob.core.windows.net"
+  },
+  {
+    "type": "Regex",
+    "value": "^github-production-release-asset-[0-9a-zA-Z]{6}\\.s3\\.amazonaws\\.com$"
+  },
+  {
+    "type": "Regex",
+    "value": ".+\\.dkr\\.ecr\\.[^\\.]+\\.amazonaws\\.com$"
+  },
+  {
+    "type": "Domain",
+    "value": "cdn.jetbrains.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "download-cdn.jetbrains.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "collector.github.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "copilot-telemetry.githubusercontent.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "microsoftreactor.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "microsoftreactor.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "reactorms.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "iads.unity3d.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "unityads.unity3d.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "cdn.ampproject.org",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "firebase-settings.crashlytics.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "researchkit.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "researchkit.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "swiftui.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "swiftui.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

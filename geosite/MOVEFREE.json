@@ -1,0 +1,35 @@
+[
+  {
+    "type": "Domain",
+    "value": "keepmovingwithmovefree.com"
+  },
+  {
+    "type": "Domain",
+    "value": "move-free.net"
+  },
+  {
+    "type": "Domain",
+    "value": "movefrees.com"
+  },
+  {
+    "type": "Domain",
+    "value": "movefreeoffers.com"
+  },
+  {
+    "type": "Domain",
+    "value": "movefreerewards.com"
+  },
+  {
+    "type": "Domain",
+    "value": "schiffvitamins.com"
+  },
+  {
+    "type": "Domain",
+    "value": "movefree.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

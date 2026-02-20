@@ -1,0 +1,18 @@
+[
+  {
+    "type": "Domain",
+    "value": "mail.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ui-portal.de"
+  },
+  {
+    "type": "Domain",
+    "value": "uicdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "uimserv.net"
+  }
+]

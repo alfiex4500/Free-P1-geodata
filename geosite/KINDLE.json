@@ -1,0 +1,97 @@
+[
+  {
+    "type": "Domain",
+    "value": "kindle"
+  },
+  {
+    "type": "Domain",
+    "value": "kindle.it"
+  },
+  {
+    "type": "Domain",
+    "value": "kindle.in"
+  },
+  {
+    "type": "Domain",
+    "value": "kindle.com"
+  },
+  {
+    "type": "Domain",
+    "value": "kindle.de"
+  },
+  {
+    "type": "Domain",
+    "value": "kindle.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "kindle.fr"
+  },
+  {
+    "type": "Domain",
+    "value": "kindleproject.com"
+  },
+  {
+    "type": "Domain",
+    "value": "kindleoasisnews.com"
+  },
+  {
+    "type": "Domain",
+    "value": "kindle.es"
+  },
+  {
+    "type": "Domain",
+    "value": "kindleoasis.com"
+  },
+  {
+    "type": "Domain",
+    "value": "kindleoasis.info"
+  },
+  {
+    "type": "Domain",
+    "value": "kindleoasis.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "kindleoasis.org"
+  },
+  {
+    "type": "Domain",
+    "value": "kindleoasis.us"
+  },
+  {
+    "type": "Domain",
+    "value": "kindle.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "kindle.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "kindle.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "kindleoasis.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "kindleoasis.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

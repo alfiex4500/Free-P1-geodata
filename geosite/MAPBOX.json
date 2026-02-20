@@ -1,0 +1,15 @@
+[
+  {
+    "type": "Domain",
+    "value": "mapbox.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mapbox.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

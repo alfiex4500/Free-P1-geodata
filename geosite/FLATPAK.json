@@ -1,0 +1,10 @@
+[
+  {
+    "type": "Domain",
+    "value": "flathub.org"
+  },
+  {
+    "type": "Domain",
+    "value": "flatpak.org"
+  }
+]

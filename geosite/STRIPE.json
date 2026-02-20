@@ -1,0 +1,22 @@
+[
+  {
+    "type": "Domain",
+    "value": "link.com"
+  },
+  {
+    "type": "Domain",
+    "value": "stripe-terminal-local-reader.net"
+  },
+  {
+    "type": "Domain",
+    "value": "stripe.com"
+  },
+  {
+    "type": "Domain",
+    "value": "stripe.network"
+  },
+  {
+    "type": "Domain",
+    "value": "stripecdn.com"
+  }
+]

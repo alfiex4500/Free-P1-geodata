@@ -1,0 +1,61 @@
+[
+  {
+    "type": "Domain",
+    "value": "doservice.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ele.me"
+  },
+  {
+    "type": "Domain",
+    "value": "ele.to"
+  },
+  {
+    "type": "Domain",
+    "value": "eleme.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "eleme.io"
+  },
+  {
+    "type": "Domain",
+    "value": "elemecdn.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "elemecdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "elenet.me"
+  },
+  {
+    "type": "Domain",
+    "value": "adashx.ut.ele.me",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "h-adashx.ut.ele.me",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "v6-adashx.ut.ele.me",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  }
+]

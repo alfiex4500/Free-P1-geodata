@@ -1,0 +1,26 @@
+[
+  {
+    "type": "Full",
+    "value": "servd-anthropic-website.b-cdn.net"
+  },
+  {
+    "type": "Domain",
+    "value": "anthropic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "claude.ai"
+  },
+  {
+    "type": "Domain",
+    "value": "claude.com"
+  },
+  {
+    "type": "Domain",
+    "value": "claudeusercontent.com"
+  },
+  {
+    "type": "Domain",
+    "value": "claudemcpclient.com"
+  }
+]

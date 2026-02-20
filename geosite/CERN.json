@@ -1,0 +1,30 @@
+[
+  {
+    "type": "Domain",
+    "value": "cern"
+  },
+  {
+    "type": "Domain",
+    "value": "ams02.space"
+  },
+  {
+    "type": "Domain",
+    "value": "cern.ch"
+  },
+  {
+    "type": "Domain",
+    "value": "cixp.net"
+  },
+  {
+    "type": "Domain",
+    "value": "dotcernpilot.info"
+  },
+  {
+    "type": "Domain",
+    "value": "ippog.org"
+  },
+  {
+    "type": "Domain",
+    "value": "linearcollider.org"
+  }
+]

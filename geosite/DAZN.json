@@ -1,0 +1,34 @@
+[
+  {
+    "type": "Domain",
+    "value": "dazn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dazn-api.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dazndn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "daznfeeds.com"
+  },
+  {
+    "type": "Domain",
+    "value": "daznplayer.com"
+  },
+  {
+    "type": "Domain",
+    "value": "daznservices.com"
+  },
+  {
+    "type": "Domain",
+    "value": "indazn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "indaznlab.com"
+  }
+]

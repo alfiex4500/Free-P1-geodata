@@ -1,0 +1,31 @@
+[
+  {
+    "type": "Domain",
+    "value": "cainiao-inc.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cainiao.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cainiaoyizhan.com"
+  },
+  {
+    "type": "Domain",
+    "value": "guoguo-app.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cainiao.com.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "v6-adashx.ut.cainiao.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  }
+]

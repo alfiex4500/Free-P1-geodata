@@ -1,0 +1,41 @@
+[
+  {
+    "type": "Domain",
+    "value": "myqnapcloud.com"
+  },
+  {
+    "type": "Domain",
+    "value": "qlink.to"
+  },
+  {
+    "type": "Domain",
+    "value": "qnap.com"
+  },
+  {
+    "type": "Domain",
+    "value": "myqnapcloud.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "qlinkto.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "qnap.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

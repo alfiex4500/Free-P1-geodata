@@ -1,0 +1,370 @@
+[
+  {
+    "type": "Domain",
+    "value": "sohu"
+  },
+  {
+    "type": "Domain",
+    "value": "focus-img.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "focus.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "itc.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "sohu.com"
+  },
+  {
+    "type": "Domain",
+    "value": "sohucs.com"
+  },
+  {
+    "type": "Domain",
+    "value": "sogoucdndl.com"
+  },
+  {
+    "type": "Domain",
+    "value": "yidianliulan.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "ggowan.com"
+  },
+  {
+    "type": "Domain",
+    "value": "go2map.com"
+  },
+  {
+    "type": "Domain",
+    "value": "pinyin.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "qd.ink"
+  },
+  {
+    "type": "Domain",
+    "value": "binglianhuajianzhan.com"
+  },
+  {
+    "type": "Domain",
+    "value": "sgtmos.com"
+  },
+  {
+    "type": "Domain",
+    "value": "sgyeyou.com"
+  },
+  {
+    "type": "Domain",
+    "value": "sgyouxi.com"
+  },
+  {
+    "type": "Domain",
+    "value": "sogo.com"
+  },
+  {
+    "type": "Domain",
+    "value": "sogou.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "sogou.com"
+  },
+  {
+    "type": "Domain",
+    "value": "sogou.net"
+  },
+  {
+    "type": "Domain",
+    "value": "yuweikuijianzhan.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ggoplay.com"
+  },
+  {
+    "type": "Domain",
+    "value": "sg.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "sogouimecdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "sogou-inc.com"
+  },
+  {
+    "type": "Domain",
+    "value": "sogou-op.org"
+  },
+  {
+    "type": "Domain",
+    "value": "soso.com"
+  },
+  {
+    "type": "Domain",
+    "value": "yidianliulan.com"
+  },
+  {
+    "type": "Domain",
+    "value": "sososnap.com"
+  },
+  {
+    "type": "Domain",
+    "value": "teemo.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "wannianqingjianzhan.com"
+  },
+  {
+    "type": "Domain",
+    "value": "xiangrikuijianzhan.com"
+  },
+  {
+    "type": "Domain",
+    "value": "xiangrikuisite.com"
+  },
+  {
+    "type": "Domain",
+    "value": "xinyan.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "yeyousg.com"
+  },
+  {
+    "type": "Domain",
+    "value": "sogoucdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "soso.com.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "sogou.com.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "adnet.sohu.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ads.sohu.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "adv-sv-show.focus.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "adv-sv-stat.focus.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "assp.sohu.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "bdu.focus.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "fpb.sohu.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "imp.go.sohu.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "m.aty.sohu.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "p.aty.sohu.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "pv.hd.sohu.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "pv.sohu.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "qpb.sohu.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "qpb1.sohu.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "reke.at.sohu.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "track.sohu.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "inte.sogou.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "inte.sogoucdn.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "lu.sogou.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "lu.sogoucdn.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "pb.i.sogou.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "theta.sogoucdn.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "uranus.sogou.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "wuliao.epro.sogou.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  }
+]

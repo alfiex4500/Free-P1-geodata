@@ -1,0 +1,50 @@
+[
+  {
+    "type": "Domain",
+    "value": "canonical.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ubuntu.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ubuntu.net"
+  },
+  {
+    "type": "Domain",
+    "value": "ubuntuforums.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ubuntu-touch.io"
+  },
+  {
+    "type": "Domain",
+    "value": "launchpad.net"
+  },
+  {
+    "type": "Domain",
+    "value": "launchpadcontent.net"
+  },
+  {
+    "type": "Domain",
+    "value": "launchpadlibrarian.com"
+  },
+  {
+    "type": "Domain",
+    "value": "launchpadlibrarian.net"
+  },
+  {
+    "type": "Domain",
+    "value": "launchpadlibrarian.org"
+  },
+  {
+    "type": "Domain",
+    "value": "snapcraft.io"
+  },
+  {
+    "type": "Domain",
+    "value": "snapstore.io"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "type": "Domain",
+    "value": "asus.com"
+  },
+  {
+    "type": "Domain",
+    "value": "asuscloud.com"
+  },
+  {
+    "type": "Domain",
+    "value": "asuswebstorage.com"
+  },
+  {
+    "type": "Domain",
+    "value": "asus.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

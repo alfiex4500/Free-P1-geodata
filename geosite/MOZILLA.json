@@ -1,0 +1,94 @@
+[
+  {
+    "type": "Full",
+    "value": "mdn.mozillademos.org"
+  },
+  {
+    "type": "Domain",
+    "value": "firefox.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mozilla.community"
+  },
+  {
+    "type": "Domain",
+    "value": "firefoxusercontent.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mdn.dev"
+  },
+  {
+    "type": "Domain",
+    "value": "mozilla.org"
+  },
+  {
+    "type": "Domain",
+    "value": "extensionworkshop.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bugzilla.org"
+  },
+  {
+    "type": "Domain",
+    "value": "getpocket.com"
+  },
+  {
+    "type": "Domain",
+    "value": "seamonkey-project.org"
+  },
+  {
+    "type": "Domain",
+    "value": "thunderbird.net"
+  },
+  {
+    "type": "Domain",
+    "value": "mozgcp.net"
+  },
+  {
+    "type": "Domain",
+    "value": "crates.io"
+  },
+  {
+    "type": "Domain",
+    "value": "docs.rs"
+  },
+  {
+    "type": "Domain",
+    "value": "mozilla.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mozilla.net"
+  },
+  {
+    "type": "Domain",
+    "value": "mdnplay.dev"
+  },
+  {
+    "type": "Domain",
+    "value": "mdnyalp.dev"
+  },
+  {
+    "type": "Domain",
+    "value": "rustup.rs"
+  },
+  {
+    "type": "Domain",
+    "value": "rust-lang.org"
+  },
+  {
+    "type": "Domain",
+    "value": "mdn.allizom.net"
+  },
+  {
+    "type": "Domain",
+    "value": "mdn.mozit.cloud"
+  },
+  {
+    "type": "Domain",
+    "value": "developer.allizom.org"
+  }
+]

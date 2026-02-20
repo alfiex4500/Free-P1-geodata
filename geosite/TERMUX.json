@@ -1,0 +1,14 @@
+[
+  {
+    "type": "Domain",
+    "value": "termux.com"
+  },
+  {
+    "type": "Domain",
+    "value": "termux.dev"
+  },
+  {
+    "type": "Domain",
+    "value": "termux.org"
+  }
+]

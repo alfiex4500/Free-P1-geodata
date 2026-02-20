@@ -1,0 +1,26 @@
+[
+  {
+    "type": "Full",
+    "value": "datarouter.apps.netherrealm.com"
+  },
+  {
+    "type": "Full",
+    "value": "wb-agora-hydra-file-storage-k1.s3.amazonaws.com"
+  },
+  {
+    "type": "Domain",
+    "value": "warnerbrosgames.com"
+  },
+  {
+    "type": "Domain",
+    "value": "wbagora.com"
+  },
+  {
+    "type": "Domain",
+    "value": "wbgames.com"
+  },
+  {
+    "type": "Domain",
+    "value": "wbinsights.com"
+  }
+]

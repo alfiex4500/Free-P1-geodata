@@ -1,0 +1,635 @@
+[
+  {
+    "type": "Full",
+    "value": "espn.api.edge.bamgrid.com"
+  },
+  {
+    "type": "Full",
+    "value": "espn.hb.omtrdc.net"
+  },
+  {
+    "type": "Full",
+    "value": "espndotcom.tt.omtrdc.net"
+  },
+  {
+    "type": "Domain",
+    "value": "thisispolaris.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bamgrid.com"
+  },
+  {
+    "type": "Domain",
+    "value": "disney.bg"
+  },
+  {
+    "type": "Domain",
+    "value": "disney.ca"
+  },
+  {
+    "type": "Domain",
+    "value": "disney.ch"
+  },
+  {
+    "type": "Domain",
+    "value": "watchespn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "espnqa.com"
+  },
+  {
+    "type": "Domain",
+    "value": "espncdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "espn.net"
+  },
+  {
+    "type": "Domain",
+    "value": "espn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dtci.technology"
+  },
+  {
+    "type": "Domain",
+    "value": "disney.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dtci.co"
+  },
+  {
+    "type": "Domain",
+    "value": "dmed.technology"
+  },
+  {
+    "type": "Domain",
+    "value": "edgedatg.com"
+  },
+  {
+    "type": "Domain",
+    "value": "disney.cz"
+  },
+  {
+    "type": "Domain",
+    "value": "disney.de"
+  },
+  {
+    "type": "Domain",
+    "value": "disney.dk"
+  },
+  {
+    "type": "Domain",
+    "value": "disney.es"
+  },
+  {
+    "type": "Domain",
+    "value": "disney.fi"
+  },
+  {
+    "type": "Domain",
+    "value": "disney.fr"
+  },
+  {
+    "type": "Domain",
+    "value": "disney.gr"
+  },
+  {
+    "type": "Domain",
+    "value": "disney.hu"
+  },
+  {
+    "type": "Domain",
+    "value": "disney.id"
+  },
+  {
+    "type": "Domain",
+    "value": "disney.in"
+  },
+  {
+    "type": "Domain",
+    "value": "disney.io"
+  },
+  {
+    "type": "Domain",
+    "value": "disney.it"
+  },
+  {
+    "type": "Domain",
+    "value": "disney.my"
+  },
+  {
+    "type": "Domain",
+    "value": "disney.nl"
+  },
+  {
+    "type": "Domain",
+    "value": "disney.no"
+  },
+  {
+    "type": "Domain",
+    "value": "disney.ph"
+  },
+  {
+    "type": "Domain",
+    "value": "disney.pl"
+  },
+  {
+    "type": "Domain",
+    "value": "disney.pt"
+  },
+  {
+    "type": "Domain",
+    "value": "disney.ro"
+  },
+  {
+    "type": "Domain",
+    "value": "disney.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "disney.se"
+  },
+  {
+    "type": "Domain",
+    "value": "disney.sg"
+  },
+  {
+    "type": "Domain",
+    "value": "abc.com"
+  },
+  {
+    "type": "Domain",
+    "value": "abc-studios.com"
+  },
+  {
+    "type": "Domain",
+    "value": "20thcenturystudios.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "adventuresbydisney.com"
+  },
+  {
+    "type": "Domain",
+    "value": "babble.com"
+  },
+  {
+    "type": "Domain",
+    "value": "babyzone.com"
+  },
+  {
+    "type": "Domain",
+    "value": "disneymagicmomentsme.com"
+  },
+  {
+    "type": "Domain",
+    "value": "starplus.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dilcdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "disney-asia.com"
+  },
+  {
+    "type": "Domain",
+    "value": "disney-discount.com"
+  },
+  {
+    "type": "Domain",
+    "value": "disney-plus.net"
+  },
+  {
+    "type": "Domain",
+    "value": "starott.com"
+  },
+  {
+    "type": "Domain",
+    "value": "disney-studio.com"
+  },
+  {
+    "type": "Domain",
+    "value": "disney-studio.net"
+  },
+  {
+    "type": "Domain",
+    "value": "disneyadsales.com"
+  },
+  {
+    "type": "Domain",
+    "value": "disneymagicmoments.pl"
+  },
+  {
+    "type": "Domain",
+    "value": "disneyaulani.com"
+  },
+  {
+    "type": "Domain",
+    "value": "disneybaby.com"
+  },
+  {
+    "type": "Domain",
+    "value": "disneycareers.com"
+  },
+  {
+    "type": "Domain",
+    "value": "disneychannelonstage.com"
+  },
+  {
+    "type": "Domain",
+    "value": "disneychannelroadtrip.com"
+  },
+  {
+    "type": "Domain",
+    "value": "disneycruisebrasil.com"
+  },
+  {
+    "type": "Domain",
+    "value": "disneyenconcert.com"
+  },
+  {
+    "type": "Domain",
+    "value": "disneyiejobs.com"
+  },
+  {
+    "type": "Domain",
+    "value": "disneyinflight.com"
+  },
+  {
+    "type": "Domain",
+    "value": "disneyinternational.com"
+  },
+  {
+    "type": "Domain",
+    "value": "disneyinternationalhd.com"
+  },
+  {
+    "type": "Domain",
+    "value": "disneyjunior.com"
+  },
+  {
+    "type": "Domain",
+    "value": "disneyjuniortreataday.com"
+  },
+  {
+    "type": "Domain",
+    "value": "disneylatino.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ngeo.com"
+  },
+  {
+    "type": "Domain",
+    "value": "nationalgeographicpartners.com"
+  },
+  {
+    "type": "Domain",
+    "value": "nationalgeographic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "disneymagicmoments.de"
+  },
+  {
+    "type": "Domain",
+    "value": "disneymagicmoments.es"
+  },
+  {
+    "type": "Domain",
+    "value": "disneymagicmoments.fr"
+  },
+  {
+    "type": "Domain",
+    "value": "natgeomaps.com"
+  },
+  {
+    "type": "Domain",
+    "value": "disneymagicmoments.gr"
+  },
+  {
+    "type": "Domain",
+    "value": "disneymagicmoments.it"
+  },
+  {
+    "type": "Domain",
+    "value": "disneyarena.com"
+  },
+  {
+    "type": "Domain",
+    "value": "disney.be"
+  },
+  {
+    "type": "Domain",
+    "value": "disneysrivieraresort.com"
+  },
+  {
+    "type": "Domain",
+    "value": "disneymeetingsandevents.com"
+  },
+  {
+    "type": "Domain",
+    "value": "disneymovieinsiders.com"
+  },
+  {
+    "type": "Domain",
+    "value": "disneymusicpromotion.com"
+  },
+  {
+    "type": "Domain",
+    "value": "disneynewseries.com"
+  },
+  {
+    "type": "Domain",
+    "value": "disneynow.com"
+  },
+  {
+    "type": "Domain",
+    "value": "disneypeoplesurveys.com"
+  },
+  {
+    "type": "Domain",
+    "value": "themarvelexperiencetour.com"
+  },
+  {
+    "type": "Domain",
+    "value": "disneyplus.com"
+  },
+  {
+    "type": "Domain",
+    "value": "marvelsuperwar.com"
+  },
+  {
+    "type": "Domain",
+    "value": "disneyredirects.com"
+  },
+  {
+    "type": "Domain",
+    "value": "disneyme.com"
+  },
+  {
+    "type": "Domain",
+    "value": "disneystore.com"
+  },
+  {
+    "type": "Domain",
+    "value": "disneystreaming.com"
+  },
+  {
+    "type": "Domain",
+    "value": "disneysubscription.com"
+  },
+  {
+    "type": "Domain",
+    "value": "marvelsuperheroseptember.com"
+  },
+  {
+    "type": "Domain",
+    "value": "marvelspotlightplays.com"
+  },
+  {
+    "type": "Domain",
+    "value": "disneytvajobs.com"
+  },
+  {
+    "type": "Domain",
+    "value": "disneyworld-go.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dssott.com"
+  },
+  {
+    "type": "Domain",
+    "value": "go-disneyworldgo.com"
+  },
+  {
+    "type": "Domain",
+    "value": "go.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mickey.tv"
+  },
+  {
+    "type": "Domain",
+    "value": "moviesanywhere.com"
+  },
+  {
+    "type": "Domain",
+    "value": "nomadlandmovie.ch"
+  },
+  {
+    "type": "Domain",
+    "value": "playmation.com"
+  },
+  {
+    "type": "Domain",
+    "value": "shopdisney.com"
+  },
+  {
+    "type": "Domain",
+    "value": "shops-disney.com"
+  },
+  {
+    "type": "Domain",
+    "value": "sorcerersarena.com"
+  },
+  {
+    "type": "Domain",
+    "value": "spaindisney.com"
+  },
+  {
+    "type": "Domain",
+    "value": "star-brasil.com"
+  },
+  {
+    "type": "Domain",
+    "value": "star-latam.com"
+  },
+  {
+    "type": "Domain",
+    "value": "starwars.com"
+  },
+  {
+    "type": "Domain",
+    "value": "starwarsgalacticstarcruiser.com"
+  },
+  {
+    "type": "Domain",
+    "value": "starwarskids.com"
+  },
+  {
+    "type": "Domain",
+    "value": "streamingdisney.net"
+  },
+  {
+    "type": "Domain",
+    "value": "thestationbymaker.com"
+  },
+  {
+    "type": "Domain",
+    "value": "disney.asia"
+  },
+  {
+    "type": "Domain",
+    "value": "watchdisneyfe.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hotstar.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hotstar-cdn.net"
+  },
+  {
+    "type": "Domain",
+    "value": "hotstar-labs.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hotstarext.com"
+  },
+  {
+    "type": "Domain",
+    "value": "marvelsdoubleagent.com"
+  },
+  {
+    "type": "Domain",
+    "value": "marvel.com"
+  },
+  {
+    "type": "Domain",
+    "value": "marvel10thanniversary.com"
+  },
+  {
+    "type": "Domain",
+    "value": "marveldimensionofheroes.com"
+  },
+  {
+    "type": "Domain",
+    "value": "marvelparty.net"
+  },
+  {
+    "type": "Domain",
+    "value": "marvelpinball.com"
+  },
+  {
+    "type": "Domain",
+    "value": "disney.co.za"
+  },
+  {
+    "type": "Domain",
+    "value": "disney.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "disneytickets.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "disney.co.il"
+  },
+  {
+    "type": "Domain",
+    "value": "disneyplus.bn5x.net"
+  },
+  {
+    "type": "Domain",
+    "value": "disneymagicmoments.gen.tr"
+  },
+  {
+    "type": "Domain",
+    "value": "disneymagicmoments.co.za"
+  },
+  {
+    "type": "Domain",
+    "value": "disneymagicmoments.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "disneymagicmoments.co.il"
+  },
+  {
+    "type": "Domain",
+    "value": "disneyturkiye.com.tr"
+  },
+  {
+    "type": "Domain",
+    "value": "20thcenturystudios.com.br"
+  },
+  {
+    "type": "Domain",
+    "value": "disney.co.kr"
+  },
+  {
+    "type": "Domain",
+    "value": "espn.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "disney.co.th"
+  },
+  {
+    "type": "Domain",
+    "value": "disney.com.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "beautyandthebeastmusical.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "20thcenturystudios.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "disney.com.tw"
+  },
+  {
+    "type": "Domain",
+    "value": "disney.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "disney.com.br"
+  },
+  {
+    "type": "Domain",
+    "value": "disney.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "hsprepack.akamaized.net"
+  },
+  {
+    "type": "Domain",
+    "value": "disney-portal.my.onetrust.com"
+  },
+  {
+    "type": "Domain",
+    "value": "disneyplus.com.ssl.sc.omtrdc.net"
+  },
+  {
+    "type": "Regex",
+    "value": "^hses[1-7]?\\.akamaized\\.net$"
+  },
+  {
+    "type": "Full",
+    "value": "disney.my.sentry.io",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  }
+]

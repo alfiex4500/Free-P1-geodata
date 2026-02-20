@@ -1,0 +1,109 @@
+[
+  {
+    "type": "Domain",
+    "value": "microsoftnews.cc"
+  },
+  {
+    "type": "Domain",
+    "value": "microsoftnews.com"
+  },
+  {
+    "type": "Domain",
+    "value": "microsoftnews.net"
+  },
+  {
+    "type": "Domain",
+    "value": "microsoftnews.org"
+  },
+  {
+    "type": "Domain",
+    "value": "microsoftnewsforkids.com"
+  },
+  {
+    "type": "Domain",
+    "value": "microsoftnewsforkids.net"
+  },
+  {
+    "type": "Domain",
+    "value": "microsoftnewsforkids.org"
+  },
+  {
+    "type": "Domain",
+    "value": "microsoftnewskids.com"
+  },
+  {
+    "type": "Domain",
+    "value": "microsoftnewskids.net"
+  },
+  {
+    "type": "Domain",
+    "value": "microsoftnewskids.org"
+  },
+  {
+    "type": "Domain",
+    "value": "msn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "msnewskids.com"
+  },
+  {
+    "type": "Domain",
+    "value": "msnewskids.net"
+  },
+  {
+    "type": "Domain",
+    "value": "msnewskids.org"
+  },
+  {
+    "type": "Domain",
+    "value": "msnkids.com"
+  },
+  {
+    "type": "Domain",
+    "value": "microsoftstart.com"
+  },
+  {
+    "type": "Domain",
+    "value": "start.com"
+  },
+  {
+    "type": "Domain",
+    "value": "microsoftnews.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "msn.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "browser.events.data.msn.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      },
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "browser.events.data.msn.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  }
+]

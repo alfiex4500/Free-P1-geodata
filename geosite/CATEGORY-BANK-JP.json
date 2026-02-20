@@ -1,0 +1,338 @@
+[
+  {
+    "type": "Domain",
+    "value": "a-bank.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "smtb.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "sonybank.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "114bank.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "77bank.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "82bank.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "akita-bank.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "aozorabank.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "ashikagabank.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "awabank.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "bk.mufg.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "boj.or.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "chibabank.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "chibakogyo-bank.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "chikubank.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "chugokubank.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "citibank.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "daiichibank.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "fukuibank.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "fukuokabank.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "gunmabank.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "higobank.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "hiroshimabank.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "hokkoku.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "hokuetsubank.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "hokutobank.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "hokuyobank.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "hyakugo.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "ikedashinsen.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "iwatebank.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "iyobank.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "jfc.go.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "jibunbank.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "joyobank.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "jp-bank.japanpost.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "juhachibank.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "juroku.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "kagobank.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "kinki.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "kitakyushubank.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "kiyobank.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "kyotobank.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "michinokubank.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "mie.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "miyazakibank.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "mizuhobank.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "musashinobank.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "nantobank.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "nishinipponbank.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "nochubank.or.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "ogakikyoritsu.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "oitabank.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "okinawabank.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "paypay-bank.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "rakuten-bank.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "resonabank.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "ryukyubank.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "sagabank.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "saitama-resona.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "saninbank.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "sbishinseibank.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "sevenbank.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "shigagin.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "shikokubank.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "shimizubank.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "shinwabank.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "shizuokabank.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "shokochukin.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "shonai.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "smbc.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "smbctb.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "surugabank.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "tajimabank.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "tochigibank.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "tohobank.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "tohoku-bank.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "tomibank.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "tottoribank.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "toyobank.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "tsukubabank.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "yamagatabank.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "yamaguchibank.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "yamanashibank.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "yokohamabank.co.jp"
+  }
+]

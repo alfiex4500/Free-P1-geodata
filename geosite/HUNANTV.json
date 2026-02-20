@@ -1,0 +1,84 @@
+[
+  {
+    "type": "Domain",
+    "value": "hifuntv.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hitv.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hnbntv.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hunaniptv.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hunantv.com"
+  },
+  {
+    "type": "Domain",
+    "value": "imgo.tv"
+  },
+  {
+    "type": "Domain",
+    "value": "mgtv.com"
+  },
+  {
+    "type": "Domain",
+    "value": "click.hunantv.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "da.hunantv.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "da.mgtv.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "log.hunantv.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "log.v2.hunantv.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "res.hunantv.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  }
+]

@@ -1,0 +1,281 @@
+[
+  {
+    "type": "Full",
+    "value": "www.speedtest.net.cdn.cloudflare.net"
+  },
+  {
+    "type": "Domain",
+    "value": "ooklaserver.net"
+  },
+  {
+    "type": "Domain",
+    "value": "speedtest.im"
+  },
+  {
+    "type": "Domain",
+    "value": "testmy.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cdnst.net"
+  },
+  {
+    "type": "Domain",
+    "value": "openspeedtest.com"
+  },
+  {
+    "type": "Domain",
+    "value": "webtest.net"
+  },
+  {
+    "type": "Domain",
+    "value": "speedtestcustom.com"
+  },
+  {
+    "type": "Domain",
+    "value": "measurementlab.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cellmaps.com"
+  },
+  {
+    "type": "Domain",
+    "value": "fast.com"
+  },
+  {
+    "type": "Domain",
+    "value": "speedtest.co"
+  },
+  {
+    "type": "Domain",
+    "value": "nperf.com"
+  },
+  {
+    "type": "Domain",
+    "value": "pingtest.net"
+  },
+  {
+    "type": "Domain",
+    "value": "speedtest.net"
+  },
+  {
+    "type": "Domain",
+    "value": "ekahau.cloud"
+  },
+  {
+    "type": "Domain",
+    "value": "ekahau.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ookla.com"
+  },
+  {
+    "type": "Domain",
+    "value": "speed2.hinet.net"
+  },
+  {
+    "type": "Domain",
+    "value": "open.cachefly.net"
+  },
+  {
+    "type": "Domain",
+    "value": "speedtest.xfinity.com"
+  },
+  {
+    "type": "Domain",
+    "value": "speed.hinet.net"
+  },
+  {
+    "type": "Domain",
+    "value": "speed.dler.io"
+  },
+  {
+    "type": "Domain",
+    "value": "speed.cloudflare.com"
+  },
+  {
+    "type": "Domain",
+    "value": "speed5.ntu.edu.tw"
+  },
+  {
+    "type": "Domain",
+    "value": "speed.nccu.edu.tw"
+  },
+  {
+    "type": "Domain",
+    "value": "ookla-speedtest-central.hgconair.hgc.com.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "cnspeedtest.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "speed.neu6.edu.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "speed.nuaa.edu.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "speed.qlu.edu.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "speed.ujs.edu.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "speed6.ujs.edu.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "speedtest.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "speedtest.mfcyun.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "speedtest.shu.edu.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "speedtest6.shu.edu.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "speedtest.xaut.edu.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "test.ustc.edu.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "test6.ustc.edu.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "test.nju.edu.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "test6.nju.edu.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "speed.nju.edu.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "xnfz.seu.edu.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "hk-global-bgp.hkg.speedtest.yecaoyun.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Regex",
+    "value": "^speed\\.(coe|open)\\.ad\\.[a-z]{2,6}\\.prod\\.hosts\\.ooklaserver\\.net$",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  }
+]

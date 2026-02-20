@@ -1,0 +1,18 @@
+[
+  {
+    "type": "Domain",
+    "value": "ubuntu.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ubuntu.net"
+  },
+  {
+    "type": "Domain",
+    "value": "ubuntuforums.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ubuntu-touch.io"
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "type": "Domain",
+    "value": "9to5toys.com"
+  },
+  {
+    "type": "Domain",
+    "value": "spaceexplored.com"
+  },
+  {
+    "type": "Domain",
+    "value": "appleinsider.com"
+  },
+  {
+    "type": "Domain",
+    "value": "digitaltrends.com"
+  },
+  {
+    "type": "Domain",
+    "value": "engadget.com"
+  },
+  {
+    "type": "Domain",
+    "value": "macrumors.com"
+  },
+  {
+    "type": "Domain",
+    "value": "slashdot.org"
+  },
+  {
+    "type": "Domain",
+    "value": "technews.tw"
+  },
+  {
+    "type": "Domain",
+    "value": "techradar.com"
+  },
+  {
+    "type": "Domain",
+    "value": "theverge.com"
+  },
+  {
+    "type": "Domain",
+    "value": "typeisbeautiful.com"
+  },
+  {
+    "type": "Domain",
+    "value": "androidpolice.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ycombinator.com"
+  },
+  {
+    "type": "Domain",
+    "value": "startupschool.org"
+  },
+  {
+    "type": "Domain",
+    "value": "tomsguide.com"
+  },
+  {
+    "type": "Domain",
+    "value": "9to5google.com"
+  },
+  {
+    "type": "Domain",
+    "value": "9to5mac.com"
+  },
+  {
+    "type": "Domain",
+    "value": "9to5terminal.com"
+  },
+  {
+    "type": "Domain",
+    "value": "androidauthority.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dronedj.com"
+  },
+  {
+    "type": "Domain",
+    "value": "electrek.co"
+  },
+  {
+    "type": "Domain",
+    "value": "zdnet.com"
+  },
+  {
+    "type": "Domain",
+    "value": "thetype.com"
+  },
+  {
+    "type": "Domain",
+    "value": "zdnet.redvideo.io"
+  },
+  {
+    "type": "Domain",
+    "value": "thetype.cloud",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

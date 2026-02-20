@@ -1,0 +1,14 @@
+[
+  {
+    "type": "Domain",
+    "value": "botstop.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hcaptcha.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hcaptchastatus.com"
+  }
+]

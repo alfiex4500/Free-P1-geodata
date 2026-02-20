@@ -1,0 +1,118 @@
+[
+  {
+    "type": "Domain",
+    "value": "chrome"
+  },
+  {
+    "type": "Domain",
+    "value": "librewolf.net"
+  },
+  {
+    "type": "Domain",
+    "value": "firefox.com"
+  },
+  {
+    "type": "Domain",
+    "value": "basilisk-browser.org"
+  },
+  {
+    "type": "Domain",
+    "value": "brave.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bromite.org"
+  },
+  {
+    "type": "Domain",
+    "value": "kmeleonbrowser.org"
+  },
+  {
+    "type": "Domain",
+    "value": "cromite.org"
+  },
+  {
+    "type": "Domain",
+    "value": "decentr.net"
+  },
+  {
+    "type": "Domain",
+    "value": "dothq.org"
+  },
+  {
+    "type": "Domain",
+    "value": "floorp.app"
+  },
+  {
+    "type": "Domain",
+    "value": "iridiumbrowser.de"
+  },
+  {
+    "type": "Domain",
+    "value": "kiwibrowser.com"
+  },
+  {
+    "type": "Domain",
+    "value": "torproject.org"
+  },
+  {
+    "type": "Domain",
+    "value": "chromium.org"
+  },
+  {
+    "type": "Domain",
+    "value": "pulsebrowser.app"
+  },
+  {
+    "type": "Domain",
+    "value": "netsurf-browser.org"
+  },
+  {
+    "type": "Domain",
+    "value": "opera.com"
+  },
+  {
+    "type": "Domain",
+    "value": "palemoon.org"
+  },
+  {
+    "type": "Domain",
+    "value": "minbrowser.org"
+  },
+  {
+    "type": "Domain",
+    "value": "qutebrowser.org"
+  },
+  {
+    "type": "Domain",
+    "value": "vivaldi.com"
+  },
+  {
+    "type": "Domain",
+    "value": "waterfox.net"
+  },
+  {
+    "type": "Domain",
+    "value": "zen-browser.app"
+  },
+  {
+    "type": "Domain",
+    "value": "censorship.no"
+  },
+  {
+    "type": "Domain",
+    "value": "epicbrowser.com"
+  },
+  {
+    "type": "Domain",
+    "value": "chrome.com"
+  },
+  {
+    "type": "Domain",
+    "value": "firefoxusercontent.com"
+  },
+  {
+    "type": "Domain",
+    "value": "browser.kagi.com"
+  }
+]

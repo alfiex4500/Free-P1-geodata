@@ -1,0 +1,63 @@
+[
+  {
+    "type": "Domain",
+    "value": "bilicdn1.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bilicdn2.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bilicdn3.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bilicdn4.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bilicdn5.com"
+  },
+  {
+    "type": "Domain",
+    "value": "biliimg.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bilivideo.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "bilivideo.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bilivideo.net"
+  },
+  {
+    "type": "Domain",
+    "value": "hdslb.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hdslb.org"
+  },
+  {
+    "type": "Domain",
+    "value": "maoercdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mincdn.com"
+  },
+  {
+    "type": "Full",
+    "value": "upos-hz-mirrorakam.akamaized.net",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

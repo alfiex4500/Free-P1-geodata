@@ -1,0 +1,63 @@
+[
+  {
+    "type": "Domain",
+    "value": "ifastgp.com"
+  },
+  {
+    "type": "Domain",
+    "value": "fundsupermart.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ifastcorp.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ifastgb.com"
+  },
+  {
+    "type": "Domain",
+    "value": "fsmone.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ifastnetwork.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ifasttv.com"
+  },
+  {
+    "type": "Domain",
+    "value": "fsmone.com.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "fsmone.com.my"
+  },
+  {
+    "type": "Domain",
+    "value": "ifastcapital.com.my"
+  },
+  {
+    "type": "Domain",
+    "value": "ifastfinancial.com.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "ifastfinancial.co.in"
+  },
+  {
+    "type": "Domain",
+    "value": "ifastgp.com.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "ifastps.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

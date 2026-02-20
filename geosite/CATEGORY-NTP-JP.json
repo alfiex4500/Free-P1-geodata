@@ -1,0 +1,114 @@
+[
+  {
+    "type": "Domain",
+    "value": "ntp.nict.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "ntp2.wakwak.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ntp1.wakwak.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ntp2.ring.gr.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "ntp-tk01.ocn.ad.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "ntp1.tohoku.ac.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "ntp.tohoku.ac.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "ats1.e-timing.ne.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "ntp1.ring.gr.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "ntp.tut.ac.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "ntp2.tohoku.ac.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "ntp-tk02.ocn.ad.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "ntp-os01.ocn.ad.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "ntp1.plala.or.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "ntp2.plala.or.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "ntp.ring.gr.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "ntp0.ring.gr.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "ntp3.v6.mfeed.ad.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "s2csntp.miz.nao.ac.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "ntp.t.ring.gr.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "ntp.dnsbalance.ring.gr.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "ntp.nc.u-tokyo.ac.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "ntp2.v6.mfeed.ad.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "ntp1.v6.mfeed.ad.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "ntp3.jst.mfeed.ad.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "ntp2.jst.mfeed.ad.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "ntp1.jst.mfeed.ad.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "ntp.jst.mfeed.ad.jp"
+  }
+]

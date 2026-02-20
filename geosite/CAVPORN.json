@@ -1,0 +1,14 @@
+[
+  {
+    "type": "Domain",
+    "value": "cavporn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cavporn.github.io"
+  },
+  {
+    "type": "Regex",
+    "value": "(^|\\.)cav1(0[2-9]|1[0-9])\\.com$"
+  }
+]

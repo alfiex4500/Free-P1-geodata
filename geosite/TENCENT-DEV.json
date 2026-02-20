@@ -1,0 +1,67 @@
+[
+  {
+    "type": "Domain",
+    "value": "openmidas.com"
+  },
+  {
+    "type": "Domain",
+    "value": "qq.design"
+  },
+  {
+    "type": "Domain",
+    "value": "qqgamedesign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "tencent-cloud.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "tencent-cloud.com"
+  },
+  {
+    "type": "Domain",
+    "value": "tencent.design"
+  },
+  {
+    "type": "Domain",
+    "value": "tencentcloud.com"
+  },
+  {
+    "type": "Domain",
+    "value": "tjstats.com"
+  },
+  {
+    "type": "Domain",
+    "value": "wegamedeveloper.com"
+  },
+  {
+    "type": "Domain",
+    "value": "weixinbridge.com"
+  },
+  {
+    "type": "Domain",
+    "value": "weui.io"
+  },
+  {
+    "type": "Domain",
+    "value": "cnb.cool"
+  },
+  {
+    "type": "Domain",
+    "value": "coding.me"
+  },
+  {
+    "type": "Domain",
+    "value": "coding.net"
+  },
+  {
+    "type": "Domain",
+    "value": "badjs.weixinbridge.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  }
+]

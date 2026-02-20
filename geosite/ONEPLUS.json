@@ -1,0 +1,39 @@
+[
+  {
+    "type": "Domain",
+    "value": "oneplus.com"
+  },
+  {
+    "type": "Domain",
+    "value": "oneplus.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "oneplus.net"
+  },
+  {
+    "type": "Domain",
+    "value": "opstatics.com"
+  },
+  {
+    "type": "Domain",
+    "value": "oneplusbbs.com"
+  },
+  {
+    "type": "Domain",
+    "value": "oneplusmobile.com"
+  },
+  {
+    "type": "Domain",
+    "value": "h2os.com"
+  },
+  {
+    "type": "Full",
+    "value": "community.oneplus.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

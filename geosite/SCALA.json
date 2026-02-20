@@ -1,0 +1,10 @@
+[
+  {
+    "type": "Domain",
+    "value": "scala-lang.org"
+  },
+  {
+    "type": "Domain",
+    "value": "scala-sbt.org"
+  }
+]

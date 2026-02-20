@@ -1,0 +1,598 @@
+[
+  {
+    "type": "Domain",
+    "value": "aigc-cloud.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bdegnine.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bplslb.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bpltm.com"
+  },
+  {
+    "type": "Domain",
+    "value": "byte-dns.com"
+  },
+  {
+    "type": "Domain",
+    "value": "byte-dns.net"
+  },
+  {
+    "type": "Domain",
+    "value": "bytehouse.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "byteinspire.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "byteinspire.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bytevdn-boe.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bytevdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cache4ever.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cache666.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cloudendpoint.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "douyincloud.net"
+  },
+  {
+    "type": "Domain",
+    "value": "douyincloud.run"
+  },
+  {
+    "type": "Domain",
+    "value": "dycloudbk.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dycloud.run"
+  },
+  {
+    "type": "Domain",
+    "value": "emr-volces.com"
+  },
+  {
+    "type": "Domain",
+    "value": "feilian.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "iccvlog.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ifeilian.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "ifeilian.com"
+  },
+  {
+    "type": "Domain",
+    "value": "inspirecloud.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "inspirecloud.com"
+  },
+  {
+    "type": "Domain",
+    "value": "isealsuite.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ivolces.com"
+  },
+  {
+    "type": "Domain",
+    "value": "kfcbest.com"
+  },
+  {
+    "type": "Domain",
+    "value": "kych5.com"
+  },
+  {
+    "type": "Domain",
+    "value": "multilingual-volc.com"
+  },
+  {
+    "type": "Domain",
+    "value": "qingfuwuapi.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "qingfuwucdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "qingfuwu.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "qingfuwu.com"
+  },
+  {
+    "type": "Domain",
+    "value": "slbauto.com"
+  },
+  {
+    "type": "Domain",
+    "value": "sms18.com"
+  },
+  {
+    "type": "Domain",
+    "value": "toutiaopanapi.com"
+  },
+  {
+    "type": "Domain",
+    "value": "toutiaopan.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ttgslb.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ttgtm.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vecdnlb.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vecloudgame.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vedcdnlb.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vedsalb.com"
+  },
+  {
+    "type": "Domain",
+    "value": "veefdev.com"
+  },
+  {
+    "type": "Domain",
+    "value": "veew-alb-cn1.com"
+  },
+  {
+    "type": "Domain",
+    "value": "veew-alb-cn2.com"
+  },
+  {
+    "type": "Domain",
+    "value": "veew-alb-ts.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vegalb.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vegslb.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vegtm.net"
+  },
+  {
+    "type": "Domain",
+    "value": "veicplive.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ve-imcloud.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vemarsdev.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vemarsstatic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vemarsweb.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vertciot.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vestack.cloud"
+  },
+  {
+    "type": "Domain",
+    "value": "ve-trafficroute.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ve-trafficroute.net"
+  },
+  {
+    "type": "Domain",
+    "value": "volcadocean.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcadvc.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcalb.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcautovod.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcbiz.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcca.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "volcca.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcca.net"
+  },
+  {
+    "type": "Domain",
+    "value": "volccdn1.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volccdn2.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volccdn.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "volccdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcddos001.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcddos.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcdem.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcdlspace.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "volcdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volc-dns.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcdns.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volc-dns.net"
+  },
+  {
+    "type": "Domain",
+    "value": "volc-dns.pub"
+  },
+  {
+    "type": "Domain",
+    "value": "volcdns.pub"
+  },
+  {
+    "type": "Domain",
+    "value": "volceapi.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volceapplog.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcecr.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcecw.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volc-embed.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcenginapi.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcenginealb.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcengineapi.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcengine.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "volcengine.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcengine-dns.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcenginedns.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcengine-dns.net"
+  },
+  {
+    "type": "Domain",
+    "value": "volcenginedns.net"
+  },
+  {
+    "type": "Domain",
+    "value": "volcengine.net"
+  },
+  {
+    "type": "Domain",
+    "value": "volcenginepaas.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volces.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcfake.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcfcdnbyte.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcfcdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcfcdndvs.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcfcdndvs1.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcfcdnplus.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcfcdnrd.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcfcdnsc.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcfxgjrtm.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcgroup.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcgslb-mlt.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcgslb.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcgtm.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volciad.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcimagex.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "volcimagex.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcimagex.net"
+  },
+  {
+    "type": "Domain",
+    "value": "volcimagextest.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcmagicpage.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcmcdn1.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcmcdn2.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcmcdn3.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcmcdn4.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcmgs.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcmusecdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcocic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcopjrtm.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcpartner.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcpartner.net"
+  },
+  {
+    "type": "Domain",
+    "value": "volcsiriusbd.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcsirius.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcspaceeduc.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volctracer.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volctrack.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volctraffic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volctranscdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcvideo.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcvideos.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcvms.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcvod.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcwaf001.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcwaf.com"
+  },
+  {
+    "type": "Domain",
+    "value": "writingo-editor.com"
+  },
+  {
+    "type": "Domain",
+    "value": "writingo.net"
+  },
+  {
+    "type": "Domain",
+    "value": "ytxptd.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "ytxptz.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "zebracdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "zjytxd.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "zjytxp.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "zvip.cn"
+  }
+]

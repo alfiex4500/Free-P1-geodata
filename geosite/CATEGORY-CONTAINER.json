@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Domain",
+    "value": "azurecr.io"
+  },
+  {
+    "type": "Domain",
+    "value": "docker.io"
+  },
+  {
+    "type": "Domain",
+    "value": "ecr.aws"
+  },
+  {
+    "type": "Domain",
+    "value": "gcr.io"
+  },
+  {
+    "type": "Domain",
+    "value": "ghcr.io"
+  },
+  {
+    "type": "Domain",
+    "value": "quay.io"
+  },
+  {
+    "type": "Domain",
+    "value": "mcr.microsoft.com"
+  },
+  {
+    "type": "Domain",
+    "value": "registry.gitlab.com"
+  },
+  {
+    "type": "Domain",
+    "value": "registry.k8s.io"
+  },
+  {
+    "type": "Regex",
+    "value": ".+\\.dkr\\.ecr\\.[^\\.]+\\.amazonaws\\.com$"
+  }
+]

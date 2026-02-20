@@ -1,0 +1,103 @@
+[
+  {
+    "type": "Domain",
+    "value": "twitter.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "x.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cms-twdigitalassets.com"
+  },
+  {
+    "type": "Domain",
+    "value": "t.co"
+  },
+  {
+    "type": "Domain",
+    "value": "tellapart.com"
+  },
+  {
+    "type": "Domain",
+    "value": "tweetdeck.com"
+  },
+  {
+    "type": "Domain",
+    "value": "twimg.com"
+  },
+  {
+    "type": "Domain",
+    "value": "twitpic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "twitter.biz"
+  },
+  {
+    "type": "Domain",
+    "value": "twittercommunity.com"
+  },
+  {
+    "type": "Domain",
+    "value": "pscp.tv"
+  },
+  {
+    "type": "Domain",
+    "value": "periscope.tv"
+  },
+  {
+    "type": "Domain",
+    "value": "twitter.com"
+  },
+  {
+    "type": "Domain",
+    "value": "twitterflightschool.com"
+  },
+  {
+    "type": "Domain",
+    "value": "twitterinc.com"
+  },
+  {
+    "type": "Domain",
+    "value": "twitteroauth.com"
+  },
+  {
+    "type": "Domain",
+    "value": "twitterstat.us"
+  },
+  {
+    "type": "Domain",
+    "value": "twtrdns.net"
+  },
+  {
+    "type": "Domain",
+    "value": "twttr.com"
+  },
+  {
+    "type": "Domain",
+    "value": "twttr.net"
+  },
+  {
+    "type": "Domain",
+    "value": "twvid.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vine.co"
+  },
+  {
+    "type": "Domain",
+    "value": "twitter.map.fastly.net"
+  },
+  {
+    "type": "Domain",
+    "value": "ads-twitter.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  }
+]

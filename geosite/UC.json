@@ -1,0 +1,36 @@
+[
+  {
+    "type": "Domain",
+    "value": "uc.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "uc123.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ucweb.com"
+  },
+  {
+    "type": "Domain",
+    "value": "uczzd.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "ads.uc.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "adslot.uc.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "type": "Domain",
+    "value": "appleswift.com"
+  },
+  {
+    "type": "Domain",
+    "value": "swift.org"
+  },
+  {
+    "type": "Domain",
+    "value": "swiftui.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "swiftui.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "type": "Domain",
+    "value": "bazar"
+  },
+  {
+    "type": "Domain",
+    "value": "bbs"
+  },
+  {
+    "type": "Domain",
+    "value": "chan"
+  },
+  {
+    "type": "Domain",
+    "value": "coin"
+  },
+  {
+    "type": "Domain",
+    "value": "cyb"
+  },
+  {
+    "type": "Domain",
+    "value": "dyn"
+  },
+  {
+    "type": "Domain",
+    "value": "emc"
+  },
+  {
+    "type": "Domain",
+    "value": "epic"
+  },
+  {
+    "type": "Domain",
+    "value": "free"
+  },
+  {
+    "type": "Domain",
+    "value": "fur"
+  },
+  {
+    "type": "Domain",
+    "value": "geek"
+  },
+  {
+    "type": "Domain",
+    "value": "gopher"
+  },
+  {
+    "type": "Domain",
+    "value": "indy"
+  },
+  {
+    "type": "Domain",
+    "value": "ko"
+  },
+  {
+    "type": "Domain",
+    "value": "ku"
+  },
+  {
+    "type": "Domain",
+    "value": "lib"
+  },
+  {
+    "type": "Domain",
+    "value": "libre"
+  },
+  {
+    "type": "Domain",
+    "value": "neo"
+  },
+  {
+    "type": "Domain",
+    "value": "null"
+  },
+  {
+    "type": "Domain",
+    "value": "o"
+  },
+  {
+    "type": "Domain",
+    "value": "oss"
+  },
+  {
+    "type": "Domain",
+    "value": "oz"
+  },
+  {
+    "type": "Domain",
+    "value": "parody"
+  },
+  {
+    "type": "Domain",
+    "value": "pirate"
+  },
+  {
+    "type": "Domain",
+    "value": "rm"
+  },
+  {
+    "type": "Domain",
+    "value": "te"
+  },
+  {
+    "type": "Domain",
+    "value": "ti"
+  },
+  {
+    "type": "Domain",
+    "value": "uu"
+  }
+]

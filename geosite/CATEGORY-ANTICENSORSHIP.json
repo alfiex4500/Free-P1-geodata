@@ -1,0 +1,382 @@
+[
+  {
+    "type": "Domain",
+    "value": "citizenlab.ca"
+  },
+  {
+    "type": "Domain",
+    "value": "ntc.party"
+  },
+  {
+    "type": "Domain",
+    "value": "browserleaks.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bypasscensorship.org"
+  },
+  {
+    "type": "Domain",
+    "value": "censorship.ai"
+  },
+  {
+    "type": "Domain",
+    "value": "dat.foundation"
+  },
+  {
+    "type": "Domain",
+    "value": "democracy.earth"
+  },
+  {
+    "type": "Domain",
+    "value": "eff.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ffprofile.com"
+  },
+  {
+    "type": "Domain",
+    "value": "freenetproject.org"
+  },
+  {
+    "type": "Domain",
+    "value": "fteproxy.org"
+  },
+  {
+    "type": "Domain",
+    "value": "geti2p.net"
+  },
+  {
+    "type": "Domain",
+    "value": "getoutline.org"
+  },
+  {
+    "type": "Domain",
+    "value": "gfw.report"
+  },
+  {
+    "type": "Domain",
+    "value": "guardianproject.info"
+  },
+  {
+    "type": "Domain",
+    "value": "hiddify.com"
+  },
+  {
+    "type": "Domain",
+    "value": "jitsi.org"
+  },
+  {
+    "type": "Domain",
+    "value": "lokinet.org"
+  },
+  {
+    "type": "Domain",
+    "value": "citizenlab.org"
+  },
+  {
+    "type": "Domain",
+    "value": "onionshare.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ooni.org"
+  },
+  {
+    "type": "Domain",
+    "value": "openvpn.net"
+  },
+  {
+    "type": "Domain",
+    "value": "privacytools.io"
+  },
+  {
+    "type": "Domain",
+    "value": "proxifier.com"
+  },
+  {
+    "type": "Domain",
+    "value": "psiphon.ca"
+  },
+  {
+    "type": "Domain",
+    "value": "psiphon3.com"
+  },
+  {
+    "type": "Domain",
+    "value": "sagernet.org"
+  },
+  {
+    "type": "Domain",
+    "value": "sing-box.app"
+  },
+  {
+    "type": "Domain",
+    "value": "shadowsocks.org"
+  },
+  {
+    "type": "Domain",
+    "value": "sspanel.net"
+  },
+  {
+    "type": "Domain",
+    "value": "stunnel.org"
+  },
+  {
+    "type": "Domain",
+    "value": "telex.cc"
+  },
+  {
+    "type": "Domain",
+    "value": "tribler.org"
+  },
+  {
+    "type": "Domain",
+    "value": "tunsafe.com"
+  },
+  {
+    "type": "Domain",
+    "value": "turkeyblocks.org"
+  },
+  {
+    "type": "Domain",
+    "value": "uproxy.org"
+  },
+  {
+    "type": "Domain",
+    "value": "vpnrouter.homes"
+  },
+  {
+    "type": "Domain",
+    "value": "vuvuzela.io"
+  },
+  {
+    "type": "Domain",
+    "value": "whonix.org"
+  },
+  {
+    "type": "Domain",
+    "value": "wikileaks.org"
+  },
+  {
+    "type": "Domain",
+    "value": "wireguard.com"
+  },
+  {
+    "type": "Domain",
+    "value": "zeronet.io"
+  },
+  {
+    "type": "Domain",
+    "value": "metacubex.one"
+  },
+  {
+    "type": "Domain",
+    "value": "haveibeenpwned.com"
+  },
+  {
+    "type": "Domain",
+    "value": "pwnedpasswords.com"
+  },
+  {
+    "type": "Domain",
+    "value": "torproject.org"
+  },
+  {
+    "type": "Domain",
+    "value": "softether.org"
+  },
+  {
+    "type": "Domain",
+    "value": "akasha.world"
+  },
+  {
+    "type": "Domain",
+    "value": "pao-pao.net"
+  },
+  {
+    "type": "Domain",
+    "value": "applecensorship.com"
+  },
+  {
+    "type": "Domain",
+    "value": "freebrowser.org"
+  },
+  {
+    "type": "Domain",
+    "value": "freewechat.com"
+  },
+  {
+    "type": "Domain",
+    "value": "freeweibo.com"
+  },
+  {
+    "type": "Domain",
+    "value": "freezhihu.org"
+  },
+  {
+    "type": "Domain",
+    "value": "googlecensorship.org"
+  },
+  {
+    "type": "Domain",
+    "value": "greatfire.org"
+  },
+  {
+    "type": "Domain",
+    "value": "greatfirevpn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "epicbrowser.com"
+  },
+  {
+    "type": "Domain",
+    "value": "wikiunblocked.org"
+  },
+  {
+    "type": "Domain",
+    "value": "paskoocheh.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ahmia.fi"
+  },
+  {
+    "type": "Domain",
+    "value": "softether-download.com"
+  },
+  {
+    "type": "Domain",
+    "value": "v2ray.com"
+  },
+  {
+    "type": "Domain",
+    "value": "v2ray.cool"
+  },
+  {
+    "type": "Domain",
+    "value": "v2fly.org"
+  },
+  {
+    "type": "Domain",
+    "value": "opengw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "vpngate.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "vpngate.net"
+  },
+  {
+    "type": "Domain",
+    "value": "ipns.co"
+  },
+  {
+    "type": "Domain",
+    "value": "ipfs.tech"
+  },
+  {
+    "type": "Domain",
+    "value": "cloudflare-ipfs.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cf-ipfs.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ipfs.io"
+  },
+  {
+    "type": "Domain",
+    "value": "ipfs-gateway.cloud"
+  },
+  {
+    "type": "Domain",
+    "value": "c4rex.co"
+  },
+  {
+    "type": "Domain",
+    "value": "via0.com"
+  },
+  {
+    "type": "Domain",
+    "value": "nftstorage.link"
+  },
+  {
+    "type": "Domain",
+    "value": "jorropo.net"
+  },
+  {
+    "type": "Domain",
+    "value": "crustwebsites.net"
+  },
+  {
+    "type": "Domain",
+    "value": "4everland.io"
+  },
+  {
+    "type": "Domain",
+    "value": "dweb.link"
+  },
+  {
+    "type": "Domain",
+    "value": "censorship.no"
+  },
+  {
+    "type": "Domain",
+    "value": "lantern.io"
+  },
+  {
+    "type": "Domain",
+    "value": "getlantern.org"
+  },
+  {
+    "type": "Domain",
+    "value": "trojan-gfw.github.io"
+  },
+  {
+    "type": "Domain",
+    "value": "ipfs.anonymize.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ipfs.runfission.com"
+  },
+  {
+    "type": "Domain",
+    "value": "gateway.pinata.cloud"
+  },
+  {
+    "type": "Domain",
+    "value": "ipfs.eternum.io"
+  },
+  {
+    "type": "Domain",
+    "value": "ipfs.best-practice.se"
+  },
+  {
+    "type": "Domain",
+    "value": "ipfs.lain.la"
+  },
+  {
+    "type": "Domain",
+    "value": "ipfs.fleek.co"
+  },
+  {
+    "type": "Domain",
+    "value": "xtls.github.io"
+  },
+  {
+    "type": "Domain",
+    "value": "twister.net.co"
+  },
+  {
+    "type": "Domain",
+    "value": "ipfs.eth.aragon.network"
+  }
+]

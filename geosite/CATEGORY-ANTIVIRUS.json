@@ -1,0 +1,1156 @@
+[
+  {
+    "type": "Full",
+    "value": "eset-prod-ca48648d0ce7cadf.elb.eu-central-1.amazonaws.com"
+  },
+  {
+    "type": "Full",
+    "value": "epc-de-agent-proxy.germanywestcentral.cloudapp.azure.com"
+  },
+  {
+    "type": "Domain",
+    "value": "avast.com"
+  },
+  {
+    "type": "Domain",
+    "value": "avg.com"
+  },
+  {
+    "type": "Domain",
+    "value": "avira.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bitdefender.com"
+  },
+  {
+    "type": "Domain",
+    "value": "clamwin.com"
+  },
+  {
+    "type": "Domain",
+    "value": "f-secure.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mcafee.com"
+  },
+  {
+    "type": "Domain",
+    "value": "norton.com"
+  },
+  {
+    "type": "Domain",
+    "value": "pandasecurity.com"
+  },
+  {
+    "type": "Domain",
+    "value": "comodo.com"
+  },
+  {
+    "type": "Domain",
+    "value": "comodo.net"
+  },
+  {
+    "type": "Domain",
+    "value": "drweb.by"
+  },
+  {
+    "type": "Domain",
+    "value": "drweb.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "drweb.com"
+  },
+  {
+    "type": "Domain",
+    "value": "drweb.fr"
+  },
+  {
+    "type": "Domain",
+    "value": "drweb.kz"
+  },
+  {
+    "type": "Domain",
+    "value": "drweb.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "drweb.uz"
+  },
+  {
+    "type": "Domain",
+    "value": "drweb-av.de"
+  },
+  {
+    "type": "Domain",
+    "value": "drweb-av.es"
+  },
+  {
+    "type": "Domain",
+    "value": "drweb-av.it"
+  },
+  {
+    "type": "Domain",
+    "value": "drweb-av.pl"
+  },
+  {
+    "type": "Domain",
+    "value": "e5.sk"
+  },
+  {
+    "type": "Domain",
+    "value": "eset.com"
+  },
+  {
+    "type": "Domain",
+    "value": "eset.eu"
+  },
+  {
+    "type": "Domain",
+    "value": "eset.sk"
+  },
+  {
+    "type": "Domain",
+    "value": "eset.systems"
+  },
+  {
+    "type": "Domain",
+    "value": "esetsoftware.com"
+  },
+  {
+    "type": "Domain",
+    "value": "kaspersky.kz"
+  },
+  {
+    "type": "Domain",
+    "value": "kaspersky.gr"
+  },
+  {
+    "type": "Domain",
+    "value": "kaspersky.se"
+  },
+  {
+    "type": "Domain",
+    "value": "kaspersky.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "kaspersky.rs"
+  },
+  {
+    "type": "Domain",
+    "value": "kaspersky.ro"
+  },
+  {
+    "type": "Domain",
+    "value": "kaspersky.pt"
+  },
+  {
+    "type": "Domain",
+    "value": "kaspersky.nl"
+  },
+  {
+    "type": "Domain",
+    "value": "kaspersky.my"
+  },
+  {
+    "type": "Domain",
+    "value": "kaspersky.ma"
+  },
+  {
+    "type": "Domain",
+    "value": "kaspersky-labs.com"
+  },
+  {
+    "type": "Domain",
+    "value": "kaspersky.it"
+  },
+  {
+    "type": "Domain",
+    "value": "kaspersky.cz"
+  },
+  {
+    "type": "Domain",
+    "value": "kaspersky.fr"
+  },
+  {
+    "type": "Domain",
+    "value": "kaspersky.fi"
+  },
+  {
+    "type": "Domain",
+    "value": "kaspersky.es"
+  },
+  {
+    "type": "Domain",
+    "value": "kaspersky.be"
+  },
+  {
+    "type": "Domain",
+    "value": "kaspersky.ca"
+  },
+  {
+    "type": "Domain",
+    "value": "kaspersky.com"
+  },
+  {
+    "type": "Domain",
+    "value": "kaspersky.de"
+  },
+  {
+    "type": "Domain",
+    "value": "kaspersky.dk"
+  },
+  {
+    "type": "Domain",
+    "value": "kaspersky.dz"
+  },
+  {
+    "type": "Domain",
+    "value": "symantec.com"
+  },
+  {
+    "type": "Domain",
+    "value": "symantecliveupdate.com"
+  },
+  {
+    "type": "Domain",
+    "value": "drweb.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "kaspersky.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "kaspersky.co.za"
+  },
+  {
+    "type": "Domain",
+    "value": "kaspersky.com.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "kaspersky.com.br"
+  },
+  {
+    "type": "Domain",
+    "value": "kaspersky.com.tr"
+  },
+  {
+    "type": "Domain",
+    "value": "kaspersky.com.pl"
+  },
+  {
+    "type": "Domain",
+    "value": "kaspersky.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "kaspersky.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "kaspersky.co.kr"
+  },
+  {
+    "type": "Domain",
+    "value": "kaspersky.co.th"
+  },
+  {
+    "type": "Domain",
+    "value": "kaspersky.co.in"
+  },
+  {
+    "type": "Domain",
+    "value": "kaspersky.com.vn"
+  },
+  {
+    "type": "Domain",
+    "value": "kaspersky.com.tw"
+  },
+  {
+    "type": "Domain",
+    "value": "cn.eset.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "kaspersky.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "activation-v2.kaspersky.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "activation-v2.geo.kaspersky.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "activate.activation-v2.kaspersky.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "refresh-bkg.activation-v2.kaspersky.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "crl.kaspersky.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "dc1.ksn.kaspersky-labs.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "dc1-cert.ksn.kaspersky-labs.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "dc1-file.ksn.kaspersky-labs.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "dc1-pp.ksn.kaspersky-labs.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "dc1-st.ksn.kaspersky-labs.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "dnl-00.geo.kaspersky.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "dnl-01.geo.kaspersky.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "dnl-02.geo.kaspersky.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "dnl-03.geo.kaspersky.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "dnl-04.geo.kaspersky.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "dnl-05.geo.kaspersky.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "dnl-06.geo.kaspersky.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "dnl-07.geo.kaspersky.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "dnl-08.geo.kaspersky.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "dnl-09.geo.kaspersky.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "dnl-10.geo.kaspersky.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "dnl-11.geo.kaspersky.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "dnl-12.geo.kaspersky.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "dnl-13.geo.kaspersky.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "dnl-14.geo.kaspersky.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "dnl-15.geo.kaspersky.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "dnl-16.geo.kaspersky.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "dnl-17.geo.kaspersky.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "dnl-18.geo.kaspersky.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "dnl-19.geo.kaspersky.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "edge.geo.kaspersky.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "ksn-cinfo.geoksn.kaspersky.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "ksn-cinfo-geo.kaspersky-labs.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "ksn-crypto-info-geo.kaspersky-labs.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "ksn-crypto-kas-geo.kaspersky-labs.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "ksn-crypto-tcert-geo.kaspersky-labs.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "ksn-crypto-url-geo.kaspersky-labs.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "ksn-crypto-verdict-geo.kaspersky-labs.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "ksn-crypto-wifiplus.geoksn.kaspersky.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "ksn-crypto-wifiplus-geo.kaspersky-labs.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "ksn-dc1.geoksn.kaspersky.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "ksn-dc1-cert.geoksn.kaspersky.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "ksn-dc1-file.geoksn.kaspersky.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "ksn-file.geoksn.kaspersky.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "ksn-file-geo.kaspersky-labs.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "ksn-info.geoksn.kaspersky.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "ksn-info-geo.kaspersky-labs.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "ksn-kas.geoksn.kaspersky.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "ksn-mdr.geoksn.kaspersky.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "ksn-tcert.geoksn.kaspersky.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "ksn-tcert-geo.kaspersky-labs.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "ksn-url.geoksn.kaspersky.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "ksn-url-geo.kaspersky-labs.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "ksn-verdict.geoksn.kaspersky.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "ksn-verdict-geo.kaspersky-labs.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "mdr.ksn.kaspersky-labs.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "p00.upd.kaspersky.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "p01.upd.kaspersky.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "p02.upd.kaspersky.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "p03.upd.kaspersky.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "p04.upd.kaspersky.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "p05.upd.kaspersky.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "p06.upd.kaspersky.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "p07.upd.kaspersky.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "p08.upd.kaspersky.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "p09.upd.kaspersky.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "p10.upd.kaspersky.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "p11.upd.kaspersky.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "p12.upd.kaspersky.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "p13.upd.kaspersky.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "p14.upd.kaspersky.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "p15.upd.kaspersky.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "p16.upd.kaspersky.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "p17.upd.kaspersky.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "p18.upd.kaspersky.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "p19.upd.kaspersky.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "s00.upd.kaspersky.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "s01.upd.kaspersky.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "s02.upd.kaspersky.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "s03.upd.kaspersky.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "s04.upd.kaspersky.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "s05.upd.kaspersky.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "s06.upd.kaspersky.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "s07.upd.kaspersky.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "s08.upd.kaspersky.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "s09.upd.kaspersky.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "s10.upd.kaspersky.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "s11.upd.kaspersky.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "s12.upd.kaspersky.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "s13.upd.kaspersky.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "s14.upd.kaspersky.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "s15.upd.kaspersky.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "s16.upd.kaspersky.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "s17.upd.kaspersky.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "s18.upd.kaspersky.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "s19.upd.kaspersky.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

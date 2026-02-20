@@ -1,0 +1,48 @@
+[
+  {
+    "type": "Domain",
+    "value": "lysol.ca"
+  },
+  {
+    "type": "Domain",
+    "value": "lysol.cl"
+  },
+  {
+    "type": "Domain",
+    "value": "lysol.com"
+  },
+  {
+    "type": "Domain",
+    "value": "lysol.net"
+  },
+  {
+    "type": "Domain",
+    "value": "lizol.co.in"
+  },
+  {
+    "type": "Domain",
+    "value": "lysol.co.cr"
+  },
+  {
+    "type": "Domain",
+    "value": "lysol.com.mx"
+  },
+  {
+    "type": "Domain",
+    "value": "lysol.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "lysol.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

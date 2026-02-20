@@ -1,0 +1,3543 @@
+[
+  {
+    "type": "Full",
+    "value": "p1-juejin.byteimg.com"
+  },
+  {
+    "type": "Full",
+    "value": "p2-juejin.byteimg.com"
+  },
+  {
+    "type": "Full",
+    "value": "p3-juejin.byteimg.com"
+  },
+  {
+    "type": "Full",
+    "value": "p4-juejin.byteimg.com"
+  },
+  {
+    "type": "Full",
+    "value": "p5-juejin.byteimg.com"
+  },
+  {
+    "type": "Full",
+    "value": "p6-juejin.byteimg.com"
+  },
+  {
+    "type": "Full",
+    "value": "p7-juejin.byteimg.com"
+  },
+  {
+    "type": "Full",
+    "value": "p8-juejin.byteimg.com"
+  },
+  {
+    "type": "Full",
+    "value": "p9-juejin.byteimg.com"
+  },
+  {
+    "type": "Full",
+    "value": "p3-novel.byteimg.com"
+  },
+  {
+    "type": "Full",
+    "value": "p6-novel.byteimg.com"
+  },
+  {
+    "type": "Domain",
+    "value": "fanqiesdkvod.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcenginepaas.com"
+  },
+  {
+    "type": "Domain",
+    "value": "activity-dy.com"
+  },
+  {
+    "type": "Domain",
+    "value": "activity01.com"
+  },
+  {
+    "type": "Domain",
+    "value": "activity02.com"
+  },
+  {
+    "type": "Domain",
+    "value": "activity03.com"
+  },
+  {
+    "type": "Domain",
+    "value": "activity04.com"
+  },
+  {
+    "type": "Domain",
+    "value": "activity05.com"
+  },
+  {
+    "type": "Domain",
+    "value": "activitybyte.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ali-api-test.net"
+  },
+  {
+    "type": "Domain",
+    "value": "ali-gtm-01.net"
+  },
+  {
+    "type": "Domain",
+    "value": "ali-gtm-pressure.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ali-restore.net"
+  },
+  {
+    "type": "Domain",
+    "value": "arco.design"
+  },
+  {
+    "type": "Domain",
+    "value": "baikevod.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bdactivity.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bdgslb.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bdispatch.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bdispatch.net"
+  },
+  {
+    "type": "Domain",
+    "value": "bdns-api-test.net"
+  },
+  {
+    "type": "Domain",
+    "value": "bdns-boe.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bdns-boe.net"
+  },
+  {
+    "type": "Domain",
+    "value": "bdns-gtm-01.net"
+  },
+  {
+    "type": "Domain",
+    "value": "bdns-gtm-pressure.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bdns-restore.net"
+  },
+  {
+    "type": "Domain",
+    "value": "bdns-test.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bdns-test.net"
+  },
+  {
+    "type": "Domain",
+    "value": "bdppe.net"
+  },
+  {
+    "type": "Domain",
+    "value": "bdsagslb.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bdsagslbtest.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bdzjdsagslb.com"
+  },
+  {
+    "type": "Domain",
+    "value": "betaband.net"
+  },
+  {
+    "type": "Domain",
+    "value": "betadance.net"
+  },
+  {
+    "type": "Domain",
+    "value": "bfcdnbf.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bfcdnrd.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bfcdnsc.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bvfcdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bx0byte.com"
+  },
+  {
+    "type": "Domain",
+    "value": "byte-edge.com"
+  },
+  {
+    "type": "Domain",
+    "value": "byte-edgeworker.com"
+  },
+  {
+    "type": "Domain",
+    "value": "byte-gslb.com"
+  },
+  {
+    "type": "Domain",
+    "value": "byte-test.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "byte-test.com"
+  },
+  {
+    "type": "Domain",
+    "value": "byte-test.net"
+  },
+  {
+    "type": "Domain",
+    "value": "byte00.com"
+  },
+  {
+    "type": "Domain",
+    "value": "byte00.net"
+  },
+  {
+    "type": "Domain",
+    "value": "byte000.com"
+  },
+  {
+    "type": "Domain",
+    "value": "byte008.com"
+  },
+  {
+    "type": "Domain",
+    "value": "byte7bw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "byteac.com"
+  },
+  {
+    "type": "Domain",
+    "value": "byteacct.com"
+  },
+  {
+    "type": "Domain",
+    "value": "byteacctimg.com"
+  },
+  {
+    "type": "Domain",
+    "value": "byteactivity.com"
+  },
+  {
+    "type": "Domain",
+    "value": "byteactivity11.com"
+  },
+  {
+    "type": "Domain",
+    "value": "byteactivity12.com"
+  },
+  {
+    "type": "Domain",
+    "value": "byteactivity13.com"
+  },
+  {
+    "type": "Domain",
+    "value": "byteactivity14.com"
+  },
+  {
+    "type": "Domain",
+    "value": "byteactivity15.com"
+  },
+  {
+    "type": "Domain",
+    "value": "byteactivity16.com"
+  },
+  {
+    "type": "Domain",
+    "value": "byteapi.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bytecdn.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "bytecdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bytecdn.net"
+  },
+  {
+    "type": "Domain",
+    "value": "bytecdntp.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bytecimg.com"
+  },
+  {
+    "type": "Domain",
+    "value": "byted-dast.com"
+  },
+  {
+    "type": "Domain",
+    "value": "byted-edu.com"
+  },
+  {
+    "type": "Domain",
+    "value": "byted-static.com"
+  },
+  {
+    "type": "Domain",
+    "value": "byted-ug.com"
+  },
+  {
+    "type": "Domain",
+    "value": "byted.org"
+  },
+  {
+    "type": "Domain",
+    "value": "bytedance-boe.net"
+  },
+  {
+    "type": "Domain",
+    "value": "bytedance.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "bytedance.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bytedance.net"
+  },
+  {
+    "type": "Domain",
+    "value": "bytedance.org"
+  },
+  {
+    "type": "Domain",
+    "value": "bytedanceapi.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bytedcdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bytedeliver.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bytedgames.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bytedns.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bytedns.net"
+  },
+  {
+    "type": "Domain",
+    "value": "bytedns1.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bytedns2.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bytedns3.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bytedns4.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bytedns5.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bytedns6.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bytedns7.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bytednsdoc.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bytedsocial.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bytefae.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bytefast.net"
+  },
+  {
+    "type": "Domain",
+    "value": "bytefcdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bytefcdnrd.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bytegecko.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bytegeckoext.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bytegoofy.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bytegqpo.net"
+  },
+  {
+    "type": "Domain",
+    "value": "bytegrowth.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bytegslb.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bytehwm.com"
+  },
+  {
+    "type": "Domain",
+    "value": "byteics.com"
+  },
+  {
+    "type": "Domain",
+    "value": "byteics.net"
+  },
+  {
+    "type": "Domain",
+    "value": "byteimg.com"
+  },
+  {
+    "type": "Domain",
+    "value": "byteimgc.com"
+  },
+  {
+    "type": "Domain",
+    "value": "byteintl.net"
+  },
+  {
+    "type": "Domain",
+    "value": "bytelb.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bytelb.net"
+  },
+  {
+    "type": "Domain",
+    "value": "bytelb000.net"
+  },
+  {
+    "type": "Domain",
+    "value": "bytemaimg.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bytemastatic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bytemedi.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bytenewst.com"
+  },
+  {
+    "type": "Domain",
+    "value": "byteorg.com"
+  },
+  {
+    "type": "Domain",
+    "value": "byteorge.com"
+  },
+  {
+    "type": "Domain",
+    "value": "byteq5k.com"
+  },
+  {
+    "type": "Domain",
+    "value": "byteq8u.net"
+  },
+  {
+    "type": "Domain",
+    "value": "bytescm.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bytesslb.net"
+  },
+  {
+    "type": "Domain",
+    "value": "bytetcc.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bytetech.info"
+  },
+  {
+    "type": "Domain",
+    "value": "bytetos.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bytetraffic.net"
+  },
+  {
+    "type": "Domain",
+    "value": "bytetstatic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bytetstatic.net"
+  },
+  {
+    "type": "Domain",
+    "value": "bytevalk.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bytevcloudapi.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bytevcloudvod.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bytexservice.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cdnbuild.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cdnbuild.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cdndns1.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cdndns2.com"
+  },
+  {
+    "type": "Domain",
+    "value": "doubo03.com"
+  },
+  {
+    "type": "Domain",
+    "value": "draftstatic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "druid.vip"
+  },
+  {
+    "type": "Domain",
+    "value": "fedlearner.net"
+  },
+  {
+    "type": "Domain",
+    "value": "feelgood.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "gslbdns.com"
+  },
+  {
+    "type": "Domain",
+    "value": "gslbdns.net"
+  },
+  {
+    "type": "Domain",
+    "value": "huaxiong.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hypercachenet.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ibytedapm.com"
+  },
+  {
+    "type": "Domain",
+    "value": "icphoto.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "iluckysf.net"
+  },
+  {
+    "type": "Domain",
+    "value": "itmanager.club"
+  },
+  {
+    "type": "Domain",
+    "value": "itoutiaoliving.com"
+  },
+  {
+    "type": "Domain",
+    "value": "jokecommunity.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "jokecommunity.com"
+  },
+  {
+    "type": "Domain",
+    "value": "jokecommunity.net"
+  },
+  {
+    "type": "Domain",
+    "value": "jstti.com"
+  },
+  {
+    "type": "Domain",
+    "value": "jtamac.com"
+  },
+  {
+    "type": "Domain",
+    "value": "livecdnstatic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "local-ip.online"
+  },
+  {
+    "type": "Domain",
+    "value": "luckysf.net"
+  },
+  {
+    "type": "Domain",
+    "value": "modernjs.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "myimis.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ndcpp.com"
+  },
+  {
+    "type": "Domain",
+    "value": "neihancommunity.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "neihancommunity.com"
+  },
+  {
+    "type": "Domain",
+    "value": "neihancommunity.net"
+  },
+  {
+    "type": "Domain",
+    "value": "neyetwatcher.com"
+  },
+  {
+    "type": "Domain",
+    "value": "oortgslb.com"
+  },
+  {
+    "type": "Domain",
+    "value": "openbcs.com"
+  },
+  {
+    "type": "Domain",
+    "value": "openve.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "originalimg.com"
+  },
+  {
+    "type": "Domain",
+    "value": "originalstatic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "originalvod.com"
+  },
+  {
+    "type": "Domain",
+    "value": "pacmantwo.com"
+  },
+  {
+    "type": "Domain",
+    "value": "pstatp.com"
+  },
+  {
+    "type": "Domain",
+    "value": "qingfuwucdn.net"
+  },
+  {
+    "type": "Domain",
+    "value": "qualitycloud.top"
+  },
+  {
+    "type": "Domain",
+    "value": "samasty.com"
+  },
+  {
+    "type": "Domain",
+    "value": "searchstatic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "searchtoutiaolive.com"
+  },
+  {
+    "type": "Domain",
+    "value": "shidianguji.com"
+  },
+  {
+    "type": "Domain",
+    "value": "sinf-test.net"
+  },
+  {
+    "type": "Domain",
+    "value": "sinf.net"
+  },
+  {
+    "type": "Domain",
+    "value": "sinflb.net"
+  },
+  {
+    "type": "Domain",
+    "value": "snssdk.com"
+  },
+  {
+    "type": "Domain",
+    "value": "tekkenthree.com"
+  },
+  {
+    "type": "Domain",
+    "value": "tetrisone.com"
+  },
+  {
+    "type": "Domain",
+    "value": "tiapi.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "tiapi.net"
+  },
+  {
+    "type": "Domain",
+    "value": "tlbapm.com"
+  },
+  {
+    "type": "Domain",
+    "value": "toscdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "toutiao11.com"
+  },
+  {
+    "type": "Domain",
+    "value": "toutiao12.com"
+  },
+  {
+    "type": "Domain",
+    "value": "toutiao13.com"
+  },
+  {
+    "type": "Domain",
+    "value": "toutiao14.com"
+  },
+  {
+    "type": "Domain",
+    "value": "toutiao15.com"
+  },
+  {
+    "type": "Domain",
+    "value": "toutiaocdn.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "toutiaocdn.net"
+  },
+  {
+    "type": "Domain",
+    "value": "toutiaocloud.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "toutiaojisu.com"
+  },
+  {
+    "type": "Domain",
+    "value": "toutiaolite.com"
+  },
+  {
+    "type": "Domain",
+    "value": "toutiaolite1.com"
+  },
+  {
+    "type": "Domain",
+    "value": "toutiaolite2.com"
+  },
+  {
+    "type": "Domain",
+    "value": "toutiaoliving.com"
+  },
+  {
+    "type": "Domain",
+    "value": "toutiaopic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "toutiaowap.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "toutiaowap.com"
+  },
+  {
+    "type": "Domain",
+    "value": "toutiaowap.net"
+  },
+  {
+    "type": "Domain",
+    "value": "tr-test-ali.net"
+  },
+  {
+    "type": "Domain",
+    "value": "tr-test.net"
+  },
+  {
+    "type": "Domain",
+    "value": "tr-testboe.net"
+  },
+  {
+    "type": "Domain",
+    "value": "ttbyte.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "ttbyte.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ttbyte.net"
+  },
+  {
+    "type": "Domain",
+    "value": "ttjisu.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ttwebview.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ugshare-img.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vcloud-byte.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vcloudapi.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vestack-beta.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vestack-cicd.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vestack-preview.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vestack-sandbox.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vfcdnrd.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcanicengine.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcdns-test.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcdns-test.net"
+  },
+  {
+    "type": "Domain",
+    "value": "voleai.com"
+  },
+  {
+    "type": "Domain",
+    "value": "wtturl.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "xsgtvacct.com"
+  },
+  {
+    "type": "Domain",
+    "value": "zijieapi.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "zijieapi.com"
+  },
+  {
+    "type": "Domain",
+    "value": "zijieapi.net"
+  },
+  {
+    "type": "Domain",
+    "value": "zijiecdn.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "zijiecdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "zijiecdn.net"
+  },
+  {
+    "type": "Domain",
+    "value": "zijiedj.com"
+  },
+  {
+    "type": "Domain",
+    "value": "zijieimg.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "zijieimg.com"
+  },
+  {
+    "type": "Domain",
+    "value": "zijieimg.net"
+  },
+  {
+    "type": "Domain",
+    "value": "zijietiaodong.com"
+  },
+  {
+    "type": "Domain",
+    "value": "zijieurl.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "zijieurl.com"
+  },
+  {
+    "type": "Domain",
+    "value": "zijieurl.net"
+  },
+  {
+    "type": "Domain",
+    "value": "zijiewap.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "zijiewap.com"
+  },
+  {
+    "type": "Domain",
+    "value": "zijiewap.net"
+  },
+  {
+    "type": "Domain",
+    "value": "zilrms.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ziyrta.com"
+  },
+  {
+    "type": "Domain",
+    "value": "zjbyte.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "zjbyte.com"
+  },
+  {
+    "type": "Domain",
+    "value": "zjbyte.net"
+  },
+  {
+    "type": "Domain",
+    "value": "zjcdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "zjfcdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "zjgslb.com"
+  },
+  {
+    "type": "Domain",
+    "value": "toutiao.com"
+  },
+  {
+    "type": "Domain",
+    "value": "toutiaoapi.com"
+  },
+  {
+    "type": "Domain",
+    "value": "toutiaocdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "toutiaocloud.com"
+  },
+  {
+    "type": "Domain",
+    "value": "toutiaocloud.net"
+  },
+  {
+    "type": "Domain",
+    "value": "toutiaohao.com"
+  },
+  {
+    "type": "Domain",
+    "value": "toutiaohao.net"
+  },
+  {
+    "type": "Domain",
+    "value": "toutiaoimg.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "toutiaoimg.com"
+  },
+  {
+    "type": "Domain",
+    "value": "toutiaoimg.net"
+  },
+  {
+    "type": "Domain",
+    "value": "toutiaopage.com"
+  },
+  {
+    "type": "Domain",
+    "value": "toutiaostatic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "toutiaovod.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bdxiguaimg.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bdxigualive.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bdxiguastatic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bdxiguavod.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ibdxiguaimg.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ibdxigualive.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ibdxiguastatic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ibdxiguavod.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ixgvideo.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ixigua.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ixiguavideo.com"
+  },
+  {
+    "type": "Domain",
+    "value": "xiguaapp.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "xiguaapp.com"
+  },
+  {
+    "type": "Domain",
+    "value": "xiguashipin.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "xiguashipin.net"
+  },
+  {
+    "type": "Domain",
+    "value": "xiguavideo.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "xiguavideo.net"
+  },
+  {
+    "type": "Domain",
+    "value": "baike.com"
+  },
+  {
+    "type": "Domain",
+    "value": "wukong.com"
+  },
+  {
+    "type": "Domain",
+    "value": "wukongwenda.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "wukongwenda.com"
+  },
+  {
+    "type": "Domain",
+    "value": "365yg.com"
+  },
+  {
+    "type": "Domain",
+    "value": "gogokid.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hapierxia.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hapipixia.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hapiyixia.com"
+  },
+  {
+    "type": "Domain",
+    "value": "kuailepipixia.com"
+  },
+  {
+    "type": "Domain",
+    "value": "pipix.com"
+  },
+  {
+    "type": "Domain",
+    "value": "pipixiaha.com"
+  },
+  {
+    "type": "Domain",
+    "value": "piyipiba.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ppxhhh.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ppximg.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ppxstatic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ppxvod.com"
+  },
+  {
+    "type": "Domain",
+    "value": "xiaoxiaapi.com"
+  },
+  {
+    "type": "Domain",
+    "value": "douyinec.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ecombdapi.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ecombdstatic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "jinritemai.com"
+  },
+  {
+    "type": "Domain",
+    "value": "faceu.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ulikecam.com"
+  },
+  {
+    "type": "Domain",
+    "value": "rsproxy.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "juejin.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "juejin.im"
+  },
+  {
+    "type": "Domain",
+    "value": "xitu.io"
+  },
+  {
+    "type": "Domain",
+    "value": "doudou.com"
+  },
+  {
+    "type": "Domain",
+    "value": "marscode.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "mcbaas.work"
+  },
+  {
+    "type": "Domain",
+    "value": "mcdemo.show"
+  },
+  {
+    "type": "Domain",
+    "value": "mchost.guru"
+  },
+  {
+    "type": "Domain",
+    "value": "mcprev.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "tcwqqdy.guru"
+  },
+  {
+    "type": "Domain",
+    "value": "trae.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "trae.guru"
+  },
+  {
+    "type": "Domain",
+    "value": "yoma.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "dcarapi.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dcarimg.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dcarlive.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dcarstatic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dcarvod.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dcdapp.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dongchedi.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dongchediapp.com"
+  },
+  {
+    "type": "Domain",
+    "value": "activity-zhendingtech.com"
+  },
+  {
+    "type": "Domain",
+    "value": "changdunovel.com"
+  },
+  {
+    "type": "Domain",
+    "value": "fanqienovel.com"
+  },
+  {
+    "type": "Domain",
+    "value": "fanqieopen.com"
+  },
+  {
+    "type": "Domain",
+    "value": "fanqieopenpic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "99uri.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "fanqieopenvod.com"
+  },
+  {
+    "type": "Domain",
+    "value": "fanqiesdk.com"
+  },
+  {
+    "type": "Domain",
+    "value": "fanqiesdkpic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "fanqiesdkstatic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "fanqieopenstatic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "99uri.com"
+  },
+  {
+    "type": "Domain",
+    "value": "qingfuwu.com"
+  },
+  {
+    "type": "Domain",
+    "value": "fqnovelim.com"
+  },
+  {
+    "type": "Domain",
+    "value": "fqnovelop.com"
+  },
+  {
+    "type": "Domain",
+    "value": "fqnovelpic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "fqnovelstatic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "fqnovelvod.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ihaohaoxuexi.com"
+  },
+  {
+    "type": "Domain",
+    "value": "muyewx.com"
+  },
+  {
+    "type": "Domain",
+    "value": "novelfm.com"
+  },
+  {
+    "type": "Domain",
+    "value": "novelfmpic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "novelfmstatic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "novelfmvod.com"
+  },
+  {
+    "type": "Domain",
+    "value": "qznovel.com"
+  },
+  {
+    "type": "Domain",
+    "value": "qznovelpic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "qznovelstatic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "qznovelvod.com"
+  },
+  {
+    "type": "Domain",
+    "value": "feishuhuiyi.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "statuslarkoffice.com"
+  },
+  {
+    "type": "Domain",
+    "value": "byteoc.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bytewebservice.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bytexns.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "bytexns.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bytexns.net"
+  },
+  {
+    "type": "Domain",
+    "value": "bytexopen.com"
+  },
+  {
+    "type": "Domain",
+    "value": "meegobeta.com"
+  },
+  {
+    "type": "Domain",
+    "value": "oceancloudapi.com"
+  },
+  {
+    "type": "Domain",
+    "value": "okr.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "okr.com"
+  },
+  {
+    "type": "Domain",
+    "value": "statusfeishu.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "vscenevideo.com"
+  },
+  {
+    "type": "Domain",
+    "value": "larkofficecdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "thelarkcloud.com"
+  },
+  {
+    "type": "Domain",
+    "value": "larkofficeimg.com"
+  },
+  {
+    "type": "Domain",
+    "value": "larkcloud.com"
+  },
+  {
+    "type": "Domain",
+    "value": "larkcloud.net"
+  },
+  {
+    "type": "Domain",
+    "value": "larkfn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "larkmeetings.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "larkmeetings.com"
+  },
+  {
+    "type": "Domain",
+    "value": "larkoffice.com"
+  },
+  {
+    "type": "Domain",
+    "value": "securityfs.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "larkofficeapp-boe.com"
+  },
+  {
+    "type": "Domain",
+    "value": "larkofficeapp-pre.com"
+  },
+  {
+    "type": "Domain",
+    "value": "larkofficeapp.com"
+  },
+  {
+    "type": "Domain",
+    "value": "larkofficeboe.com"
+  },
+  {
+    "type": "Domain",
+    "value": "lark.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "larkofficepkg.com"
+  },
+  {
+    "type": "Domain",
+    "value": "lark-passport-qa-sg.net"
+  },
+  {
+    "type": "Domain",
+    "value": "larkofficepre.com"
+  },
+  {
+    "type": "Domain",
+    "value": "larkrooms.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "larkrooms.com"
+  },
+  {
+    "type": "Domain",
+    "value": "larksuite-pre.com"
+  },
+  {
+    "type": "Domain",
+    "value": "larksuite.com"
+  },
+  {
+    "type": "Domain",
+    "value": "larkvc.com"
+  },
+  {
+    "type": "Domain",
+    "value": "securityfeishu.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "anycross.com"
+  },
+  {
+    "type": "Domain",
+    "value": "larksuiteimg-boe.com"
+  },
+  {
+    "type": "Domain",
+    "value": "larksuiteimg-pre.com"
+  },
+  {
+    "type": "Domain",
+    "value": "lackvc.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "getsays.com"
+  },
+  {
+    "type": "Domain",
+    "value": "larksuiteimg.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bytecloud.com"
+  },
+  {
+    "type": "Domain",
+    "value": "larksuitecdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "blmpb.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bytedancehermestest.com"
+  },
+  {
+    "type": "Domain",
+    "value": "falconsending.com"
+  },
+  {
+    "type": "Domain",
+    "value": "fei-shu.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "feishu-3rd-party-services.com"
+  },
+  {
+    "type": "Domain",
+    "value": "feishu-boe.net"
+  },
+  {
+    "type": "Domain",
+    "value": "feishu-customer.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "feishu-pre.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "feishu-pre.net"
+  },
+  {
+    "type": "Domain",
+    "value": "feishu-psc.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "feishu-staging.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "feishu.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "feishu.net"
+  },
+  {
+    "type": "Domain",
+    "value": "feishuapp-cdn.net"
+  },
+  {
+    "type": "Domain",
+    "value": "feishuapp.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "feishuapp.com"
+  },
+  {
+    "type": "Domain",
+    "value": "feishucdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "feishudoc.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "feishudoc.com"
+  },
+  {
+    "type": "Domain",
+    "value": "baseopendev.com"
+  },
+  {
+    "type": "Domain",
+    "value": "feishuhuiyi.com"
+  },
+  {
+    "type": "Domain",
+    "value": "feishuimg-boe.com"
+  },
+  {
+    "type": "Domain",
+    "value": "feishuimg-pre.com"
+  },
+  {
+    "type": "Domain",
+    "value": "feishuimg.com"
+  },
+  {
+    "type": "Domain",
+    "value": "feishukacdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "feishumeetings.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "feishumeetings.com"
+  },
+  {
+    "type": "Domain",
+    "value": "feishuoffice.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "feishuoffice.com"
+  },
+  {
+    "type": "Domain",
+    "value": "feishuopenplatformrecord.com"
+  },
+  {
+    "type": "Domain",
+    "value": "feishupkg.com"
+  },
+  {
+    "type": "Domain",
+    "value": "feishustatus.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "feishuvc.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "feishuvc.com"
+  },
+  {
+    "type": "Domain",
+    "value": "getfeishu.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "getfeishu.com"
+  },
+  {
+    "type": "Domain",
+    "value": "getsays.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "aigc-cloud.com"
+  },
+  {
+    "type": "Domain",
+    "value": "wohst8.com"
+  },
+  {
+    "type": "Domain",
+    "value": "woaihuoshan.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ultracachenode.com"
+  },
+  {
+    "type": "Domain",
+    "value": "supercachenode.com"
+  },
+  {
+    "type": "Domain",
+    "value": "supercachenet.com"
+  },
+  {
+    "type": "Domain",
+    "value": "qishuimusic.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "qishui.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bdegnine.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bplslb.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bpltm.com"
+  },
+  {
+    "type": "Domain",
+    "value": "byte-dns.com"
+  },
+  {
+    "type": "Domain",
+    "value": "byte-dns.net"
+  },
+  {
+    "type": "Domain",
+    "value": "bytehouse.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "byteinspire.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "byteinspire.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bytevdn-boe.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bytevdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cache4ever.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cache666.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cloudendpoint.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "douyincloud.net"
+  },
+  {
+    "type": "Domain",
+    "value": "douyincloud.run"
+  },
+  {
+    "type": "Domain",
+    "value": "dycloudbk.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dycloud.run"
+  },
+  {
+    "type": "Domain",
+    "value": "emr-volces.com"
+  },
+  {
+    "type": "Domain",
+    "value": "feilian.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "iccvlog.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ifeilian.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "ifeilian.com"
+  },
+  {
+    "type": "Domain",
+    "value": "inspirecloud.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "inspirecloud.com"
+  },
+  {
+    "type": "Domain",
+    "value": "isealsuite.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ivolces.com"
+  },
+  {
+    "type": "Domain",
+    "value": "kfcbest.com"
+  },
+  {
+    "type": "Domain",
+    "value": "kych5.com"
+  },
+  {
+    "type": "Domain",
+    "value": "multilingual-volc.com"
+  },
+  {
+    "type": "Domain",
+    "value": "qingfuwuapi.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "qingfuwucdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "qingfuwu.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "fqnovel.com"
+  },
+  {
+    "type": "Domain",
+    "value": "slbauto.com"
+  },
+  {
+    "type": "Domain",
+    "value": "sms18.com"
+  },
+  {
+    "type": "Domain",
+    "value": "toutiaopanapi.com"
+  },
+  {
+    "type": "Domain",
+    "value": "toutiaopan.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ttgslb.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ttgtm.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vecdnlb.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vecloudgame.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vedcdnlb.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vedsalb.com"
+  },
+  {
+    "type": "Domain",
+    "value": "veefdev.com"
+  },
+  {
+    "type": "Domain",
+    "value": "veew-alb-cn1.com"
+  },
+  {
+    "type": "Domain",
+    "value": "veew-alb-cn2.com"
+  },
+  {
+    "type": "Domain",
+    "value": "veew-alb-ts.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vegalb.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vegslb.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vegtm.net"
+  },
+  {
+    "type": "Domain",
+    "value": "veicplive.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ve-imcloud.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vemarsdev.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vemarsstatic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vemarsweb.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vertciot.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vestack.cloud"
+  },
+  {
+    "type": "Domain",
+    "value": "ve-trafficroute.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ve-trafficroute.net"
+  },
+  {
+    "type": "Domain",
+    "value": "volcadocean.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcadvc.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcalb.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcautovod.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcbiz.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcca.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "volcca.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcca.net"
+  },
+  {
+    "type": "Domain",
+    "value": "volccdn1.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volccdn2.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volccdn.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "volccdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcddos001.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcddos.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcdem.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcdlspace.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "volcdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volc-dns.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcdns.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volc-dns.net"
+  },
+  {
+    "type": "Domain",
+    "value": "volc-dns.pub"
+  },
+  {
+    "type": "Domain",
+    "value": "volcdns.pub"
+  },
+  {
+    "type": "Domain",
+    "value": "volceapi.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volceapplog.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcecr.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcecw.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volc-embed.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcenginapi.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcenginealb.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcengineapi.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcengine.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "volcengine.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcengine-dns.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcenginedns.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcengine-dns.net"
+  },
+  {
+    "type": "Domain",
+    "value": "volcenginedns.net"
+  },
+  {
+    "type": "Domain",
+    "value": "volcengine.net"
+  },
+  {
+    "type": "Domain",
+    "value": "fqnovel-op.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volces.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcfake.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcfcdnbyte.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcfcdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcfcdndvs.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcfcdndvs1.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcfcdnplus.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcfcdnrd.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcfcdnsc.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcfxgjrtm.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcgroup.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcgslb-mlt.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcgslb.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcgtm.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volciad.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcimagex.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "volcimagex.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcimagex.net"
+  },
+  {
+    "type": "Domain",
+    "value": "volcimagextest.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcmagicpage.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcmcdn1.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcmcdn2.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcmcdn3.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcmcdn4.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcmgs.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcmusecdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcocic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcopjrtm.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcpartner.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcpartner.net"
+  },
+  {
+    "type": "Domain",
+    "value": "volcsiriusbd.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcsirius.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcspaceeduc.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volctracer.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volctrack.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volctraffic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volctranscdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcvideo.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcvideos.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcvms.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcvod.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcwaf001.com"
+  },
+  {
+    "type": "Domain",
+    "value": "volcwaf.com"
+  },
+  {
+    "type": "Domain",
+    "value": "writingo-editor.com"
+  },
+  {
+    "type": "Domain",
+    "value": "writingo.net"
+  },
+  {
+    "type": "Domain",
+    "value": "ytxptd.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "ytxptz.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "zebracdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "zjytxd.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "zjytxp.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "zvip.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "butterfly-static.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "butterflyai.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "coze.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "coze.site"
+  },
+  {
+    "type": "Domain",
+    "value": "cozebaas.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "cozefn.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "cozeide.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "doubao.com"
+  },
+  {
+    "type": "Domain",
+    "value": "doubaocdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hi-butterfly.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "maoxiangai.com"
+  },
+  {
+    "type": "Domain",
+    "value": "myparallelstory.com"
+  },
+  {
+    "type": "Domain",
+    "value": "picpic-ai.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "pixeldance.com"
+  },
+  {
+    "type": "Domain",
+    "value": "activity-wbsj.com"
+  },
+  {
+    "type": "Domain",
+    "value": "aihst8.com"
+  },
+  {
+    "type": "Domain",
+    "value": "amemv.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "amemv.com"
+  },
+  {
+    "type": "Domain",
+    "value": "amemv.net"
+  },
+  {
+    "type": "Domain",
+    "value": "awemeughun.com"
+  },
+  {
+    "type": "Domain",
+    "value": "awemeuglang.com"
+  },
+  {
+    "type": "Domain",
+    "value": "awemeugsoul.com"
+  },
+  {
+    "type": "Domain",
+    "value": "awemeugwave.com"
+  },
+  {
+    "type": "Domain",
+    "value": "betastar.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "boxdouyin.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cookicut.com"
+  },
+  {
+    "type": "Domain",
+    "value": "douyin.com"
+  },
+  {
+    "type": "Domain",
+    "value": "douyinact.com"
+  },
+  {
+    "type": "Domain",
+    "value": "douyinact.net"
+  },
+  {
+    "type": "Domain",
+    "value": "douyincdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "douyinfe.com"
+  },
+  {
+    "type": "Domain",
+    "value": "douyinliving.com"
+  },
+  {
+    "type": "Domain",
+    "value": "douyinpic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "douyinstatic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "douyinvod.com"
+  },
+  {
+    "type": "Domain",
+    "value": "duoshan.com"
+  },
+  {
+    "type": "Domain",
+    "value": "huoshan.com"
+  },
+  {
+    "type": "Domain",
+    "value": "huoshancdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "huoshangroup.com"
+  },
+  {
+    "type": "Domain",
+    "value": "huoshanimg.com"
+  },
+  {
+    "type": "Domain",
+    "value": "huoshanlive.com"
+  },
+  {
+    "type": "Domain",
+    "value": "huoshanparty.com"
+  },
+  {
+    "type": "Domain",
+    "value": "huoshanstatic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "huoshante8.com"
+  },
+  {
+    "type": "Domain",
+    "value": "huoshanvideo.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "huoshanvideo.net"
+  },
+  {
+    "type": "Domain",
+    "value": "huoshanvod.com"
+  },
+  {
+    "type": "Domain",
+    "value": "huoshanxiaoshipin.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "huoshanxiaoshipin.net"
+  },
+  {
+    "type": "Domain",
+    "value": "huoshanzhibo.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "huoshanzhibo.com"
+  },
+  {
+    "type": "Domain",
+    "value": "huoshanzhibo.net"
+  },
+  {
+    "type": "Domain",
+    "value": "idouyinliving.com"
+  },
+  {
+    "type": "Domain",
+    "value": "idouyinpic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "idouyinstatic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "idouyinvod.com"
+  },
+  {
+    "type": "Domain",
+    "value": "iesdouyin.com"
+  },
+  {
+    "type": "Domain",
+    "value": "iesdouyin.net"
+  },
+  {
+    "type": "Domain",
+    "value": "ieshuodong.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "ieshuodong.net"
+  },
+  {
+    "type": "Domain",
+    "value": "ihst8.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ihuoshanimg.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ihuoshanlive.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ihuoshanstatic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ihuoshanvod.com"
+  },
+  {
+    "type": "Domain",
+    "value": "kesong.co"
+  },
+  {
+    "type": "Domain",
+    "value": "kolbuyer.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "nextvid.net"
+  },
+  {
+    "type": "Domain",
+    "value": "ppkankan01.com"
+  },
+  {
+    "type": "Domain",
+    "value": "qishui.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "okr.com.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "trae.com.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "marscode.com.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "gogokid.com.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "qishui.com.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "qishuimusic.com.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "larksuite.com.ttdns2.com"
+  },
+  {
+    "type": "Domain",
+    "value": "larksuite.com.ttdns1.com"
+  },
+  {
+    "type": "Domain",
+    "value": "byteglb.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "byteoversea.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "byteoversea.net",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ibytedtos.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ibyteimg.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "bytedance.map.fastly.net",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ad.toutiao.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "bds.snssdk.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "byteadverts.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ctobsnssdk.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "dig.bdurl.net",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "extlog.snssdk.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "i.snssdk.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "log.zijieapi.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "mcs.snssdk.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "pangolin-dsp-toutiao-b.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "pangolin-dsp-toutiao.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "pangolin-hl.snssdk.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "pangolin-lf.snssdk.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "pangolin-lq.snssdk.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "pangolin-sdk-toutiao-b.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "pangolin-sdk-toutiao.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "pangolin-sdk-toutiao1.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "pangolin.snssdk.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "panplayable-toutiao-b.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "panplayable-toutiao.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "pglstatp-sdk-toutiao.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "pglstatp-snssdk-toutiao.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "pglstatp-toutiao-b.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "pglstatp-toutiao.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "sf3-ttcdn-tos.pstatp.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "shoppingads.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "ads3-normal-hl.zijieapi.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "ads3-normal.zijieapi.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "ads5-normal-hl.zijieapi.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "ads5-normal.zijieapi.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "log3-applog-hl.fqnovel.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "log3-applog.fqnovel.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "log5-applog-hl.fqnovel.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "log5-applog.fqnovel.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "p3-ad-sign.byteimg.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "p6-ad-sign.byteimg.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "p9-ad-sign.byteimg.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "rtlog3-applog-hl.fqnovel.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "rtlog3-applog.fqnovel.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "rtlog5-applog-hl.fqnovel.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "rtlog5-applog.fqnovel.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "bytedapm.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "byteoversea.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "muscdn.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "musical.ly",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "tik-tokapi.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "tiktok-minis.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "tiktok-row.net",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "tiktok.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "tiktokcdn-eu.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "tiktokcdn-us.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "tiktokcdn.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "tiktokd.net",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "tiktokd.org",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "tiktokeu-cdn.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "tiktokglobalshopv.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "tiktokminis.us",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "tiktokrow-cdn.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "tiktokv.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "tiktokv.eu",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "tiktokv.us",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "tiktokw.eu",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "tiktokw.us",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ttlivecdn.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ttoverseaus.net",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ttwstatic.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "tiktokcdn-us.com.edgesuite.net",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "tiktokcdn.com.akamaized.net",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "tiktokcdn.com.edgesuite.net",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "tiktokv.com.edgekey.net",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "tiktokv.com.edgesuite.net",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "p16-tiktokcdn-com.akamaized.net",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "roovza-launches.appsflyersdk.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "roovza.inapps.appsflyersdk.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "roovza.launches.appsflyersdk.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "roovza.skadsdk.appsflyersdk.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "analytics.tiktok.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      },
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "coze.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "marscode.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "trae.ai",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "cici.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ciciai.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ciciaicdn.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "dola.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

@@ -1,0 +1,96 @@
+[
+  {
+    "type": "Domain",
+    "value": "samsung"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--cg4bki"
+  },
+  {
+    "type": "Domain",
+    "value": "galaxyappstore.com"
+  },
+  {
+    "type": "Domain",
+    "value": "galaxymobile.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "game-platform.net"
+  },
+  {
+    "type": "Domain",
+    "value": "knoxemm.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ospserver.net"
+  },
+  {
+    "type": "Domain",
+    "value": "samsung.com"
+  },
+  {
+    "type": "Domain",
+    "value": "samsungapps.com"
+  },
+  {
+    "type": "Domain",
+    "value": "samsungcloud.com"
+  },
+  {
+    "type": "Domain",
+    "value": "samsungconsent.com"
+  },
+  {
+    "type": "Domain",
+    "value": "samsungdm.com"
+  },
+  {
+    "type": "Domain",
+    "value": "samsunggalaxyfriends.com"
+  },
+  {
+    "type": "Domain",
+    "value": "samsunghealth.com"
+  },
+  {
+    "type": "Domain",
+    "value": "samsungiotcloud.com"
+  },
+  {
+    "type": "Domain",
+    "value": "samsungknox.com"
+  },
+  {
+    "type": "Domain",
+    "value": "samsungosp.com"
+  },
+  {
+    "type": "Domain",
+    "value": "samsungqbe.com"
+  },
+  {
+    "type": "Domain",
+    "value": "samsungrs.com"
+  },
+  {
+    "type": "Domain",
+    "value": "samsungads.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "samsungeshop.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

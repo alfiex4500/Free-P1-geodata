@@ -1,0 +1,51 @@
+[
+  {
+    "type": "Domain",
+    "value": "booth.pm"
+  },
+  {
+    "type": "Domain",
+    "value": "fanbox.cc"
+  },
+  {
+    "type": "Domain",
+    "value": "pixiv.help"
+  },
+  {
+    "type": "Domain",
+    "value": "pixiv.me"
+  },
+  {
+    "type": "Domain",
+    "value": "pixiv.net"
+  },
+  {
+    "type": "Domain",
+    "value": "pixiv.org"
+  },
+  {
+    "type": "Domain",
+    "value": "pixiv-recommend.net"
+  },
+  {
+    "type": "Domain",
+    "value": "pixivision.net"
+  },
+  {
+    "type": "Domain",
+    "value": "pximg.net"
+  },
+  {
+    "type": "Domain",
+    "value": "pixiv.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "ads-pixiv.net",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  }
+]

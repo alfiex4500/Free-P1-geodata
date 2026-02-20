@@ -1,0 +1,39 @@
+[
+  {
+    "type": "Domain",
+    "value": "muji.com"
+  },
+  {
+    "type": "Domain",
+    "value": "muji.eu"
+  },
+  {
+    "type": "Domain",
+    "value": "muji.net"
+  },
+  {
+    "type": "Domain",
+    "value": "muji.tw"
+  },
+  {
+    "type": "Domain",
+    "value": "muji.us"
+  },
+  {
+    "type": "Domain",
+    "value": "mujikorea.net"
+  },
+  {
+    "type": "Domain",
+    "value": "muji.com.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "muji.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

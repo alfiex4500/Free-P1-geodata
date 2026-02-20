@@ -1,0 +1,23 @@
+[
+  {
+    "type": "Domain",
+    "value": "pingan.com"
+  },
+  {
+    "type": "Domain",
+    "value": "yqb.com"
+  },
+  {
+    "type": "Domain",
+    "value": "pingan.com.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "pingan.com.hk",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

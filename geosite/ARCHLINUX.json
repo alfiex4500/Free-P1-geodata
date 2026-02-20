@@ -1,0 +1,14 @@
+[
+  {
+    "type": "Domain",
+    "value": "archlinux.org"
+  },
+  {
+    "type": "Domain",
+    "value": "archlinuxarm.org"
+  },
+  {
+    "type": "Domain",
+    "value": "archlinuxcn.org"
+  }
+]

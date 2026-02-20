@@ -1,0 +1,369 @@
+[
+  {
+    "type": "Domain",
+    "value": "sinajs.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "sina.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "sinajs.com"
+  },
+  {
+    "type": "Domain",
+    "value": "sina.com"
+  },
+  {
+    "type": "Domain",
+    "value": "97973.com"
+  },
+  {
+    "type": "Domain",
+    "value": "sina.net"
+  },
+  {
+    "type": "Domain",
+    "value": "sinaapp.com"
+  },
+  {
+    "type": "Domain",
+    "value": "sinaedge.com"
+  },
+  {
+    "type": "Domain",
+    "value": "t.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "sinaimg.com"
+  },
+  {
+    "type": "Domain",
+    "value": "xhaiwai.com"
+  },
+  {
+    "type": "Domain",
+    "value": "picself.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "sinaimg.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "videoself.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "wbimg.com"
+  },
+  {
+    "type": "Domain",
+    "value": "wbimg.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "wcdn.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "weibo.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "weibo.com"
+  },
+  {
+    "type": "Domain",
+    "value": "weibocdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "weibo.com.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "sina.com.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "hk.weibo.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "my.weibo.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "overseas.weibo.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "sg.weibo.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "th.weibo.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "tw.weibo.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "us.weibo.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ad.sina.com.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ad.us.sinaimg.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "adbox.sina.com.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "adimg.mobile.sina.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "adimg.uve.weibo.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ads.sina.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "alitui.weibo.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "beacon.sina.com.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "biz.weibo.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "click.uve.mobile.sina.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "click.uve.weibo.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "log.mix.sina.com.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "log.sina.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "log2.sina.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "mixer.sina.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "p4p.sina.com.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "rs.sinajs.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "sa.sina.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "sbeacon.sina.com.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "sdkclick.mobile.sina.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "slog.sina.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "slog.sina.com.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "wapwbclick.mobile.sina.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "wbclick.mobile.sina.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  }
+]

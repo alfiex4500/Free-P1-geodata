@@ -1,0 +1,67 @@
+[
+  {
+    "type": "Domain",
+    "value": "first-ns.de"
+  },
+  {
+    "type": "Domain",
+    "value": "hetzner-cloud.de"
+  },
+  {
+    "type": "Domain",
+    "value": "hetzner.cloud"
+  },
+  {
+    "type": "Domain",
+    "value": "hetzner.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hetzner.company"
+  },
+  {
+    "type": "Domain",
+    "value": "hetzner.de"
+  },
+  {
+    "type": "Domain",
+    "value": "hetzner.social"
+  },
+  {
+    "type": "Domain",
+    "value": "htznr.li"
+  },
+  {
+    "type": "Domain",
+    "value": "second-ns.com"
+  },
+  {
+    "type": "Domain",
+    "value": "second-ns.de"
+  },
+  {
+    "type": "Domain",
+    "value": "your-objectstorage.com"
+  },
+  {
+    "type": "Domain",
+    "value": "your-server.de"
+  },
+  {
+    "type": "Domain",
+    "value": "your-storagebox.de"
+  },
+  {
+    "type": "Domain",
+    "value": "your-storageshare.de"
+  },
+  {
+    "type": "Full",
+    "value": "sentry.hetzner.company",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  }
+]

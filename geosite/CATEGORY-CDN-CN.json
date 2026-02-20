@@ -1,0 +1,461 @@
+[
+  {
+    "type": "Domain",
+    "value": "chuangcache.com"
+  },
+  {
+    "type": "Domain",
+    "value": "chuangcdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "funcdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "jiashule.com"
+  },
+  {
+    "type": "Domain",
+    "value": "jiasule.com"
+  },
+  {
+    "type": "Domain",
+    "value": "yunaq.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bsclink.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "qingcdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "trpcdn.net"
+  },
+  {
+    "type": "Domain",
+    "value": "bootcdn.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "bootcdn.net"
+  },
+  {
+    "type": "Domain",
+    "value": "bootcss.com"
+  },
+  {
+    "type": "Domain",
+    "value": "phpcomposer.com"
+  },
+  {
+    "type": "Domain",
+    "value": "fastcdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "acadn.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "bbbcdns.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dlgslb.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "dlgslb.net"
+  },
+  {
+    "type": "Domain",
+    "value": "dwion.com"
+  },
+  {
+    "type": "Domain",
+    "value": "acadn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "tlgslb.com"
+  },
+  {
+    "type": "Domain",
+    "value": "globalcdn.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "flxdns.com"
+  },
+  {
+    "type": "Domain",
+    "value": "flxdns.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "mcadn.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "tlgslb.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "qbox.me"
+  },
+  {
+    "type": "Domain",
+    "value": "qiniu.com"
+  },
+  {
+    "type": "Domain",
+    "value": "qiniucdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "qiniudn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "qiniudns.com"
+  },
+  {
+    "type": "Domain",
+    "value": "qiniup.com"
+  },
+  {
+    "type": "Domain",
+    "value": "qnsdk.com"
+  },
+  {
+    "type": "Domain",
+    "value": "qnssl.com"
+  },
+  {
+    "type": "Domain",
+    "value": "staticfile.net"
+  },
+  {
+    "type": "Domain",
+    "value": "staticfile.org"
+  },
+  {
+    "type": "Domain",
+    "value": "aicdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "upai.com"
+  },
+  {
+    "type": "Domain",
+    "value": "upaiyun.com"
+  },
+  {
+    "type": "Domain",
+    "value": "upcdn.net"
+  },
+  {
+    "type": "Domain",
+    "value": "upyun.com"
+  },
+  {
+    "type": "Domain",
+    "value": "oncdp.com"
+  },
+  {
+    "type": "Domain",
+    "value": "51cdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "8686c.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cdn20.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cdn30.org"
+  },
+  {
+    "type": "Domain",
+    "value": "cdnmg.com"
+  },
+  {
+    "type": "Domain",
+    "value": "chinanetcenter.com"
+  },
+  {
+    "type": "Domain",
+    "value": "lxdns.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "lxdns.com"
+  },
+  {
+    "type": "Domain",
+    "value": "lxdns.info"
+  },
+  {
+    "type": "Domain",
+    "value": "lxdns.net"
+  },
+  {
+    "type": "Domain",
+    "value": "lxdns.org"
+  },
+  {
+    "type": "Domain",
+    "value": "mwcdns.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mwcloudcdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ourdvsss.com"
+  },
+  {
+    "type": "Domain",
+    "value": "qtlcdn.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "qtlcdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "qtlcdn.net"
+  },
+  {
+    "type": "Domain",
+    "value": "speedws.info"
+  },
+  {
+    "type": "Domain",
+    "value": "speedws.org"
+  },
+  {
+    "type": "Domain",
+    "value": "wangsu.com"
+  },
+  {
+    "type": "Domain",
+    "value": "wscdns.com"
+  },
+  {
+    "type": "Domain",
+    "value": "wscdns.info"
+  },
+  {
+    "type": "Domain",
+    "value": "wscdns.org"
+  },
+  {
+    "type": "Domain",
+    "value": "wsdvs.com"
+  },
+  {
+    "type": "Domain",
+    "value": "wsglb.com"
+  },
+  {
+    "type": "Domain",
+    "value": "wsglb.net"
+  },
+  {
+    "type": "Domain",
+    "value": "wswebcdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "wswebpic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dfyun.com.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "fastcdn.com.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "cf-china.info",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "cf-ns.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "cf-ns.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "cf-ns.site",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "cf-ns.tech",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "cftest5.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "cftest6.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "cftest7.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "cftest8.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "cloudflare-cn.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "cloudflareanycast.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "cloudflarechina.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "cloudflarecn.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "cloudflareglobal.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "cloudflareinsights-cn.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "cloudflareperf.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "cloudflareprod.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "cloudflarestaging.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "cloudflarestoragegw.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

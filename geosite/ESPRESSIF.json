@@ -1,0 +1,14 @@
+[
+  {
+    "type": "Domain",
+    "value": "espressif.com"
+  },
+  {
+    "type": "Domain",
+    "value": "esp32.com"
+  },
+  {
+    "type": "Domain",
+    "value": "esp8266.com"
+  }
+]

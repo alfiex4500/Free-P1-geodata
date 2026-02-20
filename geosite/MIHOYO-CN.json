@@ -1,0 +1,80 @@
+[
+  {
+    "type": "Domain",
+    "value": "mhystatic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mhyurl.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "mihayo.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mihayou.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mihoyo.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mihoyocg.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mihoyogift.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mihoyomall.com"
+  },
+  {
+    "type": "Domain",
+    "value": "miyoushe.com"
+  },
+  {
+    "type": "Domain",
+    "value": "benghuai.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bh3.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bhsr.com"
+  },
+  {
+    "type": "Domain",
+    "value": "themisweeps.com"
+  },
+  {
+    "type": "Domain",
+    "value": "yuanshen.com"
+  },
+  {
+    "type": "Domain",
+    "value": "juequling.com"
+  },
+  {
+    "type": "Regex",
+    "value": "^.+-mihayo\\.akamaized\\.net$",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "log-upload.mihoyo.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "type": "Domain",
+    "value": "pugpig-dev.com"
+  },
+  {
+    "type": "Domain",
+    "value": "pugpig-stage.com"
+  },
+  {
+    "type": "Domain",
+    "value": "pugpig.com"
+  }
+]

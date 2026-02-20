@@ -1,0 +1,498 @@
+[
+  {
+    "type": "Full",
+    "value": "dns.adguard.com"
+  },
+  {
+    "type": "Full",
+    "value": "dns.adguard-dns.com"
+  },
+  {
+    "type": "Full",
+    "value": "family.adguard-dns.com"
+  },
+  {
+    "type": "Full",
+    "value": "unfiltered.adguard-dns.com"
+  },
+  {
+    "type": "Full",
+    "value": "dns.alidns.com"
+  },
+  {
+    "type": "Full",
+    "value": "doh.dns.apple.com"
+  },
+  {
+    "type": "Full",
+    "value": "dns.caliph.dev"
+  },
+  {
+    "type": "Full",
+    "value": "dns.bebasid.com"
+  },
+  {
+    "type": "Full",
+    "value": "antivirus.bebasid.com"
+  },
+  {
+    "type": "Full",
+    "value": "internetsehat.bebasid.com"
+  },
+  {
+    "type": "Full",
+    "value": "dns.cfiec.net"
+  },
+  {
+    "type": "Full",
+    "value": "doh.opendns.com"
+  },
+  {
+    "type": "Full",
+    "value": "doh.familyshield.opendns.com"
+  },
+  {
+    "type": "Full",
+    "value": "doh.sandbox.opendns.com"
+  },
+  {
+    "type": "Full",
+    "value": "doh.cleanbrowsing.org"
+  },
+  {
+    "type": "Full",
+    "value": "one.one.one.one"
+  },
+  {
+    "type": "Full",
+    "value": "dns.cloudflare.com"
+  },
+  {
+    "type": "Full",
+    "value": "cloudflare-dns.com"
+  },
+  {
+    "type": "Full",
+    "value": "security.cloudflare-dns.com"
+  },
+  {
+    "type": "Full",
+    "value": "family.cloudflare-dns.com"
+  },
+  {
+    "type": "Full",
+    "value": "freedns.controld.com"
+  },
+  {
+    "type": "Full",
+    "value": "dns.decloudus.com"
+  },
+  {
+    "type": "Full",
+    "value": "futuredns.eu.org"
+  },
+  {
+    "type": "Full",
+    "value": "dns.de.futuredns.eu.org"
+  },
+  {
+    "type": "Full",
+    "value": "dns.us.futuredns.eu.org"
+  },
+  {
+    "type": "Full",
+    "value": "doh.dns.sb"
+  },
+  {
+    "type": "Full",
+    "value": "doh.sb"
+  },
+  {
+    "type": "Full",
+    "value": "dns.sb"
+  },
+  {
+    "type": "Full",
+    "value": "de-dus.doh.sb"
+  },
+  {
+    "type": "Full",
+    "value": "de-fra.doh.sb"
+  },
+  {
+    "type": "Full",
+    "value": "nl-ams.doh.sb"
+  },
+  {
+    "type": "Full",
+    "value": "uk-lon.doh.sb"
+  },
+  {
+    "type": "Full",
+    "value": "ee-tll.doh.sb"
+  },
+  {
+    "type": "Full",
+    "value": "jp-kix.doh.sb"
+  },
+  {
+    "type": "Full",
+    "value": "jp-nrt.doh.sb"
+  },
+  {
+    "type": "Full",
+    "value": "hk-hkg.doh.sb"
+  },
+  {
+    "type": "Full",
+    "value": "au-syd.doh.sb"
+  },
+  {
+    "type": "Full",
+    "value": "us-chi.doh.sb"
+  },
+  {
+    "type": "Full",
+    "value": "us-nyc.doh.sb"
+  },
+  {
+    "type": "Full",
+    "value": "us-sjc.doh.sb"
+  },
+  {
+    "type": "Full",
+    "value": "in-blr.doh.sb"
+  },
+  {
+    "type": "Full",
+    "value": "sg-sin.doh.sb"
+  },
+  {
+    "type": "Full",
+    "value": "kr-sel.doh.sb"
+  },
+  {
+    "type": "Full",
+    "value": "ru-mow.doh.sb"
+  },
+  {
+    "type": "Full",
+    "value": "ca-yyz.doh.sb"
+  },
+  {
+    "type": "Full",
+    "value": "de-ber.doh.sb"
+  },
+  {
+    "type": "Full",
+    "value": "doh.pub"
+  },
+  {
+    "type": "Full",
+    "value": "dns.pub"
+  },
+  {
+    "type": "Full",
+    "value": "sm2.doh.pub"
+  },
+  {
+    "type": "Full",
+    "value": "zero.dns0.eu"
+  },
+  {
+    "type": "Full",
+    "value": "dns.google"
+  },
+  {
+    "type": "Full",
+    "value": "ordns.he.net"
+  },
+  {
+    "type": "Full",
+    "value": "dns.mullvad.net"
+  },
+  {
+    "type": "Full",
+    "value": "adblock.dns.mullvad.net"
+  },
+  {
+    "type": "Full",
+    "value": "base.dns.mullvad.net"
+  },
+  {
+    "type": "Full",
+    "value": "extended.dns.mullvad.net"
+  },
+  {
+    "type": "Full",
+    "value": "family.dns.mullvad.net"
+  },
+  {
+    "type": "Full",
+    "value": "all.dns.mullvad.net"
+  },
+  {
+    "type": "Full",
+    "value": "dns.nextdns.io"
+  },
+  {
+    "type": "Full",
+    "value": "anycast.dns.nextdns.io"
+  },
+  {
+    "type": "Full",
+    "value": "ada.openbld.net"
+  },
+  {
+    "type": "Full",
+    "value": "ric.openbld.net"
+  },
+  {
+    "type": "Full",
+    "value": "dns.quad9.net"
+  },
+  {
+    "type": "Full",
+    "value": "dns10.quad9.net"
+  },
+  {
+    "type": "Full",
+    "value": "dns11.quad9.net"
+  },
+  {
+    "type": "Full",
+    "value": "doh.qis.io"
+  },
+  {
+    "type": "Full",
+    "value": "dns.rabbitdns.org"
+  },
+  {
+    "type": "Full",
+    "value": "security.rabbitdns.org"
+  },
+  {
+    "type": "Full",
+    "value": "family.rabbitdns.org"
+  },
+  {
+    "type": "Full",
+    "value": "basic.rethinkdns.com"
+  },
+  {
+    "type": "Full",
+    "value": "doh.360.cn"
+  },
+  {
+    "type": "Full",
+    "value": "dns.surfsharkdns.com"
+  },
+  {
+    "type": "Full",
+    "value": "v.recipes"
+  },
+  {
+    "type": "Full",
+    "value": "wikimedia-dns.org"
+  },
+  {
+    "type": "Full",
+    "value": "doh.applied-privacy.net"
+  },
+  {
+    "type": "Full",
+    "value": "private.canadianshield.cira.ca"
+  },
+  {
+    "type": "Full",
+    "value": "protected.canadianshield.cira.ca"
+  },
+  {
+    "type": "Full",
+    "value": "family.canadianshield.cira.ca"
+  },
+  {
+    "type": "Full",
+    "value": "dns.comss.one"
+  },
+  {
+    "type": "Full",
+    "value": "router.comss.one"
+  },
+  {
+    "type": "Full",
+    "value": "odvr.nic.cz"
+  },
+  {
+    "type": "Full",
+    "value": "dns.digitale-gesellschaft.ch"
+  },
+  {
+    "type": "Full",
+    "value": "dns-doh.dnsforfamily.com"
+  },
+  {
+    "type": "Full",
+    "value": "protective.joindns4.eu"
+  },
+  {
+    "type": "Full",
+    "value": "child.joindns4.eu"
+  },
+  {
+    "type": "Full",
+    "value": "noads.joindns4.eu"
+  },
+  {
+    "type": "Full",
+    "value": "child-noads.joindns4.eu"
+  },
+  {
+    "type": "Full",
+    "value": "unfiltered.joindns4.eu"
+  },
+  {
+    "type": "Full",
+    "value": "kaitain.restena.lu"
+  },
+  {
+    "type": "Full",
+    "value": "public.dns.iij.jp"
+  },
+  {
+    "type": "Full",
+    "value": "dns.jupitrdns.com"
+  },
+  {
+    "type": "Full",
+    "value": "doh.libredns.gr"
+  },
+  {
+    "type": "Full",
+    "value": "doh-pure.onedns.net"
+  },
+  {
+    "type": "Full",
+    "value": "doh.onedns.net"
+  },
+  {
+    "type": "Full",
+    "value": "dns.switch.ch"
+  },
+  {
+    "type": "Full",
+    "value": "dns.twnic.tw"
+  },
+  {
+    "type": "Full",
+    "value": "resolver.dnsprivacy.org.uk"
+  },
+  {
+    "type": "Full",
+    "value": "dns.seia.io"
+  },
+  {
+    "type": "Full",
+    "value": "secondary.dns.seia.io"
+  },
+  {
+    "type": "Full",
+    "value": "common.dot.dns.yandex.net"
+  },
+  {
+    "type": "Full",
+    "value": "safe.dot.dns.yandex.net"
+  },
+  {
+    "type": "Full",
+    "value": "family.dot.dns.yandex.net"
+  },
+  {
+    "type": "Full",
+    "value": "doh.nl.ahadns.net"
+  },
+  {
+    "type": "Full",
+    "value": "doh.la.ahadns.net"
+  },
+  {
+    "type": "Full",
+    "value": "dns.arapurayil.com"
+  },
+  {
+    "type": "Full",
+    "value": "dandelionsprout.asuscomm.com"
+  },
+  {
+    "type": "Full",
+    "value": "dnsforge.de"
+  },
+  {
+    "type": "Full",
+    "value": "dns.dnswarden.com"
+  },
+  {
+    "type": "Full",
+    "value": "doh.ffmuc.net"
+  },
+  {
+    "type": "Full",
+    "value": "ibksturm.synology.me"
+  },
+  {
+    "type": "Full",
+    "value": "resolver-eu.lelux.fi"
+  },
+  {
+    "type": "Full",
+    "value": "dns.marbledfennec.net"
+  },
+  {
+    "type": "Full",
+    "value": "dns.oszx.co"
+  },
+  {
+    "type": "Full",
+    "value": "dns.pumplex.com"
+  },
+  {
+    "type": "Full",
+    "value": "doh.tiarap.org"
+  },
+  {
+    "type": "Full",
+    "value": "doh.tiar.app"
+  },
+  {
+    "type": "Full",
+    "value": "jp.tiarap.org"
+  },
+  {
+    "type": "Full",
+    "value": "jp.tiar.app"
+  },
+  {
+    "type": "Full",
+    "value": "rx.techomespace.com"
+  },
+  {
+    "type": "Full",
+    "value": "public.ns.nwps.fi"
+  },
+  {
+    "type": "Full",
+    "value": "kids.ns.nwps.fi"
+  },
+  {
+    "type": "Full",
+    "value": "frd4wvnobp.cloudflare-gateway.com"
+  },
+  {
+    "type": "Full",
+    "value": "dnsguard.pub"
+  },
+  {
+    "type": "Full",
+    "value": "doh.18bit.cn"
+  }
+]

@@ -1,0 +1,121 @@
+[
+  {
+    "type": "Full",
+    "value": "audio-ak-spotify-com.akamaized.net"
+  },
+  {
+    "type": "Full",
+    "value": "audio4-ak-spotify-com.akamaized.net"
+  },
+  {
+    "type": "Full",
+    "value": "cdn-spotify-experiments.conductrics.com"
+  },
+  {
+    "type": "Full",
+    "value": "heads-ak-spotify-com.akamaized.net"
+  },
+  {
+    "type": "Full",
+    "value": "heads4-ak-spotify-com.akamaized.net"
+  },
+  {
+    "type": "Full",
+    "value": "spotify.com.edgesuite.net"
+  },
+  {
+    "type": "Full",
+    "value": "spotify.map.fastly.net"
+  },
+  {
+    "type": "Full",
+    "value": "spotify.map.fastlylb.net"
+  },
+  {
+    "type": "Domain",
+    "value": "byspotify.com"
+  },
+  {
+    "type": "Domain",
+    "value": "pscdn.co"
+  },
+  {
+    "type": "Domain",
+    "value": "scdn.co"
+  },
+  {
+    "type": "Domain",
+    "value": "spoti.fi"
+  },
+  {
+    "type": "Domain",
+    "value": "spotify-everywhere.com"
+  },
+  {
+    "type": "Domain",
+    "value": "spotify.com"
+  },
+  {
+    "type": "Domain",
+    "value": "spotify.design"
+  },
+  {
+    "type": "Domain",
+    "value": "spotifycdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "spotifycdn.net"
+  },
+  {
+    "type": "Domain",
+    "value": "spotifycharts.com"
+  },
+  {
+    "type": "Domain",
+    "value": "spotifycodes.com"
+  },
+  {
+    "type": "Domain",
+    "value": "spotifyforbrands.com"
+  },
+  {
+    "type": "Domain",
+    "value": "spotifyjobs.com"
+  },
+  {
+    "type": "Domain",
+    "value": "spotify.link"
+  },
+  {
+    "type": "Domain",
+    "value": "tospotify.com"
+  },
+  {
+    "type": "Full",
+    "value": "adeventtracker.spotify.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "adstudio-assets.scdn.co",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "bloodhound.spotify.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "type": "Domain",
+    "value": "aerogardcn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "aerogard.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "aerogard.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

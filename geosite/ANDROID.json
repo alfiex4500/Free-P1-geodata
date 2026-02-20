@@ -1,0 +1,18 @@
+[
+  {
+    "type": "Full",
+    "value": "android.googlesource.com"
+  },
+  {
+    "type": "Domain",
+    "value": "android"
+  },
+  {
+    "type": "Domain",
+    "value": "android.com"
+  },
+  {
+    "type": "Domain",
+    "value": "androidify.com"
+  }
+]

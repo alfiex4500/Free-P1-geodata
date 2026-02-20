@@ -1,0 +1,107 @@
+[
+  {
+    "type": "Domain",
+    "value": "test-ipv6.com"
+  },
+  {
+    "type": "Domain",
+    "value": "testipv6.de"
+  },
+  {
+    "type": "Domain",
+    "value": "sixte.st"
+  },
+  {
+    "type": "Domain",
+    "value": "test-ipv6.se"
+  },
+  {
+    "type": "Domain",
+    "value": "test-ipv6.is"
+  },
+  {
+    "type": "Domain",
+    "value": "test-ipv6.hu"
+  },
+  {
+    "type": "Domain",
+    "value": "test-ipv6.cz"
+  },
+  {
+    "type": "Domain",
+    "value": "test-ipv6.cl"
+  },
+  {
+    "type": "Domain",
+    "value": "test-ipv6.epic.network"
+  },
+  {
+    "type": "Domain",
+    "value": "test-ipv6.arauc.br"
+  },
+  {
+    "type": "Domain",
+    "value": "test-ipv6.carnet.hr"
+  },
+  {
+    "type": "Domain",
+    "value": "test-ipv6.fratec.net"
+  },
+  {
+    "type": "Domain",
+    "value": "test-ipv6.freerangecloud.com"
+  },
+  {
+    "type": "Domain",
+    "value": "test-ipv6.go6.si"
+  },
+  {
+    "type": "Domain",
+    "value": "test-ipv6.belwue.net"
+  },
+  {
+    "type": "Domain",
+    "value": "test-ipv6.ttk.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "test-ipv6.iu13.net"
+  },
+  {
+    "type": "Domain",
+    "value": "test-ipv6.alpinedc.ch"
+  },
+  {
+    "type": "Domain",
+    "value": "test-ipv6.noroutetohost.net"
+  },
+  {
+    "type": "Domain",
+    "value": "test-ipv6.roedu.net"
+  },
+  {
+    "type": "Domain",
+    "value": "test-ipv6.ke.liquidtelecom.net"
+  },
+  {
+    "type": "Domain",
+    "value": "test-ipv6.sin.vr.org"
+  },
+  {
+    "type": "Domain",
+    "value": "test-ipv6.cs.umd.edu"
+  },
+  {
+    "type": "Domain",
+    "value": "test-ipv6.csclub.uwaterloo.ca"
+  },
+  {
+    "type": "Domain",
+    "value": "testipv6.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

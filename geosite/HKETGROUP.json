@@ -1,0 +1,64 @@
+[
+  {
+    "type": "Domain",
+    "value": "etwealth.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hket.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hketgroup.com"
+  },
+  {
+    "type": "Domain",
+    "value": "apexprint.com.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "eprc.com.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "etbc.com.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "etnet.com.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "etpress.com.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "ettrade.com.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "ulifestyle.com.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "umagazine.com.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "etnet.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "etnetchina.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

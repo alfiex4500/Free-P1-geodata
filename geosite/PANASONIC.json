@@ -1,0 +1,27 @@
+[
+  {
+    "type": "Domain",
+    "value": "panasonic"
+  },
+  {
+    "type": "Domain",
+    "value": "panasonic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "panasonic.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "technics.com"
+  },
+  {
+    "type": "Domain",
+    "value": "panasonic.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "type": "Domain",
+    "value": "bsky.app"
+  },
+  {
+    "type": "Domain",
+    "value": "bsky.network"
+  },
+  {
+    "type": "Domain",
+    "value": "bsky.social"
+  }
+]

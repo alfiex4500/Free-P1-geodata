@@ -1,0 +1,18 @@
+[
+  {
+    "type": "Domain",
+    "value": "readthedocs-hosted.com"
+  },
+  {
+    "type": "Domain",
+    "value": "readthedocs.com"
+  },
+  {
+    "type": "Domain",
+    "value": "readthedocs.io"
+  },
+  {
+    "type": "Domain",
+    "value": "readthedocs.org"
+  }
+]

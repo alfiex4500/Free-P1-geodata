@@ -1,0 +1,22 @@
+[
+  {
+    "type": "Domain",
+    "value": "clarivate.com"
+  },
+  {
+    "type": "Domain",
+    "value": "webofknowledge.com"
+  },
+  {
+    "type": "Domain",
+    "value": "webofscience.com"
+  },
+  {
+    "type": "Domain",
+    "value": "newisiknowledge.com"
+  },
+  {
+    "type": "Domain",
+    "value": "isiknowledge.com"
+  }
+]

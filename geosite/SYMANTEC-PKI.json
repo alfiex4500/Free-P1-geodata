@@ -1,0 +1,22 @@
+[
+  {
+    "type": "Domain",
+    "value": "symauth.com"
+  },
+  {
+    "type": "Domain",
+    "value": "symcb.com"
+  },
+  {
+    "type": "Domain",
+    "value": "symcd.com"
+  },
+  {
+    "type": "Domain",
+    "value": "pki.symantec.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ws.symantec.com"
+  }
+]

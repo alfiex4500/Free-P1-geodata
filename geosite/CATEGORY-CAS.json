@@ -1,0 +1,1981 @@
+[
+  {
+    "type": "Full",
+    "value": "publicca.googleapis.com"
+  },
+  {
+    "type": "Full",
+    "value": "preprod-publicca.googleapis.com"
+  },
+  {
+    "type": "Full",
+    "value": "clients1.google.com"
+  },
+  {
+    "type": "Full",
+    "value": "pki.google.com"
+  },
+  {
+    "type": "Full",
+    "value": "crl.microsoft.com"
+  },
+  {
+    "type": "Full",
+    "value": "mscrl.microsoft.com"
+  },
+  {
+    "type": "Full",
+    "value": "ocsp.microsoft.com"
+  },
+  {
+    "type": "Full",
+    "value": "oneocsp.microsoft.com"
+  },
+  {
+    "type": "Full",
+    "value": "cdn.js7k.com"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo"
+  },
+  {
+    "type": "Domain",
+    "value": "godaddy"
+  },
+  {
+    "type": "Domain",
+    "value": "flickr"
+  },
+  {
+    "type": "Domain",
+    "value": "flickr.com"
+  },
+  {
+    "type": "Domain",
+    "value": "comodoca2.com"
+  },
+  {
+    "type": "Domain",
+    "value": "e-tugra.com"
+  },
+  {
+    "type": "Domain",
+    "value": "firmaprofesional.com"
+  },
+  {
+    "type": "Domain",
+    "value": "fnmt.es"
+  },
+  {
+    "type": "Domain",
+    "value": "harica.gr"
+  },
+  {
+    "type": "Domain",
+    "value": "infocert.digital"
+  },
+  {
+    "type": "Domain",
+    "value": "infocert.it"
+  },
+  {
+    "type": "Domain",
+    "value": "managedpki.com"
+  },
+  {
+    "type": "Domain",
+    "value": "netlock.hu"
+  },
+  {
+    "type": "Domain",
+    "value": "trustcor.ca"
+  },
+  {
+    "type": "Domain",
+    "value": "trustcor.com"
+  },
+  {
+    "type": "Domain",
+    "value": "trustisfps.com"
+  },
+  {
+    "type": "Domain",
+    "value": "pki.goog"
+  },
+  {
+    "type": "Domain",
+    "value": "ssl.com"
+  },
+  {
+    "type": "Domain",
+    "value": "digital-id.ch"
+  },
+  {
+    "type": "Domain",
+    "value": "digitalid.ch"
+  },
+  {
+    "type": "Domain",
+    "value": "managed-pki.ch"
+  },
+  {
+    "type": "Domain",
+    "value": "managed-pki.de"
+  },
+  {
+    "type": "Domain",
+    "value": "pki-post.ch"
+  },
+  {
+    "type": "Domain",
+    "value": "pki-posta.ch"
+  },
+  {
+    "type": "Domain",
+    "value": "pki-poste.ch"
+  },
+  {
+    "type": "Domain",
+    "value": "root-signing.ch"
+  },
+  {
+    "type": "Domain",
+    "value": "rootsigning.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ssl-certificate.ch"
+  },
+  {
+    "type": "Domain",
+    "value": "swissid.ch"
+  },
+  {
+    "type": "Domain",
+    "value": "swissign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "swissign.li"
+  },
+  {
+    "type": "Domain",
+    "value": "swisssign-group.ch"
+  },
+  {
+    "type": "Domain",
+    "value": "swisssign-group.com"
+  },
+  {
+    "type": "Domain",
+    "value": "swisssign-group.li"
+  },
+  {
+    "type": "Domain",
+    "value": "swisssign.ch"
+  },
+  {
+    "type": "Domain",
+    "value": "swisssign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "swisssign.li"
+  },
+  {
+    "type": "Domain",
+    "value": "swisssign.net"
+  },
+  {
+    "type": "Domain",
+    "value": "swisssign.org"
+  },
+  {
+    "type": "Domain",
+    "value": "swisssigner.ch"
+  },
+  {
+    "type": "Domain",
+    "value": "swisssigner.com"
+  },
+  {
+    "type": "Domain",
+    "value": "swisssigngroup.ch"
+  },
+  {
+    "type": "Domain",
+    "value": "swisssigngroup.com"
+  },
+  {
+    "type": "Domain",
+    "value": "swissstick.com"
+  },
+  {
+    "type": "Domain",
+    "value": "swisstsa.ch"
+  },
+  {
+    "type": "Domain",
+    "value": "swisstsa.li"
+  },
+  {
+    "type": "Domain",
+    "value": "trustdoc.ch"
+  },
+  {
+    "type": "Domain",
+    "value": "trustsign.ch"
+  },
+  {
+    "type": "Domain",
+    "value": "zert.ch"
+  },
+  {
+    "type": "Domain",
+    "value": "buypass-ssl.com"
+  },
+  {
+    "type": "Domain",
+    "value": "buypass.com"
+  },
+  {
+    "type": "Domain",
+    "value": "buypass.no"
+  },
+  {
+    "type": "Domain",
+    "value": "buypass.se"
+  },
+  {
+    "type": "Domain",
+    "value": "minid.no"
+  },
+  {
+    "type": "Domain",
+    "value": "lencr.org"
+  },
+  {
+    "type": "Domain",
+    "value": "letsencrypt.com"
+  },
+  {
+    "type": "Domain",
+    "value": "letsencrypt.org"
+  },
+  {
+    "type": "Domain",
+    "value": "trustwave.com"
+  },
+  {
+    "type": "Domain",
+    "value": "entrust.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "entrust.com"
+  },
+  {
+    "type": "Domain",
+    "value": "entrust.net"
+  },
+  {
+    "type": "Domain",
+    "value": "entrustdatacard.com"
+  },
+  {
+    "type": "Domain",
+    "value": "affirmtrust.com"
+  },
+  {
+    "type": "Domain",
+    "value": "atos.net"
+  },
+  {
+    "type": "Domain",
+    "value": "myatos.net"
+  },
+  {
+    "type": "Domain",
+    "value": "certificat2.com"
+  },
+  {
+    "type": "Domain",
+    "value": "trendmicro.com"
+  },
+  {
+    "type": "Domain",
+    "value": "starfieldtech.com"
+  },
+  {
+    "type": "Domain",
+    "value": "secomtrust.net"
+  },
+  {
+    "type": "Domain",
+    "value": "certinomis.com"
+  },
+  {
+    "type": "Domain",
+    "value": "certinomis.fr"
+  },
+  {
+    "type": "Domain",
+    "value": "msocsp.com"
+  },
+  {
+    "type": "Domain",
+    "value": "telesec.de"
+  },
+  {
+    "type": "Domain",
+    "value": "telekom.de"
+  },
+  {
+    "type": "Domain",
+    "value": "telekom.com"
+  },
+  {
+    "type": "Domain",
+    "value": "comodoca4.com"
+  },
+  {
+    "type": "Domain",
+    "value": "comodoca3.com"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.ae"
+  },
+  {
+    "type": "Domain",
+    "value": "wisecoin.com"
+  },
+  {
+    "type": "Domain",
+    "value": "wiseid.com"
+  },
+  {
+    "type": "Domain",
+    "value": "wisekey.com"
+  },
+  {
+    "type": "Domain",
+    "value": "comodoca.com"
+  },
+  {
+    "type": "Domain",
+    "value": "netsolssl.com"
+  },
+  {
+    "type": "Domain",
+    "value": "incommon-rsa.org"
+  },
+  {
+    "type": "Domain",
+    "value": "catcert.cat"
+  },
+  {
+    "type": "Domain",
+    "value": "actalis.com"
+  },
+  {
+    "type": "Domain",
+    "value": "actalis.it"
+  },
+  {
+    "type": "Domain",
+    "value": "digicert-cn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "digicert-validation.com"
+  },
+  {
+    "type": "Domain",
+    "value": "digicert.com"
+  },
+  {
+    "type": "Domain",
+    "value": "digicert.eu"
+  },
+  {
+    "type": "Domain",
+    "value": "digitalcertvalidation.com"
+  },
+  {
+    "type": "Domain",
+    "value": "freessl.com"
+  },
+  {
+    "type": "Domain",
+    "value": "geotrust.com"
+  },
+  {
+    "type": "Domain",
+    "value": "rapidssl.com"
+  },
+  {
+    "type": "Domain",
+    "value": "thawte.com"
+  },
+  {
+    "type": "Domain",
+    "value": "thawte.de"
+  },
+  {
+    "type": "Domain",
+    "value": "thawte.fr"
+  },
+  {
+    "type": "Domain",
+    "value": "quovadisglobal.com"
+  },
+  {
+    "type": "Domain",
+    "value": "public-trust.com"
+  },
+  {
+    "type": "Domain",
+    "value": "omniroot.com"
+  },
+  {
+    "type": "Domain",
+    "value": "symauth.com"
+  },
+  {
+    "type": "Domain",
+    "value": "symcb.com"
+  },
+  {
+    "type": "Domain",
+    "value": "symcd.com"
+  },
+  {
+    "type": "Domain",
+    "value": "aoc.cat"
+  },
+  {
+    "type": "Domain",
+    "value": "usertrust.com"
+  },
+  {
+    "type": "Domain",
+    "value": "trust-provider.com"
+  },
+  {
+    "type": "Domain",
+    "value": "sectigo.com"
+  },
+  {
+    "type": "Domain",
+    "value": "positivessl.com"
+  },
+  {
+    "type": "Domain",
+    "value": "optimumssl.com"
+  },
+  {
+    "type": "Domain",
+    "value": "instantssl.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hackerguardian.com"
+  },
+  {
+    "type": "Domain",
+    "value": "enterprisessl.com"
+  },
+  {
+    "type": "Domain",
+    "value": "x.co"
+  },
+  {
+    "type": "Domain",
+    "value": "godaddy.com"
+  },
+  {
+    "type": "Domain",
+    "value": "camerfirma.com"
+  },
+  {
+    "type": "Domain",
+    "value": "globalsign.eu"
+  },
+  {
+    "type": "Domain",
+    "value": "globalsign.fr"
+  },
+  {
+    "type": "Domain",
+    "value": "globalsign.be"
+  },
+  {
+    "type": "Domain",
+    "value": "globalsign.net"
+  },
+  {
+    "type": "Domain",
+    "value": "globalsign.nl"
+  },
+  {
+    "type": "Domain",
+    "value": "globalsign.cloud"
+  },
+  {
+    "type": "Domain",
+    "value": "globalsign.ch"
+  },
+  {
+    "type": "Domain",
+    "value": "globalsign-media.com"
+  },
+  {
+    "type": "Domain",
+    "value": "globalsign.es"
+  },
+  {
+    "type": "Domain",
+    "value": "ocsp-responder.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ocsp-certum.com"
+  },
+  {
+    "type": "Domain",
+    "value": "certum.pl"
+  },
+  {
+    "type": "Domain",
+    "value": "ss2.us"
+  },
+  {
+    "type": "Domain",
+    "value": "awstrust.com"
+  },
+  {
+    "type": "Domain",
+    "value": "amazontrust.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vodafone.it"
+  },
+  {
+    "type": "Domain",
+    "value": "vodafone.de"
+  },
+  {
+    "type": "Domain",
+    "value": "vodafone.com"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.in"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.im"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.ie"
+  },
+  {
+    "type": "Domain",
+    "value": "flic.kr"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.hr"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.gy"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.gr"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.gp"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.gm"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.gl"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.gg"
+  },
+  {
+    "type": "Domain",
+    "value": "yusercontent.com"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.ge"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.fr"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.fm"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.fi"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.es"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.ee"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.dm"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.sh"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.it"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.je"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.cz"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.jo"
+  },
+  {
+    "type": "Domain",
+    "value": "gandi.net"
+  },
+  {
+    "type": "Domain",
+    "value": "identrust.com"
+  },
+  {
+    "type": "Domain",
+    "value": "identrust.net"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.la"
+  },
+  {
+    "type": "Domain",
+    "value": "d-trust.net"
+  },
+  {
+    "type": "Domain",
+    "value": "certsign.ro"
+  },
+  {
+    "type": "Domain",
+    "value": "oath.cloud"
+  },
+  {
+    "type": "Domain",
+    "value": "oath.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ouroath.com"
+  },
+  {
+    "type": "Domain",
+    "value": "static-verizon.com"
+  },
+  {
+    "type": "Domain",
+    "value": "uplynk.com"
+  },
+  {
+    "type": "Domain",
+    "value": "verizon.com"
+  },
+  {
+    "type": "Domain",
+    "value": "verizon.net"
+  },
+  {
+    "type": "Domain",
+    "value": "verizonbusinessfios.com"
+  },
+  {
+    "type": "Domain",
+    "value": "verizondigitalmedia.com"
+  },
+  {
+    "type": "Domain",
+    "value": "verizonenterprise.com"
+  },
+  {
+    "type": "Domain",
+    "value": "verizonfios.com"
+  },
+  {
+    "type": "Domain",
+    "value": "verizonmedia.com"
+  },
+  {
+    "type": "Domain",
+    "value": "verizonwireless.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vzw.com"
+  },
+  {
+    "type": "Domain",
+    "value": "xo.com"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.ps"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.sn"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.at"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.az"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.ba"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.be"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.bg"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.bi"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.bs"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.bt"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.by"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.ca"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.cat"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.cd"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.cg"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.ch"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.cl"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.cm"
+  },
+  {
+    "type": "Domain",
+    "value": "staticflickr.com"
+  },
+  {
+    "type": "Domain",
+    "value": "flickr.net"
+  },
+  {
+    "type": "Domain",
+    "value": "accv.es"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.hu"
+  },
+  {
+    "type": "Domain",
+    "value": "e-szigno.hu"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.lt"
+  },
+  {
+    "type": "Domain",
+    "value": "ymail.com"
+  },
+  {
+    "type": "Domain",
+    "value": "yimg.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "yimg.com"
+  },
+  {
+    "type": "Domain",
+    "value": "yho.com"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoosportsbook.com"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoosandbox.com"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoomusic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoohealth.com"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoofinance.com"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoodns.net"
+  },
+  {
+    "type": "Domain",
+    "value": "yahooapis.com"
+  },
+  {
+    "type": "Domain",
+    "value": "techcrunch.com"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com"
+  },
+  {
+    "type": "Domain",
+    "value": "myguide.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "maktoob.com"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.ws"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.vg"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.tn"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.as"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.tm"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.tl"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.de"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.tk"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.tg"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.st"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.sr"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.so"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.is"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.sm"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.sk"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.si"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.dk"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.sg"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.dj"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.se"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.rw"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.ro"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.pt"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.am"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.pn"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.pl"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.ph"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.nu"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.no"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.nl"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.net"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.mx"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.mw"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.mk"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.me"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.md"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.lv"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.lu"
+  },
+  {
+    "type": "Domain",
+    "value": "svrsecure-oracle-ocsp.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "svrsecure-oracle-crl.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ws.symantec.com"
+  },
+  {
+    "type": "Domain",
+    "value": "pki.symantec.com"
+  },
+  {
+    "type": "Domain",
+    "value": "svrtrial-g2-crl.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "svrtrial-g2-aia.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo-news.com.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "svrsecure-t1-aia.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.af"
+  },
+  {
+    "type": "Domain",
+    "value": "svrsecure-t1-crl.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "svrsecure-oracle-aia.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "svrsecure-g3-crl.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "svrsecure-g3-aia.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "svrsecure-g2-crl.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "svrsecure-crl.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "svrsecure-aia.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "svrintl-t1-crl.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "svrintl-t1-aia.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "svrintl-g3-crl.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "svrintl-g3-aia.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "svrintl-crl.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "svrintl-aia.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "svr-wimax-ocsp.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ssp-ocsp.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ssp-crl.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ssp-aia.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.bd"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.ly"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.bz"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.vn"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.vc"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.uy"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.ua"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.tw"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.tr"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.tj"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.sv"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.sg"
+  },
+  {
+    "type": "Domain",
+    "value": "svrsecure-g2-aia.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.sa"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.py"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.pr"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.pk"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.ph"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.pe"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.pa"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.om"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.nf"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.na"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.my"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.mx"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.mt"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.lb"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.kw"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.gt"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.gi"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.fj"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.es"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.eg"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.ec"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.do"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.co"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.br"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.bo"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.ar"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.ai"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.ag"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.co.za"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.sb"
+  },
+  {
+    "type": "Domain",
+    "value": "identrust.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.co.uz"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.co.ve"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.co.vi"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.co.tz"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.co.th"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.co.nz"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.co.mz"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.co.kr"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.co.in"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.co.il"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.co.id"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.co.cr"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.co.ck"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.co.bw"
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.co.ao"
+  },
+  {
+    "type": "Domain",
+    "value": "pki-ocsp.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "orgc3-crl.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "onsitecrl.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "myvodafone.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "myvodafone.com.ws"
+  },
+  {
+    "type": "Domain",
+    "value": "vodafone.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "vodafone.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "vodafone.com.tr"
+  },
+  {
+    "type": "Domain",
+    "value": "ocsp.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "evsecure-t1-crl.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "evsecure-t1-aia.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "evsecure-ocsp.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "evsecure-crl.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "evsecure-aia.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "evintl-t1-crl.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "evintl-ocsp.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "evintl-crl.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "evintl-aia.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "eca-client-ocsp.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "eca-client-crl.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "csc3-2010-crl.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "csc3-2010-aia.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "csc3-2009-crl.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "globalsign.com.br"
+  },
+  {
+    "type": "Domain",
+    "value": "globalsign.com.sg"
+  },
+  {
+    "type": "Domain",
+    "value": "globalsign.com.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "globalsign.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "globalsign.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "csc3-2009-aia.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "csc3-2009-2-crl.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "csc3-2009-2-aia.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hongkongpost.gov.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "ecert.gov.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "csc3-2004-crl.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "csc3-2004-aia.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "crl.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "certipath-crl.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "certipath-aia.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "adobe-crl.verisign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cybertrust.ne.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "cybertrust.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "digicert.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "wisekey.com.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "twca.com.tw"
+  },
+  {
+    "type": "Domain",
+    "value": "managedpki.ne.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "secom.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "tls.hinet.net"
+  },
+  {
+    "type": "Domain",
+    "value": "publicca.hinet.net"
+  },
+  {
+    "type": "Domain",
+    "value": "pki.hinet.net"
+  },
+  {
+    "type": "Domain",
+    "value": "eca.hinet.net"
+  },
+  {
+    "type": "Domain",
+    "value": "gtlsca.nat.gov.tw"
+  },
+  {
+    "type": "Full",
+    "value": "pki-goog.l.google.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "c.pki.goog",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "i.pki.goog",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "o.pki.goog",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "crl.pki.goog",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "crls.pki.goog",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "ocsp.pki.goog",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "sslcom.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "www.entrust.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "www.microsoft.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "certs-lb.apple.com.akadns.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "certs.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "crl-lb.apple.com.akadns.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "crl.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "ocsp-lb.apple.com.akadns.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "ocsp.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "ocsp2-lb.apple.com.akadns.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "ocsp2.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "valid.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "valid.origin-apple.com.akadns.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "dcocsp.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "digicert.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "yahoo.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ads.yahoo.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "gemini.yahoo.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ysm.yahoo.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "alphassl.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "easy-signing.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "globalsign.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "globalsign.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "globalsigncdn.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "cdn.globalsigncdn.com.cdn.cloudflare.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "crl.globalsign.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "oemssl.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "oemssl.cn.cdn.cloudflare.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "sectigochina.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "sectigochina.com.cdn.cloudflare.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "trust-provider.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

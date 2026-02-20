@@ -1,0 +1,64 @@
+[
+  {
+    "type": "Domain",
+    "value": "bikaa.xyz"
+  },
+  {
+    "type": "Domain",
+    "value": "bikac.xyz"
+  },
+  {
+    "type": "Domain",
+    "value": "bikaios.xyz"
+  },
+  {
+    "type": "Domain",
+    "value": "manhuabika.com"
+  },
+  {
+    "type": "Domain",
+    "value": "picacgp.com"
+  },
+  {
+    "type": "Domain",
+    "value": "picacgy.com"
+  },
+  {
+    "type": "Domain",
+    "value": "picacn.xyz"
+  },
+  {
+    "type": "Domain",
+    "value": "picacomic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "picacomic.xyz"
+  },
+  {
+    "type": "Domain",
+    "value": "wikawika.xyz"
+  },
+  {
+    "type": "Domain",
+    "value": "diwodiwo.xyz"
+  },
+  {
+    "type": "Full",
+    "value": "ad-channel.diwodiwo.xyz",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "ad-display.diwodiwo.xyz",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  }
+]

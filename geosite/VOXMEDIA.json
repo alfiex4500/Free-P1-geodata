@@ -1,0 +1,66 @@
+[
+  {
+    "type": "Domain",
+    "value": "cstatic.net"
+  },
+  {
+    "type": "Domain",
+    "value": "curbed.com"
+  },
+  {
+    "type": "Domain",
+    "value": "eater.com"
+  },
+  {
+    "type": "Domain",
+    "value": "funnyordie.com"
+  },
+  {
+    "type": "Domain",
+    "value": "meridian.net"
+  },
+  {
+    "type": "Domain",
+    "value": "polygon.com"
+  },
+  {
+    "type": "Domain",
+    "value": "racked.com"
+  },
+  {
+    "type": "Domain",
+    "value": "recode.net"
+  },
+  {
+    "type": "Domain",
+    "value": "sbnation.com"
+  },
+  {
+    "type": "Domain",
+    "value": "theverge.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vox-cdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vox.com"
+  },
+  {
+    "type": "Domain",
+    "value": "voxcreative.com"
+  },
+  {
+    "type": "Domain",
+    "value": "voxfieldguide.com"
+  },
+  {
+    "type": "Domain",
+    "value": "voxmedia.com"
+  },
+  {
+    "type": "Domain",
+    "value": "voxops.net"
+  }
+]

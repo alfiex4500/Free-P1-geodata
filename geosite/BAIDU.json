@@ -1,0 +1,803 @@
+[
+  {
+    "type": "Domain",
+    "value": "baidu"
+  },
+  {
+    "type": "Domain",
+    "value": "91.com"
+  },
+  {
+    "type": "Domain",
+    "value": "aipage.com"
+  },
+  {
+    "type": "Domain",
+    "value": "antpcdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "apollo.auto"
+  },
+  {
+    "type": "Domain",
+    "value": "baidu-cdn.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "baidu-cdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "baidu-cdn.net"
+  },
+  {
+    "type": "Domain",
+    "value": "baidu.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "baidu.com"
+  },
+  {
+    "type": "Domain",
+    "value": "baiduapp.com"
+  },
+  {
+    "type": "Domain",
+    "value": "baidubce.com"
+  },
+  {
+    "type": "Domain",
+    "value": "baidubcr.com"
+  },
+  {
+    "type": "Domain",
+    "value": "baiducontent.com"
+  },
+  {
+    "type": "Domain",
+    "value": "baidupcs.com"
+  },
+  {
+    "type": "Domain",
+    "value": "baidustatic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "baiduyuncdn.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "baiduyuncdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "baiduyuncdn.net"
+  },
+  {
+    "type": "Domain",
+    "value": "baifae.com"
+  },
+  {
+    "type": "Domain",
+    "value": "baifubao.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bce-cdn.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "bce-cdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bce-cdn.net"
+  },
+  {
+    "type": "Domain",
+    "value": "bcebos.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bcelive.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bdcloudapi.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bdimg.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bdstatic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bdtjrcv.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bdurl.net"
+  },
+  {
+    "type": "Domain",
+    "value": "bdycdn.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "bdycdn.net"
+  },
+  {
+    "type": "Domain",
+    "value": "bdydns.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "bdydns.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bdydns.net"
+  },
+  {
+    "type": "Domain",
+    "value": "chuanke.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dlnel.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dlnel.org"
+  },
+  {
+    "type": "Domain",
+    "value": "duapp.com"
+  },
+  {
+    "type": "Domain",
+    "value": "duapp.net"
+  },
+  {
+    "type": "Domain",
+    "value": "duapps.com"
+  },
+  {
+    "type": "Domain",
+    "value": "duurl.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "dwz.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "hao123.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hao123img.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hao222.com"
+  },
+  {
+    "type": "Domain",
+    "value": "haokan.com"
+  },
+  {
+    "type": "Domain",
+    "value": "jomocdn.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "jomocdn.net"
+  },
+  {
+    "type": "Domain",
+    "value": "jomodns.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "jomodns.com"
+  },
+  {
+    "type": "Domain",
+    "value": "jomodns.net"
+  },
+  {
+    "type": "Domain",
+    "value": "jomoxc.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mipcdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "nuomi.com"
+  },
+  {
+    "type": "Domain",
+    "value": "quyaoya.com"
+  },
+  {
+    "type": "Domain",
+    "value": "shifen.com"
+  },
+  {
+    "type": "Domain",
+    "value": "smartapps.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "tieba.com"
+  },
+  {
+    "type": "Domain",
+    "value": "tiebaimg.com"
+  },
+  {
+    "type": "Domain",
+    "value": "xianfae.com"
+  },
+  {
+    "type": "Domain",
+    "value": "xiaodutv.com"
+  },
+  {
+    "type": "Domain",
+    "value": "yoojia.com"
+  },
+  {
+    "type": "Domain",
+    "value": "duxiaoman-int.com"
+  },
+  {
+    "type": "Domain",
+    "value": "duxiaoman.com"
+  },
+  {
+    "type": "Domain",
+    "value": "duxiaomanfintech.com"
+  },
+  {
+    "type": "Domain",
+    "value": "duxiaomantech.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dxm-cdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dxm-int.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dxmjinr.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dxmlcf.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dxmlcfintech.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dxmpay.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dxmstatic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dxmyqh.com"
+  },
+  {
+    "type": "Domain",
+    "value": "paydxm.com"
+  },
+  {
+    "type": "Domain",
+    "value": "zuoyebang.cc"
+  },
+  {
+    "type": "Domain",
+    "value": "zuoyebang.com"
+  },
+  {
+    "type": "Domain",
+    "value": "zybang.com"
+  },
+  {
+    "type": "Domain",
+    "value": "baidu.com.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "adscdn.baidu.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "adx.xiaodutv.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "afd.baidu.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "afdconf.baidu.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "baifen.music.baidu.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "bzclk.baidu.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "cb.baidu.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "cbjs.baidu.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "cm.baidu.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "cpro.baidu.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "cpro.baidustatic.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "cpu.baidu.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "cstm.baidu.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "dlswbr.baidu.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "drmcmm.baidu.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "duiwai.baidu.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "dup.baidustatic.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "eclick.baidu.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ecma.bdimg.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ecmb.bdimg.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ecmc.bdimg.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "eduad.baidu.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "eiv.baidu.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "fclick.baidu.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "fclog.baidu.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "h2tcbox.baidu.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "hao123union.baidu.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "hm.baidu.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "hmma.baidu.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "imgstat.baidu.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "iwanad.baidu.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "miao.baidu.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "miaowu.baidu.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "mipcache.bdstatic.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "mobads.baidu.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "mobads-logs.baidu.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "mobads-pre-config.cdn.bcebos.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "mountain.zhidao.baidu.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "nsclick.baidu.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "nsclickvideo.baidu.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "pimlog.baidu.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "pos.baidu.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "sclick.baidu.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "spcode.baidu.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "tcbox.baidu.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ubmcvideo.baidustatic.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "union.baidu.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "unionimage.baidu.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "wangmeng.baidu.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "wkctj.baidu.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "wm.baidu.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "zz.bdstatic.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "syh.zybang.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  }
+]

@@ -1,0 +1,187 @@
+[
+  {
+    "type": "Full",
+    "value": "flightsimulator.azureedge.net"
+  },
+  {
+    "type": "Full",
+    "value": "prodforza.blob.core.windows.net"
+  },
+  {
+    "type": "Domain",
+    "value": "xbox"
+  },
+  {
+    "type": "Domain",
+    "value": "gamepass.com"
+  },
+  {
+    "type": "Domain",
+    "value": "orithegame.com"
+  },
+  {
+    "type": "Domain",
+    "value": "renovacionxboxlive.com"
+  },
+  {
+    "type": "Domain",
+    "value": "tellmewhygame.com"
+  },
+  {
+    "type": "Domain",
+    "value": "xbox.co"
+  },
+  {
+    "type": "Domain",
+    "value": "xbox.com"
+  },
+  {
+    "type": "Domain",
+    "value": "xbox.eu"
+  },
+  {
+    "type": "Domain",
+    "value": "xbox.org"
+  },
+  {
+    "type": "Domain",
+    "value": "xbox360.co"
+  },
+  {
+    "type": "Domain",
+    "value": "xbox360.com"
+  },
+  {
+    "type": "Domain",
+    "value": "xbox360.eu"
+  },
+  {
+    "type": "Domain",
+    "value": "xbox360.org"
+  },
+  {
+    "type": "Domain",
+    "value": "xboxab.com"
+  },
+  {
+    "type": "Domain",
+    "value": "xboxgamepass.com"
+  },
+  {
+    "type": "Domain",
+    "value": "xboxgamestudios.com"
+  },
+  {
+    "type": "Domain",
+    "value": "xboxlive.com"
+  },
+  {
+    "type": "Domain",
+    "value": "xboxone.co"
+  },
+  {
+    "type": "Domain",
+    "value": "xboxone.com"
+  },
+  {
+    "type": "Domain",
+    "value": "xboxone.eu"
+  },
+  {
+    "type": "Domain",
+    "value": "xboxplayanywhere.com"
+  },
+  {
+    "type": "Domain",
+    "value": "xboxservices.com"
+  },
+  {
+    "type": "Domain",
+    "value": "xboxstudios.com"
+  },
+  {
+    "type": "Domain",
+    "value": "xbx.lv"
+  },
+  {
+    "type": "Domain",
+    "value": "asobostudio.com"
+  },
+  {
+    "type": "Domain",
+    "value": "flightsimulator.com"
+  },
+  {
+    "type": "Domain",
+    "value": "beth.games"
+  },
+  {
+    "type": "Domain",
+    "value": "bethesda.net"
+  },
+  {
+    "type": "Domain",
+    "value": "bethesdagamestudios.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bethsoft.com"
+  },
+  {
+    "type": "Domain",
+    "value": "doom.com"
+  },
+  {
+    "type": "Domain",
+    "value": "elderscrolls.com"
+  },
+  {
+    "type": "Domain",
+    "value": "forza.net"
+  },
+  {
+    "type": "Domain",
+    "value": "forzamotorsport.net"
+  },
+  {
+    "type": "Domain",
+    "value": "forzaracingchampionship.com"
+  },
+  {
+    "type": "Domain",
+    "value": "forzarc.com"
+  },
+  {
+    "type": "Domain",
+    "value": "callersbane.com"
+  },
+  {
+    "type": "Domain",
+    "value": "minecraft-services.net"
+  },
+  {
+    "type": "Domain",
+    "value": "minecraft.net"
+  },
+  {
+    "type": "Domain",
+    "value": "minecraftservices.com"
+  },
+  {
+    "type": "Domain",
+    "value": "minecraftshop.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mojang.com"
+  },
+  {
+    "type": "Domain",
+    "value": "xboxlive.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

@@ -1,0 +1,121 @@
+[
+  {
+    "type": "Domain",
+    "value": "globalsign.es"
+  },
+  {
+    "type": "Domain",
+    "value": "globalsign-media.com"
+  },
+  {
+    "type": "Domain",
+    "value": "globalsign.ch"
+  },
+  {
+    "type": "Domain",
+    "value": "globalsign.cloud"
+  },
+  {
+    "type": "Domain",
+    "value": "globalsign.nl"
+  },
+  {
+    "type": "Domain",
+    "value": "globalsign.net"
+  },
+  {
+    "type": "Domain",
+    "value": "globalsign.be"
+  },
+  {
+    "type": "Domain",
+    "value": "globalsign.fr"
+  },
+  {
+    "type": "Domain",
+    "value": "globalsign.eu"
+  },
+  {
+    "type": "Domain",
+    "value": "globalsign.com.br"
+  },
+  {
+    "type": "Domain",
+    "value": "globalsign.com.sg"
+  },
+  {
+    "type": "Domain",
+    "value": "globalsign.com.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "globalsign.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "globalsign.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "alphassl.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "easy-signing.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "globalsign.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "globalsign.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "globalsigncdn.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "cdn.globalsigncdn.com.cdn.cloudflare.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "crl.globalsign.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

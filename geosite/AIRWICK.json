@@ -1,0 +1,167 @@
+[
+  {
+    "type": "Domain",
+    "value": "airwick.fi"
+  },
+  {
+    "type": "Domain",
+    "value": "airwick.pl"
+  },
+  {
+    "type": "Domain",
+    "value": "airwick.ca"
+  },
+  {
+    "type": "Domain",
+    "value": "airwick.ch"
+  },
+  {
+    "type": "Domain",
+    "value": "airwick.cl"
+  },
+  {
+    "type": "Domain",
+    "value": "vipoo.es"
+  },
+  {
+    "type": "Domain",
+    "value": "airwick.at"
+  },
+  {
+    "type": "Domain",
+    "value": "airwick.us"
+  },
+  {
+    "type": "Domain",
+    "value": "airwick.tv"
+  },
+  {
+    "type": "Domain",
+    "value": "airwick.com"
+  },
+  {
+    "type": "Domain",
+    "value": "airwick.sk"
+  },
+  {
+    "type": "Domain",
+    "value": "airwick.fr"
+  },
+  {
+    "type": "Domain",
+    "value": "airwick.se"
+  },
+  {
+    "type": "Domain",
+    "value": "airwick.hr"
+  },
+  {
+    "type": "Domain",
+    "value": "airwick.cz"
+  },
+  {
+    "type": "Domain",
+    "value": "airwick.de"
+  },
+  {
+    "type": "Domain",
+    "value": "airwick.dk"
+  },
+  {
+    "type": "Domain",
+    "value": "airwick.es"
+  },
+  {
+    "type": "Domain",
+    "value": "airwickarabia.com"
+  },
+  {
+    "type": "Domain",
+    "value": "airwick.si"
+  },
+  {
+    "type": "Domain",
+    "value": "airwick.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "airwick.hu"
+  },
+  {
+    "type": "Domain",
+    "value": "airwick.ie"
+  },
+  {
+    "type": "Domain",
+    "value": "airwick.it"
+  },
+  {
+    "type": "Domain",
+    "value": "airwick.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "airwick.net"
+  },
+  {
+    "type": "Domain",
+    "value": "airwick.nl"
+  },
+  {
+    "type": "Domain",
+    "value": "airwick.no"
+  },
+  {
+    "type": "Domain",
+    "value": "airwick.be"
+  },
+  {
+    "type": "Domain",
+    "value": "airwick.pt"
+  },
+  {
+    "type": "Domain",
+    "value": "airwick.ro"
+  },
+  {
+    "type": "Domain",
+    "value": "airwick.com.tr"
+  },
+  {
+    "type": "Domain",
+    "value": "airwick.com.mx"
+  },
+  {
+    "type": "Domain",
+    "value": "airwick.com.br"
+  },
+  {
+    "type": "Domain",
+    "value": "airwick.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "airwick.co.za"
+  },
+  {
+    "type": "Domain",
+    "value": "airwick.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "airwick.co.nz"
+  },
+  {
+    "type": "Domain",
+    "value": "airwick.co.in"
+  },
+  {
+    "type": "Domain",
+    "value": "airwick.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

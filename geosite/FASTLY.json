@@ -1,0 +1,34 @@
+[
+  {
+    "type": "Domain",
+    "value": "fastly-edge.com"
+  },
+  {
+    "type": "Domain",
+    "value": "fastly-terrarium.com"
+  },
+  {
+    "type": "Domain",
+    "value": "fastly.com"
+  },
+  {
+    "type": "Domain",
+    "value": "fastly.io"
+  },
+  {
+    "type": "Domain",
+    "value": "fastly.net"
+  },
+  {
+    "type": "Domain",
+    "value": "fastlylabs.com"
+  },
+  {
+    "type": "Domain",
+    "value": "fastlylb.net"
+  },
+  {
+    "type": "Domain",
+    "value": "zencdn.net"
+  }
+]

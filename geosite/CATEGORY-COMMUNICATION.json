@@ -1,0 +1,584 @@
+[
+  {
+    "type": "Full",
+    "value": "discord-attachments-uploads-prd.storage.googleapis.com"
+  },
+  {
+    "type": "Full",
+    "value": "hammerandchisel.ssl.zendesk.com"
+  },
+  {
+    "type": "Domain",
+    "value": "intercom.com"
+  },
+  {
+    "type": "Domain",
+    "value": "intercom.io"
+  },
+  {
+    "type": "Domain",
+    "value": "intercomassets.com"
+  },
+  {
+    "type": "Domain",
+    "value": "intercomcdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "arewereadyyet.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cinny.in"
+  },
+  {
+    "type": "Domain",
+    "value": "element.io"
+  },
+  {
+    "type": "Domain",
+    "value": "fluffychat.im"
+  },
+  {
+    "type": "Domain",
+    "value": "matrix.org"
+  },
+  {
+    "type": "Domain",
+    "value": "matrix.to"
+  },
+  {
+    "type": "Domain",
+    "value": "modular.im"
+  },
+  {
+    "type": "Domain",
+    "value": "riot.im"
+  },
+  {
+    "type": "Domain",
+    "value": "vector.im"
+  },
+  {
+    "type": "Domain",
+    "value": "pm.me"
+  },
+  {
+    "type": "Domain",
+    "value": "proton.me"
+  },
+  {
+    "type": "Domain",
+    "value": "protonmail.ch"
+  },
+  {
+    "type": "Domain",
+    "value": "protonmail.com"
+  },
+  {
+    "type": "Domain",
+    "value": "protonstatus.com"
+  },
+  {
+    "type": "Domain",
+    "value": "protontech.ch"
+  },
+  {
+    "type": "Domain",
+    "value": "protonvpn.ch"
+  },
+  {
+    "type": "Domain",
+    "value": "protonvpn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "protonweb.com"
+  },
+  {
+    "type": "Domain",
+    "value": "signal.art"
+  },
+  {
+    "type": "Domain",
+    "value": "signal.group"
+  },
+  {
+    "type": "Domain",
+    "value": "signal.link"
+  },
+  {
+    "type": "Domain",
+    "value": "signal.me"
+  },
+  {
+    "type": "Domain",
+    "value": "signal.tube"
+  },
+  {
+    "type": "Domain",
+    "value": "signal.org"
+  },
+  {
+    "type": "Domain",
+    "value": "signalusers.org"
+  },
+  {
+    "type": "Domain",
+    "value": "whispersystems.org"
+  },
+  {
+    "type": "Domain",
+    "value": "temp-mail.org"
+  },
+  {
+    "type": "Domain",
+    "value": "dis.gd"
+  },
+  {
+    "type": "Domain",
+    "value": "discord.co"
+  },
+  {
+    "type": "Domain",
+    "value": "discord.com"
+  },
+  {
+    "type": "Domain",
+    "value": "discord.design"
+  },
+  {
+    "type": "Domain",
+    "value": "discord.dev"
+  },
+  {
+    "type": "Domain",
+    "value": "discord.gg"
+  },
+  {
+    "type": "Domain",
+    "value": "discord.gift"
+  },
+  {
+    "type": "Domain",
+    "value": "discord.gifts"
+  },
+  {
+    "type": "Domain",
+    "value": "discord.media"
+  },
+  {
+    "type": "Domain",
+    "value": "discord.new"
+  },
+  {
+    "type": "Domain",
+    "value": "discord.store"
+  },
+  {
+    "type": "Domain",
+    "value": "discord.tools"
+  },
+  {
+    "type": "Domain",
+    "value": "discord-activities.com"
+  },
+  {
+    "type": "Domain",
+    "value": "discordactivities.com"
+  },
+  {
+    "type": "Domain",
+    "value": "discordapp.com"
+  },
+  {
+    "type": "Domain",
+    "value": "discordapp.net"
+  },
+  {
+    "type": "Domain",
+    "value": "discordmerch.com"
+  },
+  {
+    "type": "Domain",
+    "value": "discordpartygames.com"
+  },
+  {
+    "type": "Domain",
+    "value": "discordsays.com"
+  },
+  {
+    "type": "Domain",
+    "value": "discordstatus.com"
+  },
+  {
+    "type": "Domain",
+    "value": "airhorn.solutions"
+  },
+  {
+    "type": "Domain",
+    "value": "airhornbot.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bigbeans.solutions"
+  },
+  {
+    "type": "Domain",
+    "value": "watchanimeattheoffice.com"
+  },
+  {
+    "type": "Domain",
+    "value": "discordapp.io"
+  },
+  {
+    "type": "Domain",
+    "value": "discordcdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "keybase.io"
+  },
+  {
+    "type": "Domain",
+    "value": "keybaseapi.com"
+  },
+  {
+    "type": "Domain",
+    "value": "slack-core.com"
+  },
+  {
+    "type": "Domain",
+    "value": "slack-edge.com"
+  },
+  {
+    "type": "Domain",
+    "value": "slack-files.com"
+  },
+  {
+    "type": "Domain",
+    "value": "slack-imgs.com"
+  },
+  {
+    "type": "Domain",
+    "value": "slack-msgs.com"
+  },
+  {
+    "type": "Domain",
+    "value": "slack-redir.net"
+  },
+  {
+    "type": "Domain",
+    "value": "slack.com"
+  },
+  {
+    "type": "Domain",
+    "value": "slackb.com"
+  },
+  {
+    "type": "Domain",
+    "value": "slackcertified.com"
+  },
+  {
+    "type": "Domain",
+    "value": "slackdemo.com"
+  },
+  {
+    "type": "Domain",
+    "value": "slackhq.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cdn-telegram.org"
+  },
+  {
+    "type": "Domain",
+    "value": "comments.app"
+  },
+  {
+    "type": "Domain",
+    "value": "contest.com"
+  },
+  {
+    "type": "Domain",
+    "value": "fragment.com"
+  },
+  {
+    "type": "Domain",
+    "value": "graph.org"
+  },
+  {
+    "type": "Domain",
+    "value": "quiz.directory"
+  },
+  {
+    "type": "Domain",
+    "value": "t.me"
+  },
+  {
+    "type": "Domain",
+    "value": "tdesktop.com"
+  },
+  {
+    "type": "Domain",
+    "value": "telega.one"
+  },
+  {
+    "type": "Domain",
+    "value": "telegra.ph"
+  },
+  {
+    "type": "Domain",
+    "value": "telegram-cdn.org"
+  },
+  {
+    "type": "Domain",
+    "value": "telegram.dog"
+  },
+  {
+    "type": "Domain",
+    "value": "telegram.me"
+  },
+  {
+    "type": "Domain",
+    "value": "telegram.org"
+  },
+  {
+    "type": "Domain",
+    "value": "telegram.space"
+  },
+  {
+    "type": "Domain",
+    "value": "telesco.pe"
+  },
+  {
+    "type": "Domain",
+    "value": "tg.dev"
+  },
+  {
+    "type": "Domain",
+    "value": "ton.org"
+  },
+  {
+    "type": "Domain",
+    "value": "tx.me"
+  },
+  {
+    "type": "Domain",
+    "value": "usercontent.dev"
+  },
+  {
+    "type": "Domain",
+    "value": "viber.com"
+  },
+  {
+    "type": "Domain",
+    "value": "viber.co"
+  },
+  {
+    "type": "Domain",
+    "value": "viber.me"
+  },
+  {
+    "type": "Domain",
+    "value": "vbcdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vbcdn.net"
+  },
+  {
+    "type": "Domain",
+    "value": "wa.me"
+  },
+  {
+    "type": "Domain",
+    "value": "whatsapp-plus.info"
+  },
+  {
+    "type": "Domain",
+    "value": "whatsapp-plus.me"
+  },
+  {
+    "type": "Domain",
+    "value": "whatsapp-plus.net"
+  },
+  {
+    "type": "Domain",
+    "value": "whatsapp.cc"
+  },
+  {
+    "type": "Domain",
+    "value": "whatsapp.com"
+  },
+  {
+    "type": "Domain",
+    "value": "whatsapp.info"
+  },
+  {
+    "type": "Domain",
+    "value": "whatsapp.net"
+  },
+  {
+    "type": "Domain",
+    "value": "whatsapp.org"
+  },
+  {
+    "type": "Domain",
+    "value": "whatsapp.tv"
+  },
+  {
+    "type": "Domain",
+    "value": "whatsappbrand.com"
+  },
+  {
+    "type": "Domain",
+    "value": "linemobile.com"
+  },
+  {
+    "type": "Domain",
+    "value": "lineshoppingseller.com"
+  },
+  {
+    "type": "Domain",
+    "value": "line-apps-beta.com"
+  },
+  {
+    "type": "Domain",
+    "value": "line-apps-rc.com"
+  },
+  {
+    "type": "Domain",
+    "value": "line-apps.com"
+  },
+  {
+    "type": "Domain",
+    "value": "line-beta.me"
+  },
+  {
+    "type": "Domain",
+    "value": "line-cdn.net"
+  },
+  {
+    "type": "Domain",
+    "value": "line.biz"
+  },
+  {
+    "type": "Domain",
+    "value": "nhncorp.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "lin.ee"
+  },
+  {
+    "type": "Domain",
+    "value": "line-scdn.net"
+  },
+  {
+    "type": "Domain",
+    "value": "linecorp.com"
+  },
+  {
+    "type": "Domain",
+    "value": "linefriends.com"
+  },
+  {
+    "type": "Domain",
+    "value": "linetv.tw"
+  },
+  {
+    "type": "Domain",
+    "value": "linegame.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "gcld-line.com"
+  },
+  {
+    "type": "Domain",
+    "value": "linemyshop.com"
+  },
+  {
+    "type": "Domain",
+    "value": "line.me"
+  },
+  {
+    "type": "Domain",
+    "value": "fbmessenger.com"
+  },
+  {
+    "type": "Domain",
+    "value": "m.me"
+  },
+  {
+    "type": "Domain",
+    "value": "messenger.com"
+  },
+  {
+    "type": "Domain",
+    "value": "nbabot.net"
+  },
+  {
+    "type": "Domain",
+    "value": "mail.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ui-portal.de"
+  },
+  {
+    "type": "Domain",
+    "value": "uicdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "uimserv.net"
+  },
+  {
+    "type": "Domain",
+    "value": "clubhouse.com"
+  },
+  {
+    "type": "Domain",
+    "value": "clubhouseapi.com"
+  },
+  {
+    "type": "Domain",
+    "value": "joinclubhouse.com"
+  },
+  {
+    "type": "Domain",
+    "value": "freenode.net"
+  },
+  {
+    "type": "Domain",
+    "value": "linefriends.com.tw"
+  },
+  {
+    "type": "Domain",
+    "value": "line.naver.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "s-bid.rmp.rakuten.com"
+  },
+  {
+    "type": "Domain",
+    "value": "graph.whatsapp.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "graph.whatsapp.net",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  }
+]

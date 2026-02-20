@@ -1,0 +1,31 @@
+[
+  {
+    "type": "Full",
+    "value": "crl.microsoft.com"
+  },
+  {
+    "type": "Full",
+    "value": "mscrl.microsoft.com"
+  },
+  {
+    "type": "Full",
+    "value": "ocsp.microsoft.com"
+  },
+  {
+    "type": "Full",
+    "value": "oneocsp.microsoft.com"
+  },
+  {
+    "type": "Domain",
+    "value": "msocsp.com"
+  },
+  {
+    "type": "Full",
+    "value": "www.microsoft.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

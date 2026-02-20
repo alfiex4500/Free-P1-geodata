@@ -1,0 +1,26 @@
+[
+  {
+    "type": "Domain",
+    "value": "pycon.org"
+  },
+  {
+    "type": "Domain",
+    "value": "pypa.io"
+  },
+  {
+    "type": "Domain",
+    "value": "pypi.io"
+  },
+  {
+    "type": "Domain",
+    "value": "pypi.org"
+  },
+  {
+    "type": "Domain",
+    "value": "python.org"
+  },
+  {
+    "type": "Domain",
+    "value": "pythonhosted.org"
+  }
+]

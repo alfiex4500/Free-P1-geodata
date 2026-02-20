@@ -1,0 +1,96 @@
+[
+  {
+    "type": "Domain",
+    "value": "shopee.io"
+  },
+  {
+    "type": "Domain",
+    "value": "shopee.ph"
+  },
+  {
+    "type": "Domain",
+    "value": "shopee.es"
+  },
+  {
+    "type": "Domain",
+    "value": "shopee.com"
+  },
+  {
+    "type": "Domain",
+    "value": "shopee.fr"
+  },
+  {
+    "type": "Domain",
+    "value": "shopeemobile.com"
+  },
+  {
+    "type": "Domain",
+    "value": "shopee.vn"
+  },
+  {
+    "type": "Domain",
+    "value": "shopee.tw"
+  },
+  {
+    "type": "Domain",
+    "value": "shopee.sg"
+  },
+  {
+    "type": "Domain",
+    "value": "shp.ee"
+  },
+  {
+    "type": "Domain",
+    "value": "shopee.in"
+  },
+  {
+    "type": "Domain",
+    "value": "shopee.id"
+  },
+  {
+    "type": "Domain",
+    "value": "shopee.cl"
+  },
+  {
+    "type": "Domain",
+    "value": "shopee.co.id"
+  },
+  {
+    "type": "Domain",
+    "value": "shopee.co.th"
+  },
+  {
+    "type": "Domain",
+    "value": "shopee.com.my"
+  },
+  {
+    "type": "Domain",
+    "value": "shopee.com.mx"
+  },
+  {
+    "type": "Domain",
+    "value": "shopee.com.co"
+  },
+  {
+    "type": "Domain",
+    "value": "shopee.com.br"
+  },
+  {
+    "type": "Domain",
+    "value": "shopee.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "shopeesz.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

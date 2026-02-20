@@ -1,0 +1,35 @@
+[
+  {
+    "type": "Domain",
+    "value": "gucci"
+  },
+  {
+    "type": "Domain",
+    "value": "chimeforchange.org"
+  },
+  {
+    "type": "Domain",
+    "value": "gucci.com"
+  },
+  {
+    "type": "Domain",
+    "value": "guccimuseo.com"
+  },
+  {
+    "type": "Domain",
+    "value": "guccitimeless.com"
+  },
+  {
+    "type": "Domain",
+    "value": "regiongold.com"
+  },
+  {
+    "type": "Domain",
+    "value": "gucci.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

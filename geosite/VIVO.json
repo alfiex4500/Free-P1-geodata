@@ -1,0 +1,31 @@
+[
+  {
+    "type": "Domain",
+    "value": "iqoo.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vivo.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "vivo.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vvstc.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vivo.com.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "vivoglobal.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

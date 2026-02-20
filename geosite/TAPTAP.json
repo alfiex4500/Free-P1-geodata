@@ -1,0 +1,35 @@
+[
+  {
+    "type": "Domain",
+    "value": "tapapks.com"
+  },
+  {
+    "type": "Domain",
+    "value": "tapimg.com"
+  },
+  {
+    "type": "Domain",
+    "value": "tapimg.net"
+  },
+  {
+    "type": "Domain",
+    "value": "taptap.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "taptap.com"
+  },
+  {
+    "type": "Domain",
+    "value": "taptapdada.com"
+  },
+  {
+    "type": "Domain",
+    "value": "taptap.io",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

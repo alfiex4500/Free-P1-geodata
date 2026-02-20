@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Domain",
+    "value": "kino.pub"
+  },
+  {
+    "type": "Domain",
+    "value": "kinopub.online"
+  },
+  {
+    "type": "Domain",
+    "value": "kpdl.link"
+  },
+  {
+    "type": "Domain",
+    "value": "gfw.ovh"
+  },
+  {
+    "type": "Domain",
+    "value": "mos-gorsud.co"
+  },
+  {
+    "type": "Domain",
+    "value": "cdn-service.space"
+  },
+  {
+    "type": "Domain",
+    "value": "cdn2cdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cdn2site.com"
+  },
+  {
+    "type": "Domain",
+    "value": "pushbr.com"
+  },
+  {
+    "type": "Regex",
+    "value": "(\\w+)-static-[0-9]+\\.cdntogo\\.net$"
+  }
+]

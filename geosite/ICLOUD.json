@@ -1,0 +1,236 @@
+[
+  {
+    "type": "Full",
+    "value": "www-cdn.icloud.com.akadns.net"
+  },
+  {
+    "type": "Domain",
+    "value": "applemx-icloud.com"
+  },
+  {
+    "type": "Domain",
+    "value": "icloud-content.com"
+  },
+  {
+    "type": "Domain",
+    "value": "icloud-isupport.com"
+  },
+  {
+    "type": "Domain",
+    "value": "icloud-sandbox.com"
+  },
+  {
+    "type": "Domain",
+    "value": "icloud.ch"
+  },
+  {
+    "type": "Domain",
+    "value": "icloud.com"
+  },
+  {
+    "type": "Domain",
+    "value": "icloud.de"
+  },
+  {
+    "type": "Domain",
+    "value": "icloud.ee"
+  },
+  {
+    "type": "Domain",
+    "value": "icloud.fi"
+  },
+  {
+    "type": "Domain",
+    "value": "icloud.fr"
+  },
+  {
+    "type": "Domain",
+    "value": "icloud.hu"
+  },
+  {
+    "type": "Domain",
+    "value": "icloud.ie"
+  },
+  {
+    "type": "Domain",
+    "value": "icloud.is"
+  },
+  {
+    "type": "Domain",
+    "value": "icloud.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "icloud.lv"
+  },
+  {
+    "type": "Domain",
+    "value": "icloud.om"
+  },
+  {
+    "type": "Domain",
+    "value": "icloud.org"
+  },
+  {
+    "type": "Domain",
+    "value": "icloud.pt"
+  },
+  {
+    "type": "Domain",
+    "value": "icloud.ro"
+  },
+  {
+    "type": "Domain",
+    "value": "icloud.se"
+  },
+  {
+    "type": "Domain",
+    "value": "icloud.si"
+  },
+  {
+    "type": "Domain",
+    "value": "icloud.sk"
+  },
+  {
+    "type": "Domain",
+    "value": "icloud.vn"
+  },
+  {
+    "type": "Domain",
+    "value": "icloudads.net"
+  },
+  {
+    "type": "Domain",
+    "value": "icloudbox.net"
+  },
+  {
+    "type": "Domain",
+    "value": "icloudbrowser.net"
+  },
+  {
+    "type": "Domain",
+    "value": "icloude.com"
+  },
+  {
+    "type": "Domain",
+    "value": "icloudhome.com"
+  },
+  {
+    "type": "Domain",
+    "value": "icloudmail.net"
+  },
+  {
+    "type": "Domain",
+    "value": "icloudmusic.net"
+  },
+  {
+    "type": "Domain",
+    "value": "icloudnet.net"
+  },
+  {
+    "type": "Domain",
+    "value": "icloudpay.net"
+  },
+  {
+    "type": "Domain",
+    "value": "icloudo.com"
+  },
+  {
+    "type": "Domain",
+    "value": "icloudo.de"
+  },
+  {
+    "type": "Domain",
+    "value": "icloudo.net"
+  },
+  {
+    "type": "Domain",
+    "value": "icloudos.de"
+  },
+  {
+    "type": "Domain",
+    "value": "icloudos.net"
+  },
+  {
+    "type": "Domain",
+    "value": "icloudsecure.net"
+  },
+  {
+    "type": "Domain",
+    "value": "icloudsetup.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ios-icloud.com"
+  },
+  {
+    "type": "Domain",
+    "value": "me.com"
+  },
+  {
+    "type": "Domain",
+    "value": "myicloud.net"
+  },
+  {
+    "type": "Domain",
+    "value": "mylcloud.net"
+  },
+  {
+    "type": "Domain",
+    "value": "wwwicloud.com"
+  },
+  {
+    "type": "Domain",
+    "value": "apple-icloud.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "appleicloud.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "icloud-apple.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "icloud.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "icloud.net.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "icloudapple.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

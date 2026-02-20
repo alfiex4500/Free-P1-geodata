@@ -1,0 +1,146 @@
+[
+  {
+    "type": "Full",
+    "value": "ai.google.dev"
+  },
+  {
+    "type": "Full",
+    "value": "alkalicore-pa.clients6.google.com"
+  },
+  {
+    "type": "Full",
+    "value": "alkalimakersuite-pa.clients6.google.com"
+  },
+  {
+    "type": "Full",
+    "value": "webchannel-alkalimakersuite-pa.clients6.google.com"
+  },
+  {
+    "type": "Full",
+    "value": "cloudaicompanion.googleapis.com"
+  },
+  {
+    "type": "Full",
+    "value": "cloudcode-pa.googleapis.com"
+  },
+  {
+    "type": "Full",
+    "value": "daily-cloudcode-pa.googleapis.com"
+  },
+  {
+    "type": "Full",
+    "value": "notebooklm-pa.googleapis.com"
+  },
+  {
+    "type": "Full",
+    "value": "notebooklm.googleapis.com"
+  },
+  {
+    "type": "Full",
+    "value": "antigravity-pa.googleapis.com"
+  },
+  {
+    "type": "Full",
+    "value": "antigravity.googleapis.com"
+  },
+  {
+    "type": "Domain",
+    "value": "gemini.google"
+  },
+  {
+    "type": "Domain",
+    "value": "deepmind.google"
+  },
+  {
+    "type": "Domain",
+    "value": "antigravity-unleash.goog"
+  },
+  {
+    "type": "Domain",
+    "value": "antigravity.google"
+  },
+  {
+    "type": "Domain",
+    "value": "opal.google"
+  },
+  {
+    "type": "Domain",
+    "value": "labs.google"
+  },
+  {
+    "type": "Domain",
+    "value": "generativeai.google"
+  },
+  {
+    "type": "Domain",
+    "value": "jules.google"
+  },
+  {
+    "type": "Domain",
+    "value": "ai.studio"
+  },
+  {
+    "type": "Domain",
+    "value": "notebooklm.google"
+  },
+  {
+    "type": "Domain",
+    "value": "deepmind.com"
+  },
+  {
+    "type": "Domain",
+    "value": "gemini.google.com"
+  },
+  {
+    "type": "Domain",
+    "value": "labs.google.com"
+  },
+  {
+    "type": "Domain",
+    "value": "aistudio.google.com"
+  },
+  {
+    "type": "Domain",
+    "value": "notebooklm.google.com"
+  },
+  {
+    "type": "Domain",
+    "value": "makersuite.google.com"
+  },
+  {
+    "type": "Domain",
+    "value": "jules.google.com"
+  },
+  {
+    "type": "Domain",
+    "value": "robinfrontend-pa.googleapis.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bard.google.com"
+  },
+  {
+    "type": "Domain",
+    "value": "aisandbox-pa.googleapis.com"
+  },
+  {
+    "type": "Domain",
+    "value": "aida.googleapis.com"
+  },
+  {
+    "type": "Domain",
+    "value": "proactivebackend-pa.googleapis.com"
+  },
+  {
+    "type": "Domain",
+    "value": "opal.google.com"
+  },
+  {
+    "type": "Domain",
+    "value": "generativelanguage.googleapis.com"
+  },
+  {
+    "type": "Domain",
+    "value": "geller-pa.googleapis.com"
+  }
+]

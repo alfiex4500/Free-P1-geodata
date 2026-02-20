@@ -1,0 +1,15 @@
+[
+  {
+    "type": "Domain",
+    "value": "reabble.com"
+  },
+  {
+    "type": "Domain",
+    "value": "reabble.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

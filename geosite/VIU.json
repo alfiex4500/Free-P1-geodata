@@ -1,0 +1,30 @@
+[
+  {
+    "type": "Full",
+    "value": "api.viu.now.com"
+  },
+  {
+    "type": "Full",
+    "value": "dfp6rglgjqszk.cloudfront.net"
+  },
+  {
+    "type": "Full",
+    "value": "d1k2us671qcoau.cloudfront.net"
+  },
+  {
+    "type": "Full",
+    "value": "d2anahhhmp1ffz.cloudfront.net"
+  },
+  {
+    "type": "Domain",
+    "value": "viu.tv"
+  },
+  {
+    "type": "Domain",
+    "value": "viu.com"
+  },
+  {
+    "type": "Regex",
+    "value": "^ewcdn[0-9]+\\.nowe\\.com$"
+  }
+]

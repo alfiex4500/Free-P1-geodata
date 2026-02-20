@@ -1,0 +1,137 @@
+[
+  {
+    "type": "Domain",
+    "value": "71.am"
+  },
+  {
+    "type": "Domain",
+    "value": "iqiyi.com"
+  },
+  {
+    "type": "Domain",
+    "value": "iqiyipic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "pps.tv"
+  },
+  {
+    "type": "Domain",
+    "value": "ppsimg.com"
+  },
+  {
+    "type": "Domain",
+    "value": "qiyi.com"
+  },
+  {
+    "type": "Domain",
+    "value": "qiyipic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "qy.net"
+  },
+  {
+    "type": "Domain",
+    "value": "71edge.com"
+  },
+  {
+    "type": "Domain",
+    "value": "iq.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ad.m.iqiyi.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "afp.iqiyi.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "c.uaa.iqiyi.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "cloudpush.iqiyi.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "cupid.iqiyi.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ifacelog.iqiyi.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "mbdlog.iqiyi.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "msg.video.qiyi.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "msg2.video.qiyi.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "policy.video.iqiyi.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  }
+]

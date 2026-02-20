@@ -1,0 +1,55 @@
+[
+  {
+    "type": "Domain",
+    "value": "ro.com"
+  },
+  {
+    "type": "Domain",
+    "value": "xd.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "xd.com"
+  },
+  {
+    "type": "Domain",
+    "value": "xdcdn.net"
+  },
+  {
+    "type": "Domain",
+    "value": "xindong.com"
+  },
+  {
+    "type": "Domain",
+    "value": "tapapks.com"
+  },
+  {
+    "type": "Domain",
+    "value": "tapimg.com"
+  },
+  {
+    "type": "Domain",
+    "value": "tapimg.net"
+  },
+  {
+    "type": "Domain",
+    "value": "taptap.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "taptap.com"
+  },
+  {
+    "type": "Domain",
+    "value": "taptapdada.com"
+  },
+  {
+    "type": "Domain",
+    "value": "taptap.io",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

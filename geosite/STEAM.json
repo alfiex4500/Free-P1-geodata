@@ -1,0 +1,293 @@
+[
+  {
+    "type": "Full",
+    "value": "steamcommunity-a.akamaihd.net.edgesuite.net"
+  },
+  {
+    "type": "Full",
+    "value": "a4e8s8k3.map2.ssl.hwcdn.net"
+  },
+  {
+    "type": "Full",
+    "value": "f3b7q2p3.ssl.hwcdn.net"
+  },
+  {
+    "type": "Full",
+    "value": "steambroadcast.akamaized.net"
+  },
+  {
+    "type": "Full",
+    "value": "steamcdn-a.akamaihd.net"
+  },
+  {
+    "type": "Full",
+    "value": "steamcommunity-a.akamaihd.net"
+  },
+  {
+    "type": "Full",
+    "value": "steammobile.akamaized.net"
+  },
+  {
+    "type": "Full",
+    "value": "steampipe-kr.akamaized.net"
+  },
+  {
+    "type": "Full",
+    "value": "steampipe-partner.akamaized.net"
+  },
+  {
+    "type": "Full",
+    "value": "steampipe.akamaized.net"
+  },
+  {
+    "type": "Full",
+    "value": "steamstore-a.akamaihd.net"
+  },
+  {
+    "type": "Full",
+    "value": "steamusercontent-a.akamaihd.net"
+  },
+  {
+    "type": "Full",
+    "value": "steamuserimages-a.akamaihd.net"
+  },
+  {
+    "type": "Full",
+    "value": "steamvideo-a.akamaihd.net"
+  },
+  {
+    "type": "Full",
+    "value": "steamcloudsweden.blob.core.windows.net"
+  },
+  {
+    "type": "Domain",
+    "value": "steamusercontent.com"
+  },
+  {
+    "type": "Domain",
+    "value": "steamdeck.com"
+  },
+  {
+    "type": "Domain",
+    "value": "steam.tv"
+  },
+  {
+    "type": "Domain",
+    "value": "steam-api.com"
+  },
+  {
+    "type": "Domain",
+    "value": "steam-chat.com"
+  },
+  {
+    "type": "Domain",
+    "value": "steamcommunity.com"
+  },
+  {
+    "type": "Domain",
+    "value": "steamcontent.com"
+  },
+  {
+    "type": "Domain",
+    "value": "s.team"
+  },
+  {
+    "type": "Domain",
+    "value": "steamgames.com"
+  },
+  {
+    "type": "Domain",
+    "value": "steampowered.com"
+  },
+  {
+    "type": "Domain",
+    "value": "steamserver.net"
+  },
+  {
+    "type": "Domain",
+    "value": "steamstatic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "valvesoftware.com"
+  },
+  {
+    "type": "Domain",
+    "value": "underlords.com"
+  },
+  {
+    "type": "Domain",
+    "value": "playartifact.com"
+  },
+  {
+    "type": "Domain",
+    "value": "steam.apac.qtlglb.com"
+  },
+  {
+    "type": "Domain",
+    "value": "steam.eca.qtlglb.com"
+  },
+  {
+    "type": "Domain",
+    "value": "steam.naeu.qtlglb.com"
+  },
+  {
+    "type": "Domain",
+    "value": "steam.ru.qtlglb.com"
+  },
+  {
+    "type": "Domain",
+    "value": "steam.cdn.on.net"
+  },
+  {
+    "type": "Domain",
+    "value": "steam.cdn.webra.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "edge.steam-dns.top.comcast.net"
+  },
+  {
+    "type": "Domain",
+    "value": "steam.cdn.orcon.net.nz"
+  },
+  {
+    "type": "Domain",
+    "value": "steam.cdn.slingshot.co.nz"
+  },
+  {
+    "type": "Domain",
+    "value": "csgo.wmsj.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "dota2.wmsj.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "wmsjsteam.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "client-update.queniuqe.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "dl.steam.clngaa.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "st.dl.bscstorage.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "st.dl.eccdnx.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "st.dl.pinyuncloud.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "steampowered.com.8686c.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "steamstatic.com.8686c.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "alibaba.cdn.steampipe.steamcontent.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "lv.queniujq.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "xz.pphimalayanrt.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "steamchina.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "gstore.val.manlaxy.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

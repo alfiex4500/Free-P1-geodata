@@ -1,0 +1,22 @@
+[
+  {
+    "type": "Domain",
+    "value": "eca.hinet.net"
+  },
+  {
+    "type": "Domain",
+    "value": "pki.hinet.net"
+  },
+  {
+    "type": "Domain",
+    "value": "publicca.hinet.net"
+  },
+  {
+    "type": "Domain",
+    "value": "tls.hinet.net"
+  },
+  {
+    "type": "Domain",
+    "value": "gtlsca.nat.gov.tw"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "type": "Domain",
+    "value": "ctan.org"
+  },
+  {
+    "type": "Domain",
+    "value": "latex-project.org"
+  },
+  {
+    "type": "Domain",
+    "value": "miktex.org"
+  },
+  {
+    "type": "Domain",
+    "value": "tug.org"
+  }
+]

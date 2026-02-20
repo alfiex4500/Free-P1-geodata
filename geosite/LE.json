@@ -1,0 +1,74 @@
+[
+  {
+    "type": "Domain",
+    "value": "le.com"
+  },
+  {
+    "type": "Domain",
+    "value": "leautolink.com"
+  },
+  {
+    "type": "Domain",
+    "value": "lecloud.com"
+  },
+  {
+    "type": "Domain",
+    "value": "lecloudapi.com"
+  },
+  {
+    "type": "Domain",
+    "value": "lemall.com"
+  },
+  {
+    "type": "Domain",
+    "value": "leso.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "letv.com"
+  },
+  {
+    "type": "Domain",
+    "value": "letvcdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "letvimg.com"
+  },
+  {
+    "type": "Domain",
+    "value": "apple.www.letv.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ark.letv.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "dc.letv.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "g3.letv.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  }
+]

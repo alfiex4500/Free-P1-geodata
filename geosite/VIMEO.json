@@ -1,0 +1,70 @@
+[
+  {
+    "type": "Domain",
+    "value": "vhx.tv"
+  },
+  {
+    "type": "Domain",
+    "value": "vhxqa1.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vhxqa2.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vhxqa3.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vhxqa4.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vhxqa6.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vimeo-staging.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vimeo-staging2.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vimeo.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vimeo.fr"
+  },
+  {
+    "type": "Domain",
+    "value": "vimeobusiness.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vimeocdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vimeogoods.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vimeoondemand.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vimeostatus.com"
+  },
+  {
+    "type": "Domain",
+    "value": "livestream.com"
+  },
+  {
+    "type": "Regex",
+    "value": "^[0-9]+vod-adaptive\\.akamaized\\.net$"
+  }
+]

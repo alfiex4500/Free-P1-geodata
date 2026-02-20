@@ -1,0 +1,14 @@
+[
+  {
+    "type": "Domain",
+    "value": "v2ray.com"
+  },
+  {
+    "type": "Domain",
+    "value": "v2ray.cool"
+  },
+  {
+    "type": "Domain",
+    "value": "v2fly.org"
+  }
+]

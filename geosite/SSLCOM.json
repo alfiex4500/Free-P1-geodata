@@ -1,0 +1,15 @@
+[
+  {
+    "type": "Domain",
+    "value": "ssl.com"
+  },
+  {
+    "type": "Domain",
+    "value": "sslcom.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

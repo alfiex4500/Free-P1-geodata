@@ -1,0 +1,50 @@
+[
+  {
+    "type": "Domain",
+    "value": "redd.it"
+  },
+  {
+    "type": "Domain",
+    "value": "reddit.com"
+  },
+  {
+    "type": "Domain",
+    "value": "redditblog.com"
+  },
+  {
+    "type": "Domain",
+    "value": "reddithelp.com"
+  },
+  {
+    "type": "Domain",
+    "value": "redditinc.com"
+  },
+  {
+    "type": "Domain",
+    "value": "redditmail.com"
+  },
+  {
+    "type": "Domain",
+    "value": "redditmedia.com"
+  },
+  {
+    "type": "Domain",
+    "value": "redditspace.com"
+  },
+  {
+    "type": "Domain",
+    "value": "redditstatic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "redditstatus.com"
+  },
+  {
+    "type": "Domain",
+    "value": "reddit.app.link"
+  },
+  {
+    "type": "Domain",
+    "value": "reddit.map.fastly.net"
+  }
+]

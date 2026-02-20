@@ -1,0 +1,70 @@
+[
+  {
+    "type": "Domain",
+    "value": "futufin.com"
+  },
+  {
+    "type": "Domain",
+    "value": "futuhk.com"
+  },
+  {
+    "type": "Domain",
+    "value": "futuhkapp.com"
+  },
+  {
+    "type": "Domain",
+    "value": "futuhn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "futuholdings.com"
+  },
+  {
+    "type": "Domain",
+    "value": "moomoo.com"
+  },
+  {
+    "type": "Domain",
+    "value": "moomooequity.com"
+  },
+  {
+    "type": "Domain",
+    "value": "moomootrustee.com"
+  },
+  {
+    "type": "Domain",
+    "value": "futuesop.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "futuniuniu.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "futunn.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "futustatic.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

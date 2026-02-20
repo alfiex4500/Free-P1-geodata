@@ -1,0 +1,46 @@
+[
+  {
+    "type": "Domain",
+    "value": "slack-core.com"
+  },
+  {
+    "type": "Domain",
+    "value": "slack-edge.com"
+  },
+  {
+    "type": "Domain",
+    "value": "slack-files.com"
+  },
+  {
+    "type": "Domain",
+    "value": "slack-imgs.com"
+  },
+  {
+    "type": "Domain",
+    "value": "slack-msgs.com"
+  },
+  {
+    "type": "Domain",
+    "value": "slack-redir.net"
+  },
+  {
+    "type": "Domain",
+    "value": "slack.com"
+  },
+  {
+    "type": "Domain",
+    "value": "slackb.com"
+  },
+  {
+    "type": "Domain",
+    "value": "slackcertified.com"
+  },
+  {
+    "type": "Domain",
+    "value": "slackdemo.com"
+  },
+  {
+    "type": "Domain",
+    "value": "slackhq.com"
+  }
+]

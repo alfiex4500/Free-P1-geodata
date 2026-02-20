@@ -1,0 +1,89 @@
+[
+  {
+    "type": "Domain",
+    "value": "amplifi.com"
+  },
+  {
+    "type": "Domain",
+    "value": "frontrow.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ubncloud.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ui.com"
+  },
+  {
+    "type": "Domain",
+    "value": "uisp.com"
+  },
+  {
+    "type": "Domain",
+    "value": "wifiman.com"
+  },
+  {
+    "type": "Domain",
+    "value": "amplifi.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "frontrow.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ubnt.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ubnt.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ui.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "uum.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "uwn.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

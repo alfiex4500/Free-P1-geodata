@@ -1,0 +1,10 @@
+[
+  {
+    "type": "Domain",
+    "value": "cf-ipfs.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cloudflare-ipfs.com"
+  }
+]

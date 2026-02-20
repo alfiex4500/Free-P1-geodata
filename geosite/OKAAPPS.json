@@ -1,0 +1,15 @@
+[
+  {
+    "type": "Domain",
+    "value": "okaapps.com"
+  },
+  {
+    "type": "Regex",
+    "value": "^(.+\\.)*zh\\.okaapps\\.com$",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

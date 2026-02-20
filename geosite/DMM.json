@@ -1,0 +1,125 @@
+[
+  {
+    "type": "Full",
+    "value": "api-p.videomarket.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "dmm.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dmm-extension.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dmmapis.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dmmrex.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dmm.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "ad.games.dmm.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "bluekai.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "fout.jp",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "gmossp-sp.jp",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "i-mobile.co.jp",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "im-apps.net",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "impact-ad.jp",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ladsp.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "microad.co.jp",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "microad.jp",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "socdm.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  }
+]

@@ -1,0 +1,129 @@
+[
+  {
+    "type": "Domain",
+    "value": "ecukwai.com"
+  },
+  {
+    "type": "Domain",
+    "value": "gifshow.com"
+  },
+  {
+    "type": "Domain",
+    "value": "inkuai.com"
+  },
+  {
+    "type": "Domain",
+    "value": "inkwai.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ksapisrv.com"
+  },
+  {
+    "type": "Domain",
+    "value": "kskwai.com"
+  },
+  {
+    "type": "Domain",
+    "value": "kuaishou.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "kuaishou.com"
+  },
+  {
+    "type": "Domain",
+    "value": "kuaishouapps.com"
+  },
+  {
+    "type": "Domain",
+    "value": "kuaishoupay.com"
+  },
+  {
+    "type": "Domain",
+    "value": "kuaishouzt.com"
+  },
+  {
+    "type": "Domain",
+    "value": "kwaicdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "kwaizt.com"
+  },
+  {
+    "type": "Domain",
+    "value": "kwimgs.com"
+  },
+  {
+    "type": "Domain",
+    "value": "wsukwai.com"
+  },
+  {
+    "type": "Domain",
+    "value": "yximgs.com"
+  },
+  {
+    "type": "Domain",
+    "value": "adbkwai.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "adkwai.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "adukwai.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "e.kuaishou.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "e.kuaishou.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "log-sdk.gifshow.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "wlog.kuaishou.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  }
+]

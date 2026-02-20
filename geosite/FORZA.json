@@ -1,0 +1,22 @@
+[
+  {
+    "type": "Full",
+    "value": "prodforza.blob.core.windows.net"
+  },
+  {
+    "type": "Domain",
+    "value": "forza.net"
+  },
+  {
+    "type": "Domain",
+    "value": "forzamotorsport.net"
+  },
+  {
+    "type": "Domain",
+    "value": "forzaracingchampionship.com"
+  },
+  {
+    "type": "Domain",
+    "value": "forzarc.com"
+  }
+]

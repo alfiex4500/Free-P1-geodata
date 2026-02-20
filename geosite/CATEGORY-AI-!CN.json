@@ -1,0 +1,535 @@
+[
+  {
+    "type": "Full",
+    "value": "pplx-res.cloudinary.com"
+  },
+  {
+    "type": "Full",
+    "value": "servd-anthropic-website.b-cdn.net"
+  },
+  {
+    "type": "Full",
+    "value": "ai.google.dev"
+  },
+  {
+    "type": "Full",
+    "value": "alkalicore-pa.clients6.google.com"
+  },
+  {
+    "type": "Full",
+    "value": "alkalimakersuite-pa.clients6.google.com"
+  },
+  {
+    "type": "Full",
+    "value": "webchannel-alkalimakersuite-pa.clients6.google.com"
+  },
+  {
+    "type": "Full",
+    "value": "cloudaicompanion.googleapis.com"
+  },
+  {
+    "type": "Full",
+    "value": "cloudcode-pa.googleapis.com"
+  },
+  {
+    "type": "Full",
+    "value": "daily-cloudcode-pa.googleapis.com"
+  },
+  {
+    "type": "Full",
+    "value": "notebooklm-pa.googleapis.com"
+  },
+  {
+    "type": "Full",
+    "value": "notebooklm.googleapis.com"
+  },
+  {
+    "type": "Full",
+    "value": "antigravity-pa.googleapis.com"
+  },
+  {
+    "type": "Full",
+    "value": "antigravity.googleapis.com"
+  },
+  {
+    "type": "Full",
+    "value": "openaiapi-site.azureedge.net"
+  },
+  {
+    "type": "Full",
+    "value": "openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net"
+  },
+  {
+    "type": "Full",
+    "value": "openaicom.imgix.net"
+  },
+  {
+    "type": "Full",
+    "value": "openaicomproductionae4b.blob.core.windows.net"
+  },
+  {
+    "type": "Full",
+    "value": "production-openaicom-storage.azureedge.net"
+  },
+  {
+    "type": "Domain",
+    "value": "oystermercury.top"
+  },
+  {
+    "type": "Domain",
+    "value": "youmind.ai"
+  },
+  {
+    "type": "Domain",
+    "value": "cohere.com"
+  },
+  {
+    "type": "Domain",
+    "value": "clipdrop.co"
+  },
+  {
+    "type": "Domain",
+    "value": "jasper.ai"
+  },
+  {
+    "type": "Domain",
+    "value": "chutes.ai"
+  },
+  {
+    "type": "Domain",
+    "value": "devin.ai"
+  },
+  {
+    "type": "Domain",
+    "value": "diabrowser.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dify.ai"
+  },
+  {
+    "type": "Domain",
+    "value": "duck.ai"
+  },
+  {
+    "type": "Domain",
+    "value": "kiro.dev"
+  },
+  {
+    "type": "Domain",
+    "value": "meta.ai"
+  },
+  {
+    "type": "Domain",
+    "value": "mistral.ai"
+  },
+  {
+    "type": "Domain",
+    "value": "openart.ai"
+  },
+  {
+    "type": "Domain",
+    "value": "openrouter.ai"
+  },
+  {
+    "type": "Domain",
+    "value": "perplexity.ai"
+  },
+  {
+    "type": "Domain",
+    "value": "perplexity.com"
+  },
+  {
+    "type": "Domain",
+    "value": "pplx.ai"
+  },
+  {
+    "type": "Domain",
+    "value": "cerebras.ai"
+  },
+  {
+    "type": "Domain",
+    "value": "gemini.google"
+  },
+  {
+    "type": "Domain",
+    "value": "liveperson.net"
+  },
+  {
+    "type": "Domain",
+    "value": "lpsnmedia.net"
+  },
+  {
+    "type": "Domain",
+    "value": "grok.com"
+  },
+  {
+    "type": "Domain",
+    "value": "x.ai"
+  },
+  {
+    "type": "Domain",
+    "value": "cohere.ai"
+  },
+  {
+    "type": "Domain",
+    "value": "windsurf.com"
+  },
+  {
+    "type": "Domain",
+    "value": "elevenlabs.com"
+  },
+  {
+    "type": "Domain",
+    "value": "deepmind.google"
+  },
+  {
+    "type": "Domain",
+    "value": "cursor-cdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cursor.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cursor.sh"
+  },
+  {
+    "type": "Domain",
+    "value": "cursorapi.com"
+  },
+  {
+    "type": "Domain",
+    "value": "githubcopilot.com"
+  },
+  {
+    "type": "Domain",
+    "value": "manus.im"
+  },
+  {
+    "type": "Domain",
+    "value": "manuscdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hf.co"
+  },
+  {
+    "type": "Domain",
+    "value": "youmind.com"
+  },
+  {
+    "type": "Domain",
+    "value": "youmind.site"
+  },
+  {
+    "type": "Domain",
+    "value": "anthropic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "claude.ai"
+  },
+  {
+    "type": "Domain",
+    "value": "claude.com"
+  },
+  {
+    "type": "Domain",
+    "value": "claudeusercontent.com"
+  },
+  {
+    "type": "Domain",
+    "value": "claudemcpclient.com"
+  },
+  {
+    "type": "Domain",
+    "value": "comfy.org"
+  },
+  {
+    "type": "Domain",
+    "value": "comfyci.org"
+  },
+  {
+    "type": "Domain",
+    "value": "comfyregistry.org"
+  },
+  {
+    "type": "Domain",
+    "value": "poecdn.net"
+  },
+  {
+    "type": "Domain",
+    "value": "groq.com"
+  },
+  {
+    "type": "Domain",
+    "value": "elevenlabs.io"
+  },
+  {
+    "type": "Domain",
+    "value": "antigravity-unleash.goog"
+  },
+  {
+    "type": "Domain",
+    "value": "antigravity.google"
+  },
+  {
+    "type": "Domain",
+    "value": "opal.google"
+  },
+  {
+    "type": "Domain",
+    "value": "labs.google"
+  },
+  {
+    "type": "Domain",
+    "value": "generativeai.google"
+  },
+  {
+    "type": "Domain",
+    "value": "jules.google"
+  },
+  {
+    "type": "Domain",
+    "value": "ai.studio"
+  },
+  {
+    "type": "Domain",
+    "value": "notebooklm.google"
+  },
+  {
+    "type": "Domain",
+    "value": "deepmind.com"
+  },
+  {
+    "type": "Domain",
+    "value": "windsurf.build"
+  },
+  {
+    "type": "Domain",
+    "value": "codeiumdata.com"
+  },
+  {
+    "type": "Domain",
+    "value": "codeium.com"
+  },
+  {
+    "type": "Domain",
+    "value": "coderabbit.ai"
+  },
+  {
+    "type": "Domain",
+    "value": "poe.com"
+  },
+  {
+    "type": "Domain",
+    "value": "sora.com"
+  },
+  {
+    "type": "Domain",
+    "value": "openai.com"
+  },
+  {
+    "type": "Domain",
+    "value": "oaiusercontent.com"
+  },
+  {
+    "type": "Domain",
+    "value": "oaistatic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "crixet.com"
+  },
+  {
+    "type": "Domain",
+    "value": "chatgpt.com"
+  },
+  {
+    "type": "Domain",
+    "value": "chat.com"
+  },
+  {
+    "type": "Domain",
+    "value": "huggingface.co"
+  },
+  {
+    "type": "Domain",
+    "value": "hf.space"
+  },
+  {
+    "type": "Domain",
+    "value": "copilot.microsoft.com"
+  },
+  {
+    "type": "Domain",
+    "value": "host.livekit.cloud"
+  },
+  {
+    "type": "Domain",
+    "value": "generativelanguage.googleapis.com"
+  },
+  {
+    "type": "Domain",
+    "value": "opal.google.com"
+  },
+  {
+    "type": "Domain",
+    "value": "proactivebackend-pa.googleapis.com"
+  },
+  {
+    "type": "Domain",
+    "value": "aida.googleapis.com"
+  },
+  {
+    "type": "Domain",
+    "value": "aisandbox-pa.googleapis.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bard.google.com"
+  },
+  {
+    "type": "Domain",
+    "value": "robinfrontend-pa.googleapis.com"
+  },
+  {
+    "type": "Domain",
+    "value": "jules.google.com"
+  },
+  {
+    "type": "Domain",
+    "value": "chatgpt.livekit.cloud"
+  },
+  {
+    "type": "Domain",
+    "value": "geller-pa.googleapis.com"
+  },
+  {
+    "type": "Domain",
+    "value": "turn.livekit.cloud"
+  },
+  {
+    "type": "Domain",
+    "value": "grok.x.com"
+  },
+  {
+    "type": "Domain",
+    "value": "gemini.google.com"
+  },
+  {
+    "type": "Domain",
+    "value": "labs.google.com"
+  },
+  {
+    "type": "Domain",
+    "value": "makersuite.google.com"
+  },
+  {
+    "type": "Domain",
+    "value": "notebooklm.google.com"
+  },
+  {
+    "type": "Domain",
+    "value": "aistudio.google.com"
+  },
+  {
+    "type": "Domain",
+    "value": "gateway.ai.cloudflare.com"
+  },
+  {
+    "type": "Domain",
+    "value": "coderabbit.gallery.vsassets.io"
+  },
+  {
+    "type": "Domain",
+    "value": "openai.com.cdn.cloudflare.net"
+  },
+  {
+    "type": "Regex",
+    "value": "^chatgpt-async-webps-prod-\\S+-\\d+\\.webpubsub\\.azure\\.com$"
+  },
+  {
+    "type": "Full",
+    "value": "o33249.ingest.sentry.io",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "browser-intake-datadoghq.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "coze.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "marscode.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "trae.ai",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "cici.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ciciai.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ciciaicdn.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "dola.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

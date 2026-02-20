@@ -1,0 +1,14 @@
+[
+  {
+    "type": "Domain",
+    "value": "bisq.io"
+  },
+  {
+    "type": "Domain",
+    "value": "bisq.network"
+  },
+  {
+    "type": "Domain",
+    "value": "bitsquare.io"
+  }
+]

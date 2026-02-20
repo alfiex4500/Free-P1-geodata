@@ -1,0 +1,34 @@
+[
+  {
+    "type": "Domain",
+    "value": "acousticbrainz.org"
+  },
+  {
+    "type": "Domain",
+    "value": "bookbrainz.org"
+  },
+  {
+    "type": "Domain",
+    "value": "coverartarchive.org"
+  },
+  {
+    "type": "Domain",
+    "value": "critiquebrainz.org"
+  },
+  {
+    "type": "Domain",
+    "value": "listenbrainz.org"
+  },
+  {
+    "type": "Domain",
+    "value": "messybrainz.org"
+  },
+  {
+    "type": "Domain",
+    "value": "metabrainz.org"
+  },
+  {
+    "type": "Domain",
+    "value": "musicbrainz.org"
+  }
+]

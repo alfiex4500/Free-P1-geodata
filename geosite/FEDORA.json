@@ -1,0 +1,22 @@
+[
+  {
+    "type": "Domain",
+    "value": "getfedora.org"
+  },
+  {
+    "type": "Domain",
+    "value": "fedoraforum.org"
+  },
+  {
+    "type": "Domain",
+    "value": "fedorapeople.org"
+  },
+  {
+    "type": "Domain",
+    "value": "fedoraproject.org"
+  },
+  {
+    "type": "Domain",
+    "value": "fedoramagazine.org"
+  }
+]

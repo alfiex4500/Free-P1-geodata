@@ -1,0 +1,10 @@
+[
+  {
+    "type": "Domain",
+    "value": "nginx.com"
+  },
+  {
+    "type": "Domain",
+    "value": "nginx.org"
+  }
+]

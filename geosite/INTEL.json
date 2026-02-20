@@ -1,0 +1,1159 @@
+[
+  {
+    "type": "Domain",
+    "value": "intel"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.yt"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.gy"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.af"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.ag"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.ai"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.ar"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.at"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.az"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.ba"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.bg"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.bh"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.bi"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.bo"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.bs"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.by"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.ca"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.cc"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.cg"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.ch"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.cl"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.cm"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.co"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.com"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.cr"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.cu"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.cz"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.de"
+  },
+  {
+    "type": "Domain",
+    "value": "ospray.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ospray.net"
+  },
+  {
+    "type": "Domain",
+    "value": "clearlinux.org"
+  },
+  {
+    "type": "Domain",
+    "value": "acpica.com"
+  },
+  {
+    "type": "Domain",
+    "value": "universalscalablefirmware.org"
+  },
+  {
+    "type": "Domain",
+    "value": "snap-telemetry.io"
+  },
+  {
+    "type": "Domain",
+    "value": "renderingtoolkit.org"
+  },
+  {
+    "type": "Domain",
+    "value": "openvinotoolkit.org"
+  },
+  {
+    "type": "Domain",
+    "value": "openvino.ai"
+  },
+  {
+    "type": "Domain",
+    "value": "opendroneid.org"
+  },
+  {
+    "type": "Domain",
+    "value": "opencas.io"
+  },
+  {
+    "type": "Domain",
+    "value": "oneapi.io"
+  },
+  {
+    "type": "Domain",
+    "value": "oneapi.com"
+  },
+  {
+    "type": "Domain",
+    "value": "intellinuxgraphics.net"
+  },
+  {
+    "type": "Domain",
+    "value": "intellinuxgraphics.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hyperscan.io"
+  },
+  {
+    "type": "Domain",
+    "value": "01.org"
+  },
+  {
+    "type": "Domain",
+    "value": "barefootnetworks.com"
+  },
+  {
+    "type": "Domain",
+    "value": "xscale.com"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--ztsq84g.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.ac"
+  },
+  {
+    "type": "Domain",
+    "value": "xeon.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vpro.net"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.dev"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.dk"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.dz"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.ec"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.ee"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.eg"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.es"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.eu"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.fi"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.fr"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.ga"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.gd"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.ge"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.gg"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.gl"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.gm"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.gr"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.gs"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.gt"
+  },
+  {
+    "type": "Domain",
+    "value": "vpro.com"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.hn"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.ht"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.hu"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.id"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.ie"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.in"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.io"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.it"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.je"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.jo"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.ke"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.la"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.lc"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.lk"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.lt"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.lu"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.ly"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.ma"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.md"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.me"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.mg"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.mk"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.mn"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.mp"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.mt"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.mu"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.mw"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.mx"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.my"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.ng"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.nl"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.nu"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.nz"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.pa"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.pe"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.ph"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.pl"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.pn"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.re"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.ro"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.rw"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.sa"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.sc"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.se"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.sg"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.si"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.sk"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.sn"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.sr"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.st"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.sv"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.sx"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.sy"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.tf"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.tj"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.tl"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.tm"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.tn"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.tt"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.tv"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.tw"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.ua"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.us"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.uy"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.uz"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.vg"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.vn"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.vu"
+  },
+  {
+    "type": "Domain",
+    "value": "reconinstruments.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vokevr.com"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.ae"
+  },
+  {
+    "type": "Domain",
+    "value": "trustedanalytics.net"
+  },
+  {
+    "type": "Domain",
+    "value": "trustedanalytics.com"
+  },
+  {
+    "type": "Domain",
+    "value": "thunderbolttechnology.net"
+  },
+  {
+    "type": "Domain",
+    "value": "threadingbuildingblocks.org"
+  },
+  {
+    "type": "Domain",
+    "value": "altera.com"
+  },
+  {
+    "type": "Domain",
+    "value": "alteraforum.com"
+  },
+  {
+    "type": "Domain",
+    "value": "buyaltera.com"
+  },
+  {
+    "type": "Domain",
+    "value": "celeron.com"
+  },
+  {
+    "type": "Domain",
+    "value": "celeron.net"
+  },
+  {
+    "type": "Domain",
+    "value": "centrino.com"
+  },
+  {
+    "type": "Domain",
+    "value": "centrino.net"
+  },
+  {
+    "type": "Domain",
+    "value": "chips.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cilk.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cilk.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cloudinsights.com"
+  },
+  {
+    "type": "Domain",
+    "value": "clusterconnection.com"
+  },
+  {
+    "type": "Domain",
+    "value": "comm-verse.com"
+  },
+  {
+    "type": "Domain",
+    "value": "coreduo.com"
+  },
+  {
+    "type": "Domain",
+    "value": "coreextreme.com"
+  },
+  {
+    "type": "Domain",
+    "value": "crosswalk-project.com"
+  },
+  {
+    "type": "Domain",
+    "value": "crosswalk-project.net"
+  },
+  {
+    "type": "Domain",
+    "value": "dml-lang.org"
+  },
+  {
+    "type": "Domain",
+    "value": "doceapower.com"
+  },
+  {
+    "type": "Domain",
+    "value": "easic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "enpirion.com"
+  },
+  {
+    "type": "Domain",
+    "value": "exascale-tech.com"
+  },
+  {
+    "type": "Domain",
+    "value": "exploreintel.com"
+  },
+  {
+    "type": "Domain",
+    "value": "gordonmoore.com"
+  },
+  {
+    "type": "Domain",
+    "value": "granulate.io"
+  },
+  {
+    "type": "Domain",
+    "value": "hackharassment.com"
+  },
+  {
+    "type": "Domain",
+    "value": "insidefilms.com"
+  },
+  {
+    "type": "Domain",
+    "value": "insight.tech"
+  },
+  {
+    "type": "Domain",
+    "value": "intc.com"
+  },
+  {
+    "type": "Domain",
+    "value": "intel-research.net"
+  },
+  {
+    "type": "Domain",
+    "value": "intel-university-collaboration.net"
+  },
+  {
+    "type": "Domain",
+    "value": "intelamericasstore.com"
+  },
+  {
+    "type": "Domain",
+    "value": "intelapacstore.com"
+  },
+  {
+    "type": "Domain",
+    "value": "intelatom.net"
+  },
+  {
+    "type": "Domain",
+    "value": "intelcapital.com"
+  },
+  {
+    "type": "Domain",
+    "value": "intelcapital.net"
+  },
+  {
+    "type": "Domain",
+    "value": "intelcloudbuilders.com"
+  },
+  {
+    "type": "Domain",
+    "value": "intelcloudfinder.com"
+  },
+  {
+    "type": "Domain",
+    "value": "intelemeastore.com"
+  },
+  {
+    "type": "Domain",
+    "value": "inteleventexpress.com"
+  },
+  {
+    "type": "Domain",
+    "value": "intelforchange.com"
+  },
+  {
+    "type": "Domain",
+    "value": "intelfreepress.com"
+  },
+  {
+    "type": "Domain",
+    "value": "intelgo.net"
+  },
+  {
+    "type": "Domain",
+    "value": "intelinsight.com"
+  },
+  {
+    "type": "Domain",
+    "value": "inteliotmarketplace.com"
+  },
+  {
+    "type": "Domain",
+    "value": "intell.com"
+  },
+  {
+    "type": "Domain",
+    "value": "intellearningseries.com"
+  },
+  {
+    "type": "Domain",
+    "value": "intellinuxwireless.net"
+  },
+  {
+    "type": "Domain",
+    "value": "intelnervana.com"
+  },
+  {
+    "type": "Domain",
+    "value": "intelplay.com"
+  },
+  {
+    "type": "Domain",
+    "value": "intelquark.com"
+  },
+  {
+    "type": "Domain",
+    "value": "intelrealsense.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "intelrealsense.com"
+  },
+  {
+    "type": "Domain",
+    "value": "intelrealsense.net"
+  },
+  {
+    "type": "Domain",
+    "value": "intelreimbursement.com"
+  },
+  {
+    "type": "Domain",
+    "value": "intelrxt.com"
+  },
+  {
+    "type": "Domain",
+    "value": "intelsalestraining.com"
+  },
+  {
+    "type": "Domain",
+    "value": "intelsecurity.com"
+  },
+  {
+    "type": "Domain",
+    "value": "intelserveredge.com"
+  },
+  {
+    "type": "Domain",
+    "value": "intelsoftwarenetwork.com"
+  },
+  {
+    "type": "Domain",
+    "value": "intelstore.com"
+  },
+  {
+    "type": "Domain",
+    "value": "inteltechnologyprovider.com"
+  },
+  {
+    "type": "Domain",
+    "value": "intelvmwarecybersecurity.com"
+  },
+  {
+    "type": "Domain",
+    "value": "itnel.com"
+  },
+  {
+    "type": "Domain",
+    "value": "latencytop.com"
+  },
+  {
+    "type": "Domain",
+    "value": "lookinside.com"
+  },
+  {
+    "type": "Domain",
+    "value": "makebettercode.com"
+  },
+  {
+    "type": "Domain",
+    "value": "makesenseofdata.com"
+  },
+  {
+    "type": "Domain",
+    "value": "meccontroller.com"
+  },
+  {
+    "type": "Domain",
+    "value": "movidius.com"
+  },
+  {
+    "type": "Domain",
+    "value": "movidius.net"
+  },
+  {
+    "type": "Domain",
+    "value": "movidius.org"
+  },
+  {
+    "type": "Domain",
+    "value": "nervanasys.com"
+  },
+  {
+    "type": "Domain",
+    "value": "nevex.com"
+  },
+  {
+    "type": "Domain",
+    "value": "nextgenerationcenter.com"
+  },
+  {
+    "type": "Domain",
+    "value": "niosii.com"
+  },
+  {
+    "type": "Domain",
+    "value": "niosii.net"
+  },
+  {
+    "type": "Domain",
+    "value": "omekinteractive.com"
+  },
+  {
+    "type": "Domain",
+    "value": "omnitek.tv"
+  },
+  {
+    "type": "Domain",
+    "value": "openamt.com"
+  },
+  {
+    "type": "Domain",
+    "value": "optanedifference.com"
+  },
+  {
+    "type": "Domain",
+    "value": "passwordday.org"
+  },
+  {
+    "type": "Domain",
+    "value": "pc.com"
+  },
+  {
+    "type": "Domain",
+    "value": "pentium.com"
+  },
+  {
+    "type": "Domain",
+    "value": "pentium.net"
+  },
+  {
+    "type": "Domain",
+    "value": "pintool.com"
+  },
+  {
+    "type": "Domain",
+    "value": "pmem.org"
+  },
+  {
+    "type": "Domain",
+    "value": "pmem.us"
+  },
+  {
+    "type": "Domain",
+    "value": "poweredbyintel.com"
+  },
+  {
+    "type": "Domain",
+    "value": "projectcircuitbreaker.com"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.wf"
+  },
+  {
+    "type": "Domain",
+    "value": "reconjet.com"
+  },
+  {
+    "type": "Domain",
+    "value": "researchintel.com"
+  },
+  {
+    "type": "Domain",
+    "value": "saffrontech.com"
+  },
+  {
+    "type": "Domain",
+    "value": "sensorynetworks.com"
+  },
+  {
+    "type": "Domain",
+    "value": "sigopt.com"
+  },
+  {
+    "type": "Domain",
+    "value": "silicon-mobility.com"
+  },
+  {
+    "type": "Domain",
+    "value": "siliconmobility.com"
+  },
+  {
+    "type": "Domain",
+    "value": "siport.com"
+  },
+  {
+    "type": "Domain",
+    "value": "smart-edge.com"
+  },
+  {
+    "type": "Domain",
+    "value": "smart-edge.info"
+  },
+  {
+    "type": "Domain",
+    "value": "smart-edge.io"
+  },
+  {
+    "type": "Domain",
+    "value": "smart-edge.net"
+  },
+  {
+    "type": "Domain",
+    "value": "smart-edge.org"
+  },
+  {
+    "type": "Domain",
+    "value": "smart-edge.systems"
+  },
+  {
+    "type": "Domain",
+    "value": "smartedge.info"
+  },
+  {
+    "type": "Domain",
+    "value": "storageclassmemory.io"
+  },
+  {
+    "type": "Domain",
+    "value": "storageclassmemory.org"
+  },
+  {
+    "type": "Domain",
+    "value": "theintelstore.com"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.com.tw"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.co.id"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.com.uy"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.com.co"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.com.ph"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.com.tr"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.com.py"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.com.pr"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.com.pe"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.com.my"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.com.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.com.jm"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.co.ae"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.com.ec"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.com.mx"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.com.br"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.com.bo"
+  },
+  {
+    "type": "Domain",
+    "value": "altera.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.com.ar"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.co.za"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.co.kr"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.co.il"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.com.ve"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.co.cr"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.com.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "intel.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

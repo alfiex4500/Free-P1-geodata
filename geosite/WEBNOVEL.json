@@ -1,0 +1,11 @@
+[
+  {
+    "type": "Domain",
+    "value": "webnovel.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

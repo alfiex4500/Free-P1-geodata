@@ -1,0 +1,31 @@
+[
+  {
+    "type": "Full",
+    "value": "amp.akamaized.net"
+  },
+  {
+    "type": "Domain",
+    "value": "amp.dev"
+  },
+  {
+    "type": "Domain",
+    "value": "ampproject.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ampproject.net"
+  },
+  {
+    "type": "Domain",
+    "value": "ampproject.org"
+  },
+  {
+    "type": "Full",
+    "value": "cdn.ampproject.org",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

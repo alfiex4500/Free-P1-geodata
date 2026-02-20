@@ -1,0 +1,14 @@
+[
+  {
+    "type": "Domain",
+    "value": "addthis.com"
+  },
+  {
+    "type": "Domain",
+    "value": "addthiscdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "addthisedge.com"
+  }
+]

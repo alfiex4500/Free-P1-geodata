@@ -1,0 +1,542 @@
+[
+  {
+    "type": "Full",
+    "value": "moocs.unipus.cn"
+  },
+  {
+    "type": "Full",
+    "value": "opencourse.pku.edu.cn"
+  },
+  {
+    "type": "Full",
+    "value": "study.163.com"
+  },
+  {
+    "type": "Domain",
+    "value": "kuaiduizuoye.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ncss.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "xuetangx.com"
+  },
+  {
+    "type": "Domain",
+    "value": "edu.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "smartedu.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "cedf.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "chesicc.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "chesicc.com"
+  },
+  {
+    "type": "Domain",
+    "value": "chesicc.net"
+  },
+  {
+    "type": "Domain",
+    "value": "chsi.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "shanbay.com"
+  },
+  {
+    "type": "Domain",
+    "value": "baydn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "yeshj.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hujiang.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hjfile.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "hjapi.com"
+  },
+  {
+    "type": "Domain",
+    "value": "yudou.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "yuketang.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "rainclassroom.com"
+  },
+  {
+    "type": "Domain",
+    "value": "applysquare.net"
+  },
+  {
+    "type": "Domain",
+    "value": "gfbzb.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "gfbzb.com"
+  },
+  {
+    "type": "Domain",
+    "value": "applysquare.com"
+  },
+  {
+    "type": "Domain",
+    "value": "17zuoye.net"
+  },
+  {
+    "type": "Domain",
+    "value": "gfbzb.net"
+  },
+  {
+    "type": "Domain",
+    "value": "ketangpai.com"
+  },
+  {
+    "type": "Domain",
+    "value": "17zuoye.com"
+  },
+  {
+    "type": "Domain",
+    "value": "17zuoye.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "pmphmooc.com"
+  },
+  {
+    "type": "Domain",
+    "value": "qgzb.net"
+  },
+  {
+    "type": "Domain",
+    "value": "openlearning.com"
+  },
+  {
+    "type": "Domain",
+    "value": "zbbm.net"
+  },
+  {
+    "type": "Domain",
+    "value": "neea.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "91yunxiao.com"
+  },
+  {
+    "type": "Domain",
+    "value": "aiyunxiao.com"
+  },
+  {
+    "type": "Domain",
+    "value": "haofenshu.com"
+  },
+  {
+    "type": "Domain",
+    "value": "iyunxiao.com"
+  },
+  {
+    "type": "Domain",
+    "value": "yunxiao.com"
+  },
+  {
+    "type": "Domain",
+    "value": "baicizhan.com"
+  },
+  {
+    "type": "Domain",
+    "value": "baicizhan.org"
+  },
+  {
+    "type": "Domain",
+    "value": "bczcdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bczeducation.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "biyehome.net"
+  },
+  {
+    "type": "Domain",
+    "value": "burningvocabulary.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "burningvocabulary.com"
+  },
+  {
+    "type": "Domain",
+    "value": "centuryenglish.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cugbonline.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "dearedu.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dgjy.net"
+  },
+  {
+    "type": "Domain",
+    "value": "eduei.com"
+  },
+  {
+    "type": "Domain",
+    "value": "eoffcn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "jinrongren.net"
+  },
+  {
+    "type": "Domain",
+    "value": "offcn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "zggqzp.com"
+  },
+  {
+    "type": "Domain",
+    "value": "zgsydw.com"
+  },
+  {
+    "type": "Domain",
+    "value": "gk100.com"
+  },
+  {
+    "type": "Domain",
+    "value": "huatu.com"
+  },
+  {
+    "type": "Domain",
+    "value": "sydw8.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ictbda.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "ictbda.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mooc.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "xir.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "j-test.com"
+  },
+  {
+    "type": "Domain",
+    "value": "nattest-china.com"
+  },
+  {
+    "type": "Domain",
+    "value": "fenbi.com"
+  },
+  {
+    "type": "Domain",
+    "value": "yushiyan.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cctalk.com"
+  },
+  {
+    "type": "Domain",
+    "value": "liulishuo.com"
+  },
+  {
+    "type": "Domain",
+    "value": "llsapp.com"
+  },
+  {
+    "type": "Domain",
+    "value": "llscdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "llsserver.com"
+  },
+  {
+    "type": "Domain",
+    "value": "magedu.com"
+  },
+  {
+    "type": "Domain",
+    "value": "neoscholar.com"
+  },
+  {
+    "type": "Domain",
+    "value": "neoschool.com"
+  },
+  {
+    "type": "Domain",
+    "value": "oldboyedu.com"
+  },
+  {
+    "type": "Domain",
+    "value": "pigai.org"
+  },
+  {
+    "type": "Domain",
+    "value": "saduck.top"
+  },
+  {
+    "type": "Domain",
+    "value": "weilaiyunxiao.com"
+  },
+  {
+    "type": "Domain",
+    "value": "winyoungreading.com"
+  },
+  {
+    "type": "Domain",
+    "value": "x-cloud.cc"
+  },
+  {
+    "type": "Domain",
+    "value": "xkw.com"
+  },
+  {
+    "type": "Domain",
+    "value": "zxxk.com"
+  },
+  {
+    "type": "Domain",
+    "value": "yunzhuxue.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ystbds.com"
+  },
+  {
+    "type": "Domain",
+    "value": "zhan.com"
+  },
+  {
+    "type": "Domain",
+    "value": "zhihuishu.com"
+  },
+  {
+    "type": "Domain",
+    "value": "zjzs.net"
+  },
+  {
+    "type": "Domain",
+    "value": "hugecore.net"
+  },
+  {
+    "type": "Domain",
+    "value": "shareintelli.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mojidict.com"
+  },
+  {
+    "type": "Domain",
+    "value": "koocdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "koolearn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "koopass.com"
+  },
+  {
+    "type": "Domain",
+    "value": "schoopia.com"
+  },
+  {
+    "type": "Domain",
+    "value": "tongxuepie.com"
+  },
+  {
+    "type": "Domain",
+    "value": "speiyou.com"
+  },
+  {
+    "type": "Domain",
+    "value": "xesimg.com"
+  },
+  {
+    "type": "Domain",
+    "value": "xueersi.com"
+  },
+  {
+    "type": "Domain",
+    "value": "banmaaike.com"
+  },
+  {
+    "type": "Domain",
+    "value": "xiaoyuankousuan.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ybccode.com"
+  },
+  {
+    "type": "Domain",
+    "value": "yuanfudao.com"
+  },
+  {
+    "type": "Domain",
+    "value": "yuansouti.com"
+  },
+  {
+    "type": "Domain",
+    "value": "yuantiku.com"
+  },
+  {
+    "type": "Domain",
+    "value": "fbstatic.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "keboyunxiao.com"
+  },
+  {
+    "type": "Domain",
+    "value": "fenbike.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "fenbike.com"
+  },
+  {
+    "type": "Domain",
+    "value": "fenbilantian.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "fenbilantian.com"
+  },
+  {
+    "type": "Domain",
+    "value": "chinesemooc.org"
+  },
+  {
+    "type": "Domain",
+    "value": "cnmooc.org"
+  },
+  {
+    "type": "Domain",
+    "value": "icourse163.org"
+  },
+  {
+    "type": "Domain",
+    "value": "icourses.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "cbern.com.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "qgzb.gov.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "chinayz.com.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "chsi.com.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "qgzb.com.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "ncss.org.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "gfbzb.gov.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "zbbm.gov.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "gatzs.com.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "gfbzb.com.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "icve.com.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "chesicc.org.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "chesicc.net.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "chesicc.com.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "chei.com.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "chdi.com.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "cedf.org.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "modex.com.cn"
+  }
+]

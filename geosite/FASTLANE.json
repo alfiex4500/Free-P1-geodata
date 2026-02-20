@@ -1,0 +1,10 @@
+[
+  {
+    "type": "Domain",
+    "value": "fastlane.ci"
+  },
+  {
+    "type": "Domain",
+    "value": "fastlane.tools"
+  }
+]

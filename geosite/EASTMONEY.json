@@ -1,0 +1,39 @@
+[
+  {
+    "type": "Domain",
+    "value": "18.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "dfcfw.com"
+  },
+  {
+    "type": "Domain",
+    "value": "eastmoney.com"
+  },
+  {
+    "type": "Domain",
+    "value": "eastmoneyfutures.com"
+  },
+  {
+    "type": "Domain",
+    "value": "1234567.com.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "18.com.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "guba.com.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "emsec.hk",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

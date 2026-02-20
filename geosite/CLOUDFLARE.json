@@ -1,0 +1,393 @@
+[
+  {
+    "type": "Domain",
+    "value": "argotunnel.com"
+  },
+  {
+    "type": "Domain",
+    "value": "browser.run"
+  },
+  {
+    "type": "Domain",
+    "value": "cfargotunnel.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cfdata.org"
+  },
+  {
+    "type": "Domain",
+    "value": "cfl.re"
+  },
+  {
+    "type": "Domain",
+    "value": "cloudflare-dns.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cloudflare-ech.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cloudflare-esni.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cloudflare-gateway.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cloudflare-quic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cloudflare-terms-of-service-abuse.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cloudflare.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cloudflare.dev"
+  },
+  {
+    "type": "Domain",
+    "value": "cloudflare.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cloudflare.tv"
+  },
+  {
+    "type": "Domain",
+    "value": "cloudflareaccess.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cloudflareapps.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cloudflarebolt.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cloudflarebrowser.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cloudflarechallenge.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cloudflareclient.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cloudflarecp.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cloudflareinsights.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cloudflareok.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cloudflarepartners.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cloudflareportal.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cloudflarepreview.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cloudflareregistrar.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cloudflareresearch.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cloudflareresolve.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cloudflaressl.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cloudflarestatus.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cloudflarestorage.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cloudflarestream.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cloudflaresupport.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cloudflaretest.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cloudflarewarp.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cloudflareworkers.com"
+  },
+  {
+    "type": "Domain",
+    "value": "encryptedsni.com"
+  },
+  {
+    "type": "Domain",
+    "value": "every1dns.net"
+  },
+  {
+    "type": "Domain",
+    "value": "foundationdns.com"
+  },
+  {
+    "type": "Domain",
+    "value": "foundationdns.net"
+  },
+  {
+    "type": "Domain",
+    "value": "foundationdns.org"
+  },
+  {
+    "type": "Domain",
+    "value": "imagedelivery.net"
+  },
+  {
+    "type": "Domain",
+    "value": "isbgpsafeyet.com"
+  },
+  {
+    "type": "Domain",
+    "value": "pacloudflare.com"
+  },
+  {
+    "type": "Domain",
+    "value": "pages.dev"
+  },
+  {
+    "type": "Domain",
+    "value": "r2.dev"
+  },
+  {
+    "type": "Domain",
+    "value": "trycloudflare.com"
+  },
+  {
+    "type": "Domain",
+    "value": "videodelivery.net"
+  },
+  {
+    "type": "Domain",
+    "value": "warp.plus"
+  },
+  {
+    "type": "Domain",
+    "value": "workers.dev"
+  },
+  {
+    "type": "Domain",
+    "value": "cf-ipfs.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cloudflare-ipfs.com"
+  },
+  {
+    "type": "Domain",
+    "value": "one.one.one"
+  },
+  {
+    "type": "Domain",
+    "value": "cf-china.info",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "cf-ns.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "cf-ns.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "cf-ns.site",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "cf-ns.tech",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "cftest5.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "cftest6.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "cftest7.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "cftest8.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "cloudflare-cn.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "cloudflareanycast.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "cloudflarechina.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "cloudflarecn.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "cloudflareglobal.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "cloudflareinsights-cn.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "cloudflareperf.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "cloudflareprod.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "cloudflarestaging.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "cloudflarestoragegw.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

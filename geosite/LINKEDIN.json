@@ -1,0 +1,60 @@
+[
+  {
+    "type": "Full",
+    "value": "e122475.dscg.akamaiedge.net"
+  },
+  {
+    "type": "Full",
+    "value": "licdn.cn.cdn20.com"
+  },
+  {
+    "type": "Full",
+    "value": "linkedin.sc.omtrdc.net"
+  },
+  {
+    "type": "Domain",
+    "value": "bizographics.com"
+  },
+  {
+    "type": "Domain",
+    "value": "licdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "linkedin.at"
+  },
+  {
+    "type": "Domain",
+    "value": "linkedin.com"
+  },
+  {
+    "type": "Domain",
+    "value": "lnkd.in"
+  },
+  {
+    "type": "Domain",
+    "value": "l-0005.dc-msedge.net"
+  },
+  {
+    "type": "Domain",
+    "value": "l-0005.l-msedge.net"
+  },
+  {
+    "type": "Domain",
+    "value": "licdn.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "linkedin.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

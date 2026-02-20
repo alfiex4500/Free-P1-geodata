@@ -1,0 +1,34 @@
+[
+  {
+    "type": "Domain",
+    "value": "signal.art"
+  },
+  {
+    "type": "Domain",
+    "value": "signal.group"
+  },
+  {
+    "type": "Domain",
+    "value": "signal.link"
+  },
+  {
+    "type": "Domain",
+    "value": "signal.me"
+  },
+  {
+    "type": "Domain",
+    "value": "signal.tube"
+  },
+  {
+    "type": "Domain",
+    "value": "signal.org"
+  },
+  {
+    "type": "Domain",
+    "value": "signalusers.org"
+  },
+  {
+    "type": "Domain",
+    "value": "whispersystems.org"
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "type": "Full",
+    "value": "manga.bilibili.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bilicomic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bilicomics.com"
+  },
+  {
+    "type": "Domain",
+    "value": "acg.tv"
+  },
+  {
+    "type": "Domain",
+    "value": "acgvideo.com"
+  },
+  {
+    "type": "Domain",
+    "value": "animetamashi.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "animetamashi.com"
+  },
+  {
+    "type": "Domain",
+    "value": "anitama.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "anitama.net"
+  },
+  {
+    "type": "Domain",
+    "value": "b23.tv"
+  },
+  {
+    "type": "Domain",
+    "value": "bigfun.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "bigfunapp.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "bili22.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "bili2233.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "bili23.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "bili33.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "biliapi.com"
+  },
+  {
+    "type": "Domain",
+    "value": "biliapi.net"
+  },
+  {
+    "type": "Domain",
+    "value": "bilibili.cc"
+  },
+  {
+    "type": "Domain",
+    "value": "bilibili.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "bilibili.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bilibili.net"
+  },
+  {
+    "type": "Domain",
+    "value": "bilibilipay.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "bilibilipay.com"
+  },
+  {
+    "type": "Domain",
+    "value": "biligo.com"
+  },
+  {
+    "type": "Domain",
+    "value": "im9.com"
+  },
+  {
+    "type": "Domain",
+    "value": "yo9.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bilicdn1.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bilicdn2.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bilicdn3.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bilicdn4.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bilicdn5.com"
+  },
+  {
+    "type": "Domain",
+    "value": "biliimg.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bilivideo.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "bilivideo.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bilivideo.net"
+  },
+  {
+    "type": "Domain",
+    "value": "hdslb.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hdslb.org"
+  },
+  {
+    "type": "Domain",
+    "value": "maoercdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mincdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bilibiligame.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "bilibiligame.co"
+  },
+  {
+    "type": "Domain",
+    "value": "bilibiligame.net"
+  },
+  {
+    "type": "Domain",
+    "value": "biligame.co"
+  },
+  {
+    "type": "Domain",
+    "value": "biligame.com"
+  },
+  {
+    "type": "Domain",
+    "value": "biligame.net"
+  },
+  {
+    "type": "Domain",
+    "value": "bilibili.tv",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "biliintl.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "dreamcast.hk",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "upos-hz-mirrorakam.akamaized.net",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

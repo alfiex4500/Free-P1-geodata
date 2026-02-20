@@ -1,0 +1,19 @@
+[
+  {
+    "type": "Domain",
+    "value": "acer-group.com"
+  },
+  {
+    "type": "Domain",
+    "value": "acer.com"
+  },
+  {
+    "type": "Domain",
+    "value": "acer.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

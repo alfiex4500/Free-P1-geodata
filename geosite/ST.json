@@ -1,0 +1,15 @@
+[
+  {
+    "type": "Domain",
+    "value": "st.com"
+  },
+  {
+    "type": "Domain",
+    "value": "stmicroelectronics.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

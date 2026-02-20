@@ -1,0 +1,14 @@
+[
+  {
+    "type": "Domain",
+    "value": "archive-it.org"
+  },
+  {
+    "type": "Domain",
+    "value": "archive.org"
+  },
+  {
+    "type": "Domain",
+    "value": "openlibrary.org"
+  }
+]

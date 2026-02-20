@@ -1,0 +1,174 @@
+[
+  {
+    "type": "Domain",
+    "value": "anycross.com"
+  },
+  {
+    "type": "Domain",
+    "value": "blmpb.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bytedancehermestest.com"
+  },
+  {
+    "type": "Domain",
+    "value": "falconsending.com"
+  },
+  {
+    "type": "Domain",
+    "value": "fei-shu.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "feishu-3rd-party-services.com"
+  },
+  {
+    "type": "Domain",
+    "value": "feishu-boe.net"
+  },
+  {
+    "type": "Domain",
+    "value": "feishu-customer.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "feishu-pre.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "feishu-pre.net"
+  },
+  {
+    "type": "Domain",
+    "value": "feishu-psc.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "feishu-staging.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "feishu.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "feishu.net"
+  },
+  {
+    "type": "Domain",
+    "value": "feishuapp-cdn.net"
+  },
+  {
+    "type": "Domain",
+    "value": "feishuapp.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "feishuapp.com"
+  },
+  {
+    "type": "Domain",
+    "value": "feishucdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "feishudoc.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "feishudoc.com"
+  },
+  {
+    "type": "Domain",
+    "value": "feishuhuiyi.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "feishuhuiyi.com"
+  },
+  {
+    "type": "Domain",
+    "value": "feishuimg-boe.com"
+  },
+  {
+    "type": "Domain",
+    "value": "feishuimg-pre.com"
+  },
+  {
+    "type": "Domain",
+    "value": "feishuimg.com"
+  },
+  {
+    "type": "Domain",
+    "value": "feishukacdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "feishumeetings.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "feishumeetings.com"
+  },
+  {
+    "type": "Domain",
+    "value": "feishuoffice.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "feishuoffice.com"
+  },
+  {
+    "type": "Domain",
+    "value": "feishuopenplatformrecord.com"
+  },
+  {
+    "type": "Domain",
+    "value": "feishupkg.com"
+  },
+  {
+    "type": "Domain",
+    "value": "feishustatus.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "feishuvc.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "feishuvc.com"
+  },
+  {
+    "type": "Domain",
+    "value": "getfeishu.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "getfeishu.com"
+  },
+  {
+    "type": "Domain",
+    "value": "getsays.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "getsays.com"
+  },
+  {
+    "type": "Domain",
+    "value": "lackvc.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "securityfeishu.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "securityfs.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "statusfeishu.cn"
+  }
+]

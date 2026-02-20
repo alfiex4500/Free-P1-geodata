@@ -1,0 +1,26 @@
+[
+  {
+    "type": "Domain",
+    "value": "starott.com"
+  },
+  {
+    "type": "Domain",
+    "value": "starplus.com"
+  },
+  {
+    "type": "Domain",
+    "value": "star.api.edge.bamgrid.com"
+  },
+  {
+    "type": "Domain",
+    "value": "star.connections.edge.bamgrid.com"
+  },
+  {
+    "type": "Domain",
+    "value": "star.content.edge.bamgrid.com"
+  },
+  {
+    "type": "Domain",
+    "value": "star.playback.edge.bamgrid.com"
+  }
+]

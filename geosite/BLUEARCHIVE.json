@@ -1,0 +1,19 @@
+[
+  {
+    "type": "Domain",
+    "value": "bluearchive.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "bluearchive.nexon.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bluearchive-cn.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

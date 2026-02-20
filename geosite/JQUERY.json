@@ -1,0 +1,14 @@
+[
+  {
+    "type": "Domain",
+    "value": "jquery.com"
+  },
+  {
+    "type": "Domain",
+    "value": "jquerymobile.com"
+  },
+  {
+    "type": "Domain",
+    "value": "jqueryui.com"
+  }
+]

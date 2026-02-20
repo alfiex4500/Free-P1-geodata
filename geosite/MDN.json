@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Full",
+    "value": "mdn.mozillademos.org"
+  },
+  {
+    "type": "Domain",
+    "value": "mdn.dev"
+  },
+  {
+    "type": "Domain",
+    "value": "mdnplay.dev"
+  },
+  {
+    "type": "Domain",
+    "value": "mdnyalp.dev"
+  },
+  {
+    "type": "Domain",
+    "value": "developer.allizom.org"
+  },
+  {
+    "type": "Domain",
+    "value": "developer.mozilla.org"
+  },
+  {
+    "type": "Domain",
+    "value": "mdn.allizom.net"
+  },
+  {
+    "type": "Domain",
+    "value": "mdn.mozilla.net"
+  },
+  {
+    "type": "Domain",
+    "value": "mdn.mozit.cloud"
+  }
+]

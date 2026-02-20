@@ -1,0 +1,23 @@
+[
+  {
+    "type": "Domain",
+    "value": "zuoyebang.cc"
+  },
+  {
+    "type": "Domain",
+    "value": "zuoyebang.com"
+  },
+  {
+    "type": "Domain",
+    "value": "zybang.com"
+  },
+  {
+    "type": "Domain",
+    "value": "syh.zybang.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  }
+]

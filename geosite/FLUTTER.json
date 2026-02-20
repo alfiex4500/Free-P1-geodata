@@ -1,0 +1,14 @@
+[
+  {
+    "type": "Domain",
+    "value": "flutter.dev"
+  },
+  {
+    "type": "Domain",
+    "value": "flutterapp.com"
+  },
+  {
+    "type": "Domain",
+    "value": "pub.dev"
+  }
+]

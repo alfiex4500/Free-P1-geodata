@@ -1,0 +1,102 @@
+[
+  {
+    "type": "Domain",
+    "value": "askubuntu.com"
+  },
+  {
+    "type": "Domain",
+    "value": "blogoverflow.com"
+  },
+  {
+    "type": "Domain",
+    "value": "codeforaliving.io"
+  },
+  {
+    "type": "Domain",
+    "value": "mathoverflow.net"
+  },
+  {
+    "type": "Domain",
+    "value": "serverfault.com"
+  },
+  {
+    "type": "Domain",
+    "value": "sstatic.net"
+  },
+  {
+    "type": "Domain",
+    "value": "stackapps.com"
+  },
+  {
+    "type": "Domain",
+    "value": "stackauth.com"
+  },
+  {
+    "type": "Domain",
+    "value": "stackexchange.com"
+  },
+  {
+    "type": "Domain",
+    "value": "stackmod.blog"
+  },
+  {
+    "type": "Domain",
+    "value": "stackoverflow.blog"
+  },
+  {
+    "type": "Domain",
+    "value": "stackoverflow.co"
+  },
+  {
+    "type": "Domain",
+    "value": "stackoverflow.com"
+  },
+  {
+    "type": "Domain",
+    "value": "stackoverflow.email"
+  },
+  {
+    "type": "Domain",
+    "value": "stackoverflow.help"
+  },
+  {
+    "type": "Domain",
+    "value": "stackoverflow.net"
+  },
+  {
+    "type": "Domain",
+    "value": "stackoverflowbusiness.com"
+  },
+  {
+    "type": "Domain",
+    "value": "stackoverflowcareers.com"
+  },
+  {
+    "type": "Domain",
+    "value": "stackoverflowjobs.com"
+  },
+  {
+    "type": "Domain",
+    "value": "stackoverflowsolutions.com"
+  },
+  {
+    "type": "Domain",
+    "value": "stackoverflowteams.com"
+  },
+  {
+    "type": "Domain",
+    "value": "stacksnippets.net"
+  },
+  {
+    "type": "Domain",
+    "value": "superuser.com"
+  },
+  {
+    "type": "Domain",
+    "value": "tex-talk.net"
+  },
+  {
+    "type": "Domain",
+    "value": "thesffblog.com"
+  }
+]

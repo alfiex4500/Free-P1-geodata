@@ -1,0 +1,28 @@
+[
+  {
+    "type": "Domain",
+    "value": "unity.com"
+  },
+  {
+    "type": "Domain",
+    "value": "unity3d.com"
+  },
+  {
+    "type": "Domain",
+    "value": "iads.unity3d.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "unityads.unity3d.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  }
+]

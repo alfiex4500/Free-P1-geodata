@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Full",
+    "value": "cloudsync-prod.s3.amazonaws.com"
+  },
+  {
+    "type": "Full",
+    "value": "origin-a.akamaihd.net"
+  },
+  {
+    "type": "Full",
+    "value": "rtm.tnt-ea.com"
+  },
+  {
+    "type": "Full",
+    "value": "ssl-lvlt.cdn.ea.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dawngate.com"
+  },
+  {
+    "type": "Domain",
+    "value": "eastore.com"
+  },
+  {
+    "type": "Domain",
+    "value": "lordofultima.com"
+  },
+  {
+    "type": "Domain",
+    "value": "origin.com"
+  },
+  {
+    "type": "Domain",
+    "value": "origin.tv"
+  }
+]

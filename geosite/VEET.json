@@ -1,0 +1,192 @@
+[
+  {
+    "type": "Domain",
+    "value": "veet.tv"
+  },
+  {
+    "type": "Domain",
+    "value": "veet.cl"
+  },
+  {
+    "type": "Domain",
+    "value": "veet.dk"
+  },
+  {
+    "type": "Domain",
+    "value": "veet.ch"
+  },
+  {
+    "type": "Domain",
+    "value": "veet.se"
+  },
+  {
+    "type": "Domain",
+    "value": "veetclub.it"
+  },
+  {
+    "type": "Domain",
+    "value": "veetcentroamerica.com"
+  },
+  {
+    "type": "Domain",
+    "value": "veet.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "veetarabia.com"
+  },
+  {
+    "type": "Domain",
+    "value": "veet.us"
+  },
+  {
+    "type": "Domain",
+    "value": "veet.at"
+  },
+  {
+    "type": "Domain",
+    "value": "veet.com"
+  },
+  {
+    "type": "Domain",
+    "value": "veet.ca"
+  },
+  {
+    "type": "Domain",
+    "value": "veet.be"
+  },
+  {
+    "type": "Domain",
+    "value": "veetbangladesh.com"
+  },
+  {
+    "type": "Domain",
+    "value": "veet.ro"
+  },
+  {
+    "type": "Domain",
+    "value": "veet.pt"
+  },
+  {
+    "type": "Domain",
+    "value": "veet.no"
+  },
+  {
+    "type": "Domain",
+    "value": "veet.nl"
+  },
+  {
+    "type": "Domain",
+    "value": "veet.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "veet.hu"
+  },
+  {
+    "type": "Domain",
+    "value": "veet.fr"
+  },
+  {
+    "type": "Domain",
+    "value": "veet.fi"
+  },
+  {
+    "type": "Domain",
+    "value": "veet.es"
+  },
+  {
+    "type": "Domain",
+    "value": "veet.de"
+  },
+  {
+    "type": "Domain",
+    "value": "veet.co.za"
+  },
+  {
+    "type": "Domain",
+    "value": "veet.com.tr"
+  },
+  {
+    "type": "Domain",
+    "value": "veet.com.sg"
+  },
+  {
+    "type": "Domain",
+    "value": "veet.com.pk"
+  },
+  {
+    "type": "Domain",
+    "value": "veet.com.ph"
+  },
+  {
+    "type": "Domain",
+    "value": "veet.com.my"
+  },
+  {
+    "type": "Domain",
+    "value": "veet.com.mx"
+  },
+  {
+    "type": "Domain",
+    "value": "veet.com.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "veet.com.co"
+  },
+  {
+    "type": "Domain",
+    "value": "veet.com.br"
+  },
+  {
+    "type": "Domain",
+    "value": "veet.com.bd"
+  },
+  {
+    "type": "Domain",
+    "value": "veet.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "veet.com.ar"
+  },
+  {
+    "type": "Domain",
+    "value": "veet.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "veet.co.nz"
+  },
+  {
+    "type": "Domain",
+    "value": "veet.co.kr"
+  },
+  {
+    "type": "Domain",
+    "value": "veet.co.in"
+  },
+  {
+    "type": "Domain",
+    "value": "veet.co.id"
+  },
+  {
+    "type": "Domain",
+    "value": "veet.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "veet.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

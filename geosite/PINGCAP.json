@@ -1,0 +1,30 @@
+[
+  {
+    "type": "Domain",
+    "value": "asktug.com"
+  },
+  {
+    "type": "Domain",
+    "value": "pingcap.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "pingcap.com"
+  },
+  {
+    "type": "Domain",
+    "value": "tidb.ai"
+  },
+  {
+    "type": "Domain",
+    "value": "tidb.net"
+  },
+  {
+    "type": "Domain",
+    "value": "tidbcloud.com"
+  },
+  {
+    "type": "Domain",
+    "value": "tikv.org"
+  }
+]

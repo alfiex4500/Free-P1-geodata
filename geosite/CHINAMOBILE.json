@@ -1,0 +1,116 @@
+[
+  {
+    "type": "Domain",
+    "value": "online-cmcc.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "fetionpic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "chinamobile.com"
+  },
+  {
+    "type": "Domain",
+    "value": "chinamobileltd.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cmread.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cmvideo.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "migu.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "migucloud.com"
+  },
+  {
+    "type": "Domain",
+    "value": "migufun.com"
+  },
+  {
+    "type": "Domain",
+    "value": "miguvideo.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mmarket6.com"
+  },
+  {
+    "type": "Domain",
+    "value": "139.com"
+  },
+  {
+    "type": "Domain",
+    "value": "andfx.net"
+  },
+  {
+    "type": "Domain",
+    "value": "andfx.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "10086.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "cmicapm.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cmicrwx.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "cmicvip.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "cmpassport.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mmarket.com"
+  },
+  {
+    "type": "Domain",
+    "value": "fetion-portal.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cmcc-cs.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "cytxl.com.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "cmft.com.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "speedtest.hk.chinamobile.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "speedtestbb.hk.chinamobile.com",
+    "attrs": {
+      "!cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

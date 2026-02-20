@@ -1,0 +1,57 @@
+[
+  {
+    "type": "Domain",
+    "value": "googleplay.com"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--ngstr-lra8j.com"
+  },
+  {
+    "type": "Domain",
+    "value": "play-fe.googleapis.com"
+  },
+  {
+    "type": "Domain",
+    "value": "play-games.googleusercontent.com"
+  },
+  {
+    "type": "Domain",
+    "value": "play-lh.googleusercontent.com"
+  },
+  {
+    "type": "Domain",
+    "value": "play.google.com"
+  },
+  {
+    "type": "Domain",
+    "value": "play.googleapis.com"
+  },
+  {
+    "type": "Regex",
+    "value": "^r+[0-9]+(---|\\.)sn-(2x3|ni5|j5o)\\w{5}\\.xn--ngstr-lra8j\\.com$",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Regex",
+    "value": "^r+[0-9]+(---|\\.)sn-(2x3|ni5|j5o)\\w{5}\\.googlevideo\\.com$",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "redirector.c.play.google.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "type": "Domain",
+    "value": "shadowsocks.com"
+  },
+  {
+    "type": "Domain",
+    "value": "shadowsocks.nl"
+  }
+]

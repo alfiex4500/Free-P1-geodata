@@ -1,0 +1,46 @@
+[
+  {
+    "type": "Domain",
+    "value": "atl-paas.net"
+  },
+  {
+    "type": "Domain",
+    "value": "atlassian-dev.net"
+  },
+  {
+    "type": "Domain",
+    "value": "atlassian.com"
+  },
+  {
+    "type": "Domain",
+    "value": "atlassian.net"
+  },
+  {
+    "type": "Domain",
+    "value": "bitbucket.io"
+  },
+  {
+    "type": "Domain",
+    "value": "bitbucket.org"
+  },
+  {
+    "type": "Domain",
+    "value": "jira.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ss-inf.net"
+  },
+  {
+    "type": "Domain",
+    "value": "statuspage.io"
+  },
+  {
+    "type": "Domain",
+    "value": "trello.com"
+  },
+  {
+    "type": "Domain",
+    "value": "trellocdn.com"
+  }
+]

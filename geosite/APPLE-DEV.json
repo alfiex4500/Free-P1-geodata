@@ -1,0 +1,170 @@
+[
+  {
+    "type": "Full",
+    "value": "notary-submissions-prod.s3-accelerate.amazonaws.com"
+  },
+  {
+    "type": "Full",
+    "value": "notary-submissions-prod.s3.us-west-2.amazonaws.com"
+  },
+  {
+    "type": "Full",
+    "value": "appleworldwidedeveloper.hb-api.omtrdc.net"
+  },
+  {
+    "type": "Full",
+    "value": "appleworldwidedeveloper.sc.omtrdc.net"
+  },
+  {
+    "type": "Full",
+    "value": "p-events-delivery.akamaized.net"
+  },
+  {
+    "type": "Domain",
+    "value": "macruby.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cups.org"
+  },
+  {
+    "type": "Domain",
+    "value": "macruby.net"
+  },
+  {
+    "type": "Domain",
+    "value": "swift.org"
+  },
+  {
+    "type": "Domain",
+    "value": "appleswift.com"
+  },
+  {
+    "type": "Domain",
+    "value": "webobjects.com"
+  },
+  {
+    "type": "Domain",
+    "value": "wpewebkit.org"
+  },
+  {
+    "type": "Domain",
+    "value": "calendarserver.org"
+  },
+  {
+    "type": "Domain",
+    "value": "macruby.org"
+  },
+  {
+    "type": "Domain",
+    "value": "macosforge.org"
+  },
+  {
+    "type": "Domain",
+    "value": "servicetalk.io"
+  },
+  {
+    "type": "Domain",
+    "value": "apple-cloudkit.com"
+  },
+  {
+    "type": "Domain",
+    "value": "foundationdb.org"
+  },
+  {
+    "type": "Domain",
+    "value": "apple-mapkit.com"
+  },
+  {
+    "type": "Domain",
+    "value": "webkitgtk.org"
+  },
+  {
+    "type": "Domain",
+    "value": "carekit.org"
+  },
+  {
+    "type": "Domain",
+    "value": "researchandcare.org"
+  },
+  {
+    "type": "Domain",
+    "value": "researchkit.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "researchkit.net"
+  },
+  {
+    "type": "Domain",
+    "value": "researchkit.org"
+  },
+  {
+    "type": "Domain",
+    "value": "researchkit.tv"
+  },
+  {
+    "type": "Domain",
+    "value": "webkit.org"
+  },
+  {
+    "type": "Domain",
+    "value": "timestamp.apple.com"
+  },
+  {
+    "type": "Domain",
+    "value": "playgrounds-cdn.apple.com"
+  },
+  {
+    "type": "Domain",
+    "value": "developerservices2.apple.com"
+  },
+  {
+    "type": "Domain",
+    "value": "devstreaming-cdn.apple.com"
+  },
+  {
+    "type": "Domain",
+    "value": "devimages-cdn.apple.com"
+  },
+  {
+    "type": "Domain",
+    "value": "developer.apple.com"
+  },
+  {
+    "type": "Domain",
+    "value": "researchkit.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "researchkit.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "swiftui.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "swiftui.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

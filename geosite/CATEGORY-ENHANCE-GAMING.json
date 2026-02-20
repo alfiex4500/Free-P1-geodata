@@ -1,0 +1,104 @@
+[
+  {
+    "type": "Domain",
+    "value": "battleye.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bluestacks.com"
+  },
+  {
+    "type": "Domain",
+    "value": "maa.plus"
+  },
+  {
+    "type": "Domain",
+    "value": "prts.plus"
+  },
+  {
+    "type": "Domain",
+    "value": "poi.moe"
+  },
+  {
+    "type": "Domain",
+    "value": "playcover.io"
+  },
+  {
+    "type": "Domain",
+    "value": "fflogs.com"
+  },
+  {
+    "type": "Domain",
+    "value": "rpglogs.com"
+  },
+  {
+    "type": "Domain",
+    "value": "thetrackernetwork.com"
+  },
+  {
+    "type": "Domain",
+    "value": "tracker.gg"
+  },
+  {
+    "type": "Domain",
+    "value": "tracker.network"
+  },
+  {
+    "type": "Domain",
+    "value": "playcover.workers.dev"
+  },
+  {
+    "type": "Domain",
+    "value": "ldmnq.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "lsplayer.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "yeshen.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "heavenlywind.cc",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "steampp.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "rpglogs.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

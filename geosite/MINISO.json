@@ -1,0 +1,161 @@
+[
+  {
+    "type": "Domain",
+    "value": "miniso.com"
+  },
+  {
+    "type": "Domain",
+    "value": "miniso.pe"
+  },
+  {
+    "type": "Domain",
+    "value": "miniso.pk"
+  },
+  {
+    "type": "Domain",
+    "value": "miniso-np.com"
+  },
+  {
+    "type": "Domain",
+    "value": "miniso-nz.com"
+  },
+  {
+    "type": "Domain",
+    "value": "miniso.by"
+  },
+  {
+    "type": "Domain",
+    "value": "miniso.ca"
+  },
+  {
+    "type": "Domain",
+    "value": "miniso.co"
+  },
+  {
+    "type": "Domain",
+    "value": "myminiso.com"
+  },
+  {
+    "type": "Domain",
+    "value": "minisokorea.com"
+  },
+  {
+    "type": "Domain",
+    "value": "miniso-bh.com"
+  },
+  {
+    "type": "Domain",
+    "value": "miniso-au.com"
+  },
+  {
+    "type": "Domain",
+    "value": "minisovietam.vn"
+  },
+  {
+    "type": "Domain",
+    "value": "minisojordan.com"
+  },
+  {
+    "type": "Domain",
+    "value": "minisoindia.com"
+  },
+  {
+    "type": "Domain",
+    "value": "miniso.uz"
+  },
+  {
+    "type": "Domain",
+    "value": "miniso.ua"
+  },
+  {
+    "type": "Domain",
+    "value": "miniso.ge"
+  },
+  {
+    "type": "Domain",
+    "value": "miniso.ie"
+  },
+  {
+    "type": "Domain",
+    "value": "miniso.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "miniso.ma"
+  },
+  {
+    "type": "Domain",
+    "value": "miniso.my"
+  },
+  {
+    "type": "Domain",
+    "value": "minisothailand.com"
+  },
+  {
+    "type": "Domain",
+    "value": "miniso.co.id"
+  },
+  {
+    "type": "Domain",
+    "value": "miniso.com.tr"
+  },
+  {
+    "type": "Domain",
+    "value": "miniso.com.py"
+  },
+  {
+    "type": "Domain",
+    "value": "miniso.com.pl"
+  },
+  {
+    "type": "Domain",
+    "value": "miniso.com.mx"
+  },
+  {
+    "type": "Domain",
+    "value": "miniso.com.gr"
+  },
+  {
+    "type": "Domain",
+    "value": "minisolife.co.za"
+  },
+  {
+    "type": "Domain",
+    "value": "miniso.com.es"
+  },
+  {
+    "type": "Domain",
+    "value": "miniso.co.tz"
+  },
+  {
+    "type": "Domain",
+    "value": "loveminiso.com.br"
+  },
+  {
+    "type": "Domain",
+    "value": "miniso.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "minisohome.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "minsio.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

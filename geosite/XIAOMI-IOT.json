@@ -1,0 +1,18 @@
+[
+  {
+    "type": "Domain",
+    "value": "miot-spec.org"
+  },
+  {
+    "type": "Domain",
+    "value": "account.xiaomi.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cn-ha.mqtt.io.mi.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ha.api.io.mi.com"
+  }
+]

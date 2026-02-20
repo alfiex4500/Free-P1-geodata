@@ -1,0 +1,39 @@
+[
+  {
+    "type": "Domain",
+    "value": "ac.fun"
+  },
+  {
+    "type": "Domain",
+    "value": "acfun.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "acfun.net"
+  },
+  {
+    "type": "Domain",
+    "value": "acfunchina.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "acfunchina.com"
+  },
+  {
+    "type": "Domain",
+    "value": "acfunchina.net"
+  },
+  {
+    "type": "Domain",
+    "value": "aixifan.com"
+  },
+  {
+    "type": "Full",
+    "value": "apilog-web.acfun.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  }
+]

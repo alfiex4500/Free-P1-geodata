@@ -1,0 +1,34 @@
+[
+  {
+    "type": "Domain",
+    "value": "myshopify.com"
+  },
+  {
+    "type": "Domain",
+    "value": "shop.app"
+  },
+  {
+    "type": "Domain",
+    "value": "shopify.com"
+  },
+  {
+    "type": "Domain",
+    "value": "shopify.dev"
+  },
+  {
+    "type": "Domain",
+    "value": "shopifycdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "shopifycloud.com"
+  },
+  {
+    "type": "Domain",
+    "value": "shopifystatus.com"
+  },
+  {
+    "type": "Domain",
+    "value": "shopifysvc.com"
+  }
+]

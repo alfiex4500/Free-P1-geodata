@@ -1,0 +1,14 @@
+[
+  {
+    "type": "Domain",
+    "value": "wistia.com"
+  },
+  {
+    "type": "Domain",
+    "value": "wistia.net"
+  },
+  {
+    "type": "Domain",
+    "value": "embedwistia-a.akamaihd.net"
+  }
+]

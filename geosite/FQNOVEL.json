@@ -1,0 +1,257 @@
+[
+  {
+    "type": "Full",
+    "value": "p3-novel.byteimg.com"
+  },
+  {
+    "type": "Full",
+    "value": "p6-novel.byteimg.com"
+  },
+  {
+    "type": "Domain",
+    "value": "activity-zhendingtech.com"
+  },
+  {
+    "type": "Domain",
+    "value": "changdunovel.com"
+  },
+  {
+    "type": "Domain",
+    "value": "fanqienovel.com"
+  },
+  {
+    "type": "Domain",
+    "value": "fanqieopen.com"
+  },
+  {
+    "type": "Domain",
+    "value": "fanqieopenpic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "fanqieopenstatic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "fanqieopenvod.com"
+  },
+  {
+    "type": "Domain",
+    "value": "fanqiesdk.com"
+  },
+  {
+    "type": "Domain",
+    "value": "fanqiesdkpic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "fanqiesdkstatic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "fanqiesdkvod.com"
+  },
+  {
+    "type": "Domain",
+    "value": "fqnovel-op.com"
+  },
+  {
+    "type": "Domain",
+    "value": "fqnovel.com"
+  },
+  {
+    "type": "Domain",
+    "value": "fqnovelim.com"
+  },
+  {
+    "type": "Domain",
+    "value": "fqnovelop.com"
+  },
+  {
+    "type": "Domain",
+    "value": "fqnovelpic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "fqnovelstatic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "fqnovelvod.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ihaohaoxuexi.com"
+  },
+  {
+    "type": "Domain",
+    "value": "muyewx.com"
+  },
+  {
+    "type": "Domain",
+    "value": "novelfm.com"
+  },
+  {
+    "type": "Domain",
+    "value": "novelfmpic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "novelfmstatic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "novelfmvod.com"
+  },
+  {
+    "type": "Domain",
+    "value": "qznovel.com"
+  },
+  {
+    "type": "Domain",
+    "value": "qznovelpic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "qznovelstatic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "qznovelvod.com"
+  },
+  {
+    "type": "Full",
+    "value": "ads3-normal-hl.zijieapi.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "ads3-normal.zijieapi.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "ads5-normal-hl.zijieapi.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "ads5-normal.zijieapi.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "log3-applog-hl.fqnovel.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "log3-applog.fqnovel.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "log5-applog-hl.fqnovel.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "log5-applog.fqnovel.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "p3-ad-sign.byteimg.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "p6-ad-sign.byteimg.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "p9-ad-sign.byteimg.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "rtlog3-applog-hl.fqnovel.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "rtlog3-applog.fqnovel.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "rtlog5-applog-hl.fqnovel.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "rtlog5-applog.fqnovel.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  }
+]

@@ -1,0 +1,135 @@
+[
+  {
+    "type": "Full",
+    "value": "ubisoft-uplay-savegames.s3.amazonaws.com"
+  },
+  {
+    "type": "Full",
+    "value": "ubisoft-orbit-savegames.s3.amazonaws.com"
+  },
+  {
+    "type": "Full",
+    "value": "ubistatic1-a.akamaihd.net"
+  },
+  {
+    "type": "Full",
+    "value": "ubistatic2-a.akamaihd.net"
+  },
+  {
+    "type": "Full",
+    "value": "ubistatic3-a.akamaihd.net"
+  },
+  {
+    "type": "Full",
+    "value": "ubistatic4-a.akamaihd.net"
+  },
+  {
+    "type": "Full",
+    "value": "ubistatic5-a.akamaihd.net"
+  },
+  {
+    "type": "Full",
+    "value": "ubistatic6-a.akamaihd.net"
+  },
+  {
+    "type": "Full",
+    "value": "ubistatic7-a.akamaihd.net"
+  },
+  {
+    "type": "Full",
+    "value": "ubistatic8-a.akamaihd.net"
+  },
+  {
+    "type": "Full",
+    "value": "ubistatic9-a.akamaihd.net"
+  },
+  {
+    "type": "Full",
+    "value": "ubistatic10-a.akamaihd.net"
+  },
+  {
+    "type": "Full",
+    "value": "ubistatic11-a.akamaihd.net"
+  },
+  {
+    "type": "Full",
+    "value": "ubistatic12-a.akamaihd.net"
+  },
+  {
+    "type": "Full",
+    "value": "ubistatic13-a.akamaihd.net"
+  },
+  {
+    "type": "Full",
+    "value": "ubistatic14-a.akamaihd.net"
+  },
+  {
+    "type": "Full",
+    "value": "ubistatic15-a.akamaihd.net"
+  },
+  {
+    "type": "Full",
+    "value": "ubistatic16-a.akamaihd.net"
+  },
+  {
+    "type": "Full",
+    "value": "ubistatic17-a.akamaihd.net"
+  },
+  {
+    "type": "Full",
+    "value": "ubistatic18-a.akamaihd.net"
+  },
+  {
+    "type": "Full",
+    "value": "ubistatic19-a.akamaihd.net"
+  },
+  {
+    "type": "Full",
+    "value": "ubistatic20-a.akamaihd.net"
+  },
+  {
+    "type": "Full",
+    "value": "ubistatic21-a.akamaihd.net"
+  },
+  {
+    "type": "Full",
+    "value": "ubistatic22-a.akamaihd.net"
+  },
+  {
+    "type": "Full",
+    "value": "ubistatic23-a.akamaihd.net"
+  },
+  {
+    "type": "Full",
+    "value": "ubistatic24-a.akamaihd.net"
+  },
+  {
+    "type": "Full",
+    "value": "ubisoft.siteintercept.qualtrics.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ubi.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ubisoft.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ubisoftconnect.com"
+  },
+  {
+    "type": "Domain",
+    "value": "uplay.com"
+  },
+  {
+    "type": "Full",
+    "value": "uplaypc-s-ubisoft.cdn.ubi.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

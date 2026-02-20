@@ -1,0 +1,70 @@
+[
+  {
+    "type": "Domain",
+    "value": "01.org"
+  },
+  {
+    "type": "Domain",
+    "value": "hyperscan.io"
+  },
+  {
+    "type": "Domain",
+    "value": "intellinuxgraphics.com"
+  },
+  {
+    "type": "Domain",
+    "value": "intellinuxgraphics.net"
+  },
+  {
+    "type": "Domain",
+    "value": "oneapi.com"
+  },
+  {
+    "type": "Domain",
+    "value": "oneapi.io"
+  },
+  {
+    "type": "Domain",
+    "value": "opencas.io"
+  },
+  {
+    "type": "Domain",
+    "value": "opendroneid.org"
+  },
+  {
+    "type": "Domain",
+    "value": "openvino.ai"
+  },
+  {
+    "type": "Domain",
+    "value": "openvinotoolkit.org"
+  },
+  {
+    "type": "Domain",
+    "value": "renderingtoolkit.org"
+  },
+  {
+    "type": "Domain",
+    "value": "snap-telemetry.io"
+  },
+  {
+    "type": "Domain",
+    "value": "universalscalablefirmware.org"
+  },
+  {
+    "type": "Domain",
+    "value": "acpica.com"
+  },
+  {
+    "type": "Domain",
+    "value": "clearlinux.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ospray.net"
+  },
+  {
+    "type": "Domain",
+    "value": "ospray.org"
+  }
+]

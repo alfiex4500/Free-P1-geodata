@@ -1,0 +1,74 @@
+[
+  {
+    "type": "Domain",
+    "value": "mediawiki.org"
+  },
+  {
+    "type": "Domain",
+    "value": "wikibooks.org"
+  },
+  {
+    "type": "Domain",
+    "value": "wikidata.org"
+  },
+  {
+    "type": "Domain",
+    "value": "wikimediafoundation.org"
+  },
+  {
+    "type": "Domain",
+    "value": "wikimedia.org"
+  },
+  {
+    "type": "Domain",
+    "value": "wikinews.org"
+  },
+  {
+    "type": "Domain",
+    "value": "wikipedia.org"
+  },
+  {
+    "type": "Domain",
+    "value": "wikiquote.org"
+  },
+  {
+    "type": "Domain",
+    "value": "wikisource.org"
+  },
+  {
+    "type": "Domain",
+    "value": "wikiversity.org"
+  },
+  {
+    "type": "Domain",
+    "value": "wikivoyage.org"
+  },
+  {
+    "type": "Domain",
+    "value": "wiktionary.org"
+  },
+  {
+    "type": "Domain",
+    "value": "wmfusercontent.org"
+  },
+  {
+    "type": "Domain",
+    "value": "w.wiki"
+  },
+  {
+    "type": "Domain",
+    "value": "toolforge.org"
+  },
+  {
+    "type": "Domain",
+    "value": "wikimediacloud.org"
+  },
+  {
+    "type": "Domain",
+    "value": "wmcloud.org"
+  },
+  {
+    "type": "Domain",
+    "value": "wmflabs.org"
+  }
+]

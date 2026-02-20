@@ -1,0 +1,1003 @@
+[
+  {
+    "type": "Full",
+    "value": "azure.microsoft.com"
+  },
+  {
+    "type": "Full",
+    "value": "azuremarketplace.microsoft.com"
+  },
+  {
+    "type": "Domain",
+    "value": "azure"
+  },
+  {
+    "type": "Domain",
+    "value": "aadrm.com"
+  },
+  {
+    "type": "Domain",
+    "value": "azure-devices-int.net"
+  },
+  {
+    "type": "Domain",
+    "value": "azure-devices.net"
+  },
+  {
+    "type": "Domain",
+    "value": "azure-mobile.net"
+  },
+  {
+    "type": "Domain",
+    "value": "azure-sphere.com"
+  },
+  {
+    "type": "Domain",
+    "value": "azure-test.net"
+  },
+  {
+    "type": "Domain",
+    "value": "azure.com"
+  },
+  {
+    "type": "Domain",
+    "value": "azure.net"
+  },
+  {
+    "type": "Domain",
+    "value": "azurecomcdn.net"
+  },
+  {
+    "type": "Domain",
+    "value": "azurecomm.net"
+  },
+  {
+    "type": "Domain",
+    "value": "azurecontainer.io"
+  },
+  {
+    "type": "Domain",
+    "value": "azurecosmos.net"
+  },
+  {
+    "type": "Domain",
+    "value": "azurecosmosdb.com"
+  },
+  {
+    "type": "Domain",
+    "value": "azurecosmosdb.info"
+  },
+  {
+    "type": "Domain",
+    "value": "azurecosmosdb.net"
+  },
+  {
+    "type": "Domain",
+    "value": "azuredatabricks.net"
+  },
+  {
+    "type": "Domain",
+    "value": "azuredevopslaunch.com"
+  },
+  {
+    "type": "Domain",
+    "value": "azuredigitaltwin.com"
+  },
+  {
+    "type": "Domain",
+    "value": "azuredigitaltwins.com"
+  },
+  {
+    "type": "Domain",
+    "value": "azuredigitaltwins.net"
+  },
+  {
+    "type": "Domain",
+    "value": "azuredns-prd.info"
+  },
+  {
+    "type": "Domain",
+    "value": "azuredns-prd.org"
+  },
+  {
+    "type": "Domain",
+    "value": "azureedge-test.net"
+  },
+  {
+    "type": "Domain",
+    "value": "azureedge.net"
+  },
+  {
+    "type": "Domain",
+    "value": "azurefd.net"
+  },
+  {
+    "type": "Domain",
+    "value": "azureiotcentral.com"
+  },
+  {
+    "type": "Domain",
+    "value": "azureiotsolutions.com"
+  },
+  {
+    "type": "Domain",
+    "value": "azureiotsuite.com"
+  },
+  {
+    "type": "Domain",
+    "value": "azureplanetscale.info"
+  },
+  {
+    "type": "Domain",
+    "value": "azureplanetscale.net"
+  },
+  {
+    "type": "Domain",
+    "value": "azureserviceprofiler.com"
+  },
+  {
+    "type": "Domain",
+    "value": "azuresmartspaces.net"
+  },
+  {
+    "type": "Domain",
+    "value": "azurestackvalidation.com"
+  },
+  {
+    "type": "Domain",
+    "value": "azurewebsites.net"
+  },
+  {
+    "type": "Domain",
+    "value": "botframework.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cosmosdb.info"
+  },
+  {
+    "type": "Domain",
+    "value": "cosmosdb.net"
+  },
+  {
+    "type": "Domain",
+    "value": "devopsms.com"
+  },
+  {
+    "type": "Domain",
+    "value": "gotcosmos.com"
+  },
+  {
+    "type": "Domain",
+    "value": "management-azure-devices-int.net"
+  },
+  {
+    "type": "Domain",
+    "value": "management-azure-devices.net"
+  },
+  {
+    "type": "Domain",
+    "value": "microsoftazuread-sso.com"
+  },
+  {
+    "type": "Domain",
+    "value": "microsoftazuresponsorships.com"
+  },
+  {
+    "type": "Domain",
+    "value": "microsofteca.com"
+  },
+  {
+    "type": "Domain",
+    "value": "microsoftiotcentral.com"
+  },
+  {
+    "type": "Domain",
+    "value": "msn.net"
+  },
+  {
+    "type": "Domain",
+    "value": "playfab.com"
+  },
+  {
+    "type": "Domain",
+    "value": "playfabapi.com"
+  },
+  {
+    "type": "Domain",
+    "value": "serverlesslibrary.net"
+  },
+  {
+    "type": "Domain",
+    "value": "trafficmanager.net"
+  },
+  {
+    "type": "Domain",
+    "value": "tryfunctions.com"
+  },
+  {
+    "type": "Domain",
+    "value": "windowsazure.com"
+  },
+  {
+    "type": "Domain",
+    "value": "azure-dns.com"
+  },
+  {
+    "type": "Domain",
+    "value": "azure-dns.info"
+  },
+  {
+    "type": "Domain",
+    "value": "azure-dns.net"
+  },
+  {
+    "type": "Domain",
+    "value": "azure-dns.org"
+  },
+  {
+    "type": "Domain",
+    "value": "21vbc.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "21vbluecloud.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "21vbluecloud.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "aadrm.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "aggresmart.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "apihub-internal.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "appserviceenvironment.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "azcrmc-test.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "azcrmc.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "azk8s.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "aznbcontent.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "aztask.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "azure-api.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "azure-apihub.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "azure-automation.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "azure-connectedvehicles-stage.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "azure-connectedvehicles.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "azure-devices-provisioning.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "azure-devices.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "azure.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "azurecr-test.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "azurecr.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "azurehdinsight.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "azureiotsuite.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "azuremresolver.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "azureprivatedns.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "azurerms.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "azuresandbox.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "b2clogin.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "b3itech.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "blueaggrestore.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "bluecloudprod.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "cegid-cloud.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "chinacloud-mobile.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "chinacloudapi.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "chinacloudapp.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "chinacloudsites.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "hdinsightservices.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "management-azure-devices-provisioning.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "management-azure-devices.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "mcchcdn.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "mgmt-azure-api.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "microsoftazurestatus.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "microsoftmetrics.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "mncmsidlab1.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "msappproxy.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "mschcdn.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "msftcloudes.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "msidentity.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "msidlabpbmc.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "trafficmanager.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "trustcenter.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "unity3dcloud.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "windowsazure.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "windowsazurestatus.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "azchcdna.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "azchcdnb.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "azchcdnc.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "azchcdnd.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "azchcdne.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "azchcdnf.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "azchcdng.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "azchcdnh.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "azchcdni.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "azchcdnj.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "azchcdnk.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "azchcdnl.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "azchcdnm.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "azchcdnn.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "azchcdno.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "azchcdnp.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "azchcdnq.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "azchcdnr.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "azchcdns.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "azure-dns.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "azure-dns-1.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "azure-dns-2.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "azure-dns-3.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "azure-dns-4.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "azure-dns-5.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "azure-dns-6.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "azure-dns-7.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "azure-dns-8.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "azure-dns-9.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "azure-dns-10.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

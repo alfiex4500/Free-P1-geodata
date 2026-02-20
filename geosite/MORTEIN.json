@@ -1,0 +1,51 @@
+[
+  {
+    "type": "Domain",
+    "value": "mortein.com"
+  },
+  {
+    "type": "Domain",
+    "value": "morteincam.com"
+  },
+  {
+    "type": "Domain",
+    "value": "pifpafarabia.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mortein.co.in"
+  },
+  {
+    "type": "Domain",
+    "value": "mortein.co.nz"
+  },
+  {
+    "type": "Domain",
+    "value": "mortein.co.za"
+  },
+  {
+    "type": "Domain",
+    "value": "mortein.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "mortein.com.br"
+  },
+  {
+    "type": "Domain",
+    "value": "mortein.com.ng"
+  },
+  {
+    "type": "Domain",
+    "value": "mortein.com.pk"
+  },
+  {
+    "type": "Domain",
+    "value": "mortein.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

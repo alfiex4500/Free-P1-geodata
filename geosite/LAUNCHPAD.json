@@ -1,0 +1,22 @@
+[
+  {
+    "type": "Domain",
+    "value": "launchpad.net"
+  },
+  {
+    "type": "Domain",
+    "value": "launchpadcontent.net"
+  },
+  {
+    "type": "Domain",
+    "value": "launchpadlibrarian.com"
+  },
+  {
+    "type": "Domain",
+    "value": "launchpadlibrarian.net"
+  },
+  {
+    "type": "Domain",
+    "value": "launchpadlibrarian.org"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "type": "Domain",
+    "value": "exit"
+  },
+  {
+    "type": "Domain",
+    "value": "onion"
+  },
+  {
+    "type": "Domain",
+    "value": "tor"
+  }
+]

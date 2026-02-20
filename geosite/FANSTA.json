@@ -1,0 +1,22 @@
+[
+  {
+    "type": "Full",
+    "value": "misa-prod.s3.ap-northeast-1.amazonaws.com"
+  },
+  {
+    "type": "Domain",
+    "value": "fansta.me"
+  },
+  {
+    "type": "Domain",
+    "value": "aga-expo.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cosfans-tw.com"
+  },
+  {
+    "type": "Domain",
+    "value": "2023aga.oen.tw"
+  }
+]

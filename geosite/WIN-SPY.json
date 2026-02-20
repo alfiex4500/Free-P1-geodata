@@ -1,0 +1,1310 @@
+[
+  {
+    "type": "Domain",
+    "value": "adnexus.net"
+  },
+  {
+    "type": "Domain",
+    "value": "msedge.net"
+  },
+  {
+    "type": "Domain",
+    "value": "adnxs.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bingads.microsoft.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ac3.msn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "tele.trafficmanager.net"
+  },
+  {
+    "type": "Domain",
+    "value": "bn2-ris-ap-prod-atm.trafficmanager.net"
+  },
+  {
+    "type": "Domain",
+    "value": "view.atdmt.com"
+  },
+  {
+    "type": "Domain",
+    "value": "watson.live.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ads.msn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ads1.msads.net"
+  },
+  {
+    "type": "Domain",
+    "value": "ads1.msn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "aidps.atdmt.com"
+  },
+  {
+    "type": "Domain",
+    "value": "aka-cdn-ns.adtech.de"
+  },
+  {
+    "type": "Domain",
+    "value": "ssw.live.com"
+  },
+  {
+    "type": "Domain",
+    "value": "api.cortana.ai"
+  },
+  {
+    "type": "Domain",
+    "value": "spynetalt.microsoft.com"
+  },
+  {
+    "type": "Domain",
+    "value": "spynet2.microsoft.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bn2-ris-prod-atm.trafficmanager.net"
+  },
+  {
+    "type": "Domain",
+    "value": "settingsfd-geo.trafficmanager.net"
+  },
+  {
+    "type": "Domain",
+    "value": "secure.flashtalking.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bs.serving-sys.com"
+  },
+  {
+    "type": "Domain",
+    "value": "c.msn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "telemetry.microsoft.com"
+  },
+  {
+    "type": "Domain",
+    "value": "azwancan.trafficmanager.net"
+  },
+  {
+    "type": "Domain",
+    "value": "rad.msn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "rad.live.com"
+  },
+  {
+    "type": "Domain",
+    "value": "preview.msn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "pre.footprintpredict.com"
+  },
+  {
+    "type": "Domain",
+    "value": "msntest.serving-sys.com"
+  },
+  {
+    "type": "Domain",
+    "value": "watson.microsoft.com"
+  },
+  {
+    "type": "Domain",
+    "value": "insideruser.trafficmanager.net"
+  },
+  {
+    "type": "Domain",
+    "value": "ieonlinews.trafficmanager.net"
+  },
+  {
+    "type": "Domain",
+    "value": "ieonlinews.microsoft.com"
+  },
+  {
+    "type": "Domain",
+    "value": "h2.msn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "h1.msn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "g.msn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "flex.msn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ec.atdmt.com"
+  },
+  {
+    "type": "Domain",
+    "value": "db3aqu.atdmt.com"
+  },
+  {
+    "type": "Domain",
+    "value": "compatexchange1.trafficmanager.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cdn.atdmt.com"
+  },
+  {
+    "type": "Domain",
+    "value": "romeccs.microsoft.com"
+  },
+  {
+    "type": "Domain",
+    "value": "c.atdmt.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hk2sch130021842.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hk2sch130020721.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bn4sch101121118.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bn4sch101121223.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bn4sch101121407.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bn4sch101121618.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bn4sch101121704.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bn4sch101121709.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bn4sch101121714.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bn4sch101121908.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bn4sch101122117.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bn4sch101122310.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bn4sch101122312.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bn4sch101122421.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bn4sch101123108.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bn4sch101123110.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bn4sch101123202.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bn4sch102110124.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ztd.dds.microsoft.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bn4sch101121019.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bn4sch101120913.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bn4sch101120911.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cache.datamart.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bn4sch101120818.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cds1.stn.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds10.stn.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds27.ory.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds1203.lon.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds1204.lon.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds1209.lon.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds1219.lon.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds1228.lon.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds1244.lon.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds1257.lon.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds1265.lon.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds1269.lon.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds1273.lon.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds1285.lon.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds1287.lon.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds1289.lon.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds1293.lon.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds1307.lon.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds1310.lon.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds1325.lon.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds1327.lon.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds177.dus.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds20005.stn.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds20404.lcy.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds20411.lcy.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds20415.lcy.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds20416.lcy.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds20417.lcy.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds20424.lcy.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds20425.lcy.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds20431.lcy.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds20435.lcy.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds20440.lcy.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds20443.lcy.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds20445.lcy.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds20450.lcy.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds20452.lcy.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds20457.lcy.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds20461.lcy.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds20469.lcy.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds20475.lcy.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds20482.lcy.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds20485.lcy.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds20495.lcy.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds21205.lon.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds21207.lon.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds21225.lon.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds21229.lon.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds21233.lon.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds21238.lon.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds21244.lon.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds21249.lon.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds21256.lon.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds21257.lon.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds21258.lon.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds21261.lon.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds21267.lon.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds21278.lon.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds21281.lon.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds21293.lon.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds21309.lon.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds21313.lon.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds21321.lon.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds299.lcy.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds308.lcy.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds30027.stn.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds310.lcy.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds38.ory.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds54.ory.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds405.lcy.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds406.lcy.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds407.fra.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds416.lcy.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds421.lcy.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds422.lcy.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds425.lcy.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds426.lcy.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds447.lcy.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds458.lcy.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds459.lcy.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds46.ory.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds461.lcy.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds468.lcy.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds469.lcy.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds471.lcy.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds483.lcy.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds484.lcy.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds489.lcy.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds493.lcy.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds494.lcy.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds812.lon.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds815.lon.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds818.lon.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds832.lon.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds836.lon.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds840.lon.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds843.lon.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds857.lon.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds868.lon.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cds869.lon.llnw.net"
+  },
+  {
+    "type": "Domain",
+    "value": "win8.ipv6.microsoft.com"
+  },
+  {
+    "type": "Domain",
+    "value": "win1710.ipv6.microsoft.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bn4sch101120814.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "corp.sts.microsoft.com"
+  },
+  {
+    "type": "Domain",
+    "value": "win10.ipv6.microsoft.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cs1.wpc.v0cdn.net"
+  },
+  {
+    "type": "Domain",
+    "value": "bn3sch020022361.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vortex.data.microsoft.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vortex-sandbox.data.microsoft.com"
+  },
+  {
+    "type": "Domain",
+    "value": "a.ads2.msads.net"
+  },
+  {
+    "type": "Domain",
+    "value": "diagnostics.support.microsoft.com"
+  },
+  {
+    "type": "Domain",
+    "value": "umwatsonc.telemetry.microsoft.us"
+  },
+  {
+    "type": "Domain",
+    "value": "test.activity.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bn3sch020022335.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bn3sch020022328.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bn3sch020020749.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "teredo.ipv6.microsoft.com"
+  },
+  {
+    "type": "Domain",
+    "value": "telemetry.urs.microsoft.com"
+  },
+  {
+    "type": "Domain",
+    "value": "telemetry.remoteapp.windowsazure.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bn3sch020020322.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bn3sch020012850.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "a.ads2.msn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hk2.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bn4sch101121109.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hk2sch130020723.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hk2sch130020726.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hk2sch130020729.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hk2sch130020732.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hk2sch130020824.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hk2sch130020843.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hk2sch130020851.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hk2sch130020854.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hk2sch130020855.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hk2sch130020924.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hk2sch130020936.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hk2sch130020940.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hk2sch130020956.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hk2sch130020958.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hk2sch130020961.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hk2sch130021017.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hk2sch130021029.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hk2sch130021035.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hk2sch130021137.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hk2sch130021142.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hk2sch130021153.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hk2sch130021217.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hk2sch130021246.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hk2sch130021249.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hk2sch130021260.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hk2sch130021264.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hk2sch130021322.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hk2sch130021323.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hk2sch130021329.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hk2sch130021334.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hk2sch130021360.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hk2sch130021432.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hk2sch130021433.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hk2sch130021435.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hk2sch130021437.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hk2sch130021440.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hk2sch130021450.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hk2sch130021518.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hk2sch130021523.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hk2sch130021526.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hk2sch130021527.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hk2sch130021544.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hk2sch130021554.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hk2sch130021618.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hk2sch130021634.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hk2sch130021638.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hk2sch130021646.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hk2sch130021652.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hk2sch130021654.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hk2sch130021657.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hk2sch130021723.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hk2sch130021726.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hk2sch130021727.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hk2sch130021730.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hk2sch130021731.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hk2sch130021754.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hk2sch130021829.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hk2sch130021830.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hk2sch130021833.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hk2sch130021840.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "telemetry.appex.bing.net"
+  },
+  {
+    "type": "Domain",
+    "value": "hk2sch130021851.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hk2sch130021852.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hk2sch130021927.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hk2sch130021928.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hk2sch130021929.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hk2sch130021958.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hk2sch130022035.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hk2sch130022041.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hk2sch130022049.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hk2sch130022135.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hk2wns1.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hk2wns1b.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bn3sch020011727.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bn3sch020010650.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bn3sch020010636.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "live.rads.msn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bn3sch020010635.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bn3sch020010631.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bn3sch020010629.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "nexus.officeapps.live.com"
+  },
+  {
+    "type": "Domain",
+    "value": "nexusrules.officeapps.live.com"
+  },
+  {
+    "type": "Domain",
+    "value": "spyneteurope.microsoft.akadns.net"
+  },
+  {
+    "type": "Domain",
+    "value": "oca.telemetry.microsoft.us"
+  },
+  {
+    "type": "Domain",
+    "value": "api.edgeoffer.microsoft.com"
+  },
+  {
+    "type": "Domain",
+    "value": "par02p.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bn3sch020010618.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "presence.teams.live.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bn3sch020010560.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bn3sch020010558.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bn2wns1.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "redir.metaservices.microsoft.com"
+  },
+  {
+    "type": "Domain",
+    "value": "sg2p.wns.windows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "schemas.microsoft.akadns.net"
+  },
+  {
+    "type": "Domain",
+    "value": "b.ads2.msads.net"
+  },
+  {
+    "type": "Domain",
+    "value": "settings-win-ppe.data.microsoft.com"
+  },
+  {
+    "type": "Domain",
+    "value": "settings-sandbox.data.microsoft.com"
+  },
+  {
+    "type": "Domain",
+    "value": "umwatsonc.events.data.microsoft.com"
+  },
+  {
+    "type": "Domain",
+    "value": "kmwatson.events.data.microsoft.com"
+  },
+  {
+    "type": "Domain",
+    "value": "blobcollector.events.data.trafficmanager.net"
+  },
+  {
+    "type": "Domain",
+    "value": "umwatson.events.data.microsoft.com"
+  },
+  {
+    "type": "Domain",
+    "value": "browser.pipe.aria.microsoft.com"
+  },
+  {
+    "type": "Domain",
+    "value": "onecollector.cloudapp.aria.akadns.net"
+  },
+  {
+    "type": "Domain",
+    "value": "nw-umwatson.events.data.microsoft.com"
+  },
+  {
+    "type": "Domain",
+    "value": "xblgdvrassets3010.blob.core.windows.net"
+  },
+  {
+    "type": "Domain",
+    "value": "ceuswatcab01.blob.core.windows.net"
+  },
+  {
+    "type": "Domain",
+    "value": "ceuswatcab02.blob.core.windows.net"
+  },
+  {
+    "type": "Domain",
+    "value": "lb1.www.ms.akadns.net"
+  },
+  {
+    "type": "Domain",
+    "value": "corpext.msitadfs.glbdns2.microsoft.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vortex.data.glbdns2.microsoft.com"
+  },
+  {
+    "type": "Domain",
+    "value": "1oavsblobprodcus350.blob.core.windows.net"
+  },
+  {
+    "type": "Domain",
+    "value": "weus2watcab02.blob.core.windows.net"
+  },
+  {
+    "type": "Domain",
+    "value": "weus2watcab01.blob.core.windows.net"
+  },
+  {
+    "type": "Domain",
+    "value": "eaus2watcab02.blob.core.windows.net"
+  },
+  {
+    "type": "Domain",
+    "value": "mobile.pipe.aria.microsoft.com"
+  },
+  {
+    "type": "Domain",
+    "value": "settings.data.glbdns2.microsoft.com"
+  },
+  {
+    "type": "Domain",
+    "value": "kmwatsonc.events.data.microsoft.com"
+  },
+  {
+    "type": "Domain",
+    "value": "eaus2watcab01.blob.core.windows.net"
+  },
+  {
+    "type": "Domain",
+    "value": "v10.vortex-win.data.microsoft.com"
+  },
+  {
+    "type": "Domain",
+    "value": "v20.vortex-win.data.microsoft.com"
+  },
+  {
+    "type": "Domain",
+    "value": "37bvsblobprodcus311.blob.core.windows.net"
+  },
+  {
+    "type": "Domain",
+    "value": "sqm.telemetry.microsoft.com.nsatc.net"
+  },
+  {
+    "type": "Domain",
+    "value": "uks.b.prd.ags.trafficmanager.net"
+  },
+  {
+    "type": "Domain",
+    "value": "geo.settings.data.microsoft.com.akadns.net"
+  },
+  {
+    "type": "Domain",
+    "value": "v10-win.vortex.data.microsoft.com.akadns.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cy2.vortex.data.microsoft.com.akadns.net"
+  },
+  {
+    "type": "Domain",
+    "value": "db5.vortex.data.microsoft.com.akadns.net"
+  },
+  {
+    "type": "Domain",
+    "value": "geo.settings-win.data.microsoft.com.akadns.net"
+  },
+  {
+    "type": "Domain",
+    "value": "geo.vortex.data.microsoft.com.akadns.net"
+  },
+  {
+    "type": "Domain",
+    "value": "hk2.settings.data.microsoft.com.akadns.net"
+  },
+  {
+    "type": "Domain",
+    "value": "db5-eap.settings-win.data.microsoft.com.akadns.net"
+  },
+  {
+    "type": "Domain",
+    "value": "db5.settings.data.microsoft.com.akadns.net"
+  },
+  {
+    "type": "Domain",
+    "value": "db5.settings-win.data.microsoft.com.akadns.net"
+  },
+  {
+    "type": "Domain",
+    "value": "modern.watson.data.microsoft.com.akadns.net"
+  },
+  {
+    "type": "Domain",
+    "value": "asimov-win.settings.data.microsoft.com.akadns.net"
+  }
+]

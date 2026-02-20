@@ -1,0 +1,58 @@
+[
+  {
+    "type": "Full",
+    "value": "ping.archlinux.org"
+  },
+  {
+    "type": "Full",
+    "value": "redirect.archlinux.org"
+  },
+  {
+    "type": "Full",
+    "value": "connectivitycheck.platform.hihonorcloud.com"
+  },
+  {
+    "type": "Full",
+    "value": "connectivitycheck.platform.hicloud.com"
+  },
+  {
+    "type": "Full",
+    "value": "connect.rom.miui.com"
+  },
+  {
+    "type": "Full",
+    "value": "connectivity-check.ubuntu.com"
+  },
+  {
+    "type": "Domain",
+    "value": "msftconnecttest.com"
+  },
+  {
+    "type": "Domain",
+    "value": "msftncsi.com"
+  },
+  {
+    "type": "Domain",
+    "value": "captive.apple.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cp.cloudflare.com"
+  },
+  {
+    "type": "Domain",
+    "value": "network-test.debian.org"
+  },
+  {
+    "type": "Domain",
+    "value": "detectportal.firefox.com"
+  },
+  {
+    "type": "Domain",
+    "value": "connectivitycheck.gstatic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "networkcheck.kde.org"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "type": "Domain",
+    "value": "mongodb.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mongodb.org"
+  }
+]

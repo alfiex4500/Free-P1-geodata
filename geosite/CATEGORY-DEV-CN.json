@@ -1,0 +1,520 @@
+[
+  {
+    "type": "Full",
+    "value": "p1-juejin.byteimg.com"
+  },
+  {
+    "type": "Full",
+    "value": "p2-juejin.byteimg.com"
+  },
+  {
+    "type": "Full",
+    "value": "p3-juejin.byteimg.com"
+  },
+  {
+    "type": "Full",
+    "value": "p4-juejin.byteimg.com"
+  },
+  {
+    "type": "Full",
+    "value": "p5-juejin.byteimg.com"
+  },
+  {
+    "type": "Full",
+    "value": "p6-juejin.byteimg.com"
+  },
+  {
+    "type": "Full",
+    "value": "p7-juejin.byteimg.com"
+  },
+  {
+    "type": "Full",
+    "value": "p8-juejin.byteimg.com"
+  },
+  {
+    "type": "Full",
+    "value": "p9-juejin.byteimg.com"
+  },
+  {
+    "type": "Domain",
+    "value": "gitee.io"
+  },
+  {
+    "type": "Domain",
+    "value": "tidbcloud.com"
+  },
+  {
+    "type": "Domain",
+    "value": "openvela.com"
+  },
+  {
+    "type": "Domain",
+    "value": "pingcode.com"
+  },
+  {
+    "type": "Domain",
+    "value": "tipdm.org"
+  },
+  {
+    "type": "Domain",
+    "value": "apipost.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "apipost.net"
+  },
+  {
+    "type": "Domain",
+    "value": "baltamatica.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "baltamatica.net"
+  },
+  {
+    "type": "Domain",
+    "value": "baltamatica.com"
+  },
+  {
+    "type": "Domain",
+    "value": "blogjava.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cnblogs.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cnitblog.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cnweblog.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cppblog.com"
+  },
+  {
+    "type": "Domain",
+    "value": "phpweblog.net"
+  },
+  {
+    "type": "Domain",
+    "value": "teachblog.net"
+  },
+  {
+    "type": "Domain",
+    "value": "gitcode.com"
+  },
+  {
+    "type": "Domain",
+    "value": "gitchat.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "csdn.net"
+  },
+  {
+    "type": "Domain",
+    "value": "kaifayun.com"
+  },
+  {
+    "type": "Domain",
+    "value": "csdnimg.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "csto.com"
+  },
+  {
+    "type": "Domain",
+    "value": "csdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "gitbook.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "datasea.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "codechina.net"
+  },
+  {
+    "type": "Domain",
+    "value": "gitcode.net"
+  },
+  {
+    "type": "Domain",
+    "value": "iteye.com"
+  },
+  {
+    "type": "Domain",
+    "value": "oschina.net"
+  },
+  {
+    "type": "Domain",
+    "value": "gitee.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ruby-china.org"
+  },
+  {
+    "type": "Domain",
+    "value": "rubyconfchina.org"
+  },
+  {
+    "type": "Domain",
+    "value": "apifox.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "apifox.com"
+  },
+  {
+    "type": "Domain",
+    "value": "goproxy.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "goproxy.io"
+  },
+  {
+    "type": "Domain",
+    "value": "juejin.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "juejin.im"
+  },
+  {
+    "type": "Domain",
+    "value": "xitu.io"
+  },
+  {
+    "type": "Domain",
+    "value": "dengguobi.com"
+  },
+  {
+    "type": "Domain",
+    "value": "houyicaiji.com"
+  },
+  {
+    "type": "Domain",
+    "value": "aardio.com"
+  },
+  {
+    "type": "Domain",
+    "value": "pgyer.com"
+  },
+  {
+    "type": "Domain",
+    "value": "tracup.com"
+  },
+  {
+    "type": "Domain",
+    "value": "frontjs.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mysxl.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "sxl.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "sxlcdn.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "u3d.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "unity.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "unitychina.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "jinglingbiaozhu.com"
+  },
+  {
+    "type": "Domain",
+    "value": "jinrishici.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bisheng.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "openmidas.com"
+  },
+  {
+    "type": "Domain",
+    "value": "qq.design"
+  },
+  {
+    "type": "Domain",
+    "value": "qqgamedesign.com"
+  },
+  {
+    "type": "Domain",
+    "value": "tencent-cloud.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "tencent-cloud.com"
+  },
+  {
+    "type": "Domain",
+    "value": "tencent.design"
+  },
+  {
+    "type": "Domain",
+    "value": "tencentcloud.com"
+  },
+  {
+    "type": "Domain",
+    "value": "tjstats.com"
+  },
+  {
+    "type": "Domain",
+    "value": "wegamedeveloper.com"
+  },
+  {
+    "type": "Domain",
+    "value": "weixinbridge.com"
+  },
+  {
+    "type": "Domain",
+    "value": "weui.io"
+  },
+  {
+    "type": "Domain",
+    "value": "cnb.cool"
+  },
+  {
+    "type": "Domain",
+    "value": "coding.me"
+  },
+  {
+    "type": "Domain",
+    "value": "coding.net"
+  },
+  {
+    "type": "Domain",
+    "value": "hiascend.com"
+  },
+  {
+    "type": "Domain",
+    "value": "teleows.com"
+  },
+  {
+    "type": "Domain",
+    "value": "sifou.com"
+  },
+  {
+    "type": "Domain",
+    "value": "gneec.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hiclc.com"
+  },
+  {
+    "type": "Domain",
+    "value": "gneec3.com"
+  },
+  {
+    "type": "Domain",
+    "value": "gneec4.com"
+  },
+  {
+    "type": "Domain",
+    "value": "gneec7.com"
+  },
+  {
+    "type": "Domain",
+    "value": "harmonyos.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hikunpeng.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "devui.design"
+  },
+  {
+    "type": "Domain",
+    "value": "bishengcompiler.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "hiascend.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "hikunpeng.com"
+  },
+  {
+    "type": "Domain",
+    "value": "saasops.tech"
+  },
+  {
+    "type": "Domain",
+    "value": "hikunpeng.net"
+  },
+  {
+    "type": "Domain",
+    "value": "hisilicon.com"
+  },
+  {
+    "type": "Domain",
+    "value": "owsgo.com"
+  },
+  {
+    "type": "Domain",
+    "value": "huaweiapaas.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mindspore.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "nnthink.com"
+  },
+  {
+    "type": "Domain",
+    "value": "aixcoder.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ubuntukylin.com"
+  },
+  {
+    "type": "Domain",
+    "value": "openkylin.top"
+  },
+  {
+    "type": "Domain",
+    "value": "tikv.org"
+  },
+  {
+    "type": "Domain",
+    "value": "segmentfault.com"
+  },
+  {
+    "type": "Domain",
+    "value": "tidb.net"
+  },
+  {
+    "type": "Domain",
+    "value": "asktug.com"
+  },
+  {
+    "type": "Domain",
+    "value": "pingcap.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "pingcap.com"
+  },
+  {
+    "type": "Domain",
+    "value": "tidb.ai"
+  },
+  {
+    "type": "Domain",
+    "value": "gneec.com.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "hikunpeng.com.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "hisilicon.com.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "programmer.net.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "programmer.com.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "csdn.net.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "baltamatica.org.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "ads.unitychina.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "splash-ads.cdn.unity.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "splash-ads.unitychina.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "unityads.unity.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "unityads.unitychina.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "badjs.weixinbridge.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  }
+]

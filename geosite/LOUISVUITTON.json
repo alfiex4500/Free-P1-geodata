@@ -1,0 +1,33 @@
+[
+  {
+    "type": "Domain",
+    "value": "louisvuitton.com"
+  },
+  {
+    "type": "Domain",
+    "value": "louisvuitton.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "lvcampaign.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "tp.louisvuitton.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

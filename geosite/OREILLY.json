@@ -1,0 +1,31 @@
+[
+  {
+    "type": "Domain",
+    "value": "oreil.ly"
+  },
+  {
+    "type": "Domain",
+    "value": "oreilly.com"
+  },
+  {
+    "type": "Domain",
+    "value": "oreilly.review"
+  },
+  {
+    "type": "Domain",
+    "value": "oreillystatic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "orl.ly"
+  },
+  {
+    "type": "Domain",
+    "value": "oreilly.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

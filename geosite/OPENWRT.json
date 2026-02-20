@@ -1,0 +1,10 @@
+[
+  {
+    "type": "Domain",
+    "value": "openwrt.org"
+  },
+  {
+    "type": "Domain",
+    "value": "lede-project.org"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "type": "Domain",
+    "value": "hotstar.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hotstar-cdn.net"
+  },
+  {
+    "type": "Domain",
+    "value": "hotstar-labs.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hotstarext.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hsprepack.akamaized.net"
+  },
+  {
+    "type": "Regex",
+    "value": "^hses[1-7]?\\.akamaized\\.net$"
+  }
+]

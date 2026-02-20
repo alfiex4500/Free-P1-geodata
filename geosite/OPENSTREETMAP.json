@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Domain",
+    "value": "openmaps.org"
+  },
+  {
+    "type": "Domain",
+    "value": "openstreetmap.com"
+  },
+  {
+    "type": "Domain",
+    "value": "openstreetmap.net"
+  },
+  {
+    "type": "Domain",
+    "value": "openstreetmap.org"
+  },
+  {
+    "type": "Domain",
+    "value": "openstreetmaps.org"
+  },
+  {
+    "type": "Domain",
+    "value": "osm.org"
+  },
+  {
+    "type": "Domain",
+    "value": "osmfoundation.org"
+  },
+  {
+    "type": "Domain",
+    "value": "stateofthemap.com"
+  },
+  {
+    "type": "Domain",
+    "value": "stateofthemap.org"
+  }
+]

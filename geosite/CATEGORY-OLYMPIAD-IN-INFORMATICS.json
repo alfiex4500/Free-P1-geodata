@@ -1,0 +1,66 @@
+[
+  {
+    "type": "Domain",
+    "value": "jisuanke.com"
+  },
+  {
+    "type": "Domain",
+    "value": "acwing.com"
+  },
+  {
+    "type": "Domain",
+    "value": "lingkou.xyz"
+  },
+  {
+    "type": "Domain",
+    "value": "lingkou.com"
+  },
+  {
+    "type": "Domain",
+    "value": "leetcode.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "51nod.com"
+  },
+  {
+    "type": "Domain",
+    "value": "leetcode-cn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hihocoder.com"
+  },
+  {
+    "type": "Domain",
+    "value": "lingkou.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "kidsccshow.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vijos.org"
+  },
+  {
+    "type": "Domain",
+    "value": "oi-wiki.com"
+  },
+  {
+    "type": "Domain",
+    "value": "openjudge.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "rqnoj.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "uoj.ac"
+  },
+  {
+    "type": "Domain",
+    "value": "luogu.com.cn"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "type": "Domain",
+    "value": "amd.com"
+  },
+  {
+    "type": "Domain",
+    "value": "amdfanstore.com"
+  },
+  {
+    "type": "Domain",
+    "value": "radeon.com"
+  },
+  {
+    "type": "Domain",
+    "value": "amd.com.cn"
+  },
+  {
+    "type": "Full",
+    "value": "www.amd.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]

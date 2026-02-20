@@ -1,0 +1,743 @@
+[
+  {
+    "type": "Full",
+    "value": "d3r7nsslvs6aaf.cloudfront.net"
+  },
+  {
+    "type": "Full",
+    "value": "straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com"
+  },
+  {
+    "type": "Full",
+    "value": "deribit.cdn.prismic.io"
+  },
+  {
+    "type": "Full",
+    "value": "onekey.zendesk.com"
+  },
+  {
+    "type": "Full",
+    "value": "bybit-exchange.github.io"
+  },
+  {
+    "type": "Full",
+    "value": "bybit.ada.support"
+  },
+  {
+    "type": "Domain",
+    "value": "binancezh.kim"
+  },
+  {
+    "type": "Domain",
+    "value": "nexo.io"
+  },
+  {
+    "type": "Domain",
+    "value": "bingx.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bitbank.cc"
+  },
+  {
+    "type": "Domain",
+    "value": "bitcoin.org"
+  },
+  {
+    "type": "Domain",
+    "value": "bitcoincore.org"
+  },
+  {
+    "type": "Domain",
+    "value": "bitfinex.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bitget.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bitmex.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bitquick.co"
+  },
+  {
+    "type": "Domain",
+    "value": "bitstamp.net"
+  },
+  {
+    "type": "Domain",
+    "value": "bittrex.com"
+  },
+  {
+    "type": "Domain",
+    "value": "blockchain.com"
+  },
+  {
+    "type": "Domain",
+    "value": "blockfrost.io"
+  },
+  {
+    "type": "Domain",
+    "value": "cex.io"
+  },
+  {
+    "type": "Domain",
+    "value": "clearpool.finance"
+  },
+  {
+    "type": "Domain",
+    "value": "coinalyze.net"
+  },
+  {
+    "type": "Domain",
+    "value": "coinbase.com"
+  },
+  {
+    "type": "Domain",
+    "value": "coindesk.com"
+  },
+  {
+    "type": "Domain",
+    "value": "coingecko.com"
+  },
+  {
+    "type": "Domain",
+    "value": "coinglass.com"
+  },
+  {
+    "type": "Domain",
+    "value": "coinmap.org"
+  },
+  {
+    "type": "Domain",
+    "value": "coinmarketcap.com"
+  },
+  {
+    "type": "Domain",
+    "value": "crypto.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cryptocompare.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cryptomus.com"
+  },
+  {
+    "type": "Domain",
+    "value": "curve.fi"
+  },
+  {
+    "type": "Domain",
+    "value": "binancezh.live"
+  },
+  {
+    "type": "Domain",
+    "value": "debank.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dogecoin.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dydx.exchange"
+  },
+  {
+    "type": "Domain",
+    "value": "fundingrates.xyz"
+  },
+  {
+    "type": "Domain",
+    "value": "gemini.com"
+  },
+  {
+    "type": "Domain",
+    "value": "gmgn.ai"
+  },
+  {
+    "type": "Domain",
+    "value": "guardarian.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hashflow.com"
+  },
+  {
+    "type": "Domain",
+    "value": "infura.io"
+  },
+  {
+    "type": "Domain",
+    "value": "invity.io"
+  },
+  {
+    "type": "Domain",
+    "value": "maple.finance"
+  },
+  {
+    "type": "Domain",
+    "value": "metalpha.finance"
+  },
+  {
+    "type": "Domain",
+    "value": "mexc.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mexcsensors.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mytokenapi.com"
+  },
+  {
+    "type": "Domain",
+    "value": "opensea.io"
+  },
+  {
+    "type": "Domain",
+    "value": "1inch.io"
+  },
+  {
+    "type": "Domain",
+    "value": "paxful.com"
+  },
+  {
+    "type": "Domain",
+    "value": "polymarket.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ripple.com"
+  },
+  {
+    "type": "Domain",
+    "value": "satoshilabs.com"
+  },
+  {
+    "type": "Domain",
+    "value": "stealthex.io"
+  },
+  {
+    "type": "Domain",
+    "value": "theblock.co"
+  },
+  {
+    "type": "Domain",
+    "value": "trezor.io"
+  },
+  {
+    "type": "Domain",
+    "value": "truefi.io"
+  },
+  {
+    "type": "Domain",
+    "value": "unisat.io"
+  },
+  {
+    "type": "Domain",
+    "value": "uniswap.org"
+  },
+  {
+    "type": "Domain",
+    "value": "walletconnect.com"
+  },
+  {
+    "type": "Domain",
+    "value": "walletconnect.org"
+  },
+  {
+    "type": "Domain",
+    "value": "web3modal.org"
+  },
+  {
+    "type": "Domain",
+    "value": "wintermute.com"
+  },
+  {
+    "type": "Domain",
+    "value": "zapper.fi"
+  },
+  {
+    "type": "Domain",
+    "value": "okex.com"
+  },
+  {
+    "type": "Domain",
+    "value": "okx-dns.com"
+  },
+  {
+    "type": "Domain",
+    "value": "okx-dns1.com"
+  },
+  {
+    "type": "Domain",
+    "value": "okx-dns2.com"
+  },
+  {
+    "type": "Domain",
+    "value": "okx.cab"
+  },
+  {
+    "type": "Domain",
+    "value": "okx.com"
+  },
+  {
+    "type": "Domain",
+    "value": "redotpay.com"
+  },
+  {
+    "type": "Domain",
+    "value": "straitsx.com"
+  },
+  {
+    "type": "Domain",
+    "value": "binance.cc"
+  },
+  {
+    "type": "Domain",
+    "value": "binance.charity"
+  },
+  {
+    "type": "Domain",
+    "value": "binance.cloud"
+  },
+  {
+    "type": "Domain",
+    "value": "kucoin.plus"
+  },
+  {
+    "type": "Domain",
+    "value": "binance.co"
+  },
+  {
+    "type": "Domain",
+    "value": "binance.com"
+  },
+  {
+    "type": "Domain",
+    "value": "binance.info"
+  },
+  {
+    "type": "Domain",
+    "value": "binance.me"
+  },
+  {
+    "type": "Domain",
+    "value": "binance.net"
+  },
+  {
+    "type": "Domain",
+    "value": "binance.org"
+  },
+  {
+    "type": "Domain",
+    "value": "binance.us"
+  },
+  {
+    "type": "Domain",
+    "value": "binance.vision"
+  },
+  {
+    "type": "Domain",
+    "value": "binancecnt.com"
+  },
+  {
+    "type": "Domain",
+    "value": "binancezh.be"
+  },
+  {
+    "type": "Domain",
+    "value": "binancezh.biz"
+  },
+  {
+    "type": "Domain",
+    "value": "binancezh.cc"
+  },
+  {
+    "type": "Domain",
+    "value": "binancezh.co"
+  },
+  {
+    "type": "Domain",
+    "value": "binancezh.com"
+  },
+  {
+    "type": "Domain",
+    "value": "binancezh.info"
+  },
+  {
+    "type": "Domain",
+    "value": "binancezh.ink"
+  },
+  {
+    "type": "Domain",
+    "value": "osl.com"
+  },
+  {
+    "type": "Domain",
+    "value": "aave.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cyberx.com"
+  },
+  {
+    "type": "Domain",
+    "value": "binancezh.mobi"
+  },
+  {
+    "type": "Domain",
+    "value": "binancezh.net"
+  },
+  {
+    "type": "Domain",
+    "value": "binancezh.pro"
+  },
+  {
+    "type": "Domain",
+    "value": "binancezh.sh"
+  },
+  {
+    "type": "Domain",
+    "value": "binancezh.top"
+  },
+  {
+    "type": "Domain",
+    "value": "binanceapi.com"
+  },
+  {
+    "type": "Domain",
+    "value": "binanceru.net"
+  },
+  {
+    "type": "Domain",
+    "value": "bnbstatic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bntrace.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bsappapi.com"
+  },
+  {
+    "type": "Domain",
+    "value": "nftstatic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "appsflayer.com"
+  },
+  {
+    "type": "Domain",
+    "value": "saasexch.cc"
+  },
+  {
+    "type": "Domain",
+    "value": "saasexch.co"
+  },
+  {
+    "type": "Domain",
+    "value": "saasexch.com"
+  },
+  {
+    "type": "Domain",
+    "value": "saasexch.io"
+  },
+  {
+    "type": "Domain",
+    "value": "localbitcoins.com"
+  },
+  {
+    "type": "Domain",
+    "value": "localbitcoinschain.com"
+  },
+  {
+    "type": "Domain",
+    "value": "nexo.com"
+  },
+  {
+    "type": "Domain",
+    "value": "binancezh.link"
+  },
+  {
+    "type": "Domain",
+    "value": "gate.io"
+  },
+  {
+    "type": "Domain",
+    "value": "gatedata.org"
+  },
+  {
+    "type": "Domain",
+    "value": "gateimg.com"
+  },
+  {
+    "type": "Domain",
+    "value": "gateio.live"
+  },
+  {
+    "type": "Domain",
+    "value": "gateio.services"
+  },
+  {
+    "type": "Domain",
+    "value": "htx.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hbabit.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hbfile.net"
+  },
+  {
+    "type": "Domain",
+    "value": "huobi.com"
+  },
+  {
+    "type": "Domain",
+    "value": "huobi.me"
+  },
+  {
+    "type": "Domain",
+    "value": "huobi.pro"
+  },
+  {
+    "type": "Domain",
+    "value": "huobi.sc"
+  },
+  {
+    "type": "Domain",
+    "value": "huobiasia.vip"
+  },
+  {
+    "type": "Domain",
+    "value": "huobigroup.com"
+  },
+  {
+    "type": "Domain",
+    "value": "huobitoken.com"
+  },
+  {
+    "type": "Domain",
+    "value": "zb.app"
+  },
+  {
+    "type": "Domain",
+    "value": "zb.com"
+  },
+  {
+    "type": "Domain",
+    "value": "zb.io"
+  },
+  {
+    "type": "Domain",
+    "value": "zb.live"
+  },
+  {
+    "type": "Domain",
+    "value": "deribit.com"
+  },
+  {
+    "type": "Domain",
+    "value": "devcon.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ethereum.foundation"
+  },
+  {
+    "type": "Domain",
+    "value": "ethereum.org"
+  },
+  {
+    "type": "Domain",
+    "value": "etherscan.io"
+  },
+  {
+    "type": "Domain",
+    "value": "kraken.com"
+  },
+  {
+    "type": "Domain",
+    "value": "kraken.onl"
+  },
+  {
+    "type": "Domain",
+    "value": "onekey-asset.com"
+  },
+  {
+    "type": "Domain",
+    "value": "onekey.so"
+  },
+  {
+    "type": "Domain",
+    "value": "onekeycn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "trustwallet.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bitflyer.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bitflyer.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "bybit.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bycsi.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bytick.com"
+  },
+  {
+    "type": "Domain",
+    "value": "byapis.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bycbe.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bymj.io"
+  },
+  {
+    "type": "Domain",
+    "value": "byabcde.com"
+  },
+  {
+    "type": "Domain",
+    "value": "byapps.net"
+  },
+  {
+    "type": "Domain",
+    "value": "byd3c3.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bybit.biz"
+  },
+  {
+    "type": "Domain",
+    "value": "bybdc6.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bybit-global.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bybit.cloud"
+  },
+  {
+    "type": "Domain",
+    "value": "bybitglobal.com"
+  },
+  {
+    "type": "Domain",
+    "value": "coinonecore.com"
+  },
+  {
+    "type": "Domain",
+    "value": "coinonecorp.com"
+  },
+  {
+    "type": "Domain",
+    "value": "kucoin.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bitsquare.io"
+  },
+  {
+    "type": "Domain",
+    "value": "bisq.network"
+  },
+  {
+    "type": "Domain",
+    "value": "bisq.io"
+  },
+  {
+    "type": "Domain",
+    "value": "wisecoin.com"
+  },
+  {
+    "type": "Domain",
+    "value": "wiseid.com"
+  },
+  {
+    "type": "Domain",
+    "value": "wisekey.com"
+  },
+  {
+    "type": "Domain",
+    "value": "asproexapi.com"
+  },
+  {
+    "type": "Domain",
+    "value": "wyndlabs.ai"
+  },
+  {
+    "type": "Domain",
+    "value": "wynd.network"
+  },
+  {
+    "type": "Domain",
+    "value": "asproex.com"
+  },
+  {
+    "type": "Domain",
+    "value": "wisekey.com.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "coinone.co.kr"
+  },
+  {
+    "type": "Domain",
+    "value": "xhpjc6-cdn-settings.appsflyersdk.com"
+  },
+  {
+    "type": "Domain",
+    "value": "pod-15-sunco-ws.zendesk.com"
+  },
+  {
+    "type": "Domain",
+    "value": "redotpay.zendesk.com"
+  },
+  {
+    "type": "Domain",
+    "value": "btcbox.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "rp-static-apne1.s3.ap-northeast-1.amazonaws.com"
+  },
+  {
+    "type": "Domain",
+    "value": "oklink.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  }
+]
