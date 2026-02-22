@@ -1,7 +1,7 @@
 [
   {
     "type": "Domain",
-    "value": "citizenlab.ca"
+    "value": "freebrowser.org"
   },
   {
     "type": "Domain",
@@ -73,7 +73,7 @@
   },
   {
     "type": "Domain",
-    "value": "citizenlab.org"
+    "value": "freewechat.com"
   },
   {
     "type": "Domain",
@@ -173,27 +173,11 @@
   },
   {
     "type": "Domain",
-    "value": "haveibeenpwned.com"
+    "value": "censorship.no"
   },
   {
     "type": "Domain",
-    "value": "pwnedpasswords.com"
-  },
-  {
-    "type": "Domain",
-    "value": "torproject.org"
-  },
-  {
-    "type": "Domain",
-    "value": "softether.org"
-  },
-  {
-    "type": "Domain",
-    "value": "akasha.world"
-  },
-  {
-    "type": "Domain",
-    "value": "pao-pao.net"
+    "value": "epicbrowser.com"
   },
   {
     "type": "Domain",
@@ -201,15 +185,15 @@
   },
   {
     "type": "Domain",
-    "value": "freebrowser.org"
+    "value": "cf-ipfs.com"
   },
   {
     "type": "Domain",
-    "value": "freewechat.com"
+    "value": "akasha.world"
   },
   {
     "type": "Domain",
-    "value": "freeweibo.com"
+    "value": "ipns.co"
   },
   {
     "type": "Domain",
@@ -229,7 +213,7 @@
   },
   {
     "type": "Domain",
-    "value": "epicbrowser.com"
+    "value": "pao-pao.net"
   },
   {
     "type": "Domain",
@@ -237,43 +221,15 @@
   },
   {
     "type": "Domain",
-    "value": "paskoocheh.com"
+    "value": "getlantern.org"
   },
   {
     "type": "Domain",
-    "value": "ahmia.fi"
+    "value": "lantern.io"
   },
   {
     "type": "Domain",
-    "value": "softether-download.com"
-  },
-  {
-    "type": "Domain",
-    "value": "v2ray.com"
-  },
-  {
-    "type": "Domain",
-    "value": "v2ray.cool"
-  },
-  {
-    "type": "Domain",
-    "value": "v2fly.org"
-  },
-  {
-    "type": "Domain",
-    "value": "opengw.net"
-  },
-  {
-    "type": "Domain",
-    "value": "vpngate.jp"
-  },
-  {
-    "type": "Domain",
-    "value": "vpngate.net"
-  },
-  {
-    "type": "Domain",
-    "value": "ipns.co"
+    "value": "freeweibo.com"
   },
   {
     "type": "Domain",
@@ -285,7 +241,7 @@
   },
   {
     "type": "Domain",
-    "value": "cf-ipfs.com"
+    "value": "ahmia.fi"
   },
   {
     "type": "Domain",
@@ -325,39 +281,63 @@
   },
   {
     "type": "Domain",
-    "value": "censorship.no"
+    "value": "haveibeenpwned.com"
   },
   {
     "type": "Domain",
-    "value": "lantern.io"
+    "value": "citizenlab.org"
   },
   {
     "type": "Domain",
-    "value": "getlantern.org"
+    "value": "citizenlab.ca"
   },
   {
     "type": "Domain",
-    "value": "trojan-gfw.github.io"
+    "value": "vpngate.net"
   },
   {
     "type": "Domain",
-    "value": "ipfs.anonymize.com"
+    "value": "vpngate.jp"
   },
   {
     "type": "Domain",
-    "value": "ipfs.runfission.com"
+    "value": "opengw.net"
   },
   {
     "type": "Domain",
-    "value": "gateway.pinata.cloud"
+    "value": "v2fly.org"
   },
   {
     "type": "Domain",
-    "value": "ipfs.eternum.io"
+    "value": "v2ray.cool"
   },
   {
     "type": "Domain",
-    "value": "ipfs.best-practice.se"
+    "value": "v2ray.com"
+  },
+  {
+    "type": "Domain",
+    "value": "torproject.org"
+  },
+  {
+    "type": "Domain",
+    "value": "softether-download.com"
+  },
+  {
+    "type": "Domain",
+    "value": "pwnedpasswords.com"
+  },
+  {
+    "type": "Domain",
+    "value": "paskoocheh.com"
+  },
+  {
+    "type": "Domain",
+    "value": "softether.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ipfs.fleek.co"
   },
   {
     "type": "Domain",
@@ -365,7 +345,27 @@
   },
   {
     "type": "Domain",
-    "value": "ipfs.fleek.co"
+    "value": "ipfs.best-practice.se"
+  },
+  {
+    "type": "Domain",
+    "value": "ipfs.eternum.io"
+  },
+  {
+    "type": "Domain",
+    "value": "gateway.pinata.cloud"
+  },
+  {
+    "type": "Domain",
+    "value": "ipfs.runfission.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ipfs.anonymize.com"
+  },
+  {
+    "type": "Domain",
+    "value": "trojan-gfw.github.io"
   },
   {
     "type": "Domain",

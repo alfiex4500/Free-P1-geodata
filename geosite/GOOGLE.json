@@ -9,55 +9,51 @@
   },
   {
     "type": "Full",
+    "value": "ai.google.dev"
+  },
+  {
+    "type": "Full",
+    "value": "alkalicore-pa.clients6.google.com"
+  },
+  {
+    "type": "Full",
+    "value": "alkalimakersuite-pa.clients6.google.com"
+  },
+  {
+    "type": "Full",
+    "value": "webchannel-alkalimakersuite-pa.clients6.google.com"
+  },
+  {
+    "type": "Full",
+    "value": "cloudaicompanion.googleapis.com"
+  },
+  {
+    "type": "Full",
+    "value": "cloudcode-pa.googleapis.com"
+  },
+  {
+    "type": "Full",
+    "value": "daily-cloudcode-pa.googleapis.com"
+  },
+  {
+    "type": "Full",
+    "value": "notebooklm-pa.googleapis.com"
+  },
+  {
+    "type": "Full",
+    "value": "notebooklm.googleapis.com"
+  },
+  {
+    "type": "Full",
+    "value": "antigravity-pa.googleapis.com"
+  },
+  {
+    "type": "Full",
+    "value": "antigravity.googleapis.com"
+  },
+  {
+    "type": "Full",
     "value": "yt3.googleusercontent.com"
-  },
-  {
-    "type": "Full",
-    "value": "firebase.google.com"
-  },
-  {
-    "type": "Full",
-    "value": "firebase.googleapis.com"
-  },
-  {
-    "type": "Full",
-    "value": "firebaseappcheck.googleapis.com"
-  },
-  {
-    "type": "Full",
-    "value": "firebasedynamiclinks-ipv4.googleapis.com"
-  },
-  {
-    "type": "Full",
-    "value": "firebasedynamiclinks-ipv6.googleapis.com"
-  },
-  {
-    "type": "Full",
-    "value": "firebasedynamiclinks.googleapis.com"
-  },
-  {
-    "type": "Full",
-    "value": "firebaseinappmessaging.googleapis.com"
-  },
-  {
-    "type": "Full",
-    "value": "firebaseinstallations.googleapis.com"
-  },
-  {
-    "type": "Full",
-    "value": "firebaselogging-pa.googleapis.com"
-  },
-  {
-    "type": "Full",
-    "value": "firebaselogging.googleapis.com"
-  },
-  {
-    "type": "Full",
-    "value": "firebaseperusertopics-pa.googleapis.com"
-  },
-  {
-    "type": "Full",
-    "value": "firebaseremoteconfig.googleapis.com"
   },
   {
     "type": "Full",
@@ -409,6 +405,54 @@
   },
   {
     "type": "Full",
+    "value": "firebase.google.com"
+  },
+  {
+    "type": "Full",
+    "value": "firebase.googleapis.com"
+  },
+  {
+    "type": "Full",
+    "value": "firebaseappcheck.googleapis.com"
+  },
+  {
+    "type": "Full",
+    "value": "firebasedynamiclinks-ipv4.googleapis.com"
+  },
+  {
+    "type": "Full",
+    "value": "firebasedynamiclinks-ipv6.googleapis.com"
+  },
+  {
+    "type": "Full",
+    "value": "firebasedynamiclinks.googleapis.com"
+  },
+  {
+    "type": "Full",
+    "value": "firebaseinappmessaging.googleapis.com"
+  },
+  {
+    "type": "Full",
+    "value": "firebaseinstallations.googleapis.com"
+  },
+  {
+    "type": "Full",
+    "value": "firebaselogging-pa.googleapis.com"
+  },
+  {
+    "type": "Full",
+    "value": "firebaselogging.googleapis.com"
+  },
+  {
+    "type": "Full",
+    "value": "firebaseperusertopics-pa.googleapis.com"
+  },
+  {
+    "type": "Full",
+    "value": "firebaseremoteconfig.googleapis.com"
+  },
+  {
+    "type": "Full",
     "value": "publicca.googleapis.com"
   },
   {
@@ -422,50 +466,6 @@
   {
     "type": "Full",
     "value": "pki.google.com"
-  },
-  {
-    "type": "Full",
-    "value": "ai.google.dev"
-  },
-  {
-    "type": "Full",
-    "value": "alkalicore-pa.clients6.google.com"
-  },
-  {
-    "type": "Full",
-    "value": "alkalimakersuite-pa.clients6.google.com"
-  },
-  {
-    "type": "Full",
-    "value": "webchannel-alkalimakersuite-pa.clients6.google.com"
-  },
-  {
-    "type": "Full",
-    "value": "cloudaicompanion.googleapis.com"
-  },
-  {
-    "type": "Full",
-    "value": "cloudcode-pa.googleapis.com"
-  },
-  {
-    "type": "Full",
-    "value": "daily-cloudcode-pa.googleapis.com"
-  },
-  {
-    "type": "Full",
-    "value": "notebooklm-pa.googleapis.com"
-  },
-  {
-    "type": "Full",
-    "value": "notebooklm.googleapis.com"
-  },
-  {
-    "type": "Full",
-    "value": "antigravity-pa.googleapis.com"
-  },
-  {
-    "type": "Full",
-    "value": "antigravity.googleapis.com"
   },
   {
     "type": "Full",
@@ -665,35 +665,115 @@
   },
   {
     "type": "Domain",
-    "value": "fastlane.tools"
-  },
-  {
-    "type": "Domain",
-    "value": "fastlane.ci"
-  },
-  {
-    "type": "Domain",
-    "value": "deepmind.com"
-  },
-  {
-    "type": "Domain",
-    "value": "ai.studio"
-  },
-  {
-    "type": "Domain",
-    "value": "polymerproject.org"
-  },
-  {
-    "type": "Domain",
-    "value": "polymer-project.org"
-  },
-  {
-    "type": "Domain",
     "value": "v8project.org"
   },
   {
     "type": "Domain",
     "value": "v8.dev"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--p8j9a0d9c9a.xn--q9jyb4c"
+  },
+  {
+    "type": "Domain",
+    "value": "new.day"
+  },
+  {
+    "type": "Domain",
+    "value": "iam.soy"
+  },
+  {
+    "type": "Domain",
+    "value": "hey.boo"
+  },
+  {
+    "type": "Domain",
+    "value": "get.rsvp"
+  },
+  {
+    "type": "Domain",
+    "value": "get.page"
+  },
+  {
+    "type": "Domain",
+    "value": "get.new"
+  },
+  {
+    "type": "Domain",
+    "value": "get.how"
+  },
+  {
+    "type": "Domain",
+    "value": "get.dev"
+  },
+  {
+    "type": "Domain",
+    "value": "get.app"
+  },
+  {
+    "type": "Domain",
+    "value": "crr.com"
+  },
+  {
+    "type": "Domain",
+    "value": "charlestonroadregistry.com"
+  },
+  {
+    "type": "Domain",
+    "value": "golang.org"
+  },
+  {
+    "type": "Domain",
+    "value": "golang.net"
+  },
+  {
+    "type": "Domain",
+    "value": "golang.com"
+  },
+  {
+    "type": "Domain",
+    "value": "godoc.org"
+  },
+  {
+    "type": "Domain",
+    "value": "go.dev"
+  },
+  {
+    "type": "Domain",
+    "value": "go-lang.org"
+  },
+  {
+    "type": "Domain",
+    "value": "go-lang.net"
+  },
+  {
+    "type": "Domain",
+    "value": "go-lang.com"
+  },
+  {
+    "type": "Domain",
+    "value": "pub.dev"
+  },
+  {
+    "type": "Domain",
+    "value": "stxmosquitoproject.net"
+  },
+  {
+    "type": "Domain",
+    "value": "flutterapp.com"
+  },
+  {
+    "type": "Domain",
+    "value": "flutter.dev"
+  },
+  {
+    "type": "Domain",
+    "value": "fastlane.tools"
+  },
+  {
+    "type": "Domain",
+    "value": "fastlane.ci"
   },
   {
     "type": "Domain",
@@ -722,10 +802,6 @@
   {
     "type": "Domain",
     "value": "blogspot.de"
-  },
-  {
-    "type": "Domain",
-    "value": "stxmosquitoproject.net"
   },
   {
     "type": "Domain",
@@ -890,50 +966,6 @@
   {
     "type": "Domain",
     "value": "blogspot.bg"
-  },
-  {
-    "type": "Domain",
-    "value": "blogspot.be"
-  },
-  {
-    "type": "Domain",
-    "value": "blogspot.ba"
-  },
-  {
-    "type": "Domain",
-    "value": "blogspot.am"
-  },
-  {
-    "type": "Domain",
-    "value": "blogspot.al"
-  },
-  {
-    "type": "Domain",
-    "value": "blogspot.ae"
-  },
-  {
-    "type": "Domain",
-    "value": "blogspot.mx"
-  },
-  {
-    "type": "Domain",
-    "value": "blogspot.nl"
-  },
-  {
-    "type": "Domain",
-    "value": "opensourceinsights.dev"
-  },
-  {
-    "type": "Domain",
-    "value": "opensourceinsight.dev"
-  },
-  {
-    "type": "Domain",
-    "value": "deps.info"
-  },
-  {
-    "type": "Domain",
-    "value": "deps.dev"
   },
   {
     "type": "Domain",
@@ -1689,19 +1721,23 @@
   },
   {
     "type": "Domain",
-    "value": "kaggleusercontent.com"
+    "value": "blogspot.be"
   },
   {
     "type": "Domain",
-    "value": "kaggle.net"
+    "value": "blogspot.ba"
   },
   {
     "type": "Domain",
-    "value": "kaggle.io"
+    "value": "blogspot.am"
   },
   {
     "type": "Domain",
-    "value": "kaggle.com"
+    "value": "blogspot.al"
+  },
+  {
+    "type": "Domain",
+    "value": "blogspot.ae"
   },
   {
     "type": "Domain",
@@ -1854,6 +1890,10 @@
   {
     "type": "Domain",
     "value": "hindiweb.com"
+  },
+  {
+    "type": "Domain",
+    "value": "blogspot.mx"
   },
   {
     "type": "Domain",
@@ -2153,6 +2193,10 @@
   },
   {
     "type": "Domain",
+    "value": "blogspot.nl"
+  },
+  {
+    "type": "Domain",
     "value": "stxmosquitoproject.org"
   },
   {
@@ -2297,6 +2341,10 @@
   },
   {
     "type": "Domain",
+    "value": "firebaseio.com"
+  },
+  {
+    "type": "Domain",
     "value": "womenwill.id"
   },
   {
@@ -2349,106 +2397,6 @@
   },
   {
     "type": "Domain",
-    "value": "flutter.dev"
-  },
-  {
-    "type": "Domain",
-    "value": "flutterapp.com"
-  },
-  {
-    "type": "Domain",
-    "value": "pub.dev"
-  },
-  {
-    "type": "Domain",
-    "value": "go-lang.com"
-  },
-  {
-    "type": "Domain",
-    "value": "go-lang.net"
-  },
-  {
-    "type": "Domain",
-    "value": "go-lang.org"
-  },
-  {
-    "type": "Domain",
-    "value": "go.dev"
-  },
-  {
-    "type": "Domain",
-    "value": "godoc.org"
-  },
-  {
-    "type": "Domain",
-    "value": "golang.com"
-  },
-  {
-    "type": "Domain",
-    "value": "golang.net"
-  },
-  {
-    "type": "Domain",
-    "value": "golang.org"
-  },
-  {
-    "type": "Domain",
-    "value": "googleplay.com"
-  },
-  {
-    "type": "Domain",
-    "value": "xn--ngstr-lra8j.com"
-  },
-  {
-    "type": "Domain",
-    "value": "charlestonroadregistry.com"
-  },
-  {
-    "type": "Domain",
-    "value": "crr.com"
-  },
-  {
-    "type": "Domain",
-    "value": "get.app"
-  },
-  {
-    "type": "Domain",
-    "value": "get.dev"
-  },
-  {
-    "type": "Domain",
-    "value": "get.how"
-  },
-  {
-    "type": "Domain",
-    "value": "get.new"
-  },
-  {
-    "type": "Domain",
-    "value": "get.page"
-  },
-  {
-    "type": "Domain",
-    "value": "get.rsvp"
-  },
-  {
-    "type": "Domain",
-    "value": "hey.boo"
-  },
-  {
-    "type": "Domain",
-    "value": "iam.soy"
-  },
-  {
-    "type": "Domain",
-    "value": "new.day"
-  },
-  {
-    "type": "Domain",
-    "value": "xn--p8j9a0d9c9a.xn--q9jyb4c"
-  },
-  {
-    "type": "Domain",
     "value": "google.ae"
   },
   {
@@ -2458,6 +2406,74 @@
   {
     "type": "Domain",
     "value": "androidify.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ai.studio"
+  },
+  {
+    "type": "Domain",
+    "value": "deepmind.com"
+  },
+  {
+    "type": "Domain",
+    "value": "firebaseapp.com"
+  },
+  {
+    "type": "Domain",
+    "value": "firebase.io"
+  },
+  {
+    "type": "Domain",
+    "value": "firebase.com"
+  },
+  {
+    "type": "Domain",
+    "value": "opensourceinsights.dev"
+  },
+  {
+    "type": "Domain",
+    "value": "opensourceinsight.dev"
+  },
+  {
+    "type": "Domain",
+    "value": "deps.info"
+  },
+  {
+    "type": "Domain",
+    "value": "deps.dev"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--ngstr-lra8j.com"
+  },
+  {
+    "type": "Domain",
+    "value": "googleplay.com"
+  },
+  {
+    "type": "Domain",
+    "value": "kaggle.com"
+  },
+  {
+    "type": "Domain",
+    "value": "kaggle.io"
+  },
+  {
+    "type": "Domain",
+    "value": "kaggle.net"
+  },
+  {
+    "type": "Domain",
+    "value": "kaggleusercontent.com"
+  },
+  {
+    "type": "Domain",
+    "value": "polymer-project.org"
+  },
+  {
+    "type": "Domain",
+    "value": "polymerproject.org"
   },
   {
     "type": "Domain",
@@ -2853,22 +2869,6 @@
   },
   {
     "type": "Domain",
-    "value": "firebaseio.com"
-  },
-  {
-    "type": "Domain",
-    "value": "firebaseapp.com"
-  },
-  {
-    "type": "Domain",
-    "value": "firebase.io"
-  },
-  {
-    "type": "Domain",
-    "value": "firebase.com"
-  },
-  {
-    "type": "Domain",
     "value": "dartpad.dev"
   },
   {
@@ -2881,11 +2881,11 @@
   },
   {
     "type": "Domain",
-    "value": "google.com.do"
+    "value": "google.com.mm"
   },
   {
     "type": "Domain",
-    "value": "google.com.mm"
+    "value": "google.com.pr"
   },
   {
     "type": "Domain",
@@ -2966,10 +2966,6 @@
   {
     "type": "Domain",
     "value": "youtube.com.jo"
-  },
-  {
-    "type": "Domain",
-    "value": "google.com.sl"
   },
   {
     "type": "Domain",
@@ -3177,6 +3173,22 @@
   },
   {
     "type": "Domain",
+    "value": "youtube.com.sg"
+  },
+  {
+    "type": "Domain",
+    "value": "google.com.eg"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.com.sa"
+  },
+  {
+    "type": "Domain",
+    "value": "youtube.com.jm"
+  },
+  {
+    "type": "Domain",
     "value": "womenwill.com.br"
   },
   {
@@ -3201,11 +3213,7 @@
   },
   {
     "type": "Domain",
-    "value": "youtube.com.sg"
-  },
-  {
-    "type": "Domain",
-    "value": "google.com.uy"
+    "value": "google.com.vc"
   },
   {
     "type": "Domain",
@@ -3217,19 +3225,19 @@
   },
   {
     "type": "Domain",
-    "value": "google.com.ai"
+    "value": "google.com.tr"
   },
   {
     "type": "Domain",
-    "value": "youtube.com.sa"
+    "value": "google.com.tj"
   },
   {
     "type": "Domain",
-    "value": "google.com.vc"
+    "value": "google.com.sv"
   },
   {
     "type": "Domain",
-    "value": "youtube.com.jm"
+    "value": "google.com.sl"
   },
   {
     "type": "Domain",
@@ -3253,7 +3261,7 @@
   },
   {
     "type": "Domain",
-    "value": "google.com.pr"
+    "value": "google.com.uy"
   },
   {
     "type": "Domain",
@@ -3261,7 +3269,7 @@
   },
   {
     "type": "Domain",
-    "value": "google.com.tj"
+    "value": "google.com.ph"
   },
   {
     "type": "Domain",
@@ -3309,10 +3317,6 @@
   },
   {
     "type": "Domain",
-    "value": "google.com.ph"
-  },
-  {
-    "type": "Domain",
     "value": "google.com.ly"
   },
   {
@@ -3357,15 +3361,11 @@
   },
   {
     "type": "Domain",
-    "value": "google.com.eg"
-  },
-  {
-    "type": "Domain",
     "value": "google.com.ec"
   },
   {
     "type": "Domain",
-    "value": "google.com.sv"
+    "value": "google.com.do"
   },
   {
     "type": "Domain",
@@ -3402,50 +3402,6 @@
   {
     "type": "Domain",
     "value": "google.com.bd"
-  },
-  {
-    "type": "Domain",
-    "value": "google.com.au"
-  },
-  {
-    "type": "Domain",
-    "value": "google.com.ar"
-  },
-  {
-    "type": "Domain",
-    "value": "google.com.tr"
-  },
-  {
-    "type": "Domain",
-    "value": "google.com.ag"
-  },
-  {
-    "type": "Domain",
-    "value": "google.co.zw"
-  },
-  {
-    "type": "Domain",
-    "value": "google.co.zm"
-  },
-  {
-    "type": "Domain",
-    "value": "google.co.za"
-  },
-  {
-    "type": "Domain",
-    "value": "google.co.vi"
-  },
-  {
-    "type": "Domain",
-    "value": "google.co.ve"
-  },
-  {
-    "type": "Domain",
-    "value": "google.co.uz"
-  },
-  {
-    "type": "Domain",
-    "value": "google.co.uk"
   },
   {
     "type": "Domain",
@@ -3526,6 +3482,50 @@
   {
     "type": "Domain",
     "value": "blogspot.com.by"
+  },
+  {
+    "type": "Domain",
+    "value": "google.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "google.com.ar"
+  },
+  {
+    "type": "Domain",
+    "value": "google.com.ai"
+  },
+  {
+    "type": "Domain",
+    "value": "google.com.ag"
+  },
+  {
+    "type": "Domain",
+    "value": "google.co.zw"
+  },
+  {
+    "type": "Domain",
+    "value": "google.co.zm"
+  },
+  {
+    "type": "Domain",
+    "value": "google.co.za"
+  },
+  {
+    "type": "Domain",
+    "value": "google.co.vi"
+  },
+  {
+    "type": "Domain",
+    "value": "google.co.ve"
+  },
+  {
+    "type": "Domain",
+    "value": "google.co.uz"
+  },
+  {
+    "type": "Domain",
+    "value": "google.co.uk"
   },
   {
     "type": "Domain",
@@ -5352,6 +5352,24 @@
     }
   },
   {
+    "type": "Domain",
+    "value": "ggpht.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ads.youtube.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
     "type": "Regex",
     "value": "^r+[0-9]+(---|\\.)sn-(2x3|ni5|j5o)\\w{5}\\.xn--ngstr-lra8j\\.com$",
     "attrs": {
@@ -5374,24 +5392,6 @@
     "value": "redirector.c.play.google.com",
     "attrs": {
       "cn": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "ggpht.cn",
-    "attrs": {
-      "cn": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "ads.youtube.com",
-    "attrs": {
-      "ads": {
         "BoolValue": true
       }
     }

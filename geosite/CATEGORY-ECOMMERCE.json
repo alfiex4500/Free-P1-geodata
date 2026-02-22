@@ -1,6 +1,10 @@
 [
   {
     "type": "Full",
+    "value": "api-p.videomarket.jp"
+  },
+  {
+    "type": "Full",
     "value": "ecapi-pchome.cdn.hinet.net"
   },
   {
@@ -9,15 +13,11 @@
   },
   {
     "type": "Full",
-    "value": "api-p.videomarket.jp"
-  },
-  {
-    "type": "Full",
     "value": "ebay-25-assets.s3-us-west-1.amazonaws.com"
   },
   {
     "type": "Domain",
-    "value": "target"
+    "value": "nike"
   },
   {
     "type": "Domain",
@@ -29,103 +29,11 @@
   },
   {
     "type": "Domain",
-    "value": "nike"
+    "value": "target"
   },
   {
     "type": "Domain",
-    "value": "besztbuy.com"
-  },
-  {
-    "type": "Domain",
-    "value": "adidasspecialtysports.es"
-  },
-  {
-    "type": "Domain",
-    "value": "ebuyer.com"
-  },
-  {
-    "type": "Domain",
-    "value": "ggsel.com"
-  },
-  {
-    "type": "Domain",
-    "value": "ggsel.net"
-  },
-  {
-    "type": "Domain",
-    "value": "homedepot-static.com"
-  },
-  {
-    "type": "Domain",
-    "value": "homedepot.com"
-  },
-  {
-    "type": "Domain",
-    "value": "ecimg.tw"
-  },
-  {
-    "type": "Domain",
-    "value": "pchomeec.tw"
-  },
-  {
-    "type": "Domain",
-    "value": "pcloud.tw"
-  },
-  {
-    "type": "Domain",
-    "value": "shopee.io"
-  },
-  {
-    "type": "Domain",
-    "value": "shopee.ph"
-  },
-  {
-    "type": "Domain",
-    "value": "shopee.es"
-  },
-  {
-    "type": "Domain",
-    "value": "wish.com"
-  },
-  {
-    "type": "Domain",
-    "value": "mujikorea.net"
-  },
-  {
-    "type": "Domain",
-    "value": "muji.us"
-  },
-  {
-    "type": "Domain",
-    "value": "muji.tw"
-  },
-  {
-    "type": "Domain",
-    "value": "muji.net"
-  },
-  {
-    "type": "Domain",
-    "value": "muji.eu"
-  },
-  {
-    "type": "Domain",
-    "value": "cowboom.com"
-  },
-  {
-    "type": "Domain",
-    "value": "shopee.com"
-  },
-  {
-    "type": "Domain",
-    "value": "shopee.fr"
-  },
-  {
-    "type": "Domain",
-    "value": "shopeemobile.com"
-  },
-  {
-    "type": "Domain",
-    "value": "shopee.vn"
+    "value": "geeksquadcentral.com"
   },
   {
     "type": "Domain",
@@ -133,467 +41,11 @@
   },
   {
     "type": "Domain",
-    "value": "shopee.sg"
-  },
-  {
-    "type": "Domain",
-    "value": "shp.ee"
-  },
-  {
-    "type": "Domain",
-    "value": "shopee.in"
-  },
-  {
-    "type": "Domain",
-    "value": "shopee.id"
-  },
-  {
-    "type": "Domain",
-    "value": "shopee.cl"
-  },
-  {
-    "type": "Domain",
-    "value": "muji.com"
-  },
-  {
-    "type": "Domain",
-    "value": "regiongold.com"
-  },
-  {
-    "type": "Domain",
-    "value": "guccitimeless.com"
-  },
-  {
-    "type": "Domain",
-    "value": "guccimuseo.com"
-  },
-  {
-    "type": "Domain",
-    "value": "gucci.com"
-  },
-  {
-    "type": "Domain",
-    "value": "chimeforchange.org"
-  },
-  {
-    "type": "Domain",
-    "value": "readmoo.com"
-  },
-  {
-    "type": "Domain",
-    "value": "coupangcdn.com"
-  },
-  {
-    "type": "Domain",
-    "value": "coupang.com"
-  },
-  {
-    "type": "Domain",
-    "value": "hm.com"
-  },
-  {
-    "type": "Domain",
-    "value": "myshopify.com"
-  },
-  {
-    "type": "Domain",
-    "value": "shop.app"
-  },
-  {
-    "type": "Domain",
-    "value": "shopify.com"
-  },
-  {
-    "type": "Domain",
-    "value": "shopify.dev"
-  },
-  {
-    "type": "Domain",
-    "value": "shopifycdn.com"
-  },
-  {
-    "type": "Domain",
-    "value": "shopifycloud.com"
-  },
-  {
-    "type": "Domain",
-    "value": "shopifystatus.com"
-  },
-  {
-    "type": "Domain",
-    "value": "shopifysvc.com"
-  },
-  {
-    "type": "Domain",
-    "value": "bstatic.com"
-  },
-  {
-    "type": "Domain",
-    "value": "target.com"
-  },
-  {
-    "type": "Domain",
-    "value": "targetimg1.com"
-  },
-  {
-    "type": "Domain",
-    "value": "airbnb.rs"
-  },
-  {
-    "type": "Domain",
-    "value": "airbnb.gr"
-  },
-  {
-    "type": "Domain",
-    "value": "airbnb.ae"
-  },
-  {
-    "type": "Domain",
-    "value": "airbnb.al"
-  },
-  {
-    "type": "Domain",
-    "value": "airbnb.am"
-  },
-  {
-    "type": "Domain",
-    "value": "airbnb.at"
-  },
-  {
-    "type": "Domain",
-    "value": "airbnb.az"
-  },
-  {
-    "type": "Domain",
-    "value": "airbnb.ba"
-  },
-  {
-    "type": "Domain",
-    "value": "airbnb.be"
-  },
-  {
-    "type": "Domain",
-    "value": "airbnb.ca"
-  },
-  {
-    "type": "Domain",
-    "value": "airbnb.cat"
-  },
-  {
-    "type": "Domain",
-    "value": "airbnb.ch"
-  },
-  {
-    "type": "Domain",
-    "value": "airbnb.cl"
-  },
-  {
-    "type": "Domain",
-    "value": "airbnb.cn"
-  },
-  {
-    "type": "Domain",
-    "value": "vamo.com"
-  },
-  {
-    "type": "Domain",
-    "value": "muscache.com"
-  },
-  {
-    "type": "Domain",
-    "value": "airbnb.travel"
-  },
-  {
-    "type": "Domain",
-    "value": "airbnb.tools"
-  },
-  {
-    "type": "Domain",
-    "value": "airbnb.si"
-  },
-  {
-    "type": "Domain",
-    "value": "airbnb.se"
-  },
-  {
-    "type": "Domain",
-    "value": "abb.travel"
-  },
-  {
-    "type": "Domain",
-    "value": "airbnb.ru"
-  },
-  {
-    "type": "Domain",
-    "value": "airbnb.dk"
-  },
-  {
-    "type": "Domain",
-    "value": "accomable.com"
-  },
-  {
-    "type": "Domain",
-    "value": "airbnb.no"
-  },
-  {
-    "type": "Domain",
-    "value": "airbnb.pl"
-  },
-  {
-    "type": "Domain",
-    "value": "airbnb.org"
-  },
-  {
-    "type": "Domain",
-    "value": "airbnb.pt"
-  },
-  {
-    "type": "Domain",
-    "value": "airbnb.nl"
-  },
-  {
-    "type": "Domain",
-    "value": "airbnb.mx"
-  },
-  {
-    "type": "Domain",
-    "value": "airbnb.me"
-  },
-  {
-    "type": "Domain",
-    "value": "airbnb.lv"
-  },
-  {
-    "type": "Domain",
-    "value": "airbnb.lu"
-  },
-  {
-    "type": "Domain",
-    "value": "airbnb.lt"
-  },
-  {
-    "type": "Domain",
-    "value": "airbnb.la"
-  },
-  {
-    "type": "Domain",
-    "value": "airbnb.jp"
-  },
-  {
-    "type": "Domain",
-    "value": "airbnb.it"
-  },
-  {
-    "type": "Domain",
-    "value": "airbnb.is"
-  },
-  {
-    "type": "Domain",
-    "value": "airbnb.ie"
-  },
-  {
-    "type": "Domain",
-    "value": "airbnb.hu"
-  },
-  {
-    "type": "Domain",
-    "value": "airbnb.gy"
-  },
-  {
-    "type": "Domain",
-    "value": "airbnb.com"
-  },
-  {
-    "type": "Domain",
-    "value": "airbnb.fr"
-  },
-  {
-    "type": "Domain",
-    "value": "airbnb.fi"
-  },
-  {
-    "type": "Domain",
-    "value": "airbnb.es"
-  },
-  {
-    "type": "Domain",
-    "value": "airbnb.cz"
-  },
-  {
-    "type": "Domain",
-    "value": "airbnb.de"
-  },
-  {
-    "type": "Domain",
-    "value": "minisothailand.com"
-  },
-  {
-    "type": "Domain",
-    "value": "miniso.my"
-  },
-  {
-    "type": "Domain",
-    "value": "miniso.ma"
-  },
-  {
-    "type": "Domain",
-    "value": "miniso.jp"
-  },
-  {
-    "type": "Domain",
-    "value": "miniso.ie"
-  },
-  {
-    "type": "Domain",
-    "value": "miniso.ge"
-  },
-  {
-    "type": "Domain",
-    "value": "miniso.ua"
-  },
-  {
-    "type": "Domain",
-    "value": "miniso.uz"
-  },
-  {
-    "type": "Domain",
-    "value": "minisoindia.com"
-  },
-  {
-    "type": "Domain",
-    "value": "minisojordan.com"
-  },
-  {
-    "type": "Domain",
-    "value": "minisovietam.vn"
-  },
-  {
-    "type": "Domain",
-    "value": "miniso-au.com"
-  },
-  {
-    "type": "Domain",
-    "value": "miniso-bh.com"
-  },
-  {
-    "type": "Domain",
-    "value": "minisokorea.com"
-  },
-  {
-    "type": "Domain",
-    "value": "myminiso.com"
-  },
-  {
-    "type": "Domain",
-    "value": "miniso.co"
-  },
-  {
-    "type": "Domain",
-    "value": "miniso.ca"
-  },
-  {
-    "type": "Domain",
-    "value": "miniso.by"
-  },
-  {
-    "type": "Domain",
-    "value": "miniso-nz.com"
-  },
-  {
-    "type": "Domain",
-    "value": "miniso-np.com"
-  },
-  {
-    "type": "Domain",
-    "value": "miniso.pk"
-  },
-  {
-    "type": "Domain",
-    "value": "miniso.pe"
-  },
-  {
-    "type": "Domain",
-    "value": "miniso.com"
-  },
-  {
-    "type": "Domain",
-    "value": "ikea.hr"
-  },
-  {
-    "type": "Domain",
-    "value": "ikea.hk"
-  },
-  {
-    "type": "Domain",
-    "value": "ikea.gr"
-  },
-  {
-    "type": "Domain",
-    "value": "ikea.fr"
-  },
-  {
-    "type": "Domain",
-    "value": "ikea.fi"
-  },
-  {
-    "type": "Domain",
-    "value": "ikea.es"
-  },
-  {
-    "type": "Domain",
-    "value": "ikea.eg"
-  },
-  {
-    "type": "Domain",
-    "value": "ikea.ee"
-  },
-  {
-    "type": "Domain",
-    "value": "ikea.do"
-  },
-  {
-    "type": "Domain",
-    "value": "ikea.hu"
-  },
-  {
-    "type": "Domain",
-    "value": "ikea.dk"
-  },
-  {
-    "type": "Domain",
-    "value": "ikea.lt"
-  },
-  {
-    "type": "Domain",
-    "value": "ikea.ie"
-  },
-  {
-    "type": "Domain",
-    "value": "ikea.in"
-  },
-  {
-    "type": "Domain",
-    "value": "ikea.is"
-  },
-  {
-    "type": "Domain",
-    "value": "dmm.com"
-  },
-  {
-    "type": "Domain",
-    "value": "dmm-extension.com"
-  },
-  {
-    "type": "Domain",
-    "value": "dmmapis.com"
-  },
-  {
-    "type": "Domain",
     "value": "dmmrex.com"
   },
   {
     "type": "Domain",
-    "value": "ikea.it"
+    "value": "ebuyer.com"
   },
   {
     "type": "Domain",
@@ -617,7 +69,91 @@
   },
   {
     "type": "Domain",
-    "value": "momo.dm"
+    "value": "ggsel.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ggsel.net"
+  },
+  {
+    "type": "Domain",
+    "value": "hm.com"
+  },
+  {
+    "type": "Domain",
+    "value": "shopee.io"
+  },
+  {
+    "type": "Domain",
+    "value": "shopee.ph"
+  },
+  {
+    "type": "Domain",
+    "value": "shopee.es"
+  },
+  {
+    "type": "Domain",
+    "value": "shopee.com"
+  },
+  {
+    "type": "Domain",
+    "value": "shopee.fr"
+  },
+  {
+    "type": "Domain",
+    "value": "shopeemobile.com"
+  },
+  {
+    "type": "Domain",
+    "value": "shopee.vn"
+  },
+  {
+    "type": "Domain",
+    "value": "geeksquadprotectionplan.org"
+  },
+  {
+    "type": "Domain",
+    "value": "shopee.sg"
+  },
+  {
+    "type": "Domain",
+    "value": "shp.ee"
+  },
+  {
+    "type": "Domain",
+    "value": "shopee.in"
+  },
+  {
+    "type": "Domain",
+    "value": "shopee.id"
+  },
+  {
+    "type": "Domain",
+    "value": "shopee.cl"
+  },
+  {
+    "type": "Domain",
+    "value": "mujikorea.net"
+  },
+  {
+    "type": "Domain",
+    "value": "muji.us"
+  },
+  {
+    "type": "Domain",
+    "value": "muji.tw"
+  },
+  {
+    "type": "Domain",
+    "value": "muji.net"
+  },
+  {
+    "type": "Domain",
+    "value": "muji.eu"
+  },
+  {
+    "type": "Domain",
+    "value": "muji.com"
   },
   {
     "type": "Domain",
@@ -625,23 +161,35 @@
   },
   {
     "type": "Domain",
-    "value": "ikea.jo"
+    "value": "momo.dm"
   },
   {
     "type": "Domain",
-    "value": "ikea.jp"
+    "value": "regiongold.com"
   },
   {
     "type": "Domain",
-    "value": "nordstrom.com"
-  },
-  {
-    "type": "Domain",
-    "value": "nordstrommedia.com"
+    "value": "wish.com"
   },
   {
     "type": "Domain",
     "value": "booking.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bstatic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "coupang.com"
+  },
+  {
+    "type": "Domain",
+    "value": "coupangcdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dmm-extension.com"
   },
   {
     "type": "Domain",
@@ -1333,7 +881,167 @@
   },
   {
     "type": "Domain",
-    "value": "ikea.kr"
+    "value": "guccitimeless.com"
+  },
+  {
+    "type": "Domain",
+    "value": "guccimuseo.com"
+  },
+  {
+    "type": "Domain",
+    "value": "gucci.com"
+  },
+  {
+    "type": "Domain",
+    "value": "chimeforchange.org"
+  },
+  {
+    "type": "Domain",
+    "value": "readmoo.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.ma"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.mx"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.au"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.be"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.bg"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.bh"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.ca"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.ch"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.cl"
+  },
+  {
+    "type": "Domain",
+    "value": "ingkacentres.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ingka.dev"
+  },
+  {
+    "type": "Domain",
+    "value": "ingka.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.net"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.us"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.ua"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.sk"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.si"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.sg"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.sa"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.rs"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.de"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.ro"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.qa"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.pt"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.pr"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.pl"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.ph"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.om"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.no"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.nl"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.my"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.at"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.ae"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.lv"
   },
   {
     "type": "Domain",
@@ -1341,7 +1049,351 @@
   },
   {
     "type": "Domain",
-    "value": "ikea.lv"
+    "value": "ikea.kr"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.jo"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.it"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.is"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.in"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.ie"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.lt"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.dk"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.hu"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.do"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.ee"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.eg"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.es"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.fi"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.fr"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.gr"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.hr"
+  },
+  {
+    "type": "Domain",
+    "value": "marketexecutive.net"
+  },
+  {
+    "type": "Domain",
+    "value": "listinganalytics.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cdn-terapeak.com"
+  },
+  {
+    "type": "Domain",
+    "value": "achievementanalytics.com"
+  },
+  {
+    "type": "Domain",
+    "value": "qoo10.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "q10.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "mobileinternational.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mobile.de"
+  },
+  {
+    "type": "Domain",
+    "value": "automobile.fr"
+  },
+  {
+    "type": "Domain",
+    "value": "kijjiji.ca"
+  },
+  {
+    "type": "Domain",
+    "value": "kijji.ca"
+  },
+  {
+    "type": "Domain",
+    "value": "kijijiraps.ca"
+  },
+  {
+    "type": "Domain",
+    "value": "kijijii.ca"
+  },
+  {
+    "type": "Domain",
+    "value": "kijijiforbusiness.ca"
+  },
+  {
+    "type": "Domain",
+    "value": "kijijiautos.ca"
+  },
+  {
+    "type": "Domain",
+    "value": "kijijiauto.ca"
+  },
+  {
+    "type": "Domain",
+    "value": "kijiji.ca"
+  },
+  {
+    "type": "Domain",
+    "value": "kijij.ca"
+  },
+  {
+    "type": "Domain",
+    "value": "kijii.ca"
+  },
+  {
+    "type": "Domain",
+    "value": "kiji.ca"
+  },
+  {
+    "type": "Domain",
+    "value": "jijiji.ca"
+  },
+  {
+    "type": "Domain",
+    "value": "gumtree.sg"
+  },
+  {
+    "type": "Domain",
+    "value": "gittigidiyorsikayet.com"
+  },
+  {
+    "type": "Domain",
+    "value": "gittigidiyor.net"
+  },
+  {
+    "type": "Domain",
+    "value": "yibei.org"
+  },
+  {
+    "type": "Domain",
+    "value": "xxbay.com"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--yf1at58a.com"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--xsq959n.com"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--xsq605n.com"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--xsq421m.com"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--ubt498knmf.com"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--tkry91n.com"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--qoq462m.com"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--q41am8x.com"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--hb4aw0g.com"
+  },
+  {
+    "type": "Domain",
+    "value": "miniso.com"
+  },
+  {
+    "type": "Domain",
+    "value": "miniso.pe"
+  },
+  {
+    "type": "Domain",
+    "value": "miniso.pk"
+  },
+  {
+    "type": "Domain",
+    "value": "miniso-np.com"
+  },
+  {
+    "type": "Domain",
+    "value": "miniso-nz.com"
+  },
+  {
+    "type": "Domain",
+    "value": "miniso.by"
+  },
+  {
+    "type": "Domain",
+    "value": "miniso.ca"
+  },
+  {
+    "type": "Domain",
+    "value": "miniso.co"
+  },
+  {
+    "type": "Domain",
+    "value": "myminiso.com"
+  },
+  {
+    "type": "Domain",
+    "value": "minisokorea.com"
+  },
+  {
+    "type": "Domain",
+    "value": "miniso-bh.com"
+  },
+  {
+    "type": "Domain",
+    "value": "miniso-au.com"
+  },
+  {
+    "type": "Domain",
+    "value": "minisovietam.vn"
+  },
+  {
+    "type": "Domain",
+    "value": "minisojordan.com"
+  },
+  {
+    "type": "Domain",
+    "value": "minisoindia.com"
+  },
+  {
+    "type": "Domain",
+    "value": "miniso.uz"
+  },
+  {
+    "type": "Domain",
+    "value": "miniso.ua"
+  },
+  {
+    "type": "Domain",
+    "value": "miniso.ge"
+  },
+  {
+    "type": "Domain",
+    "value": "miniso.ie"
+  },
+  {
+    "type": "Domain",
+    "value": "miniso.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "miniso.ma"
+  },
+  {
+    "type": "Domain",
+    "value": "miniso.my"
+  },
+  {
+    "type": "Domain",
+    "value": "minisothailand.com"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--7hv594h.com"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--4vq477m.com"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--4vq475g.com"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--3et96bj49ahpq.com"
+  },
+  {
+    "type": "Domain",
+    "value": "xindelu.com"
+  },
+  {
+    "type": "Domain",
+    "value": "wwwwebay.com"
+  },
+  {
+    "type": "Domain",
+    "value": "wwwebay.net"
+  },
+  {
+    "type": "Domain",
+    "value": "wwwebay.com"
+  },
+  {
+    "type": "Domain",
+    "value": "wwwdecide.com"
+  },
+  {
+    "type": "Domain",
+    "value": "watch-ebay.org"
   },
   {
     "type": "Domain",
@@ -1377,515 +1429,355 @@
   },
   {
     "type": "Domain",
-    "value": "ikea.ae"
+    "value": "weareebay.com"
   },
   {
     "type": "Domain",
-    "value": "ikea.at"
+    "value": "vendu.com"
   },
   {
     "type": "Domain",
-    "value": "ikea.my"
+    "value": "towerauction.com"
   },
   {
     "type": "Domain",
-    "value": "ikea.nl"
+    "value": "theopportunityproject.org"
   },
   {
     "type": "Domain",
-    "value": "ikea.no"
+    "value": "theebayshop.com"
   },
   {
     "type": "Domain",
-    "value": "redino.tw"
+    "value": "airbnb.rs"
   },
   {
     "type": "Domain",
-    "value": "w-mt.co"
+    "value": "airbnb.gr"
   },
   {
     "type": "Domain",
-    "value": "wal-mart.com"
+    "value": "airbnb.ae"
   },
   {
     "type": "Domain",
-    "value": "wal.co"
+    "value": "airbnb.al"
   },
   {
     "type": "Domain",
-    "value": "walmart-content.com"
+    "value": "airbnb.am"
   },
   {
     "type": "Domain",
-    "value": "walmart.com"
+    "value": "airbnb.at"
   },
   {
     "type": "Domain",
-    "value": "walmart.pharmacy"
+    "value": "airbnb.az"
   },
   {
     "type": "Domain",
-    "value": "walmartimages.com"
+    "value": "airbnb.ba"
   },
   {
     "type": "Domain",
-    "value": "wmt.co"
+    "value": "airbnb.be"
   },
   {
     "type": "Domain",
-    "value": "costco-static.com"
+    "value": "airbnb.ca"
   },
   {
     "type": "Domain",
-    "value": "costco.com"
+    "value": "airbnb.cat"
   },
   {
     "type": "Domain",
-    "value": "costcobusinessdelivery.com"
+    "value": "airbnb.ch"
   },
   {
     "type": "Domain",
-    "value": "suruga-ya.com"
+    "value": "airbnb.cl"
   },
   {
     "type": "Domain",
-    "value": "suruga-ya.jp"
+    "value": "airbnb.cn"
   },
   {
     "type": "Domain",
-    "value": "letsmoveforabetterworld.com"
+    "value": "vamo.com"
   },
   {
     "type": "Domain",
-    "value": "technogym.bg"
+    "value": "muscache.com"
   },
   {
     "type": "Domain",
-    "value": "technogym.ch"
+    "value": "airbnb.travel"
   },
   {
     "type": "Domain",
-    "value": "technogym.com"
+    "value": "airbnb.tools"
   },
   {
     "type": "Domain",
-    "value": "technogym.ru"
+    "value": "airbnb.si"
   },
   {
     "type": "Domain",
-    "value": "technogym.su"
+    "value": "airbnb.se"
   },
   {
     "type": "Domain",
-    "value": "wellnessinstitute.com"
+    "value": "abb.travel"
   },
   {
     "type": "Domain",
-    "value": "ikea.om"
+    "value": "airbnb.ru"
   },
   {
     "type": "Domain",
-    "value": "geobasket.ru"
+    "value": "airbnb.dk"
   },
   {
     "type": "Domain",
-    "value": "paywb.com"
+    "value": "accomable.com"
   },
   {
     "type": "Domain",
-    "value": "rwb.ru"
+    "value": "airbnb.no"
   },
   {
     "type": "Domain",
-    "value": "wb-basket.ru"
+    "value": "airbnb.pl"
   },
   {
     "type": "Domain",
-    "value": "wb.ru"
+    "value": "airbnb.org"
   },
   {
     "type": "Domain",
-    "value": "wbbasket.ru"
+    "value": "airbnb.pt"
   },
   {
     "type": "Domain",
-    "value": "wbpay.ru"
+    "value": "airbnb.nl"
   },
   {
     "type": "Domain",
-    "value": "wibes.ru"
+    "value": "airbnb.mx"
   },
   {
     "type": "Domain",
-    "value": "wildberries.ru"
+    "value": "airbnb.me"
   },
   {
     "type": "Domain",
-    "value": "avito.ru"
+    "value": "airbnb.lv"
   },
   {
     "type": "Domain",
-    "value": "avito.st"
+    "value": "airbnb.lu"
   },
   {
     "type": "Domain",
-    "value": "ozon.ru"
+    "value": "airbnb.lt"
   },
   {
     "type": "Domain",
-    "value": "ozone.ru"
+    "value": "airbnb.la"
   },
   {
     "type": "Domain",
-    "value": "ozonusercontent.com"
+    "value": "airbnb.jp"
   },
   {
     "type": "Domain",
-    "value": "adidassailing.com"
+    "value": "airbnb.it"
   },
   {
     "type": "Domain",
-    "value": "adidas.cz"
+    "value": "airbnb.is"
   },
   {
     "type": "Domain",
-    "value": "adidas.be"
+    "value": "airbnb.ie"
   },
   {
     "type": "Domain",
-    "value": "adidas.bh"
+    "value": "airbnb.hu"
   },
   {
     "type": "Domain",
-    "value": "adidas.ca"
+    "value": "airbnb.gy"
   },
   {
     "type": "Domain",
-    "value": "adidas.ch"
+    "value": "airbnb.com"
   },
   {
     "type": "Domain",
-    "value": "adidas.cl"
+    "value": "airbnb.fr"
   },
   {
     "type": "Domain",
-    "value": "adidas.co"
+    "value": "airbnb.fi"
   },
   {
     "type": "Domain",
-    "value": "shopadidas.com"
+    "value": "airbnb.es"
   },
   {
     "type": "Domain",
-    "value": "shopadidas.ca"
+    "value": "airbnb.cz"
   },
   {
     "type": "Domain",
-    "value": "miteam.com"
+    "value": "airbnb.de"
   },
   {
     "type": "Domain",
-    "value": "micoach.com"
+    "value": "texttobuy.org"
   },
   {
     "type": "Domain",
-    "value": "miadidas.com"
+    "value": "telesell.com"
   },
   {
     "type": "Domain",
-    "value": "adidasusnews.com"
+    "value": "telebay.com"
   },
   {
     "type": "Domain",
-    "value": "adidastabletennis.com"
+    "value": "svpply.com"
   },
   {
     "type": "Domain",
-    "value": "adidas.com"
+    "value": "geeksquadservices.org"
   },
   {
     "type": "Domain",
-    "value": "adidasspecialtysports.sk"
+    "value": "storesense.com"
   },
   {
     "type": "Domain",
-    "value": "adidas.nl"
+    "value": "speybay.com"
   },
   {
     "type": "Domain",
-    "value": "adidasspecialtysports.se"
+    "value": "sourcingforebay.tv"
   },
   {
     "type": "Domain",
-    "value": "adidasspecialtysports.ru"
+    "value": "sourcingforebay.net"
   },
   {
     "type": "Domain",
-    "value": "adidasspecialtysports.pl"
+    "value": "tearapeak.com"
   },
   {
     "type": "Domain",
-    "value": "adidasspecialtysports.nl"
+    "value": "shoping.com"
   },
   {
     "type": "Domain",
-    "value": "adidas.at"
+    "value": "shopibay.net"
   },
   {
     "type": "Domain",
-    "value": "adidasspecialtysports.it"
+    "value": "rethink.net"
   },
   {
     "type": "Domain",
-    "value": "adidasspecialtysports.ie"
+    "value": "prostores.com"
   },
   {
     "type": "Domain",
-    "value": "adidasspecialtysports.fr"
+    "value": "privatemarketplaces.us"
   },
   {
     "type": "Domain",
-    "value": "adidas.mx"
+    "value": "privatemarketplaces.net"
   },
   {
     "type": "Domain",
-    "value": "adidasspecialtysports.fi"
+    "value": "premobay.com"
   },
   {
     "type": "Domain",
-    "value": "futureshop.ca"
+    "value": "paisapay.tv"
   },
   {
     "type": "Domain",
-    "value": "adidasspecialtysports.dk"
+    "value": "paisapay.info"
   },
   {
     "type": "Domain",
-    "value": "adidasspecialtysports.de"
+    "value": "paisapay.cc"
   },
   {
     "type": "Domain",
-    "value": "adidasspecialtysports.at"
+    "value": "nebay.net"
   },
   {
     "type": "Domain",
-    "value": "adidas.de"
+    "value": "myebay.com"
   },
   {
     "type": "Domain",
-    "value": "adidas.dk"
+    "value": "myconstructionworld.net"
   },
   {
     "type": "Domain",
-    "value": "adidas.es"
+    "value": "musicbay.net"
   },
   {
     "type": "Domain",
-    "value": "adidas.fi"
+    "value": "milofetch.com"
   },
   {
     "type": "Domain",
-    "value": "adidas.fr"
+    "value": "liveauction.com"
   },
   {
     "type": "Domain",
-    "value": "adidas.gr"
+    "value": "liketwice.com"
   },
   {
     "type": "Domain",
-    "value": "adidas.hu"
+    "value": "itsbetterwhenyouwinit.com"
   },
   {
     "type": "Domain",
-    "value": "adidas.ie"
+    "value": "irribay.com"
   },
   {
     "type": "Domain",
-    "value": "adidas.in"
+    "value": "iebay.com"
   },
   {
     "type": "Domain",
-    "value": "adidas.it"
+    "value": "handbagsoutletebay.com"
   },
   {
     "type": "Domain",
-    "value": "adidasadmin.com"
+    "value": "halfjapan.com"
   },
   {
     "type": "Domain",
-    "value": "adidasspecialtysports.cz"
+    "value": "halfcanada.com"
   },
   {
     "type": "Domain",
-    "value": "adidasspecialtysports.be"
+    "value": "half.tv"
   },
   {
     "type": "Domain",
-    "value": "adidas.no"
+    "value": "half.com"
   },
   {
     "type": "Domain",
-    "value": "adidas.pe"
-  },
-  {
-    "type": "Domain",
-    "value": "adidas.pl"
-  },
-  {
-    "type": "Domain",
-    "value": "adidas.pt"
-  },
-  {
-    "type": "Domain",
-    "value": "adidas.ru"
-  },
-  {
-    "type": "Domain",
-    "value": "adidas.se"
-  },
-  {
-    "type": "Domain",
-    "value": "adidas.sk"
-  },
-  {
-    "type": "Domain",
-    "value": "adidas.jp"
-  },
-  {
-    "type": "Domain",
-    "value": "adidasarchive.org"
-  },
-  {
-    "type": "Domain",
-    "value": "adidas-archive.org"
-  },
-  {
-    "type": "Domain",
-    "value": "adidasbadminton.com"
-  },
-  {
-    "type": "Domain",
-    "value": "adidasboxing.com"
-  },
-  {
-    "type": "Domain",
-    "value": "adidascdn.com"
-  },
-  {
-    "type": "Domain",
-    "value": "adidas-group.ca"
-  },
-  {
-    "type": "Domain",
-    "value": "adidas-group.com"
-  },
-  {
-    "type": "Domain",
-    "value": "adidasgymnastics.com"
-  },
-  {
-    "type": "Domain",
-    "value": "adidashockey.com"
-  },
-  {
-    "type": "Domain",
-    "value": "adidasmotorsport.com"
-  },
-  {
-    "type": "Domain",
-    "value": "adidas.ae"
-  },
-  {
-    "type": "Domain",
-    "value": "ikea.ph"
-  },
-  {
-    "type": "Domain",
-    "value": "ikea.pl"
-  },
-  {
-    "type": "Domain",
-    "value": "ikea.pr"
-  },
-  {
-    "type": "Domain",
-    "value": "ikea.pt"
-  },
-  {
-    "type": "Domain",
-    "value": "ikea.qa"
-  },
-  {
-    "type": "Domain",
-    "value": "ikea.ro"
-  },
-  {
-    "type": "Domain",
-    "value": "ikea.de"
-  },
-  {
-    "type": "Domain",
-    "value": "ikea.rs"
-  },
-  {
-    "type": "Domain",
-    "value": "ikea.ru"
-  },
-  {
-    "type": "Domain",
-    "value": "ikea.sa"
-  },
-  {
-    "type": "Domain",
-    "value": "ikea.sg"
-  },
-  {
-    "type": "Domain",
-    "value": "ikea.si"
-  },
-  {
-    "type": "Domain",
-    "value": "ikea.sk"
-  },
-  {
-    "type": "Domain",
-    "value": "ikea.ua"
-  },
-  {
-    "type": "Domain",
-    "value": "ikea.us"
-  },
-  {
-    "type": "Domain",
-    "value": "ikea.com"
-  },
-  {
-    "type": "Domain",
-    "value": "ikea.net"
-  },
-  {
-    "type": "Domain",
-    "value": "ingka.com"
-  },
-  {
-    "type": "Domain",
-    "value": "ingka.dev"
-  },
-  {
-    "type": "Domain",
-    "value": "ingkacentres.com"
-  },
-  {
-    "type": "Domain",
-    "value": "ikea.cl"
-  },
-  {
-    "type": "Domain",
-    "value": "ikea.ch"
-  },
-  {
-    "type": "Domain",
-    "value": "ikea.ca"
+    "value": "francemail.com"
   },
   {
     "type": "Domain",
@@ -2041,7 +1933,7 @@
   },
   {
     "type": "Domain",
-    "value": "pornhubapparel.com"
+    "value": "besztbuy.com"
   },
   {
     "type": "Domain",
@@ -2049,15 +1941,15 @@
   },
   {
     "type": "Domain",
-    "value": "buyitnow.net"
+    "value": "bienvenuechezbestbuy.ca"
   },
   {
     "type": "Domain",
-    "value": "ikea.bh"
+    "value": "cowboom.com"
   },
   {
     "type": "Domain",
-    "value": "craigslist.org"
+    "value": "futureshop.ca"
   },
   {
     "type": "Domain",
@@ -2149,7 +2041,7 @@
   },
   {
     "type": "Domain",
-    "value": "geeksquadcentral.com"
+    "value": "pornhubapparel.com"
   },
   {
     "type": "Domain",
@@ -2157,15 +2049,15 @@
   },
   {
     "type": "Domain",
-    "value": "geeksquadonline.com"
+    "value": "redino.tw"
   },
   {
     "type": "Domain",
-    "value": "geeksquadprotectionplan.org"
+    "value": "dmmapis.com"
   },
   {
     "type": "Domain",
-    "value": "geeksquadservices.org"
+    "value": "fragrancebay.com"
   },
   {
     "type": "Domain",
@@ -2201,7 +2093,607 @@
   },
   {
     "type": "Domain",
-    "value": "ikea.bg"
+    "value": "fairmarket.com"
+  },
+  {
+    "type": "Domain",
+    "value": "nordstrom.com"
+  },
+  {
+    "type": "Domain",
+    "value": "nordstrommedia.com"
+  },
+  {
+    "type": "Domain",
+    "value": "suruga-ya.com"
+  },
+  {
+    "type": "Domain",
+    "value": "suruga-ya.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "avito.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "avito.st"
+  },
+  {
+    "type": "Domain",
+    "value": "ozon.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "ozone.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "ozonusercontent.com"
+  },
+  {
+    "type": "Domain",
+    "value": "geobasket.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "paywb.com"
+  },
+  {
+    "type": "Domain",
+    "value": "rwb.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "wb-basket.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "wb.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "wbbasket.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "wbpay.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "wibes.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "wildberries.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "craigslist.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ecimg.tw"
+  },
+  {
+    "type": "Domain",
+    "value": "pchomeec.tw"
+  },
+  {
+    "type": "Domain",
+    "value": "pcloud.tw"
+  },
+  {
+    "type": "Domain",
+    "value": "expertmaker.com"
+  },
+  {
+    "type": "Domain",
+    "value": "eu-consumer-empowerment.com"
+  },
+  {
+    "type": "Domain",
+    "value": "epinions.com"
+  },
+  {
+    "type": "Domain",
+    "value": "eebay.com"
+  },
+  {
+    "type": "Domain",
+    "value": "edisebay.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ebayy.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ebayworlds.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ebayvietnam.net"
+  },
+  {
+    "type": "Domain",
+    "value": "letsmoveforabetterworld.com"
+  },
+  {
+    "type": "Domain",
+    "value": "technogym.bg"
+  },
+  {
+    "type": "Domain",
+    "value": "technogym.ch"
+  },
+  {
+    "type": "Domain",
+    "value": "technogym.com"
+  },
+  {
+    "type": "Domain",
+    "value": "technogym.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "technogym.su"
+  },
+  {
+    "type": "Domain",
+    "value": "wellnessinstitute.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ebayvalet.com"
+  },
+  {
+    "type": "Domain",
+    "value": "costco-static.com"
+  },
+  {
+    "type": "Domain",
+    "value": "costco.com"
+  },
+  {
+    "type": "Domain",
+    "value": "costcobusinessdelivery.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dmm.com"
+  },
+  {
+    "type": "Domain",
+    "value": "target.com"
+  },
+  {
+    "type": "Domain",
+    "value": "targetimg1.com"
+  },
+  {
+    "type": "Domain",
+    "value": "geeksquadonline.com"
+  },
+  {
+    "type": "Domain",
+    "value": "w-mt.co"
+  },
+  {
+    "type": "Domain",
+    "value": "wal-mart.com"
+  },
+  {
+    "type": "Domain",
+    "value": "wal.co"
+  },
+  {
+    "type": "Domain",
+    "value": "walmart-content.com"
+  },
+  {
+    "type": "Domain",
+    "value": "walmart.com"
+  },
+  {
+    "type": "Domain",
+    "value": "walmart.pharmacy"
+  },
+  {
+    "type": "Domain",
+    "value": "walmartimages.com"
+  },
+  {
+    "type": "Domain",
+    "value": "wmt.co"
+  },
+  {
+    "type": "Domain",
+    "value": "adidassailing.com"
+  },
+  {
+    "type": "Domain",
+    "value": "adidas.cz"
+  },
+  {
+    "type": "Domain",
+    "value": "adidas.be"
+  },
+  {
+    "type": "Domain",
+    "value": "adidas.bh"
+  },
+  {
+    "type": "Domain",
+    "value": "adidas.ca"
+  },
+  {
+    "type": "Domain",
+    "value": "adidas.ch"
+  },
+  {
+    "type": "Domain",
+    "value": "adidas.cl"
+  },
+  {
+    "type": "Domain",
+    "value": "adidas.co"
+  },
+  {
+    "type": "Domain",
+    "value": "shopadidas.com"
+  },
+  {
+    "type": "Domain",
+    "value": "shopadidas.ca"
+  },
+  {
+    "type": "Domain",
+    "value": "miteam.com"
+  },
+  {
+    "type": "Domain",
+    "value": "micoach.com"
+  },
+  {
+    "type": "Domain",
+    "value": "miadidas.com"
+  },
+  {
+    "type": "Domain",
+    "value": "adidasusnews.com"
+  },
+  {
+    "type": "Domain",
+    "value": "adidastabletennis.com"
+  },
+  {
+    "type": "Domain",
+    "value": "adidas.com"
+  },
+  {
+    "type": "Domain",
+    "value": "adidasspecialtysports.sk"
+  },
+  {
+    "type": "Domain",
+    "value": "adidas.nl"
+  },
+  {
+    "type": "Domain",
+    "value": "adidasspecialtysports.se"
+  },
+  {
+    "type": "Domain",
+    "value": "adidasspecialtysports.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "adidasspecialtysports.pl"
+  },
+  {
+    "type": "Domain",
+    "value": "adidasspecialtysports.nl"
+  },
+  {
+    "type": "Domain",
+    "value": "adidas.at"
+  },
+  {
+    "type": "Domain",
+    "value": "adidasspecialtysports.it"
+  },
+  {
+    "type": "Domain",
+    "value": "adidasspecialtysports.ie"
+  },
+  {
+    "type": "Domain",
+    "value": "adidasspecialtysports.fr"
+  },
+  {
+    "type": "Domain",
+    "value": "adidas.mx"
+  },
+  {
+    "type": "Domain",
+    "value": "adidasspecialtysports.fi"
+  },
+  {
+    "type": "Domain",
+    "value": "adidasspecialtysports.es"
+  },
+  {
+    "type": "Domain",
+    "value": "adidasspecialtysports.dk"
+  },
+  {
+    "type": "Domain",
+    "value": "adidasspecialtysports.de"
+  },
+  {
+    "type": "Domain",
+    "value": "adidasspecialtysports.at"
+  },
+  {
+    "type": "Domain",
+    "value": "adidas.de"
+  },
+  {
+    "type": "Domain",
+    "value": "adidas.dk"
+  },
+  {
+    "type": "Domain",
+    "value": "adidas.es"
+  },
+  {
+    "type": "Domain",
+    "value": "adidas.fi"
+  },
+  {
+    "type": "Domain",
+    "value": "adidas.fr"
+  },
+  {
+    "type": "Domain",
+    "value": "adidas.gr"
+  },
+  {
+    "type": "Domain",
+    "value": "adidas.hu"
+  },
+  {
+    "type": "Domain",
+    "value": "adidas.ie"
+  },
+  {
+    "type": "Domain",
+    "value": "adidas.in"
+  },
+  {
+    "type": "Domain",
+    "value": "adidas.it"
+  },
+  {
+    "type": "Domain",
+    "value": "adidasadmin.com"
+  },
+  {
+    "type": "Domain",
+    "value": "adidasspecialtysports.cz"
+  },
+  {
+    "type": "Domain",
+    "value": "adidasspecialtysports.be"
+  },
+  {
+    "type": "Domain",
+    "value": "adidas.no"
+  },
+  {
+    "type": "Domain",
+    "value": "adidas.pe"
+  },
+  {
+    "type": "Domain",
+    "value": "adidas.pl"
+  },
+  {
+    "type": "Domain",
+    "value": "adidas.pt"
+  },
+  {
+    "type": "Domain",
+    "value": "adidas.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "adidas.se"
+  },
+  {
+    "type": "Domain",
+    "value": "adidas.sk"
+  },
+  {
+    "type": "Domain",
+    "value": "adidas.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "adidasarchive.org"
+  },
+  {
+    "type": "Domain",
+    "value": "adidas-archive.org"
+  },
+  {
+    "type": "Domain",
+    "value": "adidasbadminton.com"
+  },
+  {
+    "type": "Domain",
+    "value": "adidasboxing.com"
+  },
+  {
+    "type": "Domain",
+    "value": "adidascdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "adidas-group.ca"
+  },
+  {
+    "type": "Domain",
+    "value": "adidas-group.com"
+  },
+  {
+    "type": "Domain",
+    "value": "adidasgymnastics.com"
+  },
+  {
+    "type": "Domain",
+    "value": "adidashockey.com"
+  },
+  {
+    "type": "Domain",
+    "value": "adidasmotorsport.com"
+  },
+  {
+    "type": "Domain",
+    "value": "adidas.ae"
+  },
+  {
+    "type": "Domain",
+    "value": "ebayvakantiehuizen.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ebayuae.net"
+  },
+  {
+    "type": "Domain",
+    "value": "ebaytv.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ebaytradingassistant.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ebaytrading.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ebaytopratedseller.net"
+  },
+  {
+    "type": "Domain",
+    "value": "ebaytechblog.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ebayt.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ebaysweden.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ebaystyle.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ebaystore77.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ebaystore.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ebaystatic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ebaysohos.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ebaysoho.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ebaysocial.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "ebaysocial.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ebayshopping.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ebayshop111.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ebayshop.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ebayshoesstore.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ebayseller.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ebayrtm.com"
+  },
+  {
+    "type": "Domain",
+    "value": "homedepot-static.com"
+  },
+  {
+    "type": "Domain",
+    "value": "homedepot.com"
+  },
+  {
+    "type": "Domain",
+    "value": "myshopify.com"
+  },
+  {
+    "type": "Domain",
+    "value": "shop.app"
+  },
+  {
+    "type": "Domain",
+    "value": "shopify.com"
+  },
+  {
+    "type": "Domain",
+    "value": "shopify.dev"
+  },
+  {
+    "type": "Domain",
+    "value": "shopifycdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "shopifycloud.com"
+  },
+  {
+    "type": "Domain",
+    "value": "shopifystatus.com"
+  },
+  {
+    "type": "Domain",
+    "value": "shopifysvc.com"
   },
   {
     "type": "Domain",
@@ -2273,7 +2765,7 @@
   },
   {
     "type": "Domain",
-    "value": "bienvenuechezbestbuy.ca"
+    "value": "buyitnow.net"
   },
   {
     "type": "Domain",
@@ -2965,575 +3457,11 @@
   },
   {
     "type": "Domain",
-    "value": "ebayrtm.com"
+    "value": "airbnb.com.au"
   },
   {
     "type": "Domain",
-    "value": "ebayseller.com"
-  },
-  {
-    "type": "Domain",
-    "value": "ebayshoesstore.com"
-  },
-  {
-    "type": "Domain",
-    "value": "ebayshop.com"
-  },
-  {
-    "type": "Domain",
-    "value": "ebayshop111.com"
-  },
-  {
-    "type": "Domain",
-    "value": "ebayshopping.org"
-  },
-  {
-    "type": "Domain",
-    "value": "ebaysocial.com"
-  },
-  {
-    "type": "Domain",
-    "value": "ebaysocial.ru"
-  },
-  {
-    "type": "Domain",
-    "value": "ebaysoho.com"
-  },
-  {
-    "type": "Domain",
-    "value": "ebaysohos.com"
-  },
-  {
-    "type": "Domain",
-    "value": "ebaystatic.com"
-  },
-  {
-    "type": "Domain",
-    "value": "ebaystore.com"
-  },
-  {
-    "type": "Domain",
-    "value": "ebaystore77.com"
-  },
-  {
-    "type": "Domain",
-    "value": "ebaystyle.com"
-  },
-  {
-    "type": "Domain",
-    "value": "ebaysweden.com"
-  },
-  {
-    "type": "Domain",
-    "value": "ebayt.com"
-  },
-  {
-    "type": "Domain",
-    "value": "ebaytechblog.com"
-  },
-  {
-    "type": "Domain",
-    "value": "ebaytopratedseller.net"
-  },
-  {
-    "type": "Domain",
-    "value": "ebaytrading.com"
-  },
-  {
-    "type": "Domain",
-    "value": "ebaytradingassistant.com"
-  },
-  {
-    "type": "Domain",
-    "value": "ebaytv.org"
-  },
-  {
-    "type": "Domain",
-    "value": "ebayuae.net"
-  },
-  {
-    "type": "Domain",
-    "value": "ebayvakantiehuizen.com"
-  },
-  {
-    "type": "Domain",
-    "value": "ebayvalet.com"
-  },
-  {
-    "type": "Domain",
-    "value": "ebayvietnam.net"
-  },
-  {
-    "type": "Domain",
-    "value": "ebayworlds.com"
-  },
-  {
-    "type": "Domain",
-    "value": "ebayy.com"
-  },
-  {
-    "type": "Domain",
-    "value": "edisebay.com"
-  },
-  {
-    "type": "Domain",
-    "value": "eebay.com"
-  },
-  {
-    "type": "Domain",
-    "value": "epinions.com"
-  },
-  {
-    "type": "Domain",
-    "value": "eu-consumer-empowerment.com"
-  },
-  {
-    "type": "Domain",
-    "value": "expertmaker.com"
-  },
-  {
-    "type": "Domain",
-    "value": "fairmarket.com"
-  },
-  {
-    "type": "Domain",
-    "value": "fragrancebay.com"
-  },
-  {
-    "type": "Domain",
-    "value": "francemail.com"
-  },
-  {
-    "type": "Domain",
-    "value": "half.com"
-  },
-  {
-    "type": "Domain",
-    "value": "half.tv"
-  },
-  {
-    "type": "Domain",
-    "value": "halfcanada.com"
-  },
-  {
-    "type": "Domain",
-    "value": "halfjapan.com"
-  },
-  {
-    "type": "Domain",
-    "value": "handbagsoutletebay.com"
-  },
-  {
-    "type": "Domain",
-    "value": "iebay.com"
-  },
-  {
-    "type": "Domain",
-    "value": "irribay.com"
-  },
-  {
-    "type": "Domain",
-    "value": "itsbetterwhenyouwinit.com"
-  },
-  {
-    "type": "Domain",
-    "value": "liketwice.com"
-  },
-  {
-    "type": "Domain",
-    "value": "liveauction.com"
-  },
-  {
-    "type": "Domain",
-    "value": "milofetch.com"
-  },
-  {
-    "type": "Domain",
-    "value": "musicbay.net"
-  },
-  {
-    "type": "Domain",
-    "value": "myconstructionworld.net"
-  },
-  {
-    "type": "Domain",
-    "value": "myebay.com"
-  },
-  {
-    "type": "Domain",
-    "value": "nebay.net"
-  },
-  {
-    "type": "Domain",
-    "value": "paisapay.cc"
-  },
-  {
-    "type": "Domain",
-    "value": "paisapay.info"
-  },
-  {
-    "type": "Domain",
-    "value": "paisapay.tv"
-  },
-  {
-    "type": "Domain",
-    "value": "premobay.com"
-  },
-  {
-    "type": "Domain",
-    "value": "privatemarketplaces.net"
-  },
-  {
-    "type": "Domain",
-    "value": "privatemarketplaces.us"
-  },
-  {
-    "type": "Domain",
-    "value": "prostores.com"
-  },
-  {
-    "type": "Domain",
-    "value": "rethink.net"
-  },
-  {
-    "type": "Domain",
-    "value": "shopibay.net"
-  },
-  {
-    "type": "Domain",
-    "value": "shoping.com"
-  },
-  {
-    "type": "Domain",
-    "value": "tearapeak.com"
-  },
-  {
-    "type": "Domain",
-    "value": "sourcingforebay.net"
-  },
-  {
-    "type": "Domain",
-    "value": "sourcingforebay.tv"
-  },
-  {
-    "type": "Domain",
-    "value": "speybay.com"
-  },
-  {
-    "type": "Domain",
-    "value": "storesense.com"
-  },
-  {
-    "type": "Domain",
-    "value": "svpply.com"
-  },
-  {
-    "type": "Domain",
-    "value": "telebay.com"
-  },
-  {
-    "type": "Domain",
-    "value": "telesell.com"
-  },
-  {
-    "type": "Domain",
-    "value": "texttobuy.org"
-  },
-  {
-    "type": "Domain",
-    "value": "theebayshop.com"
-  },
-  {
-    "type": "Domain",
-    "value": "theopportunityproject.org"
-  },
-  {
-    "type": "Domain",
-    "value": "towerauction.com"
-  },
-  {
-    "type": "Domain",
-    "value": "vendu.com"
-  },
-  {
-    "type": "Domain",
-    "value": "weareebay.com"
-  },
-  {
-    "type": "Domain",
-    "value": "watch-ebay.org"
-  },
-  {
-    "type": "Domain",
-    "value": "wwwdecide.com"
-  },
-  {
-    "type": "Domain",
-    "value": "wwwebay.com"
-  },
-  {
-    "type": "Domain",
-    "value": "wwwebay.net"
-  },
-  {
-    "type": "Domain",
-    "value": "wwwwebay.com"
-  },
-  {
-    "type": "Domain",
-    "value": "xindelu.com"
-  },
-  {
-    "type": "Domain",
-    "value": "xn--3et96bj49ahpq.com"
-  },
-  {
-    "type": "Domain",
-    "value": "xn--4vq475g.com"
-  },
-  {
-    "type": "Domain",
-    "value": "xn--4vq477m.com"
-  },
-  {
-    "type": "Domain",
-    "value": "xn--7hv594h.com"
-  },
-  {
-    "type": "Domain",
-    "value": "xn--hb4aw0g.com"
-  },
-  {
-    "type": "Domain",
-    "value": "xn--q41am8x.com"
-  },
-  {
-    "type": "Domain",
-    "value": "xn--qoq462m.com"
-  },
-  {
-    "type": "Domain",
-    "value": "xn--tkry91n.com"
-  },
-  {
-    "type": "Domain",
-    "value": "xn--ubt498knmf.com"
-  },
-  {
-    "type": "Domain",
-    "value": "xn--xsq421m.com"
-  },
-  {
-    "type": "Domain",
-    "value": "xn--xsq605n.com"
-  },
-  {
-    "type": "Domain",
-    "value": "xn--xsq959n.com"
-  },
-  {
-    "type": "Domain",
-    "value": "xn--yf1at58a.com"
-  },
-  {
-    "type": "Domain",
-    "value": "xxbay.com"
-  },
-  {
-    "type": "Domain",
-    "value": "yibei.org"
-  },
-  {
-    "type": "Domain",
-    "value": "gittigidiyor.net"
-  },
-  {
-    "type": "Domain",
-    "value": "gittigidiyorsikayet.com"
-  },
-  {
-    "type": "Domain",
-    "value": "gumtree.sg"
-  },
-  {
-    "type": "Domain",
-    "value": "jijiji.ca"
-  },
-  {
-    "type": "Domain",
-    "value": "kiji.ca"
-  },
-  {
-    "type": "Domain",
-    "value": "kijii.ca"
-  },
-  {
-    "type": "Domain",
-    "value": "kijij.ca"
-  },
-  {
-    "type": "Domain",
-    "value": "kijiji.ca"
-  },
-  {
-    "type": "Domain",
-    "value": "kijijiauto.ca"
-  },
-  {
-    "type": "Domain",
-    "value": "kijijiautos.ca"
-  },
-  {
-    "type": "Domain",
-    "value": "kijijiforbusiness.ca"
-  },
-  {
-    "type": "Domain",
-    "value": "kijijii.ca"
-  },
-  {
-    "type": "Domain",
-    "value": "kijijiraps.ca"
-  },
-  {
-    "type": "Domain",
-    "value": "kijji.ca"
-  },
-  {
-    "type": "Domain",
-    "value": "kijjiji.ca"
-  },
-  {
-    "type": "Domain",
-    "value": "automobile.fr"
-  },
-  {
-    "type": "Domain",
-    "value": "mobile.de"
-  },
-  {
-    "type": "Domain",
-    "value": "mobileinternational.com"
-  },
-  {
-    "type": "Domain",
-    "value": "q10.jp"
-  },
-  {
-    "type": "Domain",
-    "value": "qoo10.jp"
-  },
-  {
-    "type": "Domain",
-    "value": "achievementanalytics.com"
-  },
-  {
-    "type": "Domain",
-    "value": "cdn-terapeak.com"
-  },
-  {
-    "type": "Domain",
-    "value": "listinganalytics.net"
-  },
-  {
-    "type": "Domain",
-    "value": "marketexecutive.net"
-  },
-  {
-    "type": "Domain",
-    "value": "ikea.be"
-  },
-  {
-    "type": "Domain",
-    "value": "ikea.au"
-  },
-  {
-    "type": "Domain",
-    "value": "ikea.mx"
-  },
-  {
-    "type": "Domain",
-    "value": "ikea.ma"
-  },
-  {
-    "type": "Domain",
-    "value": "rimg.com.tw"
-  },
-  {
-    "type": "Domain",
-    "value": "book.com.tw"
-  },
-  {
-    "type": "Domain",
-    "value": "ebay.com.mt"
-  },
-  {
-    "type": "Domain",
-    "value": "ebaycbt.co.kr"
-  },
-  {
-    "type": "Domain",
-    "value": "terapeak.com.hk"
-  },
-  {
-    "type": "Domain",
-    "value": "ebay.com.my"
-  },
-  {
-    "type": "Domain",
-    "value": "ebay.com.au"
-  },
-  {
-    "type": "Domain",
-    "value": "ebay.com.ar"
-  },
-  {
-    "type": "Domain",
-    "value": "ebay.co.za"
-  },
-  {
-    "type": "Domain",
-    "value": "ebay.co.ve"
-  },
-  {
-    "type": "Domain",
-    "value": "ebay.co.uk"
-  },
-  {
-    "type": "Domain",
-    "value": "ebay.co.nz"
-  },
-  {
-    "type": "Domain",
-    "value": "ebay.com.hk"
-  },
-  {
-    "type": "Domain",
-    "value": "ebayauthenticate.com.cn"
-  },
-  {
-    "type": "Domain",
-    "value": "ebay.com.ec"
-  },
-  {
-    "type": "Domain",
-    "value": "ebay.com.sg"
-  },
-  {
-    "type": "Domain",
-    "value": "bestbuy.com.mx"
-  },
-  {
-    "type": "Domain",
-    "value": "piapp.com.tw"
-  },
-  {
-    "type": "Domain",
-    "value": "adidas.co.id"
-  },
-  {
-    "type": "Domain",
-    "value": "adidas.co.in"
+    "value": "airbnb.com.kh"
   },
   {
     "type": "Domain",
@@ -3557,7 +3485,7 @@
   },
   {
     "type": "Domain",
-    "value": "ikea.com.ro"
+    "value": "adidas.com.ar"
   },
   {
     "type": "Domain",
@@ -3625,55 +3553,43 @@
   },
   {
     "type": "Domain",
-    "value": "ruten.com.tw"
+    "value": "toget.com.tw"
   },
   {
     "type": "Domain",
-    "value": "ikea.com.pt"
+    "value": "miniso.co.tz"
   },
   {
     "type": "Domain",
-    "value": "rakuten.ne.jp"
+    "value": "rakuya.com.tw"
   },
   {
     "type": "Domain",
-    "value": "rakuten.com.tw"
+    "value": "piapp.com.tw"
   },
   {
     "type": "Domain",
-    "value": "rakuten.co.jp"
+    "value": "pcstore.com.tw"
   },
   {
     "type": "Domain",
-    "value": "nikestore.com.au"
+    "value": "pchomepay.com.tw"
   },
   {
     "type": "Domain",
-    "value": "nike.com.hk"
+    "value": "pchomeonline.com.tw"
   },
   {
     "type": "Domain",
-    "value": "nike.com.br"
+    "value": "pchome.com.tw"
   },
   {
     "type": "Domain",
-    "value": "momoshop.com.tw"
+    "value": "bestbuy.com.mx"
   },
   {
     "type": "Domain",
-    "value": "momomall.com.tw"
-  },
-  {
-    "type": "Domain",
-    "value": "dmm.co.jp"
-  },
-  {
-    "type": "Domain",
-    "value": "books.com.tw"
-  },
-  {
-    "type": "Domain",
-    "value": "adidas.com.ar"
+    "value": "airbnb.com.tr"
   },
   {
     "type": "Domain",
@@ -3705,7 +3621,7 @@
   },
   {
     "type": "Domain",
-    "value": "sourcingforebay.com.cn"
+    "value": "airbnb.co.za"
   },
   {
     "type": "Domain",
@@ -3713,7 +3629,7 @@
   },
   {
     "type": "Domain",
-    "value": "airbnb.com.au"
+    "value": "miniso.com.es"
   },
   {
     "type": "Domain",
@@ -3726,146 +3642,6 @@
   {
     "type": "Domain",
     "value": "airbnb.com.bz"
-  },
-  {
-    "type": "Domain",
-    "value": "ikea.com.tw"
-  },
-  {
-    "type": "Domain",
-    "value": "ikea.com.tr"
-  },
-  {
-    "type": "Domain",
-    "value": "ikea.com.in"
-  },
-  {
-    "type": "Domain",
-    "value": "ikea.com.cy"
-  },
-  {
-    "type": "Domain",
-    "value": "ikea.com.sg"
-  },
-  {
-    "type": "Domain",
-    "value": "ikea.com.gr"
-  },
-  {
-    "type": "Domain",
-    "value": "ikea.co.om"
-  },
-  {
-    "type": "Domain",
-    "value": "ebay.com.ph"
-  },
-  {
-    "type": "Domain",
-    "value": "airbnb.co.za"
-  },
-  {
-    "type": "Domain",
-    "value": "ikea.com.pl"
-  },
-  {
-    "type": "Domain",
-    "value": "ikea.com.pr"
-  },
-  {
-    "type": "Domain",
-    "value": "ikea.com.om"
-  },
-  {
-    "type": "Domain",
-    "value": "ikea.com.my"
-  },
-  {
-    "type": "Domain",
-    "value": "ikea.com.mx"
-  },
-  {
-    "type": "Domain",
-    "value": "ikea.com.lv"
-  },
-  {
-    "type": "Domain",
-    "value": "ikea.com.ua"
-  },
-  {
-    "type": "Domain",
-    "value": "ikea.co.ca"
-  },
-  {
-    "type": "Domain",
-    "value": "ikea.com.kw"
-  },
-  {
-    "type": "Domain",
-    "value": "ikea.com.sa"
-  },
-  {
-    "type": "Domain",
-    "value": "ikea.com.eg"
-  },
-  {
-    "type": "Domain",
-    "value": "ikea.com.do"
-  },
-  {
-    "type": "Domain",
-    "value": "ikea.com.de"
-  },
-  {
-    "type": "Domain",
-    "value": "ikea.com.au"
-  },
-  {
-    "type": "Domain",
-    "value": "ikea.co.uk"
-  },
-  {
-    "type": "Domain",
-    "value": "ikea.co.th"
-  },
-  {
-    "type": "Domain",
-    "value": "ikea.co.pl"
-  },
-  {
-    "type": "Domain",
-    "value": "ikea.co.ph"
-  },
-  {
-    "type": "Domain",
-    "value": "ikea.com.ru"
-  },
-  {
-    "type": "Domain",
-    "value": "ikea.co.kr"
-  },
-  {
-    "type": "Domain",
-    "value": "ikea.co.jp"
-  },
-  {
-    "type": "Domain",
-    "value": "ikea.co.il"
-  },
-  {
-    "type": "Domain",
-    "value": "ikea.co.id"
-  },
-  {
-    "type": "Domain",
-    "value": "ikea.co.de"
-  },
-  {
-    "type": "Domain",
-    "value": "ikea.com.hk"
-  },
-  {
-    "type": "Domain",
-    "value": "ikea.co.at"
   },
   {
     "type": "Domain",
@@ -3897,7 +3673,7 @@
   },
   {
     "type": "Domain",
-    "value": "airbnb.com.kh"
+    "value": "tagapie.com.tw"
   },
   {
     "type": "Domain",
@@ -3929,7 +3705,7 @@
   },
   {
     "type": "Domain",
-    "value": "airbnb.com.ro"
+    "value": "adidas.co.id"
   },
   {
     "type": "Domain",
@@ -3938,10 +3714,6 @@
   {
     "type": "Domain",
     "value": "airbnb.com.sv"
-  },
-  {
-    "type": "Domain",
-    "value": "airbnb.com.tr"
   },
   {
     "type": "Domain",
@@ -3961,23 +3733,35 @@
   },
   {
     "type": "Domain",
-    "value": "miniso.co.id"
+    "value": "ruten.com.tw"
   },
   {
     "type": "Domain",
-    "value": "miniso.com.tr"
+    "value": "rimg.com.tw"
   },
   {
     "type": "Domain",
-    "value": "miniso.com.py"
+    "value": "rakuten.ne.jp"
   },
   {
     "type": "Domain",
-    "value": "miniso.com.pl"
+    "value": "rakuten.com.tw"
   },
   {
     "type": "Domain",
-    "value": "miniso.com.mx"
+    "value": "rakuten.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "adidas.co.in"
+  },
+  {
+    "type": "Domain",
+    "value": "airbnb.com.ro"
   },
   {
     "type": "Domain",
@@ -3989,15 +3773,247 @@
   },
   {
     "type": "Domain",
-    "value": "miniso.com.es"
+    "value": "miniso.com.mx"
   },
   {
     "type": "Domain",
-    "value": "miniso.co.tz"
+    "value": "miniso.com.pl"
+  },
+  {
+    "type": "Domain",
+    "value": "miniso.com.py"
+  },
+  {
+    "type": "Domain",
+    "value": "miniso.com.tr"
+  },
+  {
+    "type": "Domain",
+    "value": "miniso.co.id"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.co.at"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.com.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.co.de"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.co.id"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.co.il"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.co.kr"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.co.om"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.co.ph"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.co.pl"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.co.th"
   },
   {
     "type": "Domain",
     "value": "loveminiso.com.br"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.com.de"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.com.do"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.com.eg"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.com.sa"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.com.kw"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.co.ca"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.com.ua"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.com.lv"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.com.mx"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.com.my"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.com.om"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.com.pl"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.com.pr"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.com.pt"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.com.ro"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.com.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.com.gr"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.com.sg"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.com.cy"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.com.in"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.com.tr"
+  },
+  {
+    "type": "Domain",
+    "value": "ikea.com.tw"
+  },
+  {
+    "type": "Domain",
+    "value": "ebay.com.sg"
+  },
+  {
+    "type": "Domain",
+    "value": "ebay.com.ec"
+  },
+  {
+    "type": "Domain",
+    "value": "ebayauthenticate.com.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "ebay.com.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "sourcingforebay.com.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "ebay.com.ph"
+  },
+  {
+    "type": "Domain",
+    "value": "ebay.com.mt"
+  },
+  {
+    "type": "Domain",
+    "value": "ebaycbt.co.kr"
+  },
+  {
+    "type": "Domain",
+    "value": "terapeak.com.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "ebay.com.my"
+  },
+  {
+    "type": "Domain",
+    "value": "ebay.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "ebay.com.ar"
+  },
+  {
+    "type": "Domain",
+    "value": "ebay.co.za"
+  },
+  {
+    "type": "Domain",
+    "value": "ebay.co.ve"
+  },
+  {
+    "type": "Domain",
+    "value": "ebay.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "ebay.co.nz"
+  },
+  {
+    "type": "Domain",
+    "value": "books.com.tw"
+  },
+  {
+    "type": "Domain",
+    "value": "book.com.tw"
+  },
+  {
+    "type": "Domain",
+    "value": "nikestore.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "nike.com.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "nike.com.br"
   },
   {
     "type": "Domain",
@@ -4013,6 +4029,14 @@
   },
   {
     "type": "Domain",
+    "value": "momomall.com.tw"
+  },
+  {
+    "type": "Domain",
+    "value": "momoshop.com.tw"
+  },
+  {
+    "type": "Domain",
     "value": "shopee.com.my"
   },
   {
@@ -4025,31 +4049,7 @@
   },
   {
     "type": "Domain",
-    "value": "toget.com.tw"
-  },
-  {
-    "type": "Domain",
-    "value": "tagapie.com.tw"
-  },
-  {
-    "type": "Domain",
-    "value": "rakuya.com.tw"
-  },
-  {
-    "type": "Domain",
-    "value": "pcstore.com.tw"
-  },
-  {
-    "type": "Domain",
-    "value": "pchomepay.com.tw"
-  },
-  {
-    "type": "Domain",
-    "value": "pchomeonline.com.tw"
-  },
-  {
-    "type": "Domain",
-    "value": "pchome.com.tw"
+    "value": "dmm.co.jp"
   },
   {
     "type": "Domain",
@@ -4057,47 +4057,11 @@
   },
   {
     "type": "Domain",
-    "value": "muji.com.hk"
-  },
-  {
-    "type": "Domain",
     "value": "axbdoll.com.tw"
   },
   {
     "type": "Domain",
-    "value": "booking.cn",
-    "attrs": {
-      "cn": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "shopee.cn",
-    "attrs": {
-      "cn": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "shopeesz.com",
-    "attrs": {
-      "cn": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "hm.com.cn",
-    "attrs": {
-      "cn": {
-        "BoolValue": true
-      }
-    }
+    "value": "muji.com.hk"
   },
   {
     "type": "Domain",
@@ -4219,6 +4183,42 @@
   {
     "type": "Domain",
     "value": "farfetch.net.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "hm.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "shopee.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "shopeesz.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "booking.cn",
     "attrs": {
       "cn": {
         "BoolValue": true
@@ -4407,6 +4407,96 @@
   },
   {
     "type": "Domain",
+    "value": "ikea.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ingka-dt.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ingka-internal.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ingka-system.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "miniso.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "minisohome.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "minsio.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "bestbuy.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "bestbuy.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "magnoliaav.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
     "value": "walmart.cn",
     "attrs": {
       "cn": {
@@ -4435,33 +4525,6 @@
   {
     "type": "Domain",
     "value": "adidasspecialtysports.cn",
-    "attrs": {
-      "cn": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "bestbuy.cn",
-    "attrs": {
-      "cn": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "bestbuy.com.cn",
-    "attrs": {
-      "cn": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "magnoliaav.com.cn",
     "attrs": {
       "cn": {
         "BoolValue": true
@@ -4795,69 +4858,6 @@
   {
     "type": "Domain",
     "value": "terapeak.cn",
-    "attrs": {
-      "cn": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "ikea.cn",
-    "attrs": {
-      "cn": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "ingka-dt.cn",
-    "attrs": {
-      "cn": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "ingka-internal.cn",
-    "attrs": {
-      "cn": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "ingka-system.cn",
-    "attrs": {
-      "cn": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "miniso.cn",
-    "attrs": {
-      "cn": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "minisohome.cn",
-    "attrs": {
-      "cn": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "minsio.cn",
     "attrs": {
       "cn": {
         "BoolValue": true

@@ -1,6 +1,26 @@
 [
   {
     "type": "Domain",
+    "value": "avito.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "avito.st"
+  },
+  {
+    "type": "Domain",
+    "value": "ozon.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "ozone.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "ozonusercontent.com"
+  },
+  {
+    "type": "Domain",
     "value": "geobasket.ru"
   },
   {
@@ -34,25 +54,5 @@
   {
     "type": "Domain",
     "value": "wildberries.ru"
-  },
-  {
-    "type": "Domain",
-    "value": "avito.ru"
-  },
-  {
-    "type": "Domain",
-    "value": "avito.st"
-  },
-  {
-    "type": "Domain",
-    "value": "ozon.ru"
-  },
-  {
-    "type": "Domain",
-    "value": "ozone.ru"
-  },
-  {
-    "type": "Domain",
-    "value": "ozonusercontent.com"
   }
 ]

@@ -1,6 +1,10 @@
 [
   {
     "type": "Full",
+    "value": "yandex-pogoda.static-storage.net"
+  },
+  {
+    "type": "Full",
     "value": "bilet.nspk.ru"
   },
   {
@@ -28,16 +32,8 @@
     "value": "taxi.yandex.ru"
   },
   {
-    "type": "Full",
-    "value": "yandex-pogoda.static-storage.net"
-  },
-  {
     "type": "Domain",
-    "value": "psk"
-  },
-  {
-    "type": "Domain",
-    "value": "moscow"
+    "value": "xn--80asehdb"
   },
   {
     "type": "Domain",
@@ -53,7 +49,19 @@
   },
   {
     "type": "Domain",
+    "value": "xn--80adxhks"
+  },
+  {
+    "type": "Domain",
     "value": "yandex"
+  },
+  {
+    "type": "Domain",
+    "value": "moscow"
+  },
+  {
+    "type": "Domain",
+    "value": "psk"
   },
   {
     "type": "Domain",
@@ -77,15 +85,7 @@
   },
   {
     "type": "Domain",
-    "value": "xn--80asehdb"
-  },
-  {
-    "type": "Domain",
-    "value": "xn--80adxhks"
-  },
-  {
-    "type": "Domain",
-    "value": "okolo.app"
+    "value": "vkmessenger.com"
   },
   {
     "type": "Domain",
@@ -97,7 +97,11 @@
   },
   {
     "type": "Domain",
-    "value": "x5.group"
+    "value": "sistema-capital.com"
+  },
+  {
+    "type": "Domain",
+    "value": "moex.com"
   },
   {
     "type": "Domain",
@@ -113,151 +117,7 @@
   },
   {
     "type": "Domain",
-    "value": "x5.media"
-  },
-  {
-    "type": "Domain",
-    "value": "dodois.com"
-  },
-  {
-    "type": "Domain",
-    "value": "dodois.io"
-  },
-  {
-    "type": "Domain",
-    "value": "dodopizza.com"
-  },
-  {
-    "type": "Domain",
-    "value": "dodostatic.net"
-  },
-  {
-    "type": "Domain",
-    "value": "evrasia.rest"
-  },
-  {
-    "type": "Domain",
-    "value": "fix-price.com"
-  },
-  {
-    "type": "Domain",
-    "value": "lenta.com"
-  },
-  {
-    "type": "Domain",
-    "value": "lenta.tech"
-  },
-  {
-    "type": "Domain",
-    "value": "uni.rest"
-  },
-  {
-    "type": "Domain",
-    "value": "unirest.tech"
-  },
-  {
-    "type": "Domain",
-    "value": "5post.market"
-  },
-  {
-    "type": "Domain",
-    "value": "chizhik.club"
-  },
-  {
-    "type": "Domain",
-    "value": "sistema-capital.com"
-  },
-  {
-    "type": "Domain",
-    "value": "perekrestok.com"
-  },
-  {
-    "type": "Domain",
-    "value": "x5.ai"
-  },
-  {
-    "type": "Domain",
-    "value": "x5.com"
-  },
-  {
-    "type": "Domain",
-    "value": "moex.com"
-  },
-  {
-    "type": "Domain",
-    "value": "x5.team"
-  },
-  {
-    "type": "Domain",
-    "value": "x5.tech"
-  },
-  {
-    "type": "Domain",
-    "value": "x5static.net"
-  },
-  {
-    "type": "Domain",
-    "value": "avs.io"
-  },
-  {
-    "type": "Domain",
-    "value": "x5.digital"
-  },
-  {
-    "type": "Domain",
-    "value": "ru.net"
-  },
-  {
-    "type": "Domain",
-    "value": "aviasales.com"
-  },
-  {
-    "type": "Domain",
-    "value": "mosmetro.tech"
-  },
-  {
-    "type": "Domain",
-    "value": "paywb.com"
-  },
-  {
-    "type": "Domain",
-    "value": "avito.st"
-  },
-  {
-    "type": "Domain",
-    "value": "ozonusercontent.com"
-  },
-  {
-    "type": "Domain",
-    "value": "premier.one"
-  },
-  {
-    "type": "Domain",
-    "value": "smotreshka.tv"
-  },
-  {
-    "type": "Domain",
-    "value": "kinorium.com"
-  },
-  {
-    "type": "Domain",
-    "value": "trbcdn.net"
-  },
-  {
-    "type": "Domain",
-    "value": "24h.tv"
-  },
-  {
-    "type": "Domain",
-    "value": "okko.sport"
-  },
-  {
-    "type": "Domain",
-    "value": "okko.tv"
-  },
-  {
-    "type": "Domain",
-    "value": "restream-media.net"
+    "value": "vkuserlive.net"
   },
   {
     "type": "Domain",
@@ -353,7 +213,7 @@
   },
   {
     "type": "Domain",
-    "value": "vkmessenger.com"
+    "value": "ru.net"
   },
   {
     "type": "Domain",
@@ -369,7 +229,7 @@
   },
   {
     "type": "Domain",
-    "value": "vkuserlive.net"
+    "value": "yandex.by"
   },
   {
     "type": "Domain",
@@ -426,10 +286,6 @@
   {
     "type": "Domain",
     "value": "yandex.az"
-  },
-  {
-    "type": "Domain",
-    "value": "yandex.by"
   },
   {
     "type": "Domain",
@@ -558,6 +414,150 @@
   {
     "type": "Domain",
     "value": "sberbank.com"
+  },
+  {
+    "type": "Domain",
+    "value": "avito.st"
+  },
+  {
+    "type": "Domain",
+    "value": "ozonusercontent.com"
+  },
+  {
+    "type": "Domain",
+    "value": "paywb.com"
+  },
+  {
+    "type": "Domain",
+    "value": "premier.one"
+  },
+  {
+    "type": "Domain",
+    "value": "smotreshka.tv"
+  },
+  {
+    "type": "Domain",
+    "value": "kinorium.com"
+  },
+  {
+    "type": "Domain",
+    "value": "trbcdn.net"
+  },
+  {
+    "type": "Domain",
+    "value": "24h.tv"
+  },
+  {
+    "type": "Domain",
+    "value": "okko.sport"
+  },
+  {
+    "type": "Domain",
+    "value": "okko.tv"
+  },
+  {
+    "type": "Domain",
+    "value": "restream-media.net"
+  },
+  {
+    "type": "Domain",
+    "value": "dodois.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dodois.io"
+  },
+  {
+    "type": "Domain",
+    "value": "dodopizza.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dodostatic.net"
+  },
+  {
+    "type": "Domain",
+    "value": "evrasia.rest"
+  },
+  {
+    "type": "Domain",
+    "value": "fix-price.com"
+  },
+  {
+    "type": "Domain",
+    "value": "lenta.com"
+  },
+  {
+    "type": "Domain",
+    "value": "lenta.tech"
+  },
+  {
+    "type": "Domain",
+    "value": "uni.rest"
+  },
+  {
+    "type": "Domain",
+    "value": "unirest.tech"
+  },
+  {
+    "type": "Domain",
+    "value": "5post.market"
+  },
+  {
+    "type": "Domain",
+    "value": "chizhik.club"
+  },
+  {
+    "type": "Domain",
+    "value": "okolo.app"
+  },
+  {
+    "type": "Domain",
+    "value": "perekrestok.com"
+  },
+  {
+    "type": "Domain",
+    "value": "x5.ai"
+  },
+  {
+    "type": "Domain",
+    "value": "x5.com"
+  },
+  {
+    "type": "Domain",
+    "value": "x5.digital"
+  },
+  {
+    "type": "Domain",
+    "value": "x5.group"
+  },
+  {
+    "type": "Domain",
+    "value": "x5.media"
+  },
+  {
+    "type": "Domain",
+    "value": "x5.team"
+  },
+  {
+    "type": "Domain",
+    "value": "x5.tech"
+  },
+  {
+    "type": "Domain",
+    "value": "x5static.net"
+  },
+  {
+    "type": "Domain",
+    "value": "avs.io"
+  },
+  {
+    "type": "Domain",
+    "value": "aviasales.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mosmetro.tech"
   },
   {
     "type": "Domain",

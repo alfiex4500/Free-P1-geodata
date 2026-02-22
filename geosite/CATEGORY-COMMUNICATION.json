@@ -9,127 +9,167 @@
   },
   {
     "type": "Domain",
-    "value": "intercom.com"
+    "value": "viber.com"
   },
   {
     "type": "Domain",
-    "value": "intercom.io"
+    "value": "viber.co"
   },
   {
     "type": "Domain",
-    "value": "intercomassets.com"
+    "value": "viber.me"
   },
   {
     "type": "Domain",
-    "value": "intercomcdn.com"
+    "value": "vbcdn.com"
   },
   {
     "type": "Domain",
-    "value": "arewereadyyet.com"
+    "value": "vbcdn.net"
   },
   {
     "type": "Domain",
-    "value": "cinny.in"
+    "value": "fbmessenger.com"
   },
   {
     "type": "Domain",
-    "value": "element.io"
+    "value": "m.me"
   },
   {
     "type": "Domain",
-    "value": "fluffychat.im"
+    "value": "messenger.com"
   },
   {
     "type": "Domain",
-    "value": "matrix.org"
+    "value": "nbabot.net"
   },
   {
     "type": "Domain",
-    "value": "matrix.to"
+    "value": "cdn-telegram.org"
   },
   {
     "type": "Domain",
-    "value": "modular.im"
+    "value": "comments.app"
   },
   {
     "type": "Domain",
-    "value": "riot.im"
+    "value": "contest.com"
   },
   {
     "type": "Domain",
-    "value": "vector.im"
+    "value": "fragment.com"
   },
   {
     "type": "Domain",
-    "value": "pm.me"
+    "value": "graph.org"
   },
   {
     "type": "Domain",
-    "value": "proton.me"
+    "value": "quiz.directory"
   },
   {
     "type": "Domain",
-    "value": "protonmail.ch"
+    "value": "t.me"
   },
   {
     "type": "Domain",
-    "value": "protonmail.com"
+    "value": "tdesktop.com"
   },
   {
     "type": "Domain",
-    "value": "protonstatus.com"
+    "value": "telega.one"
   },
   {
     "type": "Domain",
-    "value": "protontech.ch"
+    "value": "telegra.ph"
   },
   {
     "type": "Domain",
-    "value": "protonvpn.ch"
+    "value": "telegram-cdn.org"
   },
   {
     "type": "Domain",
-    "value": "protonvpn.com"
+    "value": "telegram.dog"
   },
   {
     "type": "Domain",
-    "value": "protonweb.com"
+    "value": "telegram.me"
   },
   {
     "type": "Domain",
-    "value": "signal.art"
+    "value": "telegram.org"
   },
   {
     "type": "Domain",
-    "value": "signal.group"
+    "value": "telegram.space"
   },
   {
     "type": "Domain",
-    "value": "signal.link"
+    "value": "telesco.pe"
   },
   {
     "type": "Domain",
-    "value": "signal.me"
+    "value": "tg.dev"
   },
   {
     "type": "Domain",
-    "value": "signal.tube"
+    "value": "ton.org"
   },
   {
     "type": "Domain",
-    "value": "signal.org"
+    "value": "tx.me"
   },
   {
     "type": "Domain",
-    "value": "signalusers.org"
-  },
-  {
-    "type": "Domain",
-    "value": "whispersystems.org"
+    "value": "usercontent.dev"
   },
   {
     "type": "Domain",
     "value": "temp-mail.org"
+  },
+  {
+    "type": "Domain",
+    "value": "wa.me"
+  },
+  {
+    "type": "Domain",
+    "value": "whatsapp-plus.info"
+  },
+  {
+    "type": "Domain",
+    "value": "whatsapp-plus.me"
+  },
+  {
+    "type": "Domain",
+    "value": "whatsapp-plus.net"
+  },
+  {
+    "type": "Domain",
+    "value": "whatsapp.cc"
+  },
+  {
+    "type": "Domain",
+    "value": "whatsapp.com"
+  },
+  {
+    "type": "Domain",
+    "value": "whatsapp.info"
+  },
+  {
+    "type": "Domain",
+    "value": "whatsapp.net"
+  },
+  {
+    "type": "Domain",
+    "value": "whatsapp.org"
+  },
+  {
+    "type": "Domain",
+    "value": "whatsapp.tv"
+  },
+  {
+    "type": "Domain",
+    "value": "whatsappbrand.com"
   },
   {
     "type": "Domain",
@@ -245,6 +285,38 @@
   },
   {
     "type": "Domain",
+    "value": "signal.art"
+  },
+  {
+    "type": "Domain",
+    "value": "signal.group"
+  },
+  {
+    "type": "Domain",
+    "value": "signal.link"
+  },
+  {
+    "type": "Domain",
+    "value": "signal.me"
+  },
+  {
+    "type": "Domain",
+    "value": "signal.tube"
+  },
+  {
+    "type": "Domain",
+    "value": "signal.org"
+  },
+  {
+    "type": "Domain",
+    "value": "signalusers.org"
+  },
+  {
+    "type": "Domain",
+    "value": "whispersystems.org"
+  },
+  {
+    "type": "Domain",
     "value": "slack-core.com"
   },
   {
@@ -289,147 +361,7 @@
   },
   {
     "type": "Domain",
-    "value": "cdn-telegram.org"
-  },
-  {
-    "type": "Domain",
-    "value": "comments.app"
-  },
-  {
-    "type": "Domain",
-    "value": "contest.com"
-  },
-  {
-    "type": "Domain",
-    "value": "fragment.com"
-  },
-  {
-    "type": "Domain",
-    "value": "graph.org"
-  },
-  {
-    "type": "Domain",
-    "value": "quiz.directory"
-  },
-  {
-    "type": "Domain",
-    "value": "t.me"
-  },
-  {
-    "type": "Domain",
-    "value": "tdesktop.com"
-  },
-  {
-    "type": "Domain",
-    "value": "telega.one"
-  },
-  {
-    "type": "Domain",
-    "value": "telegra.ph"
-  },
-  {
-    "type": "Domain",
-    "value": "telegram-cdn.org"
-  },
-  {
-    "type": "Domain",
-    "value": "telegram.dog"
-  },
-  {
-    "type": "Domain",
-    "value": "telegram.me"
-  },
-  {
-    "type": "Domain",
-    "value": "telegram.org"
-  },
-  {
-    "type": "Domain",
-    "value": "telegram.space"
-  },
-  {
-    "type": "Domain",
-    "value": "telesco.pe"
-  },
-  {
-    "type": "Domain",
-    "value": "tg.dev"
-  },
-  {
-    "type": "Domain",
-    "value": "ton.org"
-  },
-  {
-    "type": "Domain",
-    "value": "tx.me"
-  },
-  {
-    "type": "Domain",
-    "value": "usercontent.dev"
-  },
-  {
-    "type": "Domain",
-    "value": "viber.com"
-  },
-  {
-    "type": "Domain",
-    "value": "viber.co"
-  },
-  {
-    "type": "Domain",
-    "value": "viber.me"
-  },
-  {
-    "type": "Domain",
-    "value": "vbcdn.com"
-  },
-  {
-    "type": "Domain",
-    "value": "vbcdn.net"
-  },
-  {
-    "type": "Domain",
-    "value": "wa.me"
-  },
-  {
-    "type": "Domain",
-    "value": "whatsapp-plus.info"
-  },
-  {
-    "type": "Domain",
-    "value": "whatsapp-plus.me"
-  },
-  {
-    "type": "Domain",
-    "value": "whatsapp-plus.net"
-  },
-  {
-    "type": "Domain",
-    "value": "whatsapp.cc"
-  },
-  {
-    "type": "Domain",
-    "value": "whatsapp.com"
-  },
-  {
-    "type": "Domain",
-    "value": "whatsapp.info"
-  },
-  {
-    "type": "Domain",
-    "value": "whatsapp.net"
-  },
-  {
-    "type": "Domain",
-    "value": "whatsapp.org"
-  },
-  {
-    "type": "Domain",
-    "value": "whatsapp.tv"
-  },
-  {
-    "type": "Domain",
-    "value": "whatsappbrand.com"
+    "value": "freenode.net"
   },
   {
     "type": "Domain",
@@ -505,22 +437,6 @@
   },
   {
     "type": "Domain",
-    "value": "fbmessenger.com"
-  },
-  {
-    "type": "Domain",
-    "value": "m.me"
-  },
-  {
-    "type": "Domain",
-    "value": "messenger.com"
-  },
-  {
-    "type": "Domain",
-    "value": "nbabot.net"
-  },
-  {
-    "type": "Domain",
     "value": "mail.com"
   },
   {
@@ -537,6 +453,78 @@
   },
   {
     "type": "Domain",
+    "value": "arewereadyyet.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cinny.in"
+  },
+  {
+    "type": "Domain",
+    "value": "element.io"
+  },
+  {
+    "type": "Domain",
+    "value": "fluffychat.im"
+  },
+  {
+    "type": "Domain",
+    "value": "matrix.org"
+  },
+  {
+    "type": "Domain",
+    "value": "matrix.to"
+  },
+  {
+    "type": "Domain",
+    "value": "modular.im"
+  },
+  {
+    "type": "Domain",
+    "value": "riot.im"
+  },
+  {
+    "type": "Domain",
+    "value": "vector.im"
+  },
+  {
+    "type": "Domain",
+    "value": "pm.me"
+  },
+  {
+    "type": "Domain",
+    "value": "proton.me"
+  },
+  {
+    "type": "Domain",
+    "value": "protonmail.ch"
+  },
+  {
+    "type": "Domain",
+    "value": "protonmail.com"
+  },
+  {
+    "type": "Domain",
+    "value": "protonstatus.com"
+  },
+  {
+    "type": "Domain",
+    "value": "protontech.ch"
+  },
+  {
+    "type": "Domain",
+    "value": "protonvpn.ch"
+  },
+  {
+    "type": "Domain",
+    "value": "protonvpn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "protonweb.com"
+  },
+  {
+    "type": "Domain",
     "value": "clubhouse.com"
   },
   {
@@ -549,7 +537,19 @@
   },
   {
     "type": "Domain",
-    "value": "freenode.net"
+    "value": "intercom.com"
+  },
+  {
+    "type": "Domain",
+    "value": "intercom.io"
+  },
+  {
+    "type": "Domain",
+    "value": "intercomassets.com"
+  },
+  {
+    "type": "Domain",
+    "value": "intercomcdn.com"
   },
   {
     "type": "Domain",

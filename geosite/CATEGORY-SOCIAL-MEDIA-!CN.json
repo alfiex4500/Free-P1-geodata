@@ -17,151 +17,19 @@
   },
   {
     "type": "Domain",
-    "value": "fadebook.com"
+    "value": "fbsbx.net"
   },
   {
     "type": "Domain",
-    "value": "facebookporno.net"
+    "value": "facebopk.com"
   },
   {
     "type": "Domain",
-    "value": "mradx.net"
+    "value": "bsky.network"
   },
   {
     "type": "Domain",
-    "value": "mvk.com"
-  },
-  {
-    "type": "Domain",
-    "value": "userapi.com"
-  },
-  {
-    "type": "Domain",
-    "value": "vk-analytics.ru"
-  },
-  {
-    "type": "Domain",
-    "value": "vk-apps.com"
-  },
-  {
-    "type": "Domain",
-    "value": "vk-apps.ru"
-  },
-  {
-    "type": "Domain",
-    "value": "vk-cdn.me"
-  },
-  {
-    "type": "Domain",
-    "value": "vk-cdn.net"
-  },
-  {
-    "type": "Domain",
-    "value": "vkcloud-static.ru"
-  },
-  {
-    "type": "Domain",
-    "value": "vk-portal.net"
-  },
-  {
-    "type": "Domain",
-    "value": "vk.cc"
-  },
-  {
-    "type": "Domain",
-    "value": "vk.com"
-  },
-  {
-    "type": "Domain",
-    "value": "vk.company"
-  },
-  {
-    "type": "Domain",
-    "value": "vk.design"
-  },
-  {
-    "type": "Domain",
-    "value": "vk.link"
-  },
-  {
-    "type": "Domain",
-    "value": "vk.me"
-  },
-  {
-    "type": "Domain",
-    "value": "vk.ru"
-  },
-  {
-    "type": "Domain",
-    "value": "vk.team"
-  },
-  {
-    "type": "Domain",
-    "value": "vkcache.com"
-  },
-  {
-    "type": "Domain",
-    "value": "vkgo.app"
-  },
-  {
-    "type": "Domain",
-    "value": "vklive.app"
-  },
-  {
-    "type": "Domain",
-    "value": "vkmessenger.app"
-  },
-  {
-    "type": "Domain",
-    "value": "vkmessenger.com"
-  },
-  {
-    "type": "Domain",
-    "value": "vkontakte.ru"
-  },
-  {
-    "type": "Domain",
-    "value": "vkuser.net"
-  },
-  {
-    "type": "Domain",
-    "value": "vkuseraudio.com"
-  },
-  {
-    "type": "Domain",
-    "value": "vkuseraudio.net"
-  },
-  {
-    "type": "Domain",
-    "value": "vkuseraudio.ru"
-  },
-  {
-    "type": "Domain",
-    "value": "vkusercdn.ru"
-  },
-  {
-    "type": "Domain",
-    "value": "vkuserlive.net"
-  },
-  {
-    "type": "Domain",
-    "value": "vkuserphoto.ru"
-  },
-  {
-    "type": "Domain",
-    "value": "vkuservideo.com"
-  },
-  {
-    "type": "Domain",
-    "value": "vkuservideo.net"
-  },
-  {
-    "type": "Domain",
-    "value": "vkuservideo.ru"
-  },
-  {
-    "type": "Domain",
-    "value": "vkvideo.ru"
+    "value": "bsky.social"
   },
   {
     "type": "Domain",
@@ -885,7 +753,7 @@
   },
   {
     "type": "Domain",
-    "value": "facxebook.com"
+    "value": "facebookporno.net"
   },
   {
     "type": "Domain",
@@ -1017,7 +885,7 @@
   },
   {
     "type": "Domain",
-    "value": "facebopk.com"
+    "value": "fbsbx.com"
   },
   {
     "type": "Domain",
@@ -1097,7 +965,7 @@
   },
   {
     "type": "Domain",
-    "value": "truthsocial.com"
+    "value": "faceobook.com"
   },
   {
     "type": "Domain",
@@ -1161,15 +1029,15 @@
   },
   {
     "type": "Domain",
-    "value": "thefacebook.com"
+    "value": "facwebook.com"
   },
   {
     "type": "Domain",
-    "value": "cdn-vk.ru"
+    "value": "facxebook.com"
   },
   {
     "type": "Domain",
-    "value": "faceobook.com"
+    "value": "fadebook.com"
   },
   {
     "type": "Domain",
@@ -1229,7 +1097,7 @@
   },
   {
     "type": "Domain",
-    "value": "fb.com"
+    "value": "truthsocial.com"
   },
   {
     "type": "Domain",
@@ -1293,15 +1161,15 @@
   },
   {
     "type": "Domain",
-    "value": "fbrpms.com"
+    "value": "buicha.social"
   },
   {
     "type": "Domain",
-    "value": "fbsbx.com"
+    "value": "bsky.app"
   },
   {
     "type": "Domain",
-    "value": "fbsbx.net"
+    "value": "fb.com"
   },
   {
     "type": "Domain",
@@ -1669,7 +1537,7 @@
   },
   {
     "type": "Domain",
-    "value": "facwebook.com"
+    "value": "thefacebook.com"
   },
   {
     "type": "Domain",
@@ -1737,6 +1605,26 @@
   },
   {
     "type": "Domain",
+    "value": "bizographics.com"
+  },
+  {
+    "type": "Domain",
+    "value": "licdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "linkedin.at"
+  },
+  {
+    "type": "Domain",
+    "value": "linkedin.com"
+  },
+  {
+    "type": "Domain",
+    "value": "lnkd.in"
+  },
+  {
+    "type": "Domain",
     "value": "misskey.io"
   },
   {
@@ -1781,7 +1669,7 @@
   },
   {
     "type": "Domain",
-    "value": "buicha.social"
+    "value": "fbrpms.com"
   },
   {
     "type": "Domain",
@@ -1825,51 +1713,67 @@
   },
   {
     "type": "Domain",
+    "value": "vkvideo.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "vkuservideo.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "vkuservideo.net"
+  },
+  {
+    "type": "Domain",
+    "value": "vkuservideo.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vkuserphoto.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "vkuserlive.net"
+  },
+  {
+    "type": "Domain",
+    "value": "vkusercdn.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "vkuseraudio.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "vkuseraudio.net"
+  },
+  {
+    "type": "Domain",
+    "value": "vkuseraudio.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vkuser.net"
+  },
+  {
+    "type": "Domain",
+    "value": "vkontakte.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "vkmessenger.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vkmessenger.app"
+  },
+  {
+    "type": "Domain",
     "value": "threads.com"
   },
   {
     "type": "Domain",
     "value": "threads.net"
-  },
-  {
-    "type": "Domain",
-    "value": "mail.ru"
-  },
-  {
-    "type": "Domain",
-    "value": "imgsmail.ru"
-  },
-  {
-    "type": "Domain",
-    "value": "lnkd.in"
-  },
-  {
-    "type": "Domain",
-    "value": "linkedin.com"
-  },
-  {
-    "type": "Domain",
-    "value": "linkedin.at"
-  },
-  {
-    "type": "Domain",
-    "value": "licdn.com"
-  },
-  {
-    "type": "Domain",
-    "value": "bizographics.com"
-  },
-  {
-    "type": "Domain",
-    "value": "wwwinstagram.com"
-  },
-  {
-    "type": "Domain",
-    "value": "web-instagram.net"
-  },
-  {
-    "type": "Domain",
-    "value": "onlineinstagram.com"
   },
   {
     "type": "Domain",
@@ -1961,39 +1865,19 @@
   },
   {
     "type": "Domain",
-    "value": "online-instagram.com"
+    "value": "vklive.app"
   },
   {
     "type": "Domain",
-    "value": "oninstagram.com"
+    "value": "vkgo.app"
   },
   {
     "type": "Domain",
-    "value": "theinstagramhack.com"
+    "value": "vkcache.com"
   },
   {
     "type": "Domain",
-    "value": "lnstagram-help.com"
-  },
-  {
-    "type": "Domain",
-    "value": "kingstagram.com"
-  },
-  {
-    "type": "Domain",
-    "value": "intgram.com"
-  },
-  {
-    "type": "Domain",
-    "value": "bsky.app"
-  },
-  {
-    "type": "Domain",
-    "value": "bsky.network"
-  },
-  {
-    "type": "Domain",
-    "value": "bsky.social"
+    "value": "vk.team"
   },
   {
     "type": "Domain",
@@ -2249,7 +2133,123 @@
   },
   {
     "type": "Domain",
-    "value": "misskey.gamelore.fun"
+    "value": "intgram.com"
+  },
+  {
+    "type": "Domain",
+    "value": "kingstagram.com"
+  },
+  {
+    "type": "Domain",
+    "value": "lnstagram-help.com"
+  },
+  {
+    "type": "Domain",
+    "value": "theinstagramhack.com"
+  },
+  {
+    "type": "Domain",
+    "value": "oninstagram.com"
+  },
+  {
+    "type": "Domain",
+    "value": "online-instagram.com"
+  },
+  {
+    "type": "Domain",
+    "value": "onlineinstagram.com"
+  },
+  {
+    "type": "Domain",
+    "value": "web-instagram.net"
+  },
+  {
+    "type": "Domain",
+    "value": "wwwinstagram.com"
+  },
+  {
+    "type": "Domain",
+    "value": "imgsmail.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "mail.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "cdn-vk.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "mradx.net"
+  },
+  {
+    "type": "Domain",
+    "value": "mvk.com"
+  },
+  {
+    "type": "Domain",
+    "value": "userapi.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vk-analytics.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "vk-apps.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vk-apps.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "vk-cdn.me"
+  },
+  {
+    "type": "Domain",
+    "value": "vk-cdn.net"
+  },
+  {
+    "type": "Domain",
+    "value": "vkcloud-static.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "vk-portal.net"
+  },
+  {
+    "type": "Domain",
+    "value": "vk.cc"
+  },
+  {
+    "type": "Domain",
+    "value": "vk.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vk.company"
+  },
+  {
+    "type": "Domain",
+    "value": "vk.design"
+  },
+  {
+    "type": "Domain",
+    "value": "vk.link"
+  },
+  {
+    "type": "Domain",
+    "value": "vk.me"
+  },
+  {
+    "type": "Domain",
+    "value": "vk.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "l-0005.dc-msedge.net"
   },
   {
     "type": "Domain",
@@ -2305,15 +2305,15 @@
   },
   {
     "type": "Domain",
-    "value": "l-0005.dc-msedge.net"
+    "value": "misskey.noellabo.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "misskey.gamelore.fun"
   },
   {
     "type": "Domain",
     "value": "l-0005.l-msedge.net"
-  },
-  {
-    "type": "Domain",
-    "value": "misskey.noellabo.jp"
   },
   {
     "type": "Domain",
@@ -2348,6 +2348,24 @@
   },
   {
     "type": "Domain",
+    "value": "licdn.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "linkedin.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
     "value": "ads-twitter.com",
     "attrs": {
       "ads": {
@@ -2369,24 +2387,6 @@
     "value": "graph-fallback.instagram.com",
     "attrs": {
       "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "licdn.cn",
-    "attrs": {
-      "cn": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "linkedin.cn",
-    "attrs": {
-      "cn": {
         "BoolValue": true
       }
     }

@@ -1,23 +1,11 @@
 [
   {
     "type": "Domain",
-    "value": "nypostreprints.com"
+    "value": "bookclubgirl.com"
   },
   {
     "type": "Domain",
-    "value": "reastatic.net"
-  },
-  {
-    "type": "Domain",
-    "value": "adhelpnews.com"
-  },
-  {
-    "type": "Domain",
-    "value": "api.news"
-  },
-  {
-    "type": "Domain",
-    "value": "thesun.ie"
+    "value": "wsjplus.com"
   },
   {
     "type": "Domain",
@@ -25,15 +13,11 @@
   },
   {
     "type": "Domain",
-    "value": "talksport.com"
+    "value": "fnlondon.com"
   },
   {
     "type": "Domain",
-    "value": "page3.com"
-  },
-  {
-    "type": "Domain",
-    "value": "dreamteamfc.com"
+    "value": "huanyuju.com"
   },
   {
     "type": "Domain",
@@ -49,15 +33,11 @@
   },
   {
     "type": "Domain",
-    "value": "wsj.com"
+    "value": "ippstatic.com"
   },
   {
     "type": "Domain",
     "value": "rea.tech"
-  },
-  {
-    "type": "Domain",
-    "value": "fnlondon.com"
   },
   {
     "type": "Domain",
@@ -73,23 +53,11 @@
   },
   {
     "type": "Domain",
-    "value": "huanyuju.com"
-  },
-  {
-    "type": "Domain",
     "value": "move.com"
   },
   {
     "type": "Domain",
     "value": "makaan.com"
-  },
-  {
-    "type": "Domain",
-    "value": "mansionglobal.com"
-  },
-  {
-    "type": "Domain",
-    "value": "marketwatch.com"
   },
   {
     "type": "Domain",
@@ -117,7 +85,11 @@
   },
   {
     "type": "Domain",
-    "value": "newsamerica.com"
+    "value": "mansionglobal.com"
+  },
+  {
+    "type": "Domain",
+    "value": "marketwatch.com"
   },
   {
     "type": "Domain",
@@ -129,7 +101,15 @@
   },
   {
     "type": "Domain",
+    "value": "newssyndication.com"
+  },
+  {
+    "type": "Domain",
     "value": "realtor.com"
+  },
+  {
+    "type": "Domain",
+    "value": "nypostreprints.com"
   },
   {
     "type": "Domain",
@@ -137,15 +117,11 @@
   },
   {
     "type": "Domain",
+    "value": "newsamerica.com"
+  },
+  {
+    "type": "Domain",
     "value": "nypost.com"
-  },
-  {
-    "type": "Domain",
-    "value": "newscorp.com"
-  },
-  {
-    "type": "Domain",
-    "value": "newscorpaustralia.com"
   },
   {
     "type": "Domain",
@@ -157,15 +133,7 @@
   },
   {
     "type": "Domain",
-    "value": "wsj.net"
-  },
-  {
-    "type": "Domain",
-    "value": "newssyndication.com"
-  },
-  {
-    "type": "Domain",
-    "value": "newsukadops.com"
+    "value": "harpercollins.ca"
   },
   {
     "type": "Domain",
@@ -173,7 +141,11 @@
   },
   {
     "type": "Domain",
-    "value": "nlm.io"
+    "value": "newscorp.com"
+  },
+  {
+    "type": "Domain",
+    "value": "newscorpaustralia.com"
   },
   {
     "type": "Domain",
@@ -181,19 +153,27 @@
   },
   {
     "type": "Domain",
-    "value": "bookclubgirl.com"
+    "value": "realestatejournal.com"
   },
   {
     "type": "Domain",
-    "value": "harperapps.com"
+    "value": "api.news"
   },
   {
     "type": "Domain",
-    "value": "storyful.com"
+    "value": "reastatic.net"
+  },
+  {
+    "type": "Domain",
+    "value": "newsukadops.com"
   },
   {
     "type": "Domain",
     "value": "harperacademic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "nlm.io"
   },
   {
     "type": "Domain",
@@ -206,6 +186,10 @@
   {
     "type": "Domain",
     "value": "collins.in"
+  },
+  {
+    "type": "Domain",
+    "value": "storyful.com"
   },
   {
     "type": "Domain",
@@ -225,27 +209,11 @@
   },
   {
     "type": "Domain",
-    "value": "wsj.jobs"
-  },
-  {
-    "type": "Domain",
     "value": "dowjones.com"
   },
   {
     "type": "Domain",
-    "value": "wireless.radio"
-  },
-  {
-    "type": "Domain",
     "value": "djreprints.com"
-  },
-  {
-    "type": "Domain",
-    "value": "thetimes.ie"
-  },
-  {
-    "type": "Domain",
-    "value": "timesmembership.com"
   },
   {
     "type": "Domain",
@@ -265,7 +233,27 @@
   },
   {
     "type": "Domain",
+    "value": "wireless.radio"
+  },
+  {
+    "type": "Domain",
     "value": "wsjwine.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dreamteamfc.com"
+  },
+  {
+    "type": "Domain",
+    "value": "page3.com"
+  },
+  {
+    "type": "Domain",
+    "value": "talksport.com"
+  },
+  {
+    "type": "Domain",
+    "value": "thesun.ie"
   },
   {
     "type": "Domain",
@@ -273,31 +261,7 @@
   },
   {
     "type": "Domain",
-    "value": "wsjplus.com"
-  },
-  {
-    "type": "Domain",
-    "value": "careerjournal.com"
-  },
-  {
-    "type": "Domain",
-    "value": "collegejournal.com"
-  },
-  {
-    "type": "Domain",
-    "value": "opinionjournal.com"
-  },
-  {
-    "type": "Domain",
-    "value": "realestatejournal.com"
-  },
-  {
-    "type": "Domain",
-    "value": "startupjournal.com"
-  },
-  {
-    "type": "Domain",
-    "value": "ippstatic.com"
+    "value": "harperapps.com"
   },
   {
     "type": "Domain",
@@ -305,19 +269,51 @@
   },
   {
     "type": "Domain",
-    "value": "harpercollins.ca"
+    "value": "thetimes.ie"
   },
   {
     "type": "Domain",
-    "value": "bestrecipes.com.au"
+    "value": "timesmembership.com"
   },
   {
     "type": "Domain",
-    "value": "adelaidenow.com.au"
+    "value": "wsj.net"
+  },
+  {
+    "type": "Domain",
+    "value": "wsj.jobs"
+  },
+  {
+    "type": "Domain",
+    "value": "wsj.com"
+  },
+  {
+    "type": "Domain",
+    "value": "startupjournal.com"
+  },
+  {
+    "type": "Domain",
+    "value": "collegejournal.com"
+  },
+  {
+    "type": "Domain",
+    "value": "adhelpnews.com"
+  },
+  {
+    "type": "Domain",
+    "value": "opinionjournal.com"
+  },
+  {
+    "type": "Domain",
+    "value": "careerjournal.com"
   },
   {
     "type": "Domain",
     "value": "thesundaytimes.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "thetimes.co.uk"
   },
   {
     "type": "Domain",
@@ -341,11 +337,27 @@
   },
   {
     "type": "Domain",
+    "value": "thesun.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "thescottishsun.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "sunbingo.co.uk"
+  },
+  {
+    "type": "Domain",
     "value": "wirelessgroup.co.uk"
   },
   {
     "type": "Domain",
     "value": "whimn.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "whereilive.com.au"
   },
   {
     "type": "Domain",
@@ -365,7 +377,7 @@
   },
   {
     "type": "Domain",
-    "value": "newscdn.com.au"
+    "value": "thechronicle.com.au"
   },
   {
     "type": "Domain",
@@ -409,6 +421,22 @@
   },
   {
     "type": "Domain",
+    "value": "newsconcierge.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "newscommercial.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "newscdn.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "newscareers.co.uk"
+  },
+  {
+    "type": "Domain",
     "value": "harpercollinschildrensbooks.co.uk"
   },
   {
@@ -437,31 +465,7 @@
   },
   {
     "type": "Domain",
-    "value": "newsconcierge.com.au"
-  },
-  {
-    "type": "Domain",
-    "value": "newscommercial.co.uk"
-  },
-  {
-    "type": "Domain",
-    "value": "1degree.com.au"
-  },
-  {
-    "type": "Domain",
-    "value": "thechronicle.com.au"
-  },
-  {
-    "type": "Domain",
-    "value": "goldcoastbulletin.com.au"
-  },
-  {
-    "type": "Domain",
-    "value": "thetimes.co.uk"
-  },
-  {
-    "type": "Domain",
-    "value": "cnivogue.com.au"
+    "value": "newsapi.com.au"
   },
   {
     "type": "Domain",
@@ -501,7 +505,7 @@
   },
   {
     "type": "Domain",
-    "value": "newscareers.co.uk"
+    "value": "goldcoastbulletin.com.au"
   },
   {
     "type": "Domain",
@@ -525,7 +529,31 @@
   },
   {
     "type": "Domain",
-    "value": "newsapi.com.au"
+    "value": "cnivogue.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "cairnspost.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "bridge-studio.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "bodyandsoul.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "bestrecipes.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "adelaidenow.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "1degree.com.au"
   },
   {
     "type": "Domain",
@@ -574,33 +602,5 @@
   {
     "type": "Domain",
     "value": "property.com.au"
-  },
-  {
-    "type": "Domain",
-    "value": "cairnspost.com.au"
-  },
-  {
-    "type": "Domain",
-    "value": "bridge-studio.co.uk"
-  },
-  {
-    "type": "Domain",
-    "value": "bodyandsoul.com.au"
-  },
-  {
-    "type": "Domain",
-    "value": "whereilive.com.au"
-  },
-  {
-    "type": "Domain",
-    "value": "sunbingo.co.uk"
-  },
-  {
-    "type": "Domain",
-    "value": "thescottishsun.co.uk"
-  },
-  {
-    "type": "Domain",
-    "value": "thesun.co.uk"
   }
 ]

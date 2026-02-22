@@ -1,10 +1,6 @@
 [
   {
     "type": "Full",
-    "value": "csis-prod.s3.amazonaws.com"
-  },
-  {
-    "type": "Full",
     "value": "a.ppy.sh"
   },
   {
@@ -38,6 +34,10 @@
   {
     "type": "Full",
     "value": "spectator.ppy.sh"
+  },
+  {
+    "type": "Full",
+    "value": "csis-prod.s3.amazonaws.com"
   },
   {
     "type": "Domain",
@@ -97,10 +97,6 @@
   },
   {
     "type": "Domain",
-    "value": "csis.org"
-  },
-  {
-    "type": "Domain",
     "value": "emojipedia.org"
   },
   {
@@ -114,6 +110,102 @@
   {
     "type": "Domain",
     "value": "xn--yt8h.la"
+  },
+  {
+    "type": "Domain",
+    "value": "f-dro1d.org"
+  },
+  {
+    "type": "Domain",
+    "value": "f-droid.com"
+  },
+  {
+    "type": "Domain",
+    "value": "f-droid.org"
+  },
+  {
+    "type": "Domain",
+    "value": "fdroid.org"
+  },
+  {
+    "type": "Domain",
+    "value": "paskoocheh.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ppy.sh"
+  },
+  {
+    "type": "Domain",
+    "value": "nist.gov"
+  },
+  {
+    "type": "Domain",
+    "value": "time.gov"
+  },
+  {
+    "type": "Domain",
+    "value": "openmaps.org"
+  },
+  {
+    "type": "Domain",
+    "value": "openstreetmap.com"
+  },
+  {
+    "type": "Domain",
+    "value": "openstreetmap.net"
+  },
+  {
+    "type": "Domain",
+    "value": "openstreetmap.org"
+  },
+  {
+    "type": "Domain",
+    "value": "openstreetmaps.org"
+  },
+  {
+    "type": "Domain",
+    "value": "osm.org"
+  },
+  {
+    "type": "Domain",
+    "value": "osmfoundation.org"
+  },
+  {
+    "type": "Domain",
+    "value": "stateofthemap.com"
+  },
+  {
+    "type": "Domain",
+    "value": "stateofthemap.org"
+  },
+  {
+    "type": "Domain",
+    "value": "rolfoundation.org"
+  },
+  {
+    "type": "Domain",
+    "value": "rolsociety.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ccstatic.org"
+  },
+  {
+    "type": "Domain",
+    "value": "creativecommons.org"
+  },
+  {
+    "type": "Domain",
+    "value": "creativecommons.engineering"
+  },
+  {
+    "type": "Domain",
+    "value": "licensebuttons.net"
+  },
+  {
+    "type": "Domain",
+    "value": "csis.org"
   },
   {
     "type": "Domain",
@@ -178,86 +270,6 @@
   {
     "type": "Domain",
     "value": "vanadium.app"
-  },
-  {
-    "type": "Domain",
-    "value": "nist.gov"
-  },
-  {
-    "type": "Domain",
-    "value": "time.gov"
-  },
-  {
-    "type": "Domain",
-    "value": "openmaps.org"
-  },
-  {
-    "type": "Domain",
-    "value": "openstreetmap.com"
-  },
-  {
-    "type": "Domain",
-    "value": "openstreetmap.net"
-  },
-  {
-    "type": "Domain",
-    "value": "openstreetmap.org"
-  },
-  {
-    "type": "Domain",
-    "value": "openstreetmaps.org"
-  },
-  {
-    "type": "Domain",
-    "value": "osm.org"
-  },
-  {
-    "type": "Domain",
-    "value": "osmfoundation.org"
-  },
-  {
-    "type": "Domain",
-    "value": "stateofthemap.com"
-  },
-  {
-    "type": "Domain",
-    "value": "stateofthemap.org"
-  },
-  {
-    "type": "Domain",
-    "value": "ppy.sh"
-  },
-  {
-    "type": "Domain",
-    "value": "ccstatic.org"
-  },
-  {
-    "type": "Domain",
-    "value": "creativecommons.org"
-  },
-  {
-    "type": "Domain",
-    "value": "creativecommons.engineering"
-  },
-  {
-    "type": "Domain",
-    "value": "licensebuttons.net"
-  },
-  {
-    "type": "Domain",
-    "value": "f-dro1d.org"
-  },
-  {
-    "type": "Domain",
-    "value": "f-droid.com"
-  },
-  {
-    "type": "Domain",
-    "value": "f-droid.org"
-  },
-  {
-    "type": "Domain",
-    "value": "fdroid.org"
   },
   {
     "type": "Domain",
@@ -506,17 +518,5 @@
   {
     "type": "Domain",
     "value": "musicbrainz.org"
-  },
-  {
-    "type": "Domain",
-    "value": "paskoocheh.com"
-  },
-  {
-    "type": "Domain",
-    "value": "rolfoundation.org"
-  },
-  {
-    "type": "Domain",
-    "value": "rolsociety.org"
   }
 ]

@@ -109,6 +109,10 @@
   },
   {
     "type": "Domain",
+    "value": "salesforce-sites.com"
+  },
+  {
+    "type": "Domain",
     "value": "salesforce.com"
   },
   {

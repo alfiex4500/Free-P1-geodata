@@ -1,0 +1,60 @@
+log:
+  loglevel: warning
+
+inbounds:
+  - port: 10808
+    protocol: socks
+    settings:
+      auth: noauth
+      udp: true
+    sniffing:
+      enabled: true
+      destOverride: ["http", "tls"]
+
+outbounds:
+  - protocol: freedom
+    tag: direct
+  - protocol: vless
+    tag: proxy
+    settings:
+      vnext:
+        - address: "{{ .Address }}"
+          port: {{ .Port }}
+          users:
+            - id: "{{ .User }}"
+              encryption: none
+              {{- if .flow }}
+              flow: "{{ .flow }}"
+              {{- end }}
+    streamSettings:
+      network: "{{ .type }}"
+      security: "{{ .security }}"
+      {{- if eq .security "reality" }}
+      realitySettings:
+        show: false
+        fingerprint: "{{ index . "fp" }}"
+        serverName: "{{ .sni }}"
+        publicKey: "{{ .pbk }}"
+        shortId: "{{ .sid }}"
+        spiderX: "{{ if .spx }}{{ .spx }}{{ else }}/{{ end }}"
+        {{- if .pqv }}
+        publicKeyVerify: "{{ .pqv }}"
+        {{- end }}
+        {{- if .encryption }}
+        encryption: "{{ .encryption }}"
+        {{- end }}
+      {{- end }}
+
+routing:
+  domainStrategy: IPIfNonMatch
+  rules:
+    - type: field
+      outboundTag: proxy
+      domain:
+        - "domain:google.com"
+        - "geosite:category-ads-all"
+      ip:
+        - "8.8.8.8/32"
+    - type: field
+      outboundTag: direct
+      network: tcp,udp

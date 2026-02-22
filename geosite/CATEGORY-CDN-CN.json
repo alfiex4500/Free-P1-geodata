@@ -25,34 +25,6 @@
   },
   {
     "type": "Domain",
-    "value": "bsclink.cn"
-  },
-  {
-    "type": "Domain",
-    "value": "qingcdn.com"
-  },
-  {
-    "type": "Domain",
-    "value": "trpcdn.net"
-  },
-  {
-    "type": "Domain",
-    "value": "bootcdn.cn"
-  },
-  {
-    "type": "Domain",
-    "value": "bootcdn.net"
-  },
-  {
-    "type": "Domain",
-    "value": "bootcss.com"
-  },
-  {
-    "type": "Domain",
-    "value": "phpcomposer.com"
-  },
-  {
-    "type": "Domain",
     "value": "fastcdn.com"
   },
   {
@@ -278,6 +250,34 @@
   {
     "type": "Domain",
     "value": "wswebpic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bsclink.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "qingcdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "trpcdn.net"
+  },
+  {
+    "type": "Domain",
+    "value": "bootcdn.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "bootcdn.net"
+  },
+  {
+    "type": "Domain",
+    "value": "bootcss.com"
+  },
+  {
+    "type": "Domain",
+    "value": "phpcomposer.com"
   },
   {
     "type": "Domain",

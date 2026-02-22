@@ -53,11 +53,11 @@
   },
   {
     "type": "Domain",
-    "value": "shanbay.com"
+    "value": "yuketang.cn"
   },
   {
     "type": "Domain",
-    "value": "baydn.com"
+    "value": "rainclassroom.com"
   },
   {
     "type": "Domain",
@@ -81,15 +81,15 @@
   },
   {
     "type": "Domain",
-    "value": "yuketang.cn"
+    "value": "mojidict.com"
   },
   {
     "type": "Domain",
-    "value": "rainclassroom.com"
+    "value": "shareintelli.com"
   },
   {
     "type": "Domain",
-    "value": "applysquare.net"
+    "value": "hugecore.net"
   },
   {
     "type": "Domain",
@@ -101,11 +101,11 @@
   },
   {
     "type": "Domain",
-    "value": "applysquare.com"
+    "value": "applysquare.net"
   },
   {
     "type": "Domain",
-    "value": "17zuoye.net"
+    "value": "applysquare.com"
   },
   {
     "type": "Domain",
@@ -117,6 +117,10 @@
   },
   {
     "type": "Domain",
+    "value": "17zuoye.net"
+  },
+  {
+    "type": "Domain",
     "value": "17zuoye.com"
   },
   {
@@ -125,15 +129,11 @@
   },
   {
     "type": "Domain",
-    "value": "pmphmooc.com"
-  },
-  {
-    "type": "Domain",
     "value": "qgzb.net"
   },
   {
     "type": "Domain",
-    "value": "openlearning.com"
+    "value": "pmphmooc.com"
   },
   {
     "type": "Domain",
@@ -253,7 +253,7 @@
   },
   {
     "type": "Domain",
-    "value": "mooc.cn"
+    "value": "openlearning.com"
   },
   {
     "type": "Domain",
@@ -269,7 +269,7 @@
   },
   {
     "type": "Domain",
-    "value": "fenbi.com"
+    "value": "fenbike.cn"
   },
   {
     "type": "Domain",
@@ -361,18 +361,6 @@
   },
   {
     "type": "Domain",
-    "value": "hugecore.net"
-  },
-  {
-    "type": "Domain",
-    "value": "shareintelli.com"
-  },
-  {
-    "type": "Domain",
-    "value": "mojidict.com"
-  },
-  {
-    "type": "Domain",
     "value": "koocdn.com"
   },
   {
@@ -390,6 +378,14 @@
   {
     "type": "Domain",
     "value": "tongxuepie.com"
+  },
+  {
+    "type": "Domain",
+    "value": "baydn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "shanbay.com"
   },
   {
     "type": "Domain",
@@ -433,11 +429,11 @@
   },
   {
     "type": "Domain",
-    "value": "keboyunxiao.com"
+    "value": "fenbi.com"
   },
   {
     "type": "Domain",
-    "value": "fenbike.cn"
+    "value": "keboyunxiao.com"
   },
   {
     "type": "Domain",
@@ -469,11 +465,15 @@
   },
   {
     "type": "Domain",
+    "value": "mooc.cn"
+  },
+  {
+    "type": "Domain",
     "value": "cbern.com.cn"
   },
   {
     "type": "Domain",
-    "value": "qgzb.gov.cn"
+    "value": "icve.com.cn"
   },
   {
     "type": "Domain",
@@ -509,7 +509,7 @@
   },
   {
     "type": "Domain",
-    "value": "icve.com.cn"
+    "value": "qgzb.gov.cn"
   },
   {
     "type": "Domain",

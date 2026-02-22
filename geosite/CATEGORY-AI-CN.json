@@ -13,7 +13,7 @@
   },
   {
     "type": "Domain",
-    "value": "marscode.cn"
+    "value": "picpic-ai.cn"
   },
   {
     "type": "Domain",
@@ -69,19 +69,19 @@
   },
   {
     "type": "Domain",
-    "value": "deepseek.com"
-  },
-  {
-    "type": "Domain",
-    "value": "diandianlife.top"
-  },
-  {
-    "type": "Domain",
-    "value": "askdiandian.com"
-  },
-  {
-    "type": "Domain",
     "value": "xiaomimimo.com"
+  },
+  {
+    "type": "Domain",
+    "value": "xiaoaiassist.com"
+  },
+  {
+    "type": "Domain",
+    "value": "miaibox.com"
+  },
+  {
+    "type": "Domain",
+    "value": "yoma.cn"
   },
   {
     "type": "Domain",
@@ -97,7 +97,7 @@
   },
   {
     "type": "Domain",
-    "value": "xiaoaiassist.com"
+    "value": "trae.guru"
   },
   {
     "type": "Domain",
@@ -129,7 +129,7 @@
   },
   {
     "type": "Domain",
-    "value": "butterfly-static.cn"
+    "value": "askdiandian.com"
   },
   {
     "type": "Domain",
@@ -137,7 +137,7 @@
   },
   {
     "type": "Domain",
-    "value": "coze.site"
+    "value": "butterfly-static.cn"
   },
   {
     "type": "Domain",
@@ -149,6 +149,18 @@
   },
   {
     "type": "Domain",
+    "value": "diandianlife.top"
+  },
+  {
+    "type": "Domain",
+    "value": "deepseek.com"
+  },
+  {
+    "type": "Domain",
+    "value": "rwkv.cn"
+  },
+  {
+    "type": "Domain",
     "value": "butterflyai.cn"
   },
   {
@@ -157,7 +169,7 @@
   },
   {
     "type": "Domain",
-    "value": "rwkv.cn"
+    "value": "coze.site"
   },
   {
     "type": "Domain",
@@ -193,7 +205,7 @@
   },
   {
     "type": "Domain",
-    "value": "picpic-ai.cn"
+    "value": "rwkv.com"
   },
   {
     "type": "Domain",
@@ -205,7 +217,7 @@
   },
   {
     "type": "Domain",
-    "value": "rwkv.com"
+    "value": "marscode.cn"
   },
   {
     "type": "Domain",
@@ -233,19 +245,11 @@
   },
   {
     "type": "Domain",
-    "value": "trae.guru"
+    "value": "hunyuan.tencent.com"
   },
   {
     "type": "Domain",
-    "value": "yoma.cn"
-  },
-  {
-    "type": "Domain",
-    "value": "miaibox.com"
-  },
-  {
-    "type": "Domain",
-    "value": "trae.com.cn"
+    "value": "xinghuo.xfyun.cn"
   },
   {
     "type": "Domain",
@@ -253,11 +257,7 @@
   },
   {
     "type": "Domain",
-    "value": "hunyuan.tencent.com"
-  },
-  {
-    "type": "Domain",
-    "value": "xinghuo.xfyun.cn"
+    "value": "trae.com.cn"
   },
   {
     "type": "Domain",

@@ -1,7 +1,7 @@
 [
   {
     "type": "Domain",
-    "value": "dajiyuan.eu"
+    "value": "theepochtimes.com"
   },
   {
     "type": "Domain",
@@ -101,7 +101,7 @@
   },
   {
     "type": "Domain",
-    "value": "epochtimes.ru"
+    "value": "epochtimes.com"
   },
   {
     "type": "Domain",
@@ -146,6 +146,38 @@
   {
     "type": "Domain",
     "value": "shenyunperformingarts.org"
+  },
+  {
+    "type": "Domain",
+    "value": "bayvoice.net"
+  },
+  {
+    "type": "Domain",
+    "value": "ozvoice.org"
+  },
+  {
+    "type": "Domain",
+    "value": "sohcradio.com"
+  },
+  {
+    "type": "Domain",
+    "value": "sohfrance.org"
+  },
+  {
+    "type": "Domain",
+    "value": "soundofhope.eu"
+  },
+  {
+    "type": "Domain",
+    "value": "soundofhope.kr"
+  },
+  {
+    "type": "Domain",
+    "value": "soundofhope.org"
+  },
+  {
+    "type": "Domain",
+    "value": "wanokokorosoh.com"
   },
   {
     "type": "Domain",
@@ -205,7 +237,7 @@
   },
   {
     "type": "Domain",
-    "value": "epochtimes-bg.com"
+    "value": "renminbao.com"
   },
   {
     "type": "Domain",
@@ -225,19 +257,19 @@
   },
   {
     "type": "Domain",
-    "value": "theepochtimes.com"
+    "value": "epochtimes.ru"
   },
   {
     "type": "Domain",
-    "value": "epochtimes.com"
+    "value": "bannedbook.net"
   },
   {
     "type": "Domain",
-    "value": "renminbao.com"
+    "value": "epochtimes-bg.com"
   },
   {
     "type": "Domain",
-    "value": "epochtimes.fr"
+    "value": "persianepochtimes.com"
   },
   {
     "type": "Domain",
@@ -257,15 +289,15 @@
   },
   {
     "type": "Domain",
-    "value": "epochtimeshk.org"
+    "value": "dajiyuan.eu"
   },
   {
     "type": "Domain",
-    "value": "bannedbook.net"
+    "value": "aboluowang.com"
   },
   {
     "type": "Domain",
-    "value": "persianepochtimes.com"
+    "value": "epochtimes.fr"
   },
   {
     "type": "Domain",
@@ -293,7 +325,7 @@
   },
   {
     "type": "Domain",
-    "value": "aboluowang.com"
+    "value": "epochtimeshk.org"
   },
   {
     "type": "Domain",
@@ -381,38 +413,6 @@
   },
   {
     "type": "Domain",
-    "value": "wanokokorosoh.com"
-  },
-  {
-    "type": "Domain",
-    "value": "soundofhope.org"
-  },
-  {
-    "type": "Domain",
-    "value": "soundofhope.kr"
-  },
-  {
-    "type": "Domain",
-    "value": "soundofhope.eu"
-  },
-  {
-    "type": "Domain",
-    "value": "sohfrance.org"
-  },
-  {
-    "type": "Domain",
-    "value": "sohcradio.com"
-  },
-  {
-    "type": "Domain",
-    "value": "ozvoice.org"
-  },
-  {
-    "type": "Domain",
-    "value": "bayvoice.net"
-  },
-  {
-    "type": "Domain",
     "value": "watchinese.com"
   },
   {
@@ -429,35 +429,7 @@
   },
   {
     "type": "Domain",
-    "value": "kanzhongguo.com"
-  },
-  {
-    "type": "Domain",
-    "value": "kanzhongguo.eu"
-  },
-  {
-    "type": "Domain",
-    "value": "secretchina.com"
-  },
-  {
-    "type": "Domain",
-    "value": "trithucvn.net"
-  },
-  {
-    "type": "Domain",
-    "value": "trithucvn.org"
-  },
-  {
-    "type": "Domain",
-    "value": "vct.news"
-  },
-  {
-    "type": "Domain",
-    "value": "visiontimes.com"
-  },
-  {
-    "type": "Domain",
-    "value": "visiontimes.de"
+    "value": "visiontimes.it"
   },
   {
     "type": "Domain",
@@ -465,7 +437,35 @@
   },
   {
     "type": "Domain",
-    "value": "visiontimes.it"
+    "value": "visiontimes.de"
+  },
+  {
+    "type": "Domain",
+    "value": "visiontimes.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vct.news"
+  },
+  {
+    "type": "Domain",
+    "value": "trithucvn.org"
+  },
+  {
+    "type": "Domain",
+    "value": "trithucvn.net"
+  },
+  {
+    "type": "Domain",
+    "value": "secretchina.com"
+  },
+  {
+    "type": "Domain",
+    "value": "kanzhongguo.com"
+  },
+  {
+    "type": "Domain",
+    "value": "kanzhongguo.eu"
   },
   {
     "type": "Domain",

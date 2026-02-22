@@ -45,6 +45,14 @@
   },
   {
     "type": "Domain",
+    "value": "symantec.com"
+  },
+  {
+    "type": "Domain",
+    "value": "symantecliveupdate.com"
+  },
+  {
+    "type": "Domain",
     "value": "comodo.com"
   },
   {
@@ -206,14 +214,6 @@
   {
     "type": "Domain",
     "value": "kaspersky.dz"
-  },
-  {
-    "type": "Domain",
-    "value": "symantec.com"
-  },
-  {
-    "type": "Domain",
-    "value": "symantecliveupdate.com"
   },
   {
     "type": "Domain",

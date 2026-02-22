@@ -8274,6 +8274,96 @@
     }
   },
   {
+    "type": "Full",
+    "value": "certs-lb.apple.com.akadns.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "certs.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "crl-lb.apple.com.akadns.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "crl.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "ocsp-lb.apple.com.akadns.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "ocsp.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "ocsp2-lb.apple.com.akadns.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "ocsp2.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "valid.apple.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "valid.origin-apple.com.akadns.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
     "type": "Domain",
     "value": "beats1.cn",
     "attrs": {
@@ -8465,96 +8555,6 @@
   {
     "type": "Domain",
     "value": "swiftui.com.cn",
-    "attrs": {
-      "cn": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Full",
-    "value": "certs-lb.apple.com.akadns.net",
-    "attrs": {
-      "cn": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Full",
-    "value": "certs.apple.com",
-    "attrs": {
-      "cn": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Full",
-    "value": "crl-lb.apple.com.akadns.net",
-    "attrs": {
-      "cn": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Full",
-    "value": "crl.apple.com",
-    "attrs": {
-      "cn": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Full",
-    "value": "ocsp-lb.apple.com.akadns.net",
-    "attrs": {
-      "cn": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Full",
-    "value": "ocsp.apple.com",
-    "attrs": {
-      "cn": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Full",
-    "value": "ocsp2-lb.apple.com.akadns.net",
-    "attrs": {
-      "cn": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Full",
-    "value": "ocsp2.apple.com",
-    "attrs": {
-      "cn": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Full",
-    "value": "valid.apple.com",
-    "attrs": {
-      "cn": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Full",
-    "value": "valid.origin-apple.com.akadns.net",
     "attrs": {
       "cn": {
         "BoolValue": true

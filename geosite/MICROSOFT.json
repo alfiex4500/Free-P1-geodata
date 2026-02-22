@@ -29,6 +29,22 @@
   },
   {
     "type": "Full",
+    "value": "crl.microsoft.com"
+  },
+  {
+    "type": "Full",
+    "value": "mscrl.microsoft.com"
+  },
+  {
+    "type": "Full",
+    "value": "ocsp.microsoft.com"
+  },
+  {
+    "type": "Full",
+    "value": "oneocsp.microsoft.com"
+  },
+  {
+    "type": "Full",
     "value": "flightsimulator.azureedge.net"
   },
   {
@@ -118,22 +134,6 @@
   {
     "type": "Full",
     "value": "vsmarketplacebadge.apphb.com"
-  },
-  {
-    "type": "Full",
-    "value": "crl.microsoft.com"
-  },
-  {
-    "type": "Full",
-    "value": "mscrl.microsoft.com"
-  },
-  {
-    "type": "Full",
-    "value": "ocsp.microsoft.com"
-  },
-  {
-    "type": "Full",
-    "value": "oneocsp.microsoft.com"
   },
   {
     "type": "Domain",
@@ -809,7 +809,7 @@
   },
   {
     "type": "Domain",
-    "value": "start.com"
+    "value": "xamarin.com"
   },
   {
     "type": "Domain",
@@ -1009,7 +1009,7 @@
   },
   {
     "type": "Domain",
-    "value": "livefilestore.com"
+    "value": "microsoftnews.com"
   },
   {
     "type": "Domain",
@@ -1105,15 +1105,15 @@
   },
   {
     "type": "Domain",
-    "value": "1drv.com"
+    "value": "msocsp.com"
   },
   {
     "type": "Domain",
-    "value": "1drv.ms"
+    "value": "microsoftnews.cc"
   },
   {
     "type": "Domain",
-    "value": "azurewebsites.net"
+    "value": "azuredatabricks.net"
   },
   {
     "type": "Domain",
@@ -1122,6 +1122,78 @@
   {
     "type": "Domain",
     "value": "tfsallin.net"
+  },
+  {
+    "type": "Domain",
+    "value": "microsoftnews.net"
+  },
+  {
+    "type": "Domain",
+    "value": "microsoftnews.org"
+  },
+  {
+    "type": "Domain",
+    "value": "microsoftnewsforkids.com"
+  },
+  {
+    "type": "Domain",
+    "value": "microsoftnewsforkids.net"
+  },
+  {
+    "type": "Domain",
+    "value": "microsoftnewsforkids.org"
+  },
+  {
+    "type": "Domain",
+    "value": "microsoftnewskids.com"
+  },
+  {
+    "type": "Domain",
+    "value": "microsoftnewskids.net"
+  },
+  {
+    "type": "Domain",
+    "value": "microsoftnewskids.org"
+  },
+  {
+    "type": "Domain",
+    "value": "msn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "msnewskids.com"
+  },
+  {
+    "type": "Domain",
+    "value": "msnewskids.net"
+  },
+  {
+    "type": "Domain",
+    "value": "msnewskids.org"
+  },
+  {
+    "type": "Domain",
+    "value": "msnkids.com"
+  },
+  {
+    "type": "Domain",
+    "value": "microsoftstart.com"
+  },
+  {
+    "type": "Domain",
+    "value": "start.com"
+  },
+  {
+    "type": "Domain",
+    "value": "1drv.com"
+  },
+  {
+    "type": "Domain",
+    "value": "1drv.ms"
+  },
+  {
+    "type": "Domain",
+    "value": "livefilestore.com"
   },
   {
     "type": "Domain",
@@ -1145,23 +1217,23 @@
   },
   {
     "type": "Domain",
-    "value": "microsoftstart.com"
+    "value": "vscode-unpkg.net"
   },
   {
     "type": "Domain",
-    "value": "msnkids.com"
+    "value": "vscode-cdn.net"
   },
   {
     "type": "Domain",
-    "value": "msnewskids.org"
+    "value": "vscode.dev"
   },
   {
     "type": "Domain",
-    "value": "msnewskids.net"
+    "value": "vsassets.io"
   },
   {
     "type": "Domain",
-    "value": "msnewskids.com"
+    "value": "vfsforgit.org"
   },
   {
     "type": "Domain",
@@ -1397,7 +1469,7 @@
   },
   {
     "type": "Domain",
-    "value": "azuredatabricks.net"
+    "value": "vfsforgit.com"
   },
   {
     "type": "Domain",
@@ -1469,7 +1541,7 @@
   },
   {
     "type": "Domain",
-    "value": "msn.com"
+    "value": "azurewebsites.net"
   },
   {
     "type": "Domain",
@@ -1665,7 +1737,7 @@
   },
   {
     "type": "Domain",
-    "value": "microsoftnewskids.org"
+    "value": "visualstudio.net"
   },
   {
     "type": "Domain",
@@ -1781,7 +1853,7 @@
   },
   {
     "type": "Domain",
-    "value": "microsoftnewskids.net"
+    "value": "visualstudio.eu"
   },
   {
     "type": "Domain",
@@ -1949,82 +2021,6 @@
   },
   {
     "type": "Domain",
-    "value": "visualstudio.eu"
-  },
-  {
-    "type": "Domain",
-    "value": "visualstudio.net"
-  },
-  {
-    "type": "Domain",
-    "value": "vfsforgit.com"
-  },
-  {
-    "type": "Domain",
-    "value": "vfsforgit.org"
-  },
-  {
-    "type": "Domain",
-    "value": "vsassets.io"
-  },
-  {
-    "type": "Domain",
-    "value": "vscode.dev"
-  },
-  {
-    "type": "Domain",
-    "value": "vscode-cdn.net"
-  },
-  {
-    "type": "Domain",
-    "value": "vscode-unpkg.net"
-  },
-  {
-    "type": "Domain",
-    "value": "xamarin.com"
-  },
-  {
-    "type": "Domain",
-    "value": "microsoftnewskids.com"
-  },
-  {
-    "type": "Domain",
-    "value": "msocsp.com"
-  },
-  {
-    "type": "Domain",
-    "value": "microsoftnews.cc"
-  },
-  {
-    "type": "Domain",
-    "value": "microsoftnews.com"
-  },
-  {
-    "type": "Domain",
-    "value": "microsoftnews.net"
-  },
-  {
-    "type": "Domain",
-    "value": "microsoftnews.org"
-  },
-  {
-    "type": "Domain",
-    "value": "microsoftnewsforkids.com"
-  },
-  {
-    "type": "Domain",
-    "value": "microsoftnewsforkids.net"
-  },
-  {
-    "type": "Domain",
-    "value": "microsoftnewsforkids.org"
-  },
-  {
-    "type": "Domain",
-    "value": "visualstudio.co.uk"
-  },
-  {
-    "type": "Domain",
     "value": "live.com.au"
   },
   {
@@ -2042,6 +2038,10 @@
   {
     "type": "Domain",
     "value": "microsoftstore.com.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "visualstudio.co.uk"
   },
   {
     "type": "Regex",
@@ -2682,6 +2682,54 @@
     "value": "wscont2.apps.microsoft.com",
     "attrs": {
       "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "www.microsoft.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "microsoftnews.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "msn.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "browser.events.data.msn.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      },
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "browser.events.data.msn.com",
+    "attrs": {
+      "ads": {
         "BoolValue": true
       }
     }
@@ -3591,54 +3639,6 @@
     "value": "reactorms.com.cn",
     "attrs": {
       "cn": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Full",
-    "value": "www.microsoft.com",
-    "attrs": {
-      "cn": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "microsoftnews.cn",
-    "attrs": {
-      "cn": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "msn.cn",
-    "attrs": {
-      "cn": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "browser.events.data.msn.cn",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      },
-      "cn": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "browser.events.data.msn.com",
-    "attrs": {
-      "ads": {
         "BoolValue": true
       }
     }

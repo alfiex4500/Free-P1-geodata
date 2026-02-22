@@ -345,7 +345,7 @@
   },
   {
     "type": "Domain",
-    "value": "uczzd.cn"
+    "value": "whalecloud.com"
   },
   {
     "type": "Domain",
@@ -553,7 +553,7 @@
   },
   {
     "type": "Domain",
-    "value": "a-map.co"
+    "value": "teambition.net"
   },
   {
     "type": "Domain",
@@ -613,15 +613,15 @@
   },
   {
     "type": "Domain",
-    "value": "ucweb.com"
+    "value": "uyunad.com"
   },
   {
     "type": "Domain",
-    "value": "uc123.com"
+    "value": "umtrack.com"
   },
   {
     "type": "Domain",
-    "value": "uc.cn"
+    "value": "umsns.com"
   },
   {
     "type": "Domain",
@@ -633,195 +633,11 @@
   },
   {
     "type": "Domain",
-    "value": "teambitionapis.com"
-  },
-  {
-    "type": "Domain",
-    "value": "lydass.net"
-  },
-  {
-    "type": "Domain",
-    "value": "9game.cn"
-  },
-  {
-    "type": "Domain",
-    "value": "alicloudccp.com"
-  },
-  {
-    "type": "Domain",
-    "value": "alipan.com"
-  },
-  {
-    "type": "Domain",
-    "value": "aliyundrive.cloud"
-  },
-  {
-    "type": "Domain",
-    "value": "aliyundrive.com"
-  },
-  {
-    "type": "Domain",
-    "value": "aliyundrive.net"
-  },
-  {
-    "type": "Domain",
-    "value": "teambition.net"
-  },
-  {
-    "type": "Domain",
-    "value": "cainiao-inc.com"
-  },
-  {
-    "type": "Domain",
-    "value": "cainiao.com"
-  },
-  {
-    "type": "Domain",
-    "value": "cainiaoyizhan.com"
-  },
-  {
-    "type": "Domain",
-    "value": "guoguo-app.com"
-  },
-  {
-    "type": "Domain",
-    "value": "teambition.com"
-  },
-  {
-    "type": "Domain",
-    "value": "ddurl.to"
-  },
-  {
-    "type": "Domain",
-    "value": "dingding.xin"
-  },
-  {
-    "type": "Domain",
-    "value": "dingtalk.cn"
-  },
-  {
-    "type": "Domain",
-    "value": "dingtalk.com"
-  },
-  {
-    "type": "Domain",
-    "value": "dingtalk.net"
-  },
-  {
-    "type": "Domain",
-    "value": "dingtalkapps.com"
-  },
-  {
-    "type": "Domain",
-    "value": "dingtalkcloud.com"
-  },
-  {
-    "type": "Domain",
-    "value": "laiwang.com"
-  },
-  {
-    "type": "Domain",
-    "value": "lwurl.to"
-  },
-  {
-    "type": "Domain",
-    "value": "ztna-dingtalk.com"
-  },
-  {
-    "type": "Domain",
-    "value": "doservice.com"
-  },
-  {
-    "type": "Domain",
-    "value": "ele.me"
-  },
-  {
-    "type": "Domain",
-    "value": "ele.to"
-  },
-  {
-    "type": "Domain",
-    "value": "eleme.cn"
-  },
-  {
-    "type": "Domain",
-    "value": "eleme.io"
-  },
-  {
-    "type": "Domain",
-    "value": "elemecdn.cn"
-  },
-  {
-    "type": "Domain",
-    "value": "elemecdn.com"
-  },
-  {
-    "type": "Domain",
-    "value": "elenet.me"
-  },
-  {
-    "type": "Domain",
-    "value": "cnzz.com"
-  },
-  {
-    "type": "Domain",
-    "value": "mobmore.com"
-  },
-  {
-    "type": "Domain",
-    "value": "puata.info"
-  },
-  {
-    "type": "Domain",
-    "value": "shujupie.com"
-  },
-  {
-    "type": "Domain",
-    "value": "umeng.com"
-  },
-  {
-    "type": "Domain",
     "value": "umengcloud.com"
   },
   {
     "type": "Domain",
-    "value": "umsns.com"
-  },
-  {
-    "type": "Domain",
-    "value": "umtrack.com"
-  },
-  {
-    "type": "Domain",
-    "value": "uyunad.com"
-  },
-  {
-    "type": "Domain",
-    "value": "whalecloud.com"
-  },
-  {
-    "type": "Domain",
-    "value": "kumiao.com"
-  },
-  {
-    "type": "Domain",
-    "value": "youku.com"
-  },
-  {
-    "type": "Domain",
-    "value": "ykimg.com"
-  },
-  {
-    "type": "Domain",
-    "value": "mmstat.com"
-  },
-  {
-    "type": "Domain",
-    "value": "soku.com"
-  },
-  {
-    "type": "Domain",
-    "value": "cibntv.net"
+    "value": "lydass.net"
   },
   {
     "type": "Domain",
@@ -989,35 +805,43 @@
   },
   {
     "type": "Domain",
-    "value": "gaode.com"
+    "value": "umeng.com"
   },
   {
     "type": "Domain",
-    "value": "autonavi.com"
+    "value": "shujupie.com"
   },
   {
     "type": "Domain",
-    "value": "anav.com"
+    "value": "puata.info"
   },
   {
     "type": "Domain",
-    "value": "amapauto.com"
+    "value": "mobmore.com"
   },
   {
     "type": "Domain",
-    "value": "amap.com"
+    "value": "cnzz.com"
   },
   {
     "type": "Domain",
-    "value": "acloudrender.com"
+    "value": "uczzd.cn"
   },
   {
     "type": "Domain",
-    "value": "a-map.vip"
+    "value": "ucweb.com"
   },
   {
     "type": "Domain",
-    "value": "a-map.link"
+    "value": "uc123.com"
+  },
+  {
+    "type": "Domain",
+    "value": "uc.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "teambitionapis.com"
   },
   {
     "type": "Domain",
@@ -1025,7 +849,183 @@
   },
   {
     "type": "Domain",
+    "value": "teambition.com"
+  },
+  {
+    "type": "Domain",
     "value": "a-map.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "a-map.co"
+  },
+  {
+    "type": "Domain",
+    "value": "a-map.link"
+  },
+  {
+    "type": "Domain",
+    "value": "a-map.vip"
+  },
+  {
+    "type": "Domain",
+    "value": "acloudrender.com"
+  },
+  {
+    "type": "Domain",
+    "value": "amap.com"
+  },
+  {
+    "type": "Domain",
+    "value": "amapauto.com"
+  },
+  {
+    "type": "Domain",
+    "value": "anav.com"
+  },
+  {
+    "type": "Domain",
+    "value": "autonavi.com"
+  },
+  {
+    "type": "Domain",
+    "value": "gaode.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ddurl.to"
+  },
+  {
+    "type": "Domain",
+    "value": "dingding.xin"
+  },
+  {
+    "type": "Domain",
+    "value": "dingtalk.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "dingtalk.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dingtalk.net"
+  },
+  {
+    "type": "Domain",
+    "value": "dingtalkapps.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dingtalkcloud.com"
+  },
+  {
+    "type": "Domain",
+    "value": "laiwang.com"
+  },
+  {
+    "type": "Domain",
+    "value": "lwurl.to"
+  },
+  {
+    "type": "Domain",
+    "value": "ztna-dingtalk.com"
+  },
+  {
+    "type": "Domain",
+    "value": "doservice.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ele.me"
+  },
+  {
+    "type": "Domain",
+    "value": "ele.to"
+  },
+  {
+    "type": "Domain",
+    "value": "eleme.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "eleme.io"
+  },
+  {
+    "type": "Domain",
+    "value": "elemecdn.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "elemecdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "elenet.me"
+  },
+  {
+    "type": "Domain",
+    "value": "kumiao.com"
+  },
+  {
+    "type": "Domain",
+    "value": "youku.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ykimg.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mmstat.com"
+  },
+  {
+    "type": "Domain",
+    "value": "soku.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cibntv.net"
+  },
+  {
+    "type": "Domain",
+    "value": "9game.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "alicloudccp.com"
+  },
+  {
+    "type": "Domain",
+    "value": "alipan.com"
+  },
+  {
+    "type": "Domain",
+    "value": "aliyundrive.cloud"
+  },
+  {
+    "type": "Domain",
+    "value": "aliyundrive.com"
+  },
+  {
+    "type": "Domain",
+    "value": "aliyundrive.net"
+  },
+  {
+    "type": "Domain",
+    "value": "guoguo-app.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cainiao-inc.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cainiao.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cainiaoyizhan.com"
   },
   {
     "type": "Domain",
@@ -1033,7 +1033,7 @@
   },
   {
     "type": "Domain",
-    "value": "oss-cn-heyuan.aliyuncs.com"
+    "value": "oss-cn-nanjing.aliyuncs.com"
   },
   {
     "type": "Domain",
@@ -1041,19 +1041,15 @@
   },
   {
     "type": "Domain",
+    "value": "oss-cn-shenzhen.aliyuncs.com"
+  },
+  {
+    "type": "Domain",
     "value": "oss-cn-shanghai.aliyuncs.com"
   },
   {
     "type": "Domain",
-    "value": "oss-cn-qingdao.aliyuncs.com"
-  },
-  {
-    "type": "Domain",
-    "value": "oss-cn-nanjing.aliyuncs.com"
-  },
-  {
-    "type": "Domain",
-    "value": "oss-cn-guangzhou.aliyuncs.com"
+    "value": "oss-cn-heyuan.aliyuncs.com"
   },
   {
     "type": "Domain",
@@ -1061,15 +1057,19 @@
   },
   {
     "type": "Domain",
-    "value": "oss-cn-shenzhen.aliyuncs.com"
-  },
-  {
-    "type": "Domain",
     "value": "oss-cn-zhangjiakou.aliyuncs.com"
   },
   {
     "type": "Domain",
-    "value": "oss-cn-beijing.aliyuncs.com"
+    "value": "cainiao.com.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "oss-cn-guangzhou.aliyuncs.com"
+  },
+  {
+    "type": "Domain",
+    "value": "oss-cn-hangzhou.aliyuncs.com"
   },
   {
     "type": "Domain",
@@ -1077,7 +1077,7 @@
   },
   {
     "type": "Domain",
-    "value": "cainiao.com.cn"
+    "value": "oss-cn-beijing.aliyuncs.com"
   },
   {
     "type": "Domain",
@@ -1089,7 +1089,7 @@
   },
   {
     "type": "Domain",
-    "value": "oss-cn-hangzhou.aliyuncs.com"
+    "value": "oss-cn-huhehaote.aliyuncs.com"
   },
   {
     "type": "Domain",
@@ -1097,7 +1097,7 @@
   },
   {
     "type": "Domain",
-    "value": "oss-cn-huhehaote.aliyuncs.com"
+    "value": "oss-cn-qingdao.aliyuncs.com"
   },
   {
     "type": "Domain",
@@ -1381,429 +1381,6 @@
   {
     "type": "Domain",
     "value": "v6-adashx.ut.taobao.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "v6-adashx.ut.cainiao.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "adashx.ut.ele.me",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "h-adashx.ut.ele.me",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "v6-adashx.ut.ele.me",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "aaid.umeng.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "alog.umeng.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "alog.umengcloud.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "alogs.umeng.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "alogus.umeng.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "ar.umeng.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "aspect-upush.umeng.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "audid.umeng.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "ccs.umeng.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "cnlogs.umeng.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "cnlogs.umengcloud.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "log.umtrack.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "new-aaid.umeng.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "new-aaid.umeng.com.gds.alibabadns.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "oc.umeng.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "plbslog.umeng.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "resolve.umeng.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "ulogs.umeng.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "ulogs.umengcloud.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "utoken.umeng.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "w.cnzz.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "z.gds.cnzz.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "ad.api.3g.youku.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "ad.api.mobile.youku.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "ad.mobile.youku.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "adashx.ut.youku.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "atm.youku.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "e.stat.ykimg.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "ems.youku.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "guanggaoad.youku.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "h-adashx.ut.youku.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "lstat.youku.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "mobilemsg.youku.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "msg.youku.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "p-log.ykimg.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "passport-log.youku.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "pl.youku.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "s-adashx.ut.youku.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "stat.youku.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "statis.api.3g.youku.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "v6-adashx.ut.youku.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "yk-ssp.ad.youku.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "ykad-data.youku.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -2145,6 +1722,231 @@
   },
   {
     "type": "Domain",
+    "value": "adashx.ut.ele.me",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "h-adashx.ut.ele.me",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "v6-adashx.ut.ele.me",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ad.api.3g.youku.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ad.api.mobile.youku.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ad.mobile.youku.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "adashx.ut.youku.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "atm.youku.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "e.stat.ykimg.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ems.youku.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "guanggaoad.youku.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "h-adashx.ut.youku.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "lstat.youku.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "mobilemsg.youku.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "msg.youku.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "p-log.ykimg.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "passport-log.youku.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "pl.youku.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "s-adashx.ut.youku.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "stat.youku.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "statis.api.3g.youku.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "v6-adashx.ut.youku.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "yk-ssp.ad.youku.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ykad-data.youku.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "v6-adashx.ut.cainiao.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
     "value": "ads.uc.cn",
     "attrs": {
       "ads": {
@@ -2155,6 +1957,204 @@
   {
     "type": "Domain",
     "value": "adslot.uc.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "aaid.umeng.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "alog.umeng.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "alog.umengcloud.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "alogs.umeng.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "alogus.umeng.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ar.umeng.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "aspect-upush.umeng.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "audid.umeng.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ccs.umeng.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "cnlogs.umeng.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "cnlogs.umengcloud.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "log.umtrack.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "new-aaid.umeng.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "new-aaid.umeng.com.gds.alibabadns.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "oc.umeng.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "plbslog.umeng.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "resolve.umeng.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ulogs.umeng.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ulogs.umengcloud.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "utoken.umeng.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "w.cnzz.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "z.gds.cnzz.com",
     "attrs": {
       "ads": {
         "BoolValue": true

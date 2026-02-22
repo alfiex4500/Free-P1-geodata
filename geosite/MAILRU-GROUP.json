@@ -25,22 +25,6 @@
   },
   {
     "type": "Domain",
-    "value": "dzen.ru"
-  },
-  {
-    "type": "Domain",
-    "value": "dzeninfra.ru"
-  },
-  {
-    "type": "Domain",
-    "value": "imgsmail.ru"
-  },
-  {
-    "type": "Domain",
-    "value": "mail.ru"
-  },
-  {
-    "type": "Domain",
     "value": "ok.ru"
   },
   {
@@ -194,5 +178,21 @@
   {
     "type": "Domain",
     "value": "vkvideo.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "dzen.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "dzeninfra.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "imgsmail.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "mail.ru"
   }
 ]

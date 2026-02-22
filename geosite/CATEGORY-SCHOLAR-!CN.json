@@ -53,10 +53,6 @@
   },
   {
     "type": "Full",
-    "value": "imperial.insendi.com"
-  },
-  {
-    "type": "Full",
     "value": "scholar.google.ae"
   },
   {
@@ -360,16 +356,20 @@
     "value": "scholar.l.google.com"
   },
   {
+    "type": "Full",
+    "value": "imperial.insendi.com"
+  },
+  {
     "type": "Domain",
     "value": "mit"
   },
   {
     "type": "Domain",
-    "value": "knovel.com"
+    "value": "1lib.sk"
   },
   {
     "type": "Domain",
-    "value": "1lib.limited"
+    "value": "comsoc.org"
   },
   {
     "type": "Domain",
@@ -665,19 +665,19 @@
   },
   {
     "type": "Domain",
-    "value": "mitpressjournals.org"
+    "value": "wkap.nl"
   },
   {
     "type": "Domain",
-    "value": "mit.net"
+    "value": "springernature.com"
   },
   {
     "type": "Domain",
-    "value": "mit.edu"
+    "value": "springerlink.com"
   },
   {
     "type": "Domain",
-    "value": "aclweb.org"
+    "value": "springer.com"
   },
   {
     "type": "Domain",
@@ -689,7 +689,11 @@
   },
   {
     "type": "Domain",
-    "value": "isiknowledge.com"
+    "value": "apress.com"
+  },
+  {
+    "type": "Domain",
+    "value": "scopus.com"
   },
   {
     "type": "Domain",
@@ -737,7 +741,7 @@
   },
   {
     "type": "Domain",
-    "value": "newisiknowledge.com"
+    "value": "scival.com"
   },
   {
     "type": "Domain",
@@ -753,7 +757,7 @@
   },
   {
     "type": "Domain",
-    "value": "webofscience.com"
+    "value": "reaxys.com"
   },
   {
     "type": "Domain",
@@ -785,7 +789,7 @@
   },
   {
     "type": "Domain",
-    "value": "webofknowledge.com"
+    "value": "mendeley.com"
   },
   {
     "type": "Domain",
@@ -797,7 +801,7 @@
   },
   {
     "type": "Domain",
-    "value": "clarivate.com"
+    "value": "knovel.com"
   },
   {
     "type": "Domain",
@@ -997,71 +1001,31 @@
   },
   {
     "type": "Domain",
-    "value": "ac.ir"
+    "value": "aclweb.org"
   },
   {
     "type": "Domain",
-    "value": "edu.ir"
+    "value": "mit.edu"
   },
   {
     "type": "Domain",
-    "value": "iranlms.ir"
+    "value": "mit.net"
   },
   {
     "type": "Domain",
-    "value": "jtt.ir"
+    "value": "mitpressjournals.org"
   },
   {
     "type": "Domain",
-    "value": "sanjesh.org"
+    "value": "sci-hub.se"
   },
   {
     "type": "Domain",
-    "value": "sharif.edu"
+    "value": "sci-hub.ee"
   },
   {
     "type": "Domain",
-    "value": "sharif.ir"
-  },
-  {
-    "type": "Domain",
-    "value": "srttu.edu"
-  },
-  {
-    "type": "Domain",
-    "value": "anb.org"
-  },
-  {
-    "type": "Domain",
-    "value": "cell.com"
-  },
-  {
-    "type": "Domain",
-    "value": "clinicalkey.com"
-  },
-  {
-    "type": "Domain",
-    "value": "els-cdn.com"
-  },
-  {
-    "type": "Domain",
-    "value": "elsevier-ae.com"
-  },
-  {
-    "type": "Domain",
-    "value": "elsevier.com"
-  },
-  {
-    "type": "Domain",
-    "value": "elsevier.io"
-  },
-  {
-    "type": "Domain",
-    "value": "engineeringvillage.com"
-  },
-  {
-    "type": "Domain",
-    "value": "evise.com"
+    "value": "sci-hub.st"
   },
   {
     "type": "Domain",
@@ -1069,299 +1033,11 @@
   },
   {
     "type": "Domain",
-    "value": "aacrjournals.org"
+    "value": "evise.com"
   },
   {
     "type": "Domain",
-    "value": "oxfordpoliticstrove.com"
-  },
-  {
-    "type": "Domain",
-    "value": "acm.org"
-  },
-  {
-    "type": "Domain",
-    "value": "ieeeoes.org"
-  },
-  {
-    "type": "Domain",
-    "value": "scopus.com"
-  },
-  {
-    "type": "Domain",
-    "value": "ieee.org"
-  },
-  {
-    "type": "Domain",
-    "value": "ieee.tv"
-  },
-  {
-    "type": "Domain",
-    "value": "tryengineering.org"
-  },
-  {
-    "type": "Domain",
-    "value": "ieee-ccnc.org"
-  },
-  {
-    "type": "Domain",
-    "value": "ieee-ecce.org"
-  },
-  {
-    "type": "Domain",
-    "value": "ieeemce.org"
-  },
-  {
-    "type": "Domain",
-    "value": "standardsuniversity.org"
-  },
-  {
-    "type": "Domain",
-    "value": "ieee-region6.org"
-  },
-  {
-    "type": "Domain",
-    "value": "ieee.ca"
-  },
-  {
-    "type": "Domain",
-    "value": "ieeer10.org"
-  },
-  {
-    "type": "Domain",
-    "value": "ieeer5.org"
-  },
-  {
-    "type": "Domain",
-    "value": "ieeer8.org"
-  },
-  {
-    "type": "Domain",
-    "value": "ieeeusa.org"
-  },
-  {
-    "type": "Domain",
-    "value": "ieeefoundation.org"
-  },
-  {
-    "type": "Domain",
-    "value": "ieee-into-focus.org"
-  },
-  {
-    "type": "Domain",
-    "value": "ieee-vics.org"
-  },
-  {
-    "type": "Domain",
-    "value": "ieeeday.org"
-  },
-  {
-    "type": "Domain",
-    "value": "datasheets360.com"
-  },
-  {
-    "type": "Domain",
-    "value": "globalspec.com"
-  },
-  {
-    "type": "Domain",
-    "value": "ieee-isto.org"
-  },
-  {
-    "type": "Domain",
-    "value": "techstreet.com"
-  },
-  {
-    "type": "Domain",
-    "value": "computer.org"
-  },
-  {
-    "type": "Domain",
-    "value": "comsoc.org"
-  },
-  {
-    "type": "Domain",
-    "value": "embs.org"
-  },
-  {
-    "type": "Domain",
-    "value": "emcs.org"
-  },
-  {
-    "type": "Domain",
-    "value": "grss-ieee.org"
-  },
-  {
-    "type": "Domain",
-    "value": "ieee-aess.org"
-  },
-  {
-    "type": "Domain",
-    "value": "ieee-cas.org"
-  },
-  {
-    "type": "Domain",
-    "value": "ieee-ceda.org"
-  },
-  {
-    "type": "Domain",
-    "value": "ieee-edusociety.org"
-  },
-  {
-    "type": "Domain",
-    "value": "ieee-ies.org"
-  },
-  {
-    "type": "Domain",
-    "value": "ieee-ims.org"
-  },
-  {
-    "type": "Domain",
-    "value": "ieee-npss.org"
-  },
-  {
-    "type": "Domain",
-    "value": "ieee-pels.org"
-  },
-  {
-    "type": "Domain",
-    "value": "ieee-pes.org"
-  },
-  {
-    "type": "Domain",
-    "value": "ieee-ras.org"
-  },
-  {
-    "type": "Domain",
-    "value": "ieee-sensors.org"
-  },
-  {
-    "type": "Domain",
-    "value": "ieee-tems.org"
-  },
-  {
-    "type": "Domain",
-    "value": "ieee-uffc.org"
-  },
-  {
-    "type": "Domain",
-    "value": "ieeeaps.org"
-  },
-  {
-    "type": "Domain",
-    "value": "ieeecsc.org"
-  },
-  {
-    "type": "Domain",
-    "value": "ieeecss.org"
-  },
-  {
-    "type": "Domain",
-    "value": "ieeedeis.org"
-  },
-  {
-    "type": "Domain",
-    "value": "ieeemagnetics.org"
-  },
-  {
-    "type": "Domain",
-    "value": "ieeenano.org"
-  },
-  {
-    "type": "Domain",
-    "value": "scival.com"
-  },
-  {
-    "type": "Domain",
-    "value": "ieeesmc.org"
-  },
-  {
-    "type": "Domain",
-    "value": "ieeesystemscouncil.org"
-  },
-  {
-    "type": "Domain",
-    "value": "itsoc.org"
-  },
-  {
-    "type": "Domain",
-    "value": "mtt.org"
-  },
-  {
-    "type": "Domain",
-    "value": "photonicssociety.org"
-  },
-  {
-    "type": "Domain",
-    "value": "signalprocessingsociety.org"
-  },
-  {
-    "type": "Domain",
-    "value": "technologyandsociety.org"
-  },
-  {
-    "type": "Domain",
-    "value": "vtsociety.org"
-  },
-  {
-    "type": "Domain",
-    "value": "doi.org"
-  },
-  {
-    "type": "Domain",
-    "value": "doi.info"
-  },
-  {
-    "type": "Domain",
-    "value": "apress.com"
-  },
-  {
-    "type": "Domain",
-    "value": "springer.com"
-  },
-  {
-    "type": "Domain",
-    "value": "springerlink.com"
-  },
-  {
-    "type": "Domain",
-    "value": "springernature.com"
-  },
-  {
-    "type": "Domain",
-    "value": "wkap.nl"
-  },
-  {
-    "type": "Domain",
-    "value": "apa.org"
-  },
-  {
-    "type": "Domain",
-    "value": "psyccareers.com"
-  },
-  {
-    "type": "Domain",
-    "value": "serialssolutions.com"
-  },
-  {
-    "type": "Domain",
-    "value": "proquest.com"
-  },
-  {
-    "type": "Domain",
-    "value": "tandfonline.com"
-  },
-  {
-    "type": "Domain",
-    "value": "taylorandfrancis.com"
-  },
-  {
-    "type": "Domain",
-    "value": "taylorfrancis.com"
-  },
-  {
-    "type": "Domain",
-    "value": "oxfordreference.com"
+    "value": "engineeringvillage.com"
   },
   {
     "type": "Domain",
@@ -1385,7 +1061,7 @@
   },
   {
     "type": "Domain",
-    "value": "reaxys.com"
+    "value": "1lib.limited"
   },
   {
     "type": "Domain",
@@ -1393,19 +1069,19 @@
   },
   {
     "type": "Domain",
-    "value": "1lib.sk"
+    "value": "aacrjournals.org"
   },
   {
     "type": "Domain",
-    "value": "1lib.to"
+    "value": "oxfordhandbooks.com"
   },
   {
     "type": "Domain",
-    "value": "1lib.tw"
+    "value": "acm.org"
   },
   {
     "type": "Domain",
-    "value": "2lib.org"
+    "value": "clarivate.com"
   },
   {
     "type": "Domain",
@@ -1553,43 +1229,307 @@
   },
   {
     "type": "Domain",
-    "value": "oxfordre.com"
+    "value": "elsevier.io"
   },
   {
     "type": "Domain",
-    "value": "sci-hub.se"
+    "value": "ac.ir"
   },
   {
     "type": "Domain",
-    "value": "sci-hub.ee"
+    "value": "edu.ir"
   },
   {
     "type": "Domain",
-    "value": "sci-hub.st"
+    "value": "iranlms.ir"
   },
   {
     "type": "Domain",
-    "value": "ac.uk"
+    "value": "jtt.ir"
   },
   {
     "type": "Domain",
-    "value": "oxfordmusiconline.com"
+    "value": "sanjesh.org"
   },
   {
     "type": "Domain",
-    "value": "cambridge.org"
+    "value": "sharif.edu"
   },
   {
     "type": "Domain",
-    "value": "sciencedirect.com"
+    "value": "sharif.ir"
   },
   {
     "type": "Domain",
-    "value": "sciencedirectassets.com"
+    "value": "srttu.edu"
   },
   {
     "type": "Domain",
-    "value": "mendeley.com"
+    "value": "elsevier.com"
+  },
+  {
+    "type": "Domain",
+    "value": "2lib.org"
+  },
+  {
+    "type": "Domain",
+    "value": "webofknowledge.com"
+  },
+  {
+    "type": "Domain",
+    "value": "webofscience.com"
+  },
+  {
+    "type": "Domain",
+    "value": "newisiknowledge.com"
+  },
+  {
+    "type": "Domain",
+    "value": "isiknowledge.com"
+  },
+  {
+    "type": "Domain",
+    "value": "doi.org"
+  },
+  {
+    "type": "Domain",
+    "value": "doi.info"
+  },
+  {
+    "type": "Domain",
+    "value": "ieee.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieee.tv"
+  },
+  {
+    "type": "Domain",
+    "value": "tryengineering.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieee-ccnc.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieee-ecce.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieeemce.org"
+  },
+  {
+    "type": "Domain",
+    "value": "standardsuniversity.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieee-region6.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieee.ca"
+  },
+  {
+    "type": "Domain",
+    "value": "ieeer10.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieeer5.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieeer8.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieeeusa.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieeefoundation.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieee-into-focus.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieee-vics.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieeeday.org"
+  },
+  {
+    "type": "Domain",
+    "value": "datasheets360.com"
+  },
+  {
+    "type": "Domain",
+    "value": "globalspec.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ieee-isto.org"
+  },
+  {
+    "type": "Domain",
+    "value": "techstreet.com"
+  },
+  {
+    "type": "Domain",
+    "value": "computer.org"
+  },
+  {
+    "type": "Domain",
+    "value": "1lib.tw"
+  },
+  {
+    "type": "Domain",
+    "value": "embs.org"
+  },
+  {
+    "type": "Domain",
+    "value": "emcs.org"
+  },
+  {
+    "type": "Domain",
+    "value": "grss-ieee.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieee-aess.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieee-cas.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieee-ceda.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieee-edusociety.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieee-ies.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieee-ims.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieee-npss.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieee-pels.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieee-pes.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieee-ras.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieee-sensors.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieee-tems.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieee-uffc.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieeeaps.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieeecsc.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieeecss.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieeedeis.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieeemagnetics.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieeenano.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieeeoes.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieeesmc.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ieeesystemscouncil.org"
+  },
+  {
+    "type": "Domain",
+    "value": "itsoc.org"
+  },
+  {
+    "type": "Domain",
+    "value": "mtt.org"
+  },
+  {
+    "type": "Domain",
+    "value": "photonicssociety.org"
+  },
+  {
+    "type": "Domain",
+    "value": "signalprocessingsociety.org"
+  },
+  {
+    "type": "Domain",
+    "value": "technologyandsociety.org"
+  },
+  {
+    "type": "Domain",
+    "value": "vtsociety.org"
+  },
+  {
+    "type": "Domain",
+    "value": "tandfonline.com"
+  },
+  {
+    "type": "Domain",
+    "value": "taylorandfrancis.com"
+  },
+  {
+    "type": "Domain",
+    "value": "taylorfrancis.com"
+  },
+  {
+    "type": "Domain",
+    "value": "elsevier-ae.com"
+  },
+  {
+    "type": "Domain",
+    "value": "oxfordpoliticstrove.com"
   },
   {
     "type": "Domain",
@@ -1649,7 +1589,7 @@
   },
   {
     "type": "Domain",
-    "value": "oxfordhandbooks.com"
+    "value": "1lib.to"
   },
   {
     "type": "Domain",
@@ -1701,11 +1641,67 @@
   },
   {
     "type": "Domain",
-    "value": "academic.eb.com"
+    "value": "cambridge.org"
   },
   {
     "type": "Domain",
-    "value": "sci-hub.it.nf"
+    "value": "oxfordmusiconline.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ac.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "oxfordre.com"
+  },
+  {
+    "type": "Domain",
+    "value": "oxfordreference.com"
+  },
+  {
+    "type": "Domain",
+    "value": "anb.org"
+  },
+  {
+    "type": "Domain",
+    "value": "els-cdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "clinicalkey.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cell.com"
+  },
+  {
+    "type": "Domain",
+    "value": "psyccareers.com"
+  },
+  {
+    "type": "Domain",
+    "value": "apa.org"
+  },
+  {
+    "type": "Domain",
+    "value": "sciencedirectassets.com"
+  },
+  {
+    "type": "Domain",
+    "value": "serialssolutions.com"
+  },
+  {
+    "type": "Domain",
+    "value": "proquest.com"
+  },
+  {
+    "type": "Domain",
+    "value": "sciencedirect.com"
+  },
+  {
+    "type": "Domain",
+    "value": "academic.eb.com"
   },
   {
     "type": "Domain",
@@ -1713,11 +1709,11 @@
   },
   {
     "type": "Domain",
-    "value": "tandf.co.uk"
+    "value": "dlib.eastview.com"
   },
   {
     "type": "Domain",
-    "value": "dlib.eastview.com"
+    "value": "tandf.co.uk"
   },
   {
     "type": "Domain",
@@ -1730,6 +1726,10 @@
   {
     "type": "Domain",
     "value": "sci.hubg.org"
+  },
+  {
+    "type": "Domain",
+    "value": "sci-hub.it.nf"
   },
   {
     "type": "Domain",

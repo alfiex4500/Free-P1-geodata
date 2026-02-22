@@ -85,6 +85,14 @@
   },
   {
     "type": "Domain",
+    "value": "filimo.com"
+  },
+  {
+    "type": "Domain",
+    "value": "filimo.school"
+  },
+  {
+    "type": "Domain",
     "value": "aparat.com"
   },
   {
@@ -94,13 +102,5 @@
   {
     "type": "Domain",
     "value": "aparatsport.com"
-  },
-  {
-    "type": "Domain",
-    "value": "filimo.com"
-  },
-  {
-    "type": "Domain",
-    "value": "filimo.school"
   }
 ]

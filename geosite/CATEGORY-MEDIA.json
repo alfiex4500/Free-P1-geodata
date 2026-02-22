@@ -1,7 +1,7 @@
 [
   {
     "type": "Full",
-    "value": "asahishimbun.sc.omtrdc.net"
+    "value": "himalaya-exchange.zendesk.com"
   },
   {
     "type": "Full",
@@ -10,10 +10,6 @@
   {
     "type": "Full",
     "value": "zeenews-fonts.s3.amazonaws.com"
-  },
-  {
-    "type": "Full",
-    "value": "himalaya-exchange.zendesk.com"
   },
   {
     "type": "Full",
@@ -30,10 +26,6 @@
   {
     "type": "Full",
     "value": "link.theplatform.com"
-  },
-  {
-    "type": "Full",
-    "value": "deutschewelle.h-cdn.com"
   },
   {
     "type": "Full",
@@ -96,16 +88,16 @@
     "value": "vs-hls-pushb-uk-live.akamaized.net"
   },
   {
+    "type": "Full",
+    "value": "deutschewelle.h-cdn.com"
+  },
+  {
+    "type": "Full",
+    "value": "asahishimbun.sc.omtrdc.net"
+  },
+  {
     "type": "Domain",
     "value": "fox"
-  },
-  {
-    "type": "Domain",
-    "value": "bbc"
-  },
-  {
-    "type": "Domain",
-    "value": "bloomberg"
   },
   {
     "type": "Domain",
@@ -113,11 +105,19 @@
   },
   {
     "type": "Domain",
-    "value": "sankei.jp"
+    "value": "bloomberg"
   },
   {
     "type": "Domain",
-    "value": "indiancolleges.com"
+    "value": "bbc"
+  },
+  {
+    "type": "Domain",
+    "value": "dnai.in"
+  },
+  {
+    "type": "Domain",
+    "value": "hcpdts.com"
   },
   {
     "type": "Domain",
@@ -129,11 +129,11 @@
   },
   {
     "type": "Domain",
-    "value": "the-japan-news.com"
+    "value": "myradio.hk"
   },
   {
     "type": "Domain",
-    "value": "yomilogi.com"
+    "value": "vanithaveedu.com"
   },
   {
     "type": "Domain",
@@ -153,11 +153,11 @@
   },
   {
     "type": "Domain",
-    "value": "hochi.news"
+    "value": "vanitha.in"
   },
   {
     "type": "Domain",
-    "value": "fujinkoron.jp"
+    "value": "vanitaonline.com"
   },
   {
     "type": "Domain",
@@ -169,15 +169,15 @@
   },
   {
     "type": "Domain",
-    "value": "chuokoron.jp"
+    "value": "theweek.in"
   },
   {
     "type": "Domain",
-    "value": "mol.im"
+    "value": "theman.in"
   },
   {
     "type": "Domain",
-    "value": "mailonline.com"
+    "value": "radiomango.fm"
   },
   {
     "type": "Domain",
@@ -189,7 +189,7 @@
   },
   {
     "type": "Domain",
-    "value": "dailymailonline.com"
+    "value": "onmanorama.com"
   },
   {
     "type": "Domain",
@@ -253,11 +253,11 @@
   },
   {
     "type": "Domain",
-    "value": "dailymail.dk"
+    "value": "manoramayearbook.in"
   },
   {
     "type": "Domain",
-    "value": "thismon.ee"
+    "value": "manoramaonline.com"
   },
   {
     "type": "Domain",
@@ -277,7 +277,7 @@
   },
   {
     "type": "Domain",
-    "value": "dailymail.com"
+    "value": "manoramanews.com"
   },
   {
     "type": "Domain",
@@ -293,7 +293,7 @@
   },
   {
     "type": "Domain",
-    "value": "mailhealth.com"
+    "value": "manorama.com"
   },
   {
     "type": "Domain",
@@ -301,7 +301,7 @@
   },
   {
     "type": "Domain",
-    "value": "dailym.ai"
+    "value": "malayalamanorama.com"
   },
   {
     "type": "Domain",
@@ -377,7 +377,7 @@
   },
   {
     "type": "Domain",
-    "value": "mailonsunday.ie"
+    "value": "setn.com"
   },
   {
     "type": "Domain",
@@ -397,7 +397,7 @@
   },
   {
     "type": "Domain",
-    "value": "bbcpersian.com"
+    "value": "usatodaynetworkservice.com"
   },
   {
     "type": "Domain",
@@ -429,11 +429,11 @@
   },
   {
     "type": "Domain",
-    "value": "bbc.in"
+    "value": "usatoday.com"
   },
   {
     "type": "Domain",
-    "value": "bbc.com"
+    "value": "gannettdigital.com"
   },
   {
     "type": "Domain",
@@ -453,7 +453,7 @@
   },
   {
     "type": "Domain",
-    "value": "bbcverticals.com"
+    "value": "gannett.com"
   },
   {
     "type": "Domain",
@@ -465,11 +465,11 @@
   },
   {
     "type": "Domain",
-    "value": "bbc-reporting-api.app"
+    "value": "gannett-cdn.com"
   },
   {
     "type": "Domain",
-    "value": "waa.tw"
+    "value": "afpforum.com"
   },
   {
     "type": "Domain",
@@ -485,7 +485,7 @@
   },
   {
     "type": "Domain",
-    "value": "watchout.tw"
+    "value": "afp.com"
   },
   {
     "type": "Domain",
@@ -505,19 +505,575 @@
   },
   {
     "type": "Domain",
-    "value": "aiasahi.jp"
+    "value": "mingpaomonthly.com"
   },
   {
     "type": "Domain",
-    "value": "asagaku.com"
+    "value": "mingpaocanada.com"
   },
   {
     "type": "Domain",
-    "value": "asahi.com"
+    "value": "mediachinese.com"
   },
   {
     "type": "Domain",
-    "value": "asahicom.jp"
+    "value": "mingpaovan.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mingpaotor.com"
+  },
+  {
+    "type": "Domain",
+    "value": "enanyang.my"
+  },
+  {
+    "type": "Domain",
+    "value": "mysinchew.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mings-fashion.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mingpao.com"
+  },
+  {
+    "type": "Domain",
+    "value": "yzzk.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mings.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "omghk.com"
+  },
+  {
+    "type": "Domain",
+    "value": "sinchew.my"
+  },
+  {
+    "type": "Domain",
+    "value": "mingshengbao.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mingwatch.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mpfinance.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mpweekly.com"
+  },
+  {
+    "type": "Domain",
+    "value": "skysportsracing.com"
+  },
+  {
+    "type": "Domain",
+    "value": "skysportsonline.com"
+  },
+  {
+    "type": "Domain",
+    "value": "skysports.ie"
+  },
+  {
+    "type": "Domain",
+    "value": "skysports.fr"
+  },
+  {
+    "type": "Domain",
+    "value": "watchout.tw"
+  },
+  {
+    "type": "Domain",
+    "value": "waa.tw"
+  },
+  {
+    "type": "Domain",
+    "value": "g-tvapp.com"
+  },
+  {
+    "type": "Domain",
+    "value": "gclubs.com"
+  },
+  {
+    "type": "Domain",
+    "value": "gettr.com"
+  },
+  {
+    "type": "Domain",
+    "value": "gfashion.com"
+  },
+  {
+    "type": "Domain",
+    "value": "gnews.org"
+  },
+  {
+    "type": "Domain",
+    "value": "gtv.org"
+  },
+  {
+    "type": "Domain",
+    "value": "gtv1.org"
+  },
+  {
+    "type": "Domain",
+    "value": "gtvmediagroupfairfund.com"
+  },
+  {
+    "type": "Domain",
+    "value": "guo.media"
+  },
+  {
+    "type": "Domain",
+    "value": "gwiki.net"
+  },
+  {
+    "type": "Domain",
+    "value": "gwins.org"
+  },
+  {
+    "type": "Domain",
+    "value": "himalaya.exchange"
+  },
+  {
+    "type": "Domain",
+    "value": "hpayshop.com"
+  },
+  {
+    "type": "Domain",
+    "value": "nfsc.global"
+  },
+  {
+    "type": "Domain",
+    "value": "nfscdict.com"
+  },
+  {
+    "type": "Domain",
+    "value": "nfscofficial.com"
+  },
+  {
+    "type": "Domain",
+    "value": "rexcha.com"
+  },
+  {
+    "type": "Domain",
+    "value": "rolfoundation.org"
+  },
+  {
+    "type": "Domain",
+    "value": "rolsociety.org"
+  },
+  {
+    "type": "Domain",
+    "value": "yiqiedoushiganggangkaishi.org"
+  },
+  {
+    "type": "Domain",
+    "value": "hkopentv.com"
+  },
+  {
+    "type": "Domain",
+    "value": "fantv.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "bookclubgirl.com"
+  },
+  {
+    "type": "Domain",
+    "value": "wsjplus.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bigcharts.com"
+  },
+  {
+    "type": "Domain",
+    "value": "fnlondon.com"
+  },
+  {
+    "type": "Domain",
+    "value": "huanyuju.com"
+  },
+  {
+    "type": "Domain",
+    "value": "rea.global"
+  },
+  {
+    "type": "Domain",
+    "value": "rea.design"
+  },
+  {
+    "type": "Domain",
+    "value": "rea-group.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ippstatic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "rea.tech"
+  },
+  {
+    "type": "Domain",
+    "value": "thinkofliving.com"
+  },
+  {
+    "type": "Domain",
+    "value": "myfun.com"
+  },
+  {
+    "type": "Domain",
+    "value": "moveaws.com"
+  },
+  {
+    "type": "Domain",
+    "value": "move.com"
+  },
+  {
+    "type": "Domain",
+    "value": "makaan.com"
+  },
+  {
+    "type": "Domain",
+    "value": "rea.io"
+  },
+  {
+    "type": "Domain",
+    "value": "rumah123.com"
+  },
+  {
+    "type": "Domain",
+    "value": "iproperty.com"
+  },
+  {
+    "type": "Domain",
+    "value": "rea-asia.com"
+  },
+  {
+    "type": "Domain",
+    "value": "smartexpos.com"
+  },
+  {
+    "type": "Domain",
+    "value": "housingcdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mansionglobal.com"
+  },
+  {
+    "type": "Domain",
+    "value": "marketwatch.com"
+  },
+  {
+    "type": "Domain",
+    "value": "housing.com"
+  },
+  {
+    "type": "Domain",
+    "value": "proptiger.com"
+  },
+  {
+    "type": "Domain",
+    "value": "newssyndication.com"
+  },
+  {
+    "type": "Domain",
+    "value": "realtor.com"
+  },
+  {
+    "type": "Domain",
+    "value": "nypostreprints.com"
+  },
+  {
+    "type": "Domain",
+    "value": "nypost.help"
+  },
+  {
+    "type": "Domain",
+    "value": "newsamerica.com"
+  },
+  {
+    "type": "Domain",
+    "value": "nypost.com"
+  },
+  {
+    "type": "Domain",
+    "value": "harpercollinsadvantage.com"
+  },
+  {
+    "type": "Domain",
+    "value": "harpercollinschristian.com"
+  },
+  {
+    "type": "Domain",
+    "value": "harpercollins.ca"
+  },
+  {
+    "type": "Domain",
+    "value": "harpercollinsspeakersbureau.com"
+  },
+  {
+    "type": "Domain",
+    "value": "newscorp.com"
+  },
+  {
+    "type": "Domain",
+    "value": "newscorpaustralia.com"
+  },
+  {
+    "type": "Domain",
+    "value": "shelfstuff.com"
+  },
+  {
+    "type": "Domain",
+    "value": "realestatejournal.com"
+  },
+  {
+    "type": "Domain",
+    "value": "api.news"
+  },
+  {
+    "type": "Domain",
+    "value": "reastatic.net"
+  },
+  {
+    "type": "Domain",
+    "value": "newsukadops.com"
+  },
+  {
+    "type": "Domain",
+    "value": "harperacademic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "nlm.io"
+  },
+  {
+    "type": "Domain",
+    "value": "epicreads.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ekhindi.com"
+  },
+  {
+    "type": "Domain",
+    "value": "collins.in"
+  },
+  {
+    "type": "Domain",
+    "value": "storyful.com"
+  },
+  {
+    "type": "Domain",
+    "value": "librarylovefest.com"
+  },
+  {
+    "type": "Domain",
+    "value": "harpercollins.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dowjoneson.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dowjones.io"
+  },
+  {
+    "type": "Domain",
+    "value": "dowjones.com"
+  },
+  {
+    "type": "Domain",
+    "value": "djreprints.com"
+  },
+  {
+    "type": "Domain",
+    "value": "wsjbarrons.com"
+  },
+  {
+    "type": "Domain",
+    "value": "barrons.com"
+  },
+  {
+    "type": "Domain",
+    "value": "barrons-conferences.com"
+  },
+  {
+    "type": "Domain",
+    "value": "barrons-advisor.com"
+  },
+  {
+    "type": "Domain",
+    "value": "wireless.radio"
+  },
+  {
+    "type": "Domain",
+    "value": "wsjwine.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dreamteamfc.com"
+  },
+  {
+    "type": "Domain",
+    "value": "page3.com"
+  },
+  {
+    "type": "Domain",
+    "value": "talksport.com"
+  },
+  {
+    "type": "Domain",
+    "value": "thesun.ie"
+  },
+  {
+    "type": "Domain",
+    "value": "wsjshop.com"
+  },
+  {
+    "type": "Domain",
+    "value": "harperapps.com"
+  },
+  {
+    "type": "Domain",
+    "value": "wsjmediakit.com"
+  },
+  {
+    "type": "Domain",
+    "value": "thetimes.ie"
+  },
+  {
+    "type": "Domain",
+    "value": "timesmembership.com"
+  },
+  {
+    "type": "Domain",
+    "value": "wsj.net"
+  },
+  {
+    "type": "Domain",
+    "value": "wsj.jobs"
+  },
+  {
+    "type": "Domain",
+    "value": "wsj.com"
+  },
+  {
+    "type": "Domain",
+    "value": "startupjournal.com"
+  },
+  {
+    "type": "Domain",
+    "value": "collegejournal.com"
+  },
+  {
+    "type": "Domain",
+    "value": "adhelpnews.com"
+  },
+  {
+    "type": "Domain",
+    "value": "opinionjournal.com"
+  },
+  {
+    "type": "Domain",
+    "value": "careerjournal.com"
+  },
+  {
+    "type": "Domain",
+    "value": "skysports.com"
+  },
+  {
+    "type": "Domain",
+    "value": "skyoceanrescue.it"
+  },
+  {
+    "type": "Domain",
+    "value": "skyoceanrescue.de"
+  },
+  {
+    "type": "Domain",
+    "value": "skyoceanrescue.com"
+  },
+  {
+    "type": "Domain",
+    "value": "skymansion.net"
+  },
+  {
+    "type": "Domain",
+    "value": "skyassets.com"
+  },
+  {
+    "type": "Domain",
+    "value": "sky.com"
+  },
+  {
+    "type": "Domain",
+    "value": "businessinsider.sg"
+  },
+  {
+    "type": "Domain",
+    "value": "businessinsider.nl"
+  },
+  {
+    "type": "Domain",
+    "value": "businessinsider.in"
+  },
+  {
+    "type": "Domain",
+    "value": "businessinsider.mx"
+  },
+  {
+    "type": "Domain",
+    "value": "businessinsider.de"
+  },
+  {
+    "type": "Domain",
+    "value": "businessinsider.fr"
+  },
+  {
+    "type": "Domain",
+    "value": "businessinsider.com"
+  },
+  {
+    "type": "Domain",
+    "value": "businessinsider.es"
+  },
+  {
+    "type": "Domain",
+    "value": "ind.sh"
+  },
+  {
+    "type": "Domain",
+    "value": "insider-intelligence.com"
+  },
+  {
+    "type": "Domain",
+    "value": "insider.com"
+  },
+  {
+    "type": "Domain",
+    "value": "insiderintelligence.com"
+  },
+  {
+    "type": "Domain",
+    "value": "businessinsider.my"
+  },
+  {
+    "type": "Domain",
+    "value": "businessinsider.jp"
   },
   {
     "type": "Domain",
@@ -525,7 +1081,767 @@
   },
   {
     "type": "Domain",
-    "value": "timestalks.com"
+    "value": "asahicom.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "asahi.com"
+  },
+  {
+    "type": "Domain",
+    "value": "asagaku.com"
+  },
+  {
+    "type": "Domain",
+    "value": "aiasahi.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "mi9cdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "9cdn.net"
+  },
+  {
+    "type": "Domain",
+    "value": "tvb.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mytvsuper.com"
+  },
+  {
+    "type": "Domain",
+    "value": "tvbusa.com"
+  },
+  {
+    "type": "Domain",
+    "value": "tvbanywhere.com"
+  },
+  {
+    "type": "Domain",
+    "value": "encoretvb.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bigbigshop.com"
+  },
+  {
+    "type": "Domain",
+    "value": "tvbweekly.com"
+  },
+  {
+    "type": "Domain",
+    "value": "nikkei4946.com"
+  },
+  {
+    "type": "Domain",
+    "value": "nikkei.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "nikkei.com"
+  },
+  {
+    "type": "Domain",
+    "value": "infowarsmedia.com"
+  },
+  {
+    "type": "Domain",
+    "value": "infowars.com"
+  },
+  {
+    "type": "Domain",
+    "value": "banned.video"
+  },
+  {
+    "type": "Domain",
+    "value": "forbesimg.com"
+  },
+  {
+    "type": "Domain",
+    "value": "forbes.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dw.com"
+  },
+  {
+    "type": "Domain",
+    "value": "nbcudigitaladops.com"
+  },
+  {
+    "type": "Domain",
+    "value": "nbcuni.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cnbcfm.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cnbc.com"
+  },
+  {
+    "type": "Domain",
+    "value": "c-spanvideo.org"
+  },
+  {
+    "type": "Domain",
+    "value": "c-span.org"
+  },
+  {
+    "type": "Domain",
+    "value": "tictoc.video"
+  },
+  {
+    "type": "Domain",
+    "value": "techatbloomberg.com"
+  },
+  {
+    "type": "Domain",
+    "value": "quicktake.video"
+  },
+  {
+    "type": "Domain",
+    "value": "newenergyfinance.com"
+  },
+  {
+    "type": "Domain",
+    "value": "neweconomyforum.com"
+  },
+  {
+    "type": "Domain",
+    "value": "londonmithraeum.com"
+  },
+  {
+    "type": "Domain",
+    "value": "gotraffic.net"
+  },
+  {
+    "type": "Domain",
+    "value": "citylab.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bwbx.io"
+  },
+  {
+    "type": "Domain",
+    "value": "businessweekmag.com"
+  },
+  {
+    "type": "Domain",
+    "value": "businessweek.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bnef.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bmia.org"
+  },
+  {
+    "type": "Domain",
+    "value": "blpprofessional.com"
+  },
+  {
+    "type": "Domain",
+    "value": "blpevents.com"
+  },
+  {
+    "type": "Domain",
+    "value": "blpcareers.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bloombergview.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bloombergvault.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bloombergtv.mn"
+  },
+  {
+    "type": "Domain",
+    "value": "bloombergtradingchallenge.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bloombergtaxtech.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bloombergtax1.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bloombergtax.com"
+  },
+  {
+    "type": "Domain",
+    "value": "sankei-ad-info.com"
+  },
+  {
+    "type": "Domain",
+    "value": "innovations-i.com"
+  },
+  {
+    "type": "Domain",
+    "value": "sankei-ad.net"
+  },
+  {
+    "type": "Domain",
+    "value": "ironna.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "tvnaviweb.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "japan-forward.com"
+  },
+  {
+    "type": "Domain",
+    "value": "keiba.net"
+  },
+  {
+    "type": "Domain",
+    "value": "business-i.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "seiron-sankei.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mostly.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "sankei.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ign.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "metropolitana.tokyo"
+  },
+  {
+    "type": "Domain",
+    "value": "sankei-call.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "seasidestory.tokyo"
+  },
+  {
+    "type": "Domain",
+    "value": "sanspo.com"
+  },
+  {
+    "type": "Domain",
+    "value": "sankeishop.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "sankei-kurashi.com"
+  },
+  {
+    "type": "Domain",
+    "value": "sankei-shougakukai.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "sankei-tours.com"
+  },
+  {
+    "type": "Domain",
+    "value": "sankeibiz.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "sankei.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "bloombergsurvey.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bloombergstatus.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bloombergspace.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bloombergsef.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bloombergradio.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bloombergquint.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bloombergprep.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bloombergpolarlake.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hkheadline.com"
+  },
+  {
+    "type": "Domain",
+    "value": "singtao.com"
+  },
+  {
+    "type": "Domain",
+    "value": "singtaonewscorp.com"
+  },
+  {
+    "type": "Domain",
+    "value": "my-magazine.me"
+  },
+  {
+    "type": "Domain",
+    "value": "singtaola.com"
+  },
+  {
+    "type": "Domain",
+    "value": "singtaousa.com"
+  },
+  {
+    "type": "Domain",
+    "value": "stheadline.com"
+  },
+  {
+    "type": "Domain",
+    "value": "singtaoopo.com"
+  },
+  {
+    "type": "Domain",
+    "value": "headlinejobs.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "sing68.com"
+  },
+  {
+    "type": "Domain",
+    "value": "singtaobooks.com"
+  },
+  {
+    "type": "Domain",
+    "value": "eduplus.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "bastillepost.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bloombergnext.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bloombergmedia.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bloomberglp.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bloomberglive.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bloomberglaw.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cstatic.net"
+  },
+  {
+    "type": "Domain",
+    "value": "curbed.com"
+  },
+  {
+    "type": "Domain",
+    "value": "eater.com"
+  },
+  {
+    "type": "Domain",
+    "value": "funnyordie.com"
+  },
+  {
+    "type": "Domain",
+    "value": "meridian.net"
+  },
+  {
+    "type": "Domain",
+    "value": "polygon.com"
+  },
+  {
+    "type": "Domain",
+    "value": "racked.com"
+  },
+  {
+    "type": "Domain",
+    "value": "recode.net"
+  },
+  {
+    "type": "Domain",
+    "value": "sbnation.com"
+  },
+  {
+    "type": "Domain",
+    "value": "theverge.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vox-cdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vox.com"
+  },
+  {
+    "type": "Domain",
+    "value": "voxcreative.com"
+  },
+  {
+    "type": "Domain",
+    "value": "voxfieldguide.com"
+  },
+  {
+    "type": "Domain",
+    "value": "voxmedia.com"
+  },
+  {
+    "type": "Domain",
+    "value": "voxops.net"
+  },
+  {
+    "type": "Domain",
+    "value": "globalvoices.org"
+  },
+  {
+    "type": "Domain",
+    "value": "globalvoicesonline.org"
+  },
+  {
+    "type": "Domain",
+    "value": "freedomplatform.tv"
+  },
+  {
+    "type": "Domain",
+    "value": "londonreal.tv"
+  },
+  {
+    "type": "Domain",
+    "value": "theinitium.com"
+  },
+  {
+    "type": "Domain",
+    "value": "init.shop"
+  },
+  {
+    "type": "Domain",
+    "value": "47gyosei.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "47news.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "kyodo-d.info"
+  },
+  {
+    "type": "Domain",
+    "value": "kyodo-d.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "kyodoimages.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "kyodonews.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "kyodonews.net"
+  },
+  {
+    "type": "Domain",
+    "value": "newsmart.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "nna.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "medium.com"
+  },
+  {
+    "type": "Domain",
+    "value": "medium.systems"
+  },
+  {
+    "type": "Domain",
+    "value": "zaobao.com"
+  },
+  {
+    "type": "Domain",
+    "value": "zaobao.sg"
+  },
+  {
+    "type": "Domain",
+    "value": "bloomberglabs.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ajplus.net"
+  },
+  {
+    "type": "Domain",
+    "value": "aljazeera.com"
+  },
+  {
+    "type": "Domain",
+    "value": "aljazeera.net"
+  },
+  {
+    "type": "Domain",
+    "value": "palestineremix.com"
+  },
+  {
+    "type": "Domain",
+    "value": "sarajevopodopsadom.com"
+  },
+  {
+    "type": "Domain",
+    "value": "srebrenica360.com"
+  },
+  {
+    "type": "Domain",
+    "value": "syhacked.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mailonsunday.ie"
+  },
+  {
+    "type": "Domain",
+    "value": "dailym.ai"
+  },
+  {
+    "type": "Domain",
+    "value": "mailhealth.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dailymail.com"
+  },
+  {
+    "type": "Domain",
+    "value": "thismon.ee"
+  },
+  {
+    "type": "Domain",
+    "value": "dailymail.dk"
+  },
+  {
+    "type": "Domain",
+    "value": "dailymailonline.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mailonline.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mol.im"
+  },
+  {
+    "type": "Domain",
+    "value": "bloombergindustry.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bloombergindices.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bloomberggovernment.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bloombergforeducation.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bloombergenvironment.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bloombergchina.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bloombergbriefs.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bloombergbreakaway.com"
+  },
+  {
+    "type": "Domain",
+    "value": "manoto1.tv"
+  },
+  {
+    "type": "Domain",
+    "value": "manototv.com"
+  },
+  {
+    "type": "Domain",
+    "value": "matters.news"
+  },
+  {
+    "type": "Domain",
+    "value": "matters.one"
+  },
+  {
+    "type": "Domain",
+    "value": "matters.town"
+  },
+  {
+    "type": "Domain",
+    "value": "mattersprotocol.io"
+  },
+  {
+    "type": "Domain",
+    "value": "realclear.com"
+  },
+  {
+    "type": "Domain",
+    "value": "realclearbooks.com"
+  },
+  {
+    "type": "Domain",
+    "value": "realcleardefense.com"
+  },
+  {
+    "type": "Domain",
+    "value": "realcleareducation.com"
+  },
+  {
+    "type": "Domain",
+    "value": "realclearenergy.org"
+  },
+  {
+    "type": "Domain",
+    "value": "realclearfoundation.org"
+  },
+  {
+    "type": "Domain",
+    "value": "realclearhealth.com"
+  },
+  {
+    "type": "Domain",
+    "value": "realclearhistory.com"
+  },
+  {
+    "type": "Domain",
+    "value": "realclearinvestigations.com"
+  },
+  {
+    "type": "Domain",
+    "value": "realclearlife.com"
+  },
+  {
+    "type": "Domain",
+    "value": "realclearmarkets.com"
+  },
+  {
+    "type": "Domain",
+    "value": "realclearpolicy.com"
+  },
+  {
+    "type": "Domain",
+    "value": "realclearpolitics.com"
+  },
+  {
+    "type": "Domain",
+    "value": "realclearpublicaffairs.com"
+  },
+  {
+    "type": "Domain",
+    "value": "realclearreligion.org"
+  },
+  {
+    "type": "Domain",
+    "value": "realclearscience.com"
+  },
+  {
+    "type": "Domain",
+    "value": "realclearworld.com"
+  },
+  {
+    "type": "Domain",
+    "value": "scmp.com"
+  },
+  {
+    "type": "Domain",
+    "value": "i-scmp.com"
+  },
+  {
+    "type": "Domain",
+    "value": "6park.com"
+  },
+  {
+    "type": "Domain",
+    "value": "6parkbbs.com"
+  },
+  {
+    "type": "Domain",
+    "value": "6parknews.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cool18.com"
+  },
+  {
+    "type": "Domain",
+    "value": "popo8.com"
+  },
+  {
+    "type": "Domain",
+    "value": "parkvv.com"
+  },
+  {
+    "type": "Domain",
+    "value": "xwbo.com"
   },
   {
     "type": "Domain",
@@ -865,7 +2181,7 @@
   },
   {
     "type": "Domain",
-    "value": "nytstyle.com"
+    "value": "foxnews.net"
   },
   {
     "type": "Domain",
@@ -1053,7 +2369,7 @@
   },
   {
     "type": "Domain",
-    "value": "nytimes.com"
+    "value": "foxsports.net"
   },
   {
     "type": "Domain",
@@ -1457,19 +2773,99 @@
   },
   {
     "type": "Domain",
-    "value": "nyti.ms"
+    "value": "bloombergbna.com"
   },
   {
     "type": "Domain",
-    "value": "nytco.com"
+    "value": "bloombergbeta.com"
   },
   {
     "type": "Domain",
-    "value": "nytcn.me"
+    "value": "bloombergarcade.com"
   },
   {
     "type": "Domain",
-    "value": "nytchina.com"
+    "value": "bloombergapps.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bloomberg.tv"
+  },
+  {
+    "type": "Domain",
+    "value": "bloomberg.fm"
+  },
+  {
+    "type": "Domain",
+    "value": "bloomberg.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bloomberg.cn"
+  },
+  {
+    "type": "Domain",
+    "value": "bgov.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bbthat.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bbhub.io"
+  },
+  {
+    "type": "Domain",
+    "value": "bbgevent.com"
+  },
+  {
+    "type": "Domain",
+    "value": "americasvoice.news"
+  },
+  {
+    "type": "Domain",
+    "value": "nextmedia.com"
+  },
+  {
+    "type": "Domain",
+    "value": "nextmgz.com"
+  },
+  {
+    "type": "Domain",
+    "value": "nextwork.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "neow.in"
+  },
+  {
+    "type": "Domain",
+    "value": "neowin.net"
+  },
+  {
+    "type": "Domain",
+    "value": "bgr.in"
+  },
+  {
+    "type": "Domain",
+    "value": "bollywoodlife.com"
+  },
+  {
+    "type": "Domain",
+    "value": "careerfundas.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cricketcountry.com"
+  },
+  {
+    "type": "Domain",
+    "value": "881903.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dnaindia.com"
   },
   {
     "type": "Domain",
@@ -1477,299 +2873,331 @@
   },
   {
     "type": "Domain",
-    "value": "nyt.com"
+    "value": "nextwork.tw"
   },
   {
     "type": "Domain",
-    "value": "myradio.hk"
+    "value": "omoplanet.com"
   },
   {
     "type": "Domain",
-    "value": "businessinsider.sg"
+    "value": "india.com"
   },
   {
     "type": "Domain",
-    "value": "businessinsider.nl"
+    "value": "indiancolleges.com"
   },
   {
     "type": "Domain",
-    "value": "businessinsider.in"
+    "value": "itripto.com"
   },
   {
     "type": "Domain",
-    "value": "businessinsider.mx"
+    "value": "oncars.in"
   },
   {
     "type": "Domain",
-    "value": "businessinsider.de"
+    "value": "prepsure.com"
   },
   {
     "type": "Domain",
-    "value": "businessinsider.fr"
+    "value": "thehealthsite.com"
   },
   {
     "type": "Domain",
-    "value": "businessinsider.com"
+    "value": "wionews.com"
   },
   {
     "type": "Domain",
-    "value": "globalvoices.org"
+    "value": "yo1health.com"
   },
   {
     "type": "Domain",
-    "value": "globalvoicesonline.org"
+    "value": "zee.com"
   },
   {
     "type": "Domain",
-    "value": "matters.news"
+    "value": "zeebiz.com"
   },
   {
     "type": "Domain",
-    "value": "matters.one"
+    "value": "zeeentertainment.com"
   },
   {
     "type": "Domain",
-    "value": "matters.town"
+    "value": "zeenews.com"
   },
   {
     "type": "Domain",
-    "value": "mattersprotocol.io"
+    "value": "gisplanning.com"
   },
   {
     "type": "Domain",
-    "value": "tvbweekly.com"
+    "value": "exec-appointments.com"
   },
   {
     "type": "Domain",
-    "value": "bigbigshop.com"
+    "value": "globalriskregulator.com"
   },
   {
     "type": "Domain",
-    "value": "encoretvb.com"
+    "value": "fdiintelligence.com"
   },
   {
     "type": "Domain",
-    "value": "tvb.com"
+    "value": "financialadvisoriq.com"
   },
   {
     "type": "Domain",
-    "value": "tvbanywhere.com"
+    "value": "ft.com"
   },
   {
     "type": "Domain",
-    "value": "tvbusa.com"
+    "value": "ftadviser.com"
   },
   {
     "type": "Domain",
-    "value": "mytvsuper.com"
+    "value": "ftchinese.com"
   },
   {
     "type": "Domain",
-    "value": "businessinsider.es"
+    "value": "ignites.com"
   },
   {
     "type": "Domain",
-    "value": "insider-intelligence.com"
+    "value": "fundfire.com"
   },
   {
     "type": "Domain",
-    "value": "insider.com"
+    "value": "thenextweb.com"
   },
   {
     "type": "Domain",
-    "value": "insiderintelligence.com"
+    "value": "excedo.com"
   },
   {
     "type": "Domain",
-    "value": "businessinsider.my"
+    "value": "ftiecla.com"
   },
   {
     "type": "Domain",
-    "value": "zaobao.com"
+    "value": "ignitesasia.com"
   },
   {
     "type": "Domain",
-    "value": "zaobao.sg"
+    "value": "igniteseurope.com"
   },
   {
     "type": "Domain",
-    "value": "businessinsider.jp"
+    "value": "agendaweek.com"
   },
   {
     "type": "Domain",
-    "value": "9to5toys.com"
+    "value": "mandatewire.com"
   },
   {
     "type": "Domain",
-    "value": "spaceexplored.com"
+    "value": "pensions-expert.com"
   },
   {
     "type": "Domain",
-    "value": "appleinsider.com"
+    "value": "pwmnet.com"
   },
   {
     "type": "Domain",
-    "value": "digitaltrends.com"
-  },
-  {
-    "type": "Domain",
-    "value": "engadget.com"
-  },
-  {
-    "type": "Domain",
-    "value": "macrumors.com"
-  },
-  {
-    "type": "Domain",
-    "value": "slashdot.org"
-  },
-  {
-    "type": "Domain",
-    "value": "technews.tw"
-  },
-  {
-    "type": "Domain",
-    "value": "techradar.com"
-  },
-  {
-    "type": "Domain",
-    "value": "theverge.com"
-  },
-  {
-    "type": "Domain",
-    "value": "typeisbeautiful.com"
-  },
-  {
-    "type": "Domain",
-    "value": "androidpolice.com"
-  },
-  {
-    "type": "Domain",
-    "value": "ycombinator.com"
-  },
-  {
-    "type": "Domain",
-    "value": "startupschool.org"
-  },
-  {
-    "type": "Domain",
-    "value": "tomsguide.com"
-  },
-  {
-    "type": "Domain",
-    "value": "9to5google.com"
-  },
-  {
-    "type": "Domain",
-    "value": "9to5mac.com"
-  },
-  {
-    "type": "Domain",
-    "value": "9to5terminal.com"
-  },
-  {
-    "type": "Domain",
-    "value": "androidauthority.com"
-  },
-  {
-    "type": "Domain",
-    "value": "dronedj.com"
-  },
-  {
-    "type": "Domain",
-    "value": "electrek.co"
-  },
-  {
-    "type": "Domain",
-    "value": "zdnet.com"
-  },
-  {
-    "type": "Domain",
-    "value": "thetype.com"
-  },
-  {
-    "type": "Domain",
-    "value": "hketgroup.com"
-  },
-  {
-    "type": "Domain",
-    "value": "ap.org"
-  },
-  {
-    "type": "Domain",
-    "value": "apnews.com"
-  },
-  {
-    "type": "Domain",
-    "value": "huffingtonpost.jp"
-  },
-  {
-    "type": "Domain",
-    "value": "huffingtonpost.es"
-  },
-  {
-    "type": "Domain",
-    "value": "huffingtonpost.gr"
-  },
-  {
-    "type": "Domain",
-    "value": "huffingtonpost.in"
-  },
-  {
-    "type": "Domain",
-    "value": "huffingtonpost.fr"
-  },
-  {
-    "type": "Domain",
-    "value": "huffpostbrasil.com"
-  },
-  {
-    "type": "Domain",
-    "value": "huffingtonpost.de"
-  },
-  {
-    "type": "Domain",
-    "value": "huffpost.com"
-  },
-  {
-    "type": "Domain",
-    "value": "huffpostmaghreb.com"
-  },
-  {
-    "type": "Domain",
-    "value": "huffpostarabi.com"
-  },
-  {
-    "type": "Domain",
-    "value": "huffingtonpost.com"
-  },
-  {
-    "type": "Domain",
-    "value": "huffingtonpost.it"
-  },
-  {
-    "type": "Domain",
-    "value": "huffingtonpost.ca"
-  },
-  {
-    "type": "Domain",
-    "value": "huffingtonpost.kr"
-  },
-  {
-    "type": "Domain",
-    "value": "hket.com"
-  },
-  {
-    "type": "Domain",
-    "value": "etwealth.com"
-  },
-  {
-    "type": "Domain",
-    "value": "dw.com"
+    "value": "thebanker.com"
   },
   {
     "type": "Domain",
     "value": "thebankerdatabase.com"
+  },
+  {
+    "type": "Domain",
+    "value": "next.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "4gtv.tv"
+  },
+  {
+    "type": "Domain",
+    "value": "privilege.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "applefruity.com"
+  },
+  {
+    "type": "Domain",
+    "value": "rferl.org"
+  },
+  {
+    "type": "Domain",
+    "value": "azadiradio.com"
+  },
+  {
+    "type": "Domain",
+    "value": "azadliq.org"
+  },
+  {
+    "type": "Domain",
+    "value": "azathabar.com"
+  },
+  {
+    "type": "Domain",
+    "value": "azatliq.org"
+  },
+  {
+    "type": "Domain",
+    "value": "azattyk.org"
+  },
+  {
+    "type": "Domain",
+    "value": "azattyq.org"
+  },
+  {
+    "type": "Domain",
+    "value": "azatutyun.am"
+  },
+  {
+    "type": "Domain",
+    "value": "currenttime.tv"
+  },
+  {
+    "type": "Domain",
+    "value": "ekhokavkaza.com"
+  },
+  {
+    "type": "Domain",
+    "value": "europalibera.org"
+  },
+  {
+    "type": "Domain",
+    "value": "evropaelire.org"
+  },
+  {
+    "type": "Domain",
+    "value": "factograph.info"
+  },
+  {
+    "type": "Domain",
+    "value": "idelreal.org"
+  },
+  {
+    "type": "Domain",
+    "value": "kavkazr.com"
+  },
+  {
+    "type": "Domain",
+    "value": "krymr.com"
+  },
+  {
+    "type": "Domain",
+    "value": "mashaalradio.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ozodi.org"
+  },
+  {
+    "type": "Domain",
+    "value": "ozodlik.org"
+  },
+  {
+    "type": "Domain",
+    "value": "radiofarda.com"
+  },
+  {
+    "type": "Domain",
+    "value": "radiomarsho.com"
+  },
+  {
+    "type": "Domain",
+    "value": "radiosvoboda.org"
+  },
+  {
+    "type": "Domain",
+    "value": "radiotavisupleba.ge"
+  },
+  {
+    "type": "Domain",
+    "value": "severreal.org"
+  },
+  {
+    "type": "Domain",
+    "value": "sibreal.org"
+  },
+  {
+    "type": "Domain",
+    "value": "slobodnaevropa.mk"
+  },
+  {
+    "type": "Domain",
+    "value": "svaboda.org"
+  },
+  {
+    "type": "Domain",
+    "value": "svoboda.org"
+  },
+  {
+    "type": "Domain",
+    "value": "svobodnaevropa.bg"
+  },
+  {
+    "type": "Domain",
+    "value": "szabadeuropa.hu"
+  },
+  {
+    "type": "Domain",
+    "value": "cnbeta.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cnbetacdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bestmallawards.com"
+  },
+  {
+    "type": "Domain",
+    "value": "i-cablecomm.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hoy.tv"
+  },
+  {
+    "type": "Domain",
+    "value": "i-cable.com"
+  },
+  {
+    "type": "Domain",
+    "value": "twnextdigital.com"
+  },
+  {
+    "type": "Domain",
+    "value": "now.com"
+  },
+  {
+    "type": "Domain",
+    "value": "nowe.com"
+  },
+  {
+    "type": "Domain",
+    "value": "nowe.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "now-tv.com"
+  },
+  {
+    "type": "Domain",
+    "value": "now-ashare.com"
+  },
+  {
+    "type": "Domain",
+    "value": "sharpdaily.tw"
   },
   {
     "type": "Domain",
@@ -1965,338 +3393,6 @@
   },
   {
     "type": "Domain",
-    "value": "6park.com"
-  },
-  {
-    "type": "Domain",
-    "value": "6parkbbs.com"
-  },
-  {
-    "type": "Domain",
-    "value": "6parknews.com"
-  },
-  {
-    "type": "Domain",
-    "value": "cool18.com"
-  },
-  {
-    "type": "Domain",
-    "value": "popo8.com"
-  },
-  {
-    "type": "Domain",
-    "value": "parkvv.com"
-  },
-  {
-    "type": "Domain",
-    "value": "xwbo.com"
-  },
-  {
-    "type": "Domain",
-    "value": "cnn.com"
-  },
-  {
-    "type": "Domain",
-    "value": "cnn.io"
-  },
-  {
-    "type": "Domain",
-    "value": "cnn.it"
-  },
-  {
-    "type": "Domain",
-    "value": "cnnarabic.com"
-  },
-  {
-    "type": "Domain",
-    "value": "cnnlabs.com"
-  },
-  {
-    "type": "Domain",
-    "value": "cnnmoney.ch"
-  },
-  {
-    "type": "Domain",
-    "value": "cnnmoney.com"
-  },
-  {
-    "type": "Domain",
-    "value": "cnnmoneystream.com"
-  },
-  {
-    "type": "Domain",
-    "value": "cnnpolitics.com"
-  },
-  {
-    "type": "Domain",
-    "value": "hkheadline.com"
-  },
-  {
-    "type": "Domain",
-    "value": "singtao.com"
-  },
-  {
-    "type": "Domain",
-    "value": "singtaonewscorp.com"
-  },
-  {
-    "type": "Domain",
-    "value": "my-magazine.me"
-  },
-  {
-    "type": "Domain",
-    "value": "singtaola.com"
-  },
-  {
-    "type": "Domain",
-    "value": "singtaousa.com"
-  },
-  {
-    "type": "Domain",
-    "value": "stheadline.com"
-  },
-  {
-    "type": "Domain",
-    "value": "singtaoopo.com"
-  },
-  {
-    "type": "Domain",
-    "value": "headlinejobs.hk"
-  },
-  {
-    "type": "Domain",
-    "value": "sing68.com"
-  },
-  {
-    "type": "Domain",
-    "value": "singtaobooks.com"
-  },
-  {
-    "type": "Domain",
-    "value": "eduplus.hk"
-  },
-  {
-    "type": "Domain",
-    "value": "bastillepost.com"
-  },
-  {
-    "type": "Domain",
-    "value": "thebanker.com"
-  },
-  {
-    "type": "Domain",
-    "value": "pwmnet.com"
-  },
-  {
-    "type": "Domain",
-    "value": "pensions-expert.com"
-  },
-  {
-    "type": "Domain",
-    "value": "mandatewire.com"
-  },
-  {
-    "type": "Domain",
-    "value": "agendaweek.com"
-  },
-  {
-    "type": "Domain",
-    "value": "freedomplatform.tv"
-  },
-  {
-    "type": "Domain",
-    "value": "londonreal.tv"
-  },
-  {
-    "type": "Domain",
-    "value": "malayalamanorama.com"
-  },
-  {
-    "type": "Domain",
-    "value": "manorama.com"
-  },
-  {
-    "type": "Domain",
-    "value": "manoramanews.com"
-  },
-  {
-    "type": "Domain",
-    "value": "manoramaonline.com"
-  },
-  {
-    "type": "Domain",
-    "value": "manoramayearbook.in"
-  },
-  {
-    "type": "Domain",
-    "value": "onmanorama.com"
-  },
-  {
-    "type": "Domain",
-    "value": "radiomango.fm"
-  },
-  {
-    "type": "Domain",
-    "value": "theman.in"
-  },
-  {
-    "type": "Domain",
-    "value": "theweek.in"
-  },
-  {
-    "type": "Domain",
-    "value": "vanitaonline.com"
-  },
-  {
-    "type": "Domain",
-    "value": "vanitha.in"
-  },
-  {
-    "type": "Domain",
-    "value": "vanithaveedu.com"
-  },
-  {
-    "type": "Domain",
-    "value": "mingpaomonthly.com"
-  },
-  {
-    "type": "Domain",
-    "value": "mingpaocanada.com"
-  },
-  {
-    "type": "Domain",
-    "value": "mediachinese.com"
-  },
-  {
-    "type": "Domain",
-    "value": "mingpaovan.com"
-  },
-  {
-    "type": "Domain",
-    "value": "mingpaotor.com"
-  },
-  {
-    "type": "Domain",
-    "value": "enanyang.my"
-  },
-  {
-    "type": "Domain",
-    "value": "mysinchew.com"
-  },
-  {
-    "type": "Domain",
-    "value": "mings-fashion.com"
-  },
-  {
-    "type": "Domain",
-    "value": "mingpao.com"
-  },
-  {
-    "type": "Domain",
-    "value": "yzzk.com"
-  },
-  {
-    "type": "Domain",
-    "value": "mings.hk"
-  },
-  {
-    "type": "Domain",
-    "value": "omghk.com"
-  },
-  {
-    "type": "Domain",
-    "value": "sinchew.my"
-  },
-  {
-    "type": "Domain",
-    "value": "mingshengbao.com"
-  },
-  {
-    "type": "Domain",
-    "value": "mingwatch.com"
-  },
-  {
-    "type": "Domain",
-    "value": "mpfinance.com"
-  },
-  {
-    "type": "Domain",
-    "value": "mpweekly.com"
-  },
-  {
-    "type": "Domain",
-    "value": "igniteseurope.com"
-  },
-  {
-    "type": "Domain",
-    "value": "ignitesasia.com"
-  },
-  {
-    "type": "Domain",
-    "value": "ftiecla.com"
-  },
-  {
-    "type": "Domain",
-    "value": "excedo.com"
-  },
-  {
-    "type": "Domain",
-    "value": "now.com"
-  },
-  {
-    "type": "Domain",
-    "value": "nowe.com"
-  },
-  {
-    "type": "Domain",
-    "value": "nowe.hk"
-  },
-  {
-    "type": "Domain",
-    "value": "now-tv.com"
-  },
-  {
-    "type": "Domain",
-    "value": "now-ashare.com"
-  },
-  {
-    "type": "Domain",
-    "value": "thenextweb.com"
-  },
-  {
-    "type": "Domain",
-    "value": "i-cablecomm.com"
-  },
-  {
-    "type": "Domain",
-    "value": "fantv.hk"
-  },
-  {
-    "type": "Domain",
-    "value": "hkopentv.com"
-  },
-  {
-    "type": "Domain",
-    "value": "hoy.tv"
-  },
-  {
-    "type": "Domain",
-    "value": "i-cable.com"
-  },
-  {
-    "type": "Domain",
-    "value": "fundfire.com"
-  },
-  {
-    "type": "Domain",
-    "value": "manoto1.tv"
-  },
-  {
-    "type": "Domain",
-    "value": "manototv.com"
-  },
-  {
-    "type": "Domain",
     "value": "gendai.net"
   },
   {
@@ -2305,7 +3401,223 @@
   },
   {
     "type": "Domain",
-    "value": "etvonline.hk"
+    "value": "aweencore.com"
+  },
+  {
+    "type": "Domain",
+    "value": "awetv.com"
+  },
+  {
+    "type": "Domain",
+    "value": "herringnetwork.com"
+  },
+  {
+    "type": "Domain",
+    "value": "oanencore.com"
+  },
+  {
+    "type": "Domain",
+    "value": "oann.com"
+  },
+  {
+    "type": "Domain",
+    "value": "udn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "udndata.com"
+  },
+  {
+    "type": "Domain",
+    "value": "udnfunlife.com"
+  },
+  {
+    "type": "Domain",
+    "value": "appledaily.com"
+  },
+  {
+    "type": "Domain",
+    "value": "wantblogger.com"
+  },
+  {
+    "type": "Domain",
+    "value": "chinatimes.com"
+  },
+  {
+    "type": "Domain",
+    "value": "loveparents.org"
+  },
+  {
+    "type": "Domain",
+    "value": "want-media.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ctwant.com"
+  },
+  {
+    "type": "Domain",
+    "value": "lecoin.cc"
+  },
+  {
+    "type": "Domain",
+    "value": "benliton.com"
+  },
+  {
+    "type": "Domain",
+    "value": "zwtvusa.com"
+  },
+  {
+    "type": "Domain",
+    "value": "appledaily.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "tomonews.net"
+  },
+  {
+    "type": "Domain",
+    "value": "atnext.com"
+  },
+  {
+    "type": "Domain",
+    "value": "privilege.tw"
+  },
+  {
+    "type": "Domain",
+    "value": "apnews.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ap.org"
+  },
+  {
+    "type": "Domain",
+    "value": "9to5toys.com"
+  },
+  {
+    "type": "Domain",
+    "value": "spaceexplored.com"
+  },
+  {
+    "type": "Domain",
+    "value": "appleinsider.com"
+  },
+  {
+    "type": "Domain",
+    "value": "digitaltrends.com"
+  },
+  {
+    "type": "Domain",
+    "value": "engadget.com"
+  },
+  {
+    "type": "Domain",
+    "value": "macrumors.com"
+  },
+  {
+    "type": "Domain",
+    "value": "slashdot.org"
+  },
+  {
+    "type": "Domain",
+    "value": "technews.tw"
+  },
+  {
+    "type": "Domain",
+    "value": "techradar.com"
+  },
+  {
+    "type": "Domain",
+    "value": "typeisbeautiful.com"
+  },
+  {
+    "type": "Domain",
+    "value": "androidpolice.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ycombinator.com"
+  },
+  {
+    "type": "Domain",
+    "value": "startupschool.org"
+  },
+  {
+    "type": "Domain",
+    "value": "tomsguide.com"
+  },
+  {
+    "type": "Domain",
+    "value": "9to5google.com"
+  },
+  {
+    "type": "Domain",
+    "value": "9to5mac.com"
+  },
+  {
+    "type": "Domain",
+    "value": "9to5terminal.com"
+  },
+  {
+    "type": "Domain",
+    "value": "androidauthority.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dronedj.com"
+  },
+  {
+    "type": "Domain",
+    "value": "electrek.co"
+  },
+  {
+    "type": "Domain",
+    "value": "zdnet.com"
+  },
+  {
+    "type": "Domain",
+    "value": "thetype.com"
+  },
+  {
+    "type": "Domain",
+    "value": "tospo-keiba.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "machigoto.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "mainichi-athletepartners.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "mainichi.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "mainichibooks.com"
+  },
+  {
+    "type": "Domain",
+    "value": "meijinsen.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "mirailab.tech"
+  },
+  {
+    "type": "Domain",
+    "value": "mottainai.info"
+  },
+  {
+    "type": "Domain",
+    "value": "newsgawakaru.com"
+  },
+  {
+    "type": "Domain",
+    "value": "weekly-economist.com"
   },
   {
     "type": "Domain",
@@ -2313,27 +3625,7 @@
   },
   {
     "type": "Domain",
-    "value": "bgr.in"
-  },
-  {
-    "type": "Domain",
-    "value": "bollywoodlife.com"
-  },
-  {
-    "type": "Domain",
-    "value": "careerfundas.com"
-  },
-  {
-    "type": "Domain",
-    "value": "cricketcountry.com"
-  },
-  {
-    "type": "Domain",
-    "value": "dnai.in"
-  },
-  {
-    "type": "Domain",
-    "value": "dnaindia.com"
+    "value": "nyt.com"
   },
   {
     "type": "Domain",
@@ -2341,503 +3633,131 @@
   },
   {
     "type": "Domain",
-    "value": "ekhindi.com"
+    "value": "nytchina.com"
   },
   {
     "type": "Domain",
-    "value": "ind.sh"
+    "value": "nytcn.me"
   },
   {
     "type": "Domain",
-    "value": "india.com"
+    "value": "nytco.com"
   },
   {
     "type": "Domain",
-    "value": "realestatejournal.com"
+    "value": "nyti.ms"
   },
   {
     "type": "Domain",
-    "value": "itripto.com"
+    "value": "nytimes.com"
   },
   {
     "type": "Domain",
-    "value": "oncars.in"
+    "value": "nytstyle.com"
   },
   {
     "type": "Domain",
-    "value": "prepsure.com"
+    "value": "timestalks.com"
   },
   {
     "type": "Domain",
-    "value": "thehealthsite.com"
+    "value": "thomsonreuters.ru"
   },
   {
     "type": "Domain",
-    "value": "wionews.com"
+    "value": "reuters.com"
   },
   {
     "type": "Domain",
-    "value": "yo1health.com"
+    "value": "elite.com"
   },
   {
     "type": "Domain",
-    "value": "zee.com"
+    "value": "legaltracker.com"
   },
   {
     "type": "Domain",
-    "value": "zeebiz.com"
+    "value": "reuters.tv"
   },
   {
     "type": "Domain",
-    "value": "zeeentertainment.com"
+    "value": "reutersagency.cn"
   },
   {
     "type": "Domain",
-    "value": "zeenews.com"
+    "value": "reut.rs"
   },
   {
     "type": "Domain",
-    "value": "afp.com"
+    "value": "thomsonreuters.ca"
   },
   {
     "type": "Domain",
-    "value": "afpforum.com"
+    "value": "thomsonreuters.cn"
   },
   {
     "type": "Domain",
-    "value": "dajiyuan.eu"
+    "value": "tr.com"
   },
   {
     "type": "Domain",
-    "value": "upholdjustice.org"
+    "value": "tmsnrt.rs"
   },
   {
     "type": "Domain",
-    "value": "bannedbook.org"
+    "value": "thomsonreutersmexico.com"
   },
   {
     "type": "Domain",
-    "value": "broadpressinc.com"
+    "value": "aranzadi.es"
   },
   {
     "type": "Domain",
-    "value": "chinaaffairs.org"
+    "value": "thomsonreuters.com"
   },
   {
     "type": "Domain",
-    "value": "dafahao.com"
+    "value": "reutersmedia.net"
   },
   {
     "type": "Domain",
-    "value": "donatecarsoh.org"
+    "value": "corepublishingsolutions.com"
   },
   {
     "type": "Domain",
-    "value": "dongtaiwang.com"
+    "value": "thomsonreuters.in"
   },
   {
     "type": "Domain",
-    "value": "falundafa.org"
+    "value": "thomsonreuters.es"
   },
   {
     "type": "Domain",
-    "value": "falundafamuseum.org"
+    "value": "etvonline.hk"
   },
   {
     "type": "Domain",
-    "value": "falungong.club"
+    "value": "newsmaxtv.com"
   },
   {
     "type": "Domain",
-    "value": "faluninfo.net"
+    "value": "newsmax.in"
   },
   {
     "type": "Domain",
-    "value": "fawanghuihui.org"
+    "value": "newsmax.com"
   },
   {
     "type": "Domain",
-    "value": "fayuanbooks.com"
-  },
-  {
-    "type": "Domain",
-    "value": "fgmtv.org"
-  },
-  {
-    "type": "Domain",
-    "value": "ganjing.com"
-  },
-  {
-    "type": "Domain",
-    "value": "ganjing.world"
-  },
-  {
-    "type": "Domain",
-    "value": "ganjingworld.com"
-  },
-  {
-    "type": "Domain",
-    "value": "guangming.org"
-  },
-  {
-    "type": "Domain",
-    "value": "mhradio.org"
-  },
-  {
-    "type": "Domain",
-    "value": "ninecommentaries.com"
-  },
-  {
-    "type": "Domain",
-    "value": "starp2p.com"
-  },
-  {
-    "type": "Domain",
-    "value": "tiandixing.org"
-  },
-  {
-    "type": "Domain",
-    "value": "tiantibooks.org"
-  },
-  {
-    "type": "Domain",
-    "value": "tuidang.org"
-  },
-  {
-    "type": "Domain",
-    "value": "epochtimes.ru"
-  },
-  {
-    "type": "Domain",
-    "value": "wujieliulan.com"
-  },
-  {
-    "type": "Domain",
-    "value": "xinsheng.net"
-  },
-  {
-    "type": "Domain",
-    "value": "yuanming.net"
-  },
-  {
-    "type": "Domain",
-    "value": "zhengjian.org"
-  },
-  {
-    "type": "Domain",
-    "value": "zhengwunet.org"
-  },
-  {
-    "type": "Domain",
-    "value": "zhenxiang.biz"
-  },
-  {
-    "type": "Domain",
-    "value": "zhuichaguoji.org"
-  },
-  {
-    "type": "Domain",
-    "value": "shenyun.com"
-  },
-  {
-    "type": "Domain",
-    "value": "shenyun.org"
-  },
-  {
-    "type": "Domain",
-    "value": "shenyuncreations.com"
-  },
-  {
-    "type": "Domain",
-    "value": "shenyunperformingarts.org"
-  },
-  {
-    "type": "Domain",
-    "value": "epochtimes.eu"
-  },
-  {
-    "type": "Domain",
-    "value": "ntdtv.ru"
-  },
-  {
-    "type": "Domain",
-    "value": "edninfo.com"
-  },
-  {
-    "type": "Domain",
-    "value": "epoch.cloud"
-  },
-  {
-    "type": "Domain",
-    "value": "velkaepocha.cz"
-  },
-  {
-    "type": "Domain",
-    "value": "epochbase.com"
-  },
-  {
-    "type": "Domain",
-    "value": "epochbuy.com"
-  },
-  {
-    "type": "Domain",
-    "value": "epochcar.com"
-  },
-  {
-    "type": "Domain",
-    "value": "epochhk.com"
-  },
-  {
-    "type": "Domain",
-    "value": "epochmall.com"
-  },
-  {
-    "type": "Domain",
-    "value": "epochmediagroup.com"
-  },
-  {
-    "type": "Domain",
-    "value": "epochshop.com"
-  },
-  {
-    "type": "Domain",
-    "value": "epochstories.com"
-  },
-  {
-    "type": "Domain",
-    "value": "epochtime.com"
-  },
-  {
-    "type": "Domain",
-    "value": "epochtimes-bg.com"
-  },
-  {
-    "type": "Domain",
-    "value": "epochtimes-romania.com"
-  },
-  {
-    "type": "Domain",
-    "value": "epochtimes.bg"
-  },
-  {
-    "type": "Domain",
-    "value": "dajiyuan.com"
-  },
-  {
-    "type": "Domain",
-    "value": "theepochtimessubscribe.com"
-  },
-  {
-    "type": "Domain",
-    "value": "theepochtimes.com"
-  },
-  {
-    "type": "Domain",
-    "value": "epochtimes.com"
-  },
-  {
-    "type": "Domain",
-    "value": "renminbao.com"
-  },
-  {
-    "type": "Domain",
-    "value": "epochtimes.fr"
-  },
-  {
-    "type": "Domain",
-    "value": "ntdvn.com"
-  },
-  {
-    "type": "Domain",
-    "value": "ntdvideo.tw"
-  },
-  {
-    "type": "Domain",
-    "value": "ntdtvla.com"
-  },
-  {
-    "type": "Domain",
-    "value": "ntdtv.org"
-  },
-  {
-    "type": "Domain",
-    "value": "epochtimeshk.org"
-  },
-  {
-    "type": "Domain",
-    "value": "bannedbook.net"
-  },
-  {
-    "type": "Domain",
-    "value": "persianepochtimes.com"
-  },
-  {
-    "type": "Domain",
-    "value": "epochtimes.it"
-  },
-  {
-    "type": "Domain",
-    "value": "epochtimes.jp"
-  },
-  {
-    "type": "Domain",
-    "value": "epochtimes.nl"
-  },
-  {
-    "type": "Domain",
-    "value": "epochtimes.pl"
-  },
-  {
-    "type": "Domain",
-    "value": "ntdtv.kr"
-  },
-  {
-    "type": "Domain",
-    "value": "epochtimes.se"
-  },
-  {
-    "type": "Domain",
-    "value": "aboluowang.com"
-  },
-  {
-    "type": "Domain",
-    "value": "epochtimestr.com"
-  },
-  {
-    "type": "Domain",
-    "value": "epochweek.com"
-  },
-  {
-    "type": "Domain",
-    "value": "epochweekly.com"
-  },
-  {
-    "type": "Domain",
-    "value": "erabaru.net"
-  },
-  {
-    "type": "Domain",
-    "value": "etviet.com"
-  },
-  {
-    "type": "Domain",
-    "value": "lagranepoca.com"
-  },
-  {
-    "type": "Domain",
-    "value": "minghui.org"
-  },
-  {
-    "type": "Domain",
-    "value": "ntd.com"
-  },
-  {
-    "type": "Domain",
-    "value": "ntd.tv"
-  },
-  {
-    "type": "Domain",
-    "value": "ntdca.com"
-  },
-  {
-    "type": "Domain",
-    "value": "ntdimg.com"
-  },
-  {
-    "type": "Domain",
-    "value": "ntdtv-dc.com"
-  },
-  {
-    "type": "Domain",
-    "value": "ntdtv.ca"
-  },
-  {
-    "type": "Domain",
-    "value": "ntdtv.se"
-  },
-  {
-    "type": "Domain",
-    "value": "epochtimes.de"
-  },
-  {
-    "type": "Domain",
-    "value": "ntdtv.com"
-  },
-  {
-    "type": "Domain",
-    "value": "epochtimes.cz"
-  },
-  {
-    "type": "Domain",
-    "value": "ntdtv.fr"
-  },
-  {
-    "type": "Domain",
-    "value": "ntdtv.jp"
-  },
-  {
-    "type": "Domain",
-    "value": "es-visiontimes.com"
-  },
-  {
-    "type": "Domain",
-    "value": "kannewyork.com"
-  },
-  {
-    "type": "Domain",
-    "value": "wanokokorosoh.com"
-  },
-  {
-    "type": "Domain",
-    "value": "soundofhope.org"
-  },
-  {
-    "type": "Domain",
-    "value": "soundofhope.kr"
-  },
-  {
-    "type": "Domain",
-    "value": "soundofhope.eu"
-  },
-  {
-    "type": "Domain",
-    "value": "sohfrance.org"
-  },
-  {
-    "type": "Domain",
-    "value": "sohcradio.com"
-  },
-  {
-    "type": "Domain",
-    "value": "ozvoice.org"
-  },
-  {
-    "type": "Domain",
-    "value": "bayvoice.net"
-  },
-  {
-    "type": "Domain",
-    "value": "watchinese.com"
-  },
-  {
-    "type": "Domain",
-    "value": "vtvan.com"
-  },
-  {
-    "type": "Domain",
-    "value": "visiontimesjp.com"
-  },
-  {
-    "type": "Domain",
-    "value": "visiontimes.net"
-  },
-  {
-    "type": "Domain",
-    "value": "kanzhongguo.com"
+    "value": "andysparis.com"
   },
   {
     "type": "Domain",
     "value": "kanzhongguo.eu"
+  },
+  {
+    "type": "Domain",
+    "value": "kanzhongguo.com"
   },
   {
     "type": "Domain",
@@ -2866,478 +3786,6 @@
   {
     "type": "Domain",
     "value": "visiontimes.fr"
-  },
-  {
-    "type": "Domain",
-    "value": "bgov.com"
-  },
-  {
-    "type": "Domain",
-    "value": "foxnews.net"
-  },
-  {
-    "type": "Domain",
-    "value": "foxsports.net"
-  },
-  {
-    "type": "Domain",
-    "value": "ignites.com"
-  },
-  {
-    "type": "Domain",
-    "value": "ftchinese.com"
-  },
-  {
-    "type": "Domain",
-    "value": "ftadviser.com"
-  },
-  {
-    "type": "Domain",
-    "value": "ft.com"
-  },
-  {
-    "type": "Domain",
-    "value": "financialadvisoriq.com"
-  },
-  {
-    "type": "Domain",
-    "value": "fdiintelligence.com"
-  },
-  {
-    "type": "Domain",
-    "value": "globalriskregulator.com"
-  },
-  {
-    "type": "Domain",
-    "value": "exec-appointments.com"
-  },
-  {
-    "type": "Domain",
-    "value": "gisplanning.com"
-  },
-  {
-    "type": "Domain",
-    "value": "eiu.com"
-  },
-  {
-    "type": "Domain",
-    "value": "economistgroupcareers.com"
-  },
-  {
-    "type": "Domain",
-    "value": "economistgroup.com"
-  },
-  {
-    "type": "Domain",
-    "value": "realclear.com"
-  },
-  {
-    "type": "Domain",
-    "value": "realclearbooks.com"
-  },
-  {
-    "type": "Domain",
-    "value": "realcleardefense.com"
-  },
-  {
-    "type": "Domain",
-    "value": "realcleareducation.com"
-  },
-  {
-    "type": "Domain",
-    "value": "realclearenergy.org"
-  },
-  {
-    "type": "Domain",
-    "value": "realclearfoundation.org"
-  },
-  {
-    "type": "Domain",
-    "value": "realclearhealth.com"
-  },
-  {
-    "type": "Domain",
-    "value": "realclearhistory.com"
-  },
-  {
-    "type": "Domain",
-    "value": "realclearinvestigations.com"
-  },
-  {
-    "type": "Domain",
-    "value": "realclearlife.com"
-  },
-  {
-    "type": "Domain",
-    "value": "realclearmarkets.com"
-  },
-  {
-    "type": "Domain",
-    "value": "realclearpolicy.com"
-  },
-  {
-    "type": "Domain",
-    "value": "realclearpolitics.com"
-  },
-  {
-    "type": "Domain",
-    "value": "realclearpublicaffairs.com"
-  },
-  {
-    "type": "Domain",
-    "value": "realclearreligion.org"
-  },
-  {
-    "type": "Domain",
-    "value": "realclearscience.com"
-  },
-  {
-    "type": "Domain",
-    "value": "realclearworld.com"
-  },
-  {
-    "type": "Domain",
-    "value": "banned.video"
-  },
-  {
-    "type": "Domain",
-    "value": "infowars.com"
-  },
-  {
-    "type": "Domain",
-    "value": "infowarsmedia.com"
-  },
-  {
-    "type": "Domain",
-    "value": "rferl.org"
-  },
-  {
-    "type": "Domain",
-    "value": "azadiradio.com"
-  },
-  {
-    "type": "Domain",
-    "value": "azadliq.org"
-  },
-  {
-    "type": "Domain",
-    "value": "azathabar.com"
-  },
-  {
-    "type": "Domain",
-    "value": "azatliq.org"
-  },
-  {
-    "type": "Domain",
-    "value": "azattyk.org"
-  },
-  {
-    "type": "Domain",
-    "value": "azattyq.org"
-  },
-  {
-    "type": "Domain",
-    "value": "azatutyun.am"
-  },
-  {
-    "type": "Domain",
-    "value": "currenttime.tv"
-  },
-  {
-    "type": "Domain",
-    "value": "ekhokavkaza.com"
-  },
-  {
-    "type": "Domain",
-    "value": "europalibera.org"
-  },
-  {
-    "type": "Domain",
-    "value": "evropaelire.org"
-  },
-  {
-    "type": "Domain",
-    "value": "factograph.info"
-  },
-  {
-    "type": "Domain",
-    "value": "idelreal.org"
-  },
-  {
-    "type": "Domain",
-    "value": "kavkazr.com"
-  },
-  {
-    "type": "Domain",
-    "value": "krymr.com"
-  },
-  {
-    "type": "Domain",
-    "value": "mashaalradio.com"
-  },
-  {
-    "type": "Domain",
-    "value": "ozodi.org"
-  },
-  {
-    "type": "Domain",
-    "value": "ozodlik.org"
-  },
-  {
-    "type": "Domain",
-    "value": "radiofarda.com"
-  },
-  {
-    "type": "Domain",
-    "value": "radiomarsho.com"
-  },
-  {
-    "type": "Domain",
-    "value": "radiosvoboda.org"
-  },
-  {
-    "type": "Domain",
-    "value": "radiotavisupleba.ge"
-  },
-  {
-    "type": "Domain",
-    "value": "severreal.org"
-  },
-  {
-    "type": "Domain",
-    "value": "sibreal.org"
-  },
-  {
-    "type": "Domain",
-    "value": "slobodnaevropa.mk"
-  },
-  {
-    "type": "Domain",
-    "value": "svaboda.org"
-  },
-  {
-    "type": "Domain",
-    "value": "svoboda.org"
-  },
-  {
-    "type": "Domain",
-    "value": "svobodnaevropa.bg"
-  },
-  {
-    "type": "Domain",
-    "value": "szabadeuropa.hu"
-  },
-  {
-    "type": "Domain",
-    "value": "udn.com"
-  },
-  {
-    "type": "Domain",
-    "value": "udndata.com"
-  },
-  {
-    "type": "Domain",
-    "value": "udnfunlife.com"
-  },
-  {
-    "type": "Domain",
-    "value": "economist.com"
-  },
-  {
-    "type": "Domain",
-    "value": "cstatic.net"
-  },
-  {
-    "type": "Domain",
-    "value": "curbed.com"
-  },
-  {
-    "type": "Domain",
-    "value": "eater.com"
-  },
-  {
-    "type": "Domain",
-    "value": "funnyordie.com"
-  },
-  {
-    "type": "Domain",
-    "value": "meridian.net"
-  },
-  {
-    "type": "Domain",
-    "value": "polygon.com"
-  },
-  {
-    "type": "Domain",
-    "value": "racked.com"
-  },
-  {
-    "type": "Domain",
-    "value": "recode.net"
-  },
-  {
-    "type": "Domain",
-    "value": "sbnation.com"
-  },
-  {
-    "type": "Domain",
-    "value": "vox-cdn.com"
-  },
-  {
-    "type": "Domain",
-    "value": "vox.com"
-  },
-  {
-    "type": "Domain",
-    "value": "voxcreative.com"
-  },
-  {
-    "type": "Domain",
-    "value": "voxfieldguide.com"
-  },
-  {
-    "type": "Domain",
-    "value": "voxmedia.com"
-  },
-  {
-    "type": "Domain",
-    "value": "voxops.net"
-  },
-  {
-    "type": "Domain",
-    "value": "g-tvapp.com"
-  },
-  {
-    "type": "Domain",
-    "value": "gclubs.com"
-  },
-  {
-    "type": "Domain",
-    "value": "gettr.com"
-  },
-  {
-    "type": "Domain",
-    "value": "gfashion.com"
-  },
-  {
-    "type": "Domain",
-    "value": "gnews.org"
-  },
-  {
-    "type": "Domain",
-    "value": "gtv.org"
-  },
-  {
-    "type": "Domain",
-    "value": "gtv1.org"
-  },
-  {
-    "type": "Domain",
-    "value": "gtvmediagroupfairfund.com"
-  },
-  {
-    "type": "Domain",
-    "value": "guo.media"
-  },
-  {
-    "type": "Domain",
-    "value": "gwiki.net"
-  },
-  {
-    "type": "Domain",
-    "value": "gwins.org"
-  },
-  {
-    "type": "Domain",
-    "value": "himalaya.exchange"
-  },
-  {
-    "type": "Domain",
-    "value": "hpayshop.com"
-  },
-  {
-    "type": "Domain",
-    "value": "nfsc.global"
-  },
-  {
-    "type": "Domain",
-    "value": "nfscdict.com"
-  },
-  {
-    "type": "Domain",
-    "value": "nfscofficial.com"
-  },
-  {
-    "type": "Domain",
-    "value": "rexcha.com"
-  },
-  {
-    "type": "Domain",
-    "value": "rolfoundation.org"
-  },
-  {
-    "type": "Domain",
-    "value": "rolsociety.org"
-  },
-  {
-    "type": "Domain",
-    "value": "yiqiedoushiganggangkaishi.org"
-  },
-  {
-    "type": "Domain",
-    "value": "axios.com"
-  },
-  {
-    "type": "Domain",
-    "value": "sky.com"
-  },
-  {
-    "type": "Domain",
-    "value": "skyassets.com"
-  },
-  {
-    "type": "Domain",
-    "value": "skymansion.net"
-  },
-  {
-    "type": "Domain",
-    "value": "skyoceanrescue.com"
-  },
-  {
-    "type": "Domain",
-    "value": "skyoceanrescue.de"
-  },
-  {
-    "type": "Domain",
-    "value": "skyoceanrescue.it"
-  },
-  {
-    "type": "Domain",
-    "value": "skysports.com"
-  },
-  {
-    "type": "Domain",
-    "value": "skysports.fr"
-  },
-  {
-    "type": "Domain",
-    "value": "skysports.ie"
-  },
-  {
-    "type": "Domain",
-    "value": "skysportsonline.com"
-  },
-  {
-    "type": "Domain",
-    "value": "skysportsracing.com"
-  },
-  {
-    "type": "Domain",
-    "value": "boxun.com"
-  },
-  {
-    "type": "Domain",
-    "value": "bowenpress.com"
   },
   {
     "type": "Domain",
@@ -3441,59 +3889,171 @@
   },
   {
     "type": "Domain",
-    "value": "cnbc.com"
+    "value": "huffingtonpost.jp"
   },
   {
     "type": "Domain",
-    "value": "cnbcfm.com"
+    "value": "huffingtonpost.es"
   },
   {
     "type": "Domain",
-    "value": "nbcuni.com"
+    "value": "huffingtonpost.gr"
   },
   {
     "type": "Domain",
-    "value": "nbcudigitaladops.com"
+    "value": "huffingtonpost.in"
   },
   {
     "type": "Domain",
-    "value": "machigoto.jp"
+    "value": "huffingtonpost.fr"
   },
   {
     "type": "Domain",
-    "value": "mainichi-athletepartners.jp"
+    "value": "huffpostbrasil.com"
   },
   {
     "type": "Domain",
-    "value": "mainichi.jp"
+    "value": "huffingtonpost.de"
   },
   {
     "type": "Domain",
-    "value": "mainichibooks.com"
+    "value": "huffpost.com"
   },
   {
     "type": "Domain",
-    "value": "meijinsen.jp"
+    "value": "huffpostmaghreb.com"
   },
   {
     "type": "Domain",
-    "value": "mirailab.tech"
+    "value": "huffpostarabi.com"
   },
   {
     "type": "Domain",
-    "value": "mottainai.info"
+    "value": "huffingtonpost.com"
   },
   {
     "type": "Domain",
-    "value": "newsgawakaru.com"
+    "value": "huffingtonpost.it"
   },
   {
     "type": "Domain",
-    "value": "weekly-economist.com"
+    "value": "huffingtonpost.ca"
   },
   {
     "type": "Domain",
-    "value": "usatodaynetworkservice.com"
+    "value": "huffingtonpost.kr"
+  },
+  {
+    "type": "Domain",
+    "value": "visiontimes.it"
+  },
+  {
+    "type": "Domain",
+    "value": "visiontimes.net"
+  },
+  {
+    "type": "Domain",
+    "value": "visiontimesjp.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vtvan.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cnn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cnn.io"
+  },
+  {
+    "type": "Domain",
+    "value": "cnn.it"
+  },
+  {
+    "type": "Domain",
+    "value": "cnnarabic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cnnlabs.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cnnmoney.ch"
+  },
+  {
+    "type": "Domain",
+    "value": "cnnmoney.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cnnmoneystream.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cnnpolitics.com"
+  },
+  {
+    "type": "Domain",
+    "value": "economist.com"
+  },
+  {
+    "type": "Domain",
+    "value": "economistgroup.com"
+  },
+  {
+    "type": "Domain",
+    "value": "economistgroupcareers.com"
+  },
+  {
+    "type": "Domain",
+    "value": "eiu.com"
+  },
+  {
+    "type": "Domain",
+    "value": "etwealth.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hket.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hketgroup.com"
+  },
+  {
+    "type": "Domain",
+    "value": "watchinese.com"
+  },
+  {
+    "type": "Domain",
+    "value": "kannewyork.com"
+  },
+  {
+    "type": "Domain",
+    "value": "es-visiontimes.com"
+  },
+  {
+    "type": "Domain",
+    "value": "ntdtv.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "ntdtv.fr"
+  },
+  {
+    "type": "Domain",
+    "value": "epochtimes.cz"
+  },
+  {
+    "type": "Domain",
+    "value": "ntdtv.com"
+  },
+  {
+    "type": "Domain",
+    "value": "epochtimes.de"
   },
   {
     "type": "Domain",
@@ -3553,563 +4113,7 @@
   },
   {
     "type": "Domain",
-    "value": "9cdn.net"
-  },
-  {
-    "type": "Domain",
-    "value": "mi9cdn.com"
-  },
-  {
-    "type": "Domain",
-    "value": "usatoday.com"
-  },
-  {
-    "type": "Domain",
-    "value": "gannettdigital.com"
-  },
-  {
-    "type": "Domain",
-    "value": "gannett.com"
-  },
-  {
-    "type": "Domain",
-    "value": "gannett-cdn.com"
-  },
-  {
-    "type": "Domain",
-    "value": "4gtv.tv"
-  },
-  {
-    "type": "Domain",
-    "value": "medium.systems"
-  },
-  {
-    "type": "Domain",
-    "value": "medium.com"
-  },
-  {
-    "type": "Domain",
-    "value": "syhacked.com"
-  },
-  {
-    "type": "Domain",
-    "value": "srebrenica360.com"
-  },
-  {
-    "type": "Domain",
-    "value": "sarajevopodopsadom.com"
-  },
-  {
-    "type": "Domain",
-    "value": "americasvoice.news"
-  },
-  {
-    "type": "Domain",
-    "value": "bbgevent.com"
-  },
-  {
-    "type": "Domain",
-    "value": "bbhub.io"
-  },
-  {
-    "type": "Domain",
-    "value": "bbthat.com"
-  },
-  {
-    "type": "Domain",
-    "value": "visiontimes.it"
-  },
-  {
-    "type": "Domain",
-    "value": "bloomberg.cn"
-  },
-  {
-    "type": "Domain",
-    "value": "bloomberg.com"
-  },
-  {
-    "type": "Domain",
-    "value": "bloomberg.fm"
-  },
-  {
-    "type": "Domain",
-    "value": "bloomberg.tv"
-  },
-  {
-    "type": "Domain",
-    "value": "bloombergapps.com"
-  },
-  {
-    "type": "Domain",
-    "value": "bloombergarcade.com"
-  },
-  {
-    "type": "Domain",
-    "value": "bloombergbeta.com"
-  },
-  {
-    "type": "Domain",
-    "value": "bloombergbna.com"
-  },
-  {
-    "type": "Domain",
-    "value": "bloombergbreakaway.com"
-  },
-  {
-    "type": "Domain",
-    "value": "bloombergbriefs.com"
-  },
-  {
-    "type": "Domain",
-    "value": "bloombergchina.com"
-  },
-  {
-    "type": "Domain",
-    "value": "bloombergenvironment.com"
-  },
-  {
-    "type": "Domain",
-    "value": "bloombergforeducation.com"
-  },
-  {
-    "type": "Domain",
-    "value": "bloomberggovernment.com"
-  },
-  {
-    "type": "Domain",
-    "value": "bloombergindices.com"
-  },
-  {
-    "type": "Domain",
-    "value": "bloombergindustry.com"
-  },
-  {
-    "type": "Domain",
-    "value": "bloomberglabs.com"
-  },
-  {
-    "type": "Domain",
-    "value": "bloomberglaw.com"
-  },
-  {
-    "type": "Domain",
-    "value": "bloomberglive.com"
-  },
-  {
-    "type": "Domain",
-    "value": "bloomberglp.com"
-  },
-  {
-    "type": "Domain",
-    "value": "bloombergmedia.com"
-  },
-  {
-    "type": "Domain",
-    "value": "bloombergnext.com"
-  },
-  {
-    "type": "Domain",
-    "value": "bloombergpolarlake.com"
-  },
-  {
-    "type": "Domain",
-    "value": "bloombergprep.com"
-  },
-  {
-    "type": "Domain",
-    "value": "bloombergquint.com"
-  },
-  {
-    "type": "Domain",
-    "value": "bloombergradio.com"
-  },
-  {
-    "type": "Domain",
-    "value": "bloombergsef.com"
-  },
-  {
-    "type": "Domain",
-    "value": "bloombergspace.com"
-  },
-  {
-    "type": "Domain",
-    "value": "bloombergstatus.com"
-  },
-  {
-    "type": "Domain",
-    "value": "bloombergsurvey.com"
-  },
-  {
-    "type": "Domain",
-    "value": "bloombergtax.com"
-  },
-  {
-    "type": "Domain",
-    "value": "bloombergtax1.com"
-  },
-  {
-    "type": "Domain",
-    "value": "bloombergtaxtech.com"
-  },
-  {
-    "type": "Domain",
-    "value": "bloombergtradingchallenge.com"
-  },
-  {
-    "type": "Domain",
-    "value": "bloombergtv.mn"
-  },
-  {
-    "type": "Domain",
-    "value": "bloombergvault.com"
-  },
-  {
-    "type": "Domain",
-    "value": "bloombergview.com"
-  },
-  {
-    "type": "Domain",
-    "value": "blpcareers.com"
-  },
-  {
-    "type": "Domain",
-    "value": "blpevents.com"
-  },
-  {
-    "type": "Domain",
-    "value": "blpprofessional.com"
-  },
-  {
-    "type": "Domain",
-    "value": "bmia.org"
-  },
-  {
-    "type": "Domain",
-    "value": "bnef.com"
-  },
-  {
-    "type": "Domain",
-    "value": "businessweek.com"
-  },
-  {
-    "type": "Domain",
-    "value": "businessweekmag.com"
-  },
-  {
-    "type": "Domain",
-    "value": "bwbx.io"
-  },
-  {
-    "type": "Domain",
-    "value": "citylab.com"
-  },
-  {
-    "type": "Domain",
-    "value": "gotraffic.net"
-  },
-  {
-    "type": "Domain",
-    "value": "londonmithraeum.com"
-  },
-  {
-    "type": "Domain",
-    "value": "neweconomyforum.com"
-  },
-  {
-    "type": "Domain",
-    "value": "newenergyfinance.com"
-  },
-  {
-    "type": "Domain",
-    "value": "quicktake.video"
-  },
-  {
-    "type": "Domain",
-    "value": "techatbloomberg.com"
-  },
-  {
-    "type": "Domain",
-    "value": "tictoc.video"
-  },
-  {
-    "type": "Domain",
-    "value": "palestineremix.com"
-  },
-  {
-    "type": "Domain",
-    "value": "aljazeera.net"
-  },
-  {
-    "type": "Domain",
-    "value": "aljazeera.com"
-  },
-  {
-    "type": "Domain",
-    "value": "cnbeta.com"
-  },
-  {
-    "type": "Domain",
-    "value": "cnbetacdn.com"
-  },
-  {
-    "type": "Domain",
-    "value": "ajplus.net"
-  },
-  {
-    "type": "Domain",
-    "value": "theinitium.com"
-  },
-  {
-    "type": "Domain",
-    "value": "init.shop"
-  },
-  {
-    "type": "Domain",
-    "value": "thomsonreuters.ru"
-  },
-  {
-    "type": "Domain",
-    "value": "reuters.com"
-  },
-  {
-    "type": "Domain",
-    "value": "elite.com"
-  },
-  {
-    "type": "Domain",
-    "value": "legaltracker.com"
-  },
-  {
-    "type": "Domain",
-    "value": "reuters.tv"
-  },
-  {
-    "type": "Domain",
-    "value": "reutersagency.cn"
-  },
-  {
-    "type": "Domain",
-    "value": "reut.rs"
-  },
-  {
-    "type": "Domain",
-    "value": "thomsonreuters.ca"
-  },
-  {
-    "type": "Domain",
-    "value": "thomsonreuters.cn"
-  },
-  {
-    "type": "Domain",
-    "value": "tr.com"
-  },
-  {
-    "type": "Domain",
-    "value": "tmsnrt.rs"
-  },
-  {
-    "type": "Domain",
-    "value": "thomsonreutersmexico.com"
-  },
-  {
-    "type": "Domain",
-    "value": "aranzadi.es"
-  },
-  {
-    "type": "Domain",
-    "value": "thomsonreuters.com"
-  },
-  {
-    "type": "Domain",
-    "value": "reutersmedia.net"
-  },
-  {
-    "type": "Domain",
-    "value": "corepublishingsolutions.com"
-  },
-  {
-    "type": "Domain",
-    "value": "thomsonreuters.in"
-  },
-  {
-    "type": "Domain",
-    "value": "thomsonreuters.es"
-  },
-  {
-    "type": "Domain",
-    "value": "zwtvusa.com"
-  },
-  {
-    "type": "Domain",
-    "value": "benliton.com"
-  },
-  {
-    "type": "Domain",
-    "value": "lecoin.cc"
-  },
-  {
-    "type": "Domain",
-    "value": "ctwant.com"
-  },
-  {
-    "type": "Domain",
-    "value": "want-media.com"
-  },
-  {
-    "type": "Domain",
-    "value": "loveparents.org"
-  },
-  {
-    "type": "Domain",
-    "value": "chinatimes.com"
-  },
-  {
-    "type": "Domain",
-    "value": "wantblogger.com"
-  },
-  {
-    "type": "Domain",
-    "value": "setn.com"
-  },
-  {
-    "type": "Domain",
-    "value": "nikkei4946.com"
-  },
-  {
-    "type": "Domain",
-    "value": "nikkei.jp"
-  },
-  {
-    "type": "Domain",
-    "value": "nikkei.com"
-  },
-  {
-    "type": "Domain",
-    "value": "nna.jp"
-  },
-  {
-    "type": "Domain",
-    "value": "newsmart.jp"
-  },
-  {
-    "type": "Domain",
-    "value": "tospo-keiba.jp"
-  },
-  {
-    "type": "Domain",
-    "value": "kyodonews.net"
-  },
-  {
-    "type": "Domain",
-    "value": "privilege.tw"
-  },
-  {
-    "type": "Domain",
-    "value": "atnext.com"
-  },
-  {
-    "type": "Domain",
-    "value": "tomonews.net"
-  },
-  {
-    "type": "Domain",
-    "value": "appledaily.hk"
-  },
-  {
-    "type": "Domain",
-    "value": "appledaily.com"
-  },
-  {
-    "type": "Domain",
-    "value": "sharpdaily.tw"
-  },
-  {
-    "type": "Domain",
-    "value": "twnextdigital.com"
-  },
-  {
-    "type": "Domain",
-    "value": "bestmallawards.com"
-  },
-  {
-    "type": "Domain",
-    "value": "applefruity.com"
-  },
-  {
-    "type": "Domain",
-    "value": "privilege.hk"
-  },
-  {
-    "type": "Domain",
-    "value": "next.hk"
-  },
-  {
-    "type": "Domain",
-    "value": "omoplanet.com"
-  },
-  {
-    "type": "Domain",
-    "value": "nextwork.tw"
-  },
-  {
-    "type": "Domain",
-    "value": "nextwork.hk"
-  },
-  {
-    "type": "Domain",
-    "value": "nextmgz.com"
-  },
-  {
-    "type": "Domain",
-    "value": "nextmedia.com"
-  },
-  {
-    "type": "Domain",
-    "value": "kyodonews.jp"
-  },
-  {
-    "type": "Domain",
-    "value": "kyodoimages.jp"
-  },
-  {
-    "type": "Domain",
-    "value": "kyodo-d.jp"
-  },
-  {
-    "type": "Domain",
-    "value": "kyodo-d.info"
-  },
-  {
-    "type": "Domain",
-    "value": "47news.jp"
-  },
-  {
-    "type": "Domain",
-    "value": "47gyosei.jp"
-  },
-  {
-    "type": "Domain",
-    "value": "forbesimg.com"
-  },
-  {
-    "type": "Domain",
-    "value": "forbes.com"
-  },
-  {
-    "type": "Domain",
-    "value": "theguardiandns.com"
-  },
-  {
-    "type": "Domain",
-    "value": "theguardian.com"
-  },
-  {
-    "type": "Domain",
-    "value": "guardianapis.com"
-  },
-  {
-    "type": "Domain",
-    "value": "gu-web.net"
+    "value": "dev-guardianapis.com"
   },
   {
     "type": "Domain",
@@ -4117,823 +4121,459 @@
   },
   {
     "type": "Domain",
-    "value": "dev-guardianapis.com"
+    "value": "gu-web.net"
   },
   {
     "type": "Domain",
-    "value": "i-scmp.com"
+    "value": "guardianapis.com"
   },
   {
     "type": "Domain",
-    "value": "scmp.com"
+    "value": "theguardian.com"
   },
   {
     "type": "Domain",
-    "value": "c-span.org"
+    "value": "theguardiandns.com"
   },
   {
     "type": "Domain",
-    "value": "c-spanvideo.org"
+    "value": "ntdtv.se"
   },
   {
     "type": "Domain",
-    "value": "sankei-ad-info.com"
+    "value": "ntdtv.ca"
   },
   {
     "type": "Domain",
-    "value": "innovations-i.com"
+    "value": "ntdtv-dc.com"
   },
   {
     "type": "Domain",
-    "value": "sankei-ad.net"
+    "value": "chuokoron.jp"
   },
   {
     "type": "Domain",
-    "value": "ironna.jp"
+    "value": "fujinkoron.jp"
   },
   {
     "type": "Domain",
-    "value": "tvnaviweb.jp"
+    "value": "hochi.news"
   },
   {
     "type": "Domain",
-    "value": "japan-forward.com"
+    "value": "yomilogi.com"
   },
   {
     "type": "Domain",
-    "value": "keiba.net"
+    "value": "the-japan-news.com"
   },
   {
     "type": "Domain",
-    "value": "business-i.jp"
+    "value": "ntdimg.com"
   },
   {
     "type": "Domain",
-    "value": "seiron-sankei.com"
+    "value": "ntdca.com"
   },
   {
     "type": "Domain",
-    "value": "mostly.jp"
+    "value": "ntd.tv"
   },
   {
     "type": "Domain",
-    "value": "sankei.com"
+    "value": "ntd.com"
   },
   {
     "type": "Domain",
-    "value": "ign.jp"
+    "value": "minghui.org"
   },
   {
     "type": "Domain",
-    "value": "metropolitana.tokyo"
+    "value": "lagranepoca.com"
   },
   {
     "type": "Domain",
-    "value": "sankei-call.jp"
+    "value": "etviet.com"
   },
   {
     "type": "Domain",
-    "value": "seasidestory.tokyo"
+    "value": "erabaru.net"
   },
   {
     "type": "Domain",
-    "value": "sanspo.com"
+    "value": "epochweekly.com"
   },
   {
     "type": "Domain",
-    "value": "sankeishop.jp"
+    "value": "axios.com"
   },
   {
     "type": "Domain",
-    "value": "sankei-kurashi.com"
+    "value": "bbc-reporting-api.app"
   },
   {
     "type": "Domain",
-    "value": "sankei-shougakukai.jp"
+    "value": "bbcverticals.com"
   },
   {
     "type": "Domain",
-    "value": "sankei-tours.com"
+    "value": "bbc.com"
   },
   {
     "type": "Domain",
-    "value": "sankeibiz.jp"
+    "value": "bbc.in"
   },
   {
     "type": "Domain",
-    "value": "881903.com"
+    "value": "bbcpersian.com"
   },
   {
     "type": "Domain",
-    "value": "newsmaxtv.com"
+    "value": "epochweek.com"
   },
   {
     "type": "Domain",
-    "value": "newsmax.in"
+    "value": "epochtimestr.com"
   },
   {
     "type": "Domain",
-    "value": "newsmax.com"
+    "value": "epochtimeshk.org"
   },
   {
     "type": "Domain",
-    "value": "andysparis.com"
+    "value": "epochtimes.se"
   },
   {
     "type": "Domain",
-    "value": "harpercollins.ca"
+    "value": "ntdtv.kr"
   },
   {
     "type": "Domain",
-    "value": "wsjmediakit.com"
+    "value": "epochtimes.pl"
   },
   {
     "type": "Domain",
-    "value": "ippstatic.com"
+    "value": "epochtimes.nl"
   },
   {
     "type": "Domain",
-    "value": "startupjournal.com"
+    "value": "boxun.com"
   },
   {
     "type": "Domain",
-    "value": "neow.in"
+    "value": "bowenpress.com"
   },
   {
     "type": "Domain",
-    "value": "neowin.net"
+    "value": "theepochtimes.com"
   },
   {
     "type": "Domain",
-    "value": "aweencore.com"
+    "value": "upholdjustice.org"
   },
   {
     "type": "Domain",
-    "value": "awetv.com"
+    "value": "bannedbook.org"
   },
   {
     "type": "Domain",
-    "value": "herringnetwork.com"
+    "value": "broadpressinc.com"
   },
   {
     "type": "Domain",
-    "value": "oanencore.com"
+    "value": "chinaaffairs.org"
   },
   {
     "type": "Domain",
-    "value": "oann.com"
+    "value": "dafahao.com"
   },
   {
     "type": "Domain",
-    "value": "nypostreprints.com"
+    "value": "donatecarsoh.org"
   },
   {
     "type": "Domain",
-    "value": "reastatic.net"
+    "value": "dongtaiwang.com"
   },
   {
     "type": "Domain",
-    "value": "adhelpnews.com"
+    "value": "falundafa.org"
   },
   {
     "type": "Domain",
-    "value": "api.news"
+    "value": "falundafamuseum.org"
   },
   {
     "type": "Domain",
-    "value": "thesun.ie"
+    "value": "falungong.club"
   },
   {
     "type": "Domain",
-    "value": "bigcharts.com"
+    "value": "faluninfo.net"
   },
   {
     "type": "Domain",
-    "value": "talksport.com"
+    "value": "fawanghuihui.org"
   },
   {
     "type": "Domain",
-    "value": "page3.com"
+    "value": "fayuanbooks.com"
   },
   {
     "type": "Domain",
-    "value": "dreamteamfc.com"
+    "value": "fgmtv.org"
   },
   {
     "type": "Domain",
-    "value": "rea.global"
+    "value": "ganjing.com"
   },
   {
     "type": "Domain",
-    "value": "rea.design"
+    "value": "ganjing.world"
   },
   {
     "type": "Domain",
-    "value": "rea-group.com"
+    "value": "ganjingworld.com"
   },
   {
     "type": "Domain",
-    "value": "wsj.com"
+    "value": "guangming.org"
   },
   {
     "type": "Domain",
-    "value": "rea.tech"
+    "value": "mhradio.org"
   },
   {
     "type": "Domain",
-    "value": "fnlondon.com"
+    "value": "ninecommentaries.com"
   },
   {
     "type": "Domain",
-    "value": "thinkofliving.com"
+    "value": "starp2p.com"
   },
   {
     "type": "Domain",
-    "value": "myfun.com"
+    "value": "tiandixing.org"
   },
   {
     "type": "Domain",
-    "value": "moveaws.com"
+    "value": "tiantibooks.org"
   },
   {
     "type": "Domain",
-    "value": "huanyuju.com"
+    "value": "tuidang.org"
   },
   {
     "type": "Domain",
-    "value": "move.com"
+    "value": "epochtimes.com"
   },
   {
     "type": "Domain",
-    "value": "makaan.com"
+    "value": "wujieliulan.com"
   },
   {
     "type": "Domain",
-    "value": "mansionglobal.com"
+    "value": "xinsheng.net"
   },
   {
     "type": "Domain",
-    "value": "marketwatch.com"
+    "value": "yuanming.net"
   },
   {
     "type": "Domain",
-    "value": "rea.io"
+    "value": "zhengjian.org"
   },
   {
     "type": "Domain",
-    "value": "rumah123.com"
+    "value": "zhengwunet.org"
   },
   {
     "type": "Domain",
-    "value": "iproperty.com"
+    "value": "zhenxiang.biz"
   },
   {
     "type": "Domain",
-    "value": "rea-asia.com"
+    "value": "zhuichaguoji.org"
   },
   {
     "type": "Domain",
-    "value": "smartexpos.com"
+    "value": "shenyun.com"
   },
   {
     "type": "Domain",
-    "value": "housingcdn.com"
+    "value": "shenyun.org"
   },
   {
     "type": "Domain",
-    "value": "newsamerica.com"
+    "value": "shenyuncreations.com"
   },
   {
     "type": "Domain",
-    "value": "housing.com"
+    "value": "shenyunperformingarts.org"
   },
   {
     "type": "Domain",
-    "value": "proptiger.com"
+    "value": "bayvoice.net"
   },
   {
     "type": "Domain",
-    "value": "realtor.com"
+    "value": "ozvoice.org"
   },
   {
     "type": "Domain",
-    "value": "nypost.help"
+    "value": "sohcradio.com"
   },
   {
     "type": "Domain",
-    "value": "nypost.com"
+    "value": "sohfrance.org"
   },
   {
     "type": "Domain",
-    "value": "newscorp.com"
+    "value": "soundofhope.eu"
   },
   {
     "type": "Domain",
-    "value": "newscorpaustralia.com"
+    "value": "soundofhope.kr"
   },
   {
     "type": "Domain",
-    "value": "harpercollinsadvantage.com"
+    "value": "soundofhope.org"
   },
   {
     "type": "Domain",
-    "value": "harpercollinschristian.com"
+    "value": "wanokokorosoh.com"
   },
   {
     "type": "Domain",
-    "value": "wsj.net"
+    "value": "epochtimes.eu"
   },
   {
     "type": "Domain",
-    "value": "newssyndication.com"
+    "value": "ntdtv.ru"
   },
   {
     "type": "Domain",
-    "value": "newsukadops.com"
+    "value": "edninfo.com"
   },
   {
     "type": "Domain",
-    "value": "harpercollinsspeakersbureau.com"
+    "value": "epoch.cloud"
   },
   {
     "type": "Domain",
-    "value": "nlm.io"
+    "value": "velkaepocha.cz"
   },
   {
     "type": "Domain",
-    "value": "shelfstuff.com"
+    "value": "epochbase.com"
   },
   {
     "type": "Domain",
-    "value": "bookclubgirl.com"
+    "value": "epochbuy.com"
   },
   {
     "type": "Domain",
-    "value": "harperapps.com"
+    "value": "epochcar.com"
   },
   {
     "type": "Domain",
-    "value": "storyful.com"
+    "value": "epochhk.com"
   },
   {
     "type": "Domain",
-    "value": "harperacademic.com"
+    "value": "epochmall.com"
   },
   {
     "type": "Domain",
-    "value": "epicreads.com"
+    "value": "epochmediagroup.com"
   },
   {
     "type": "Domain",
-    "value": "hcpdts.com"
+    "value": "epochshop.com"
   },
   {
     "type": "Domain",
-    "value": "collins.in"
+    "value": "epochstories.com"
   },
   {
     "type": "Domain",
-    "value": "librarylovefest.com"
+    "value": "epochtime.com"
   },
   {
     "type": "Domain",
-    "value": "harpercollins.com"
+    "value": "renminbao.com"
   },
   {
     "type": "Domain",
-    "value": "dowjoneson.com"
+    "value": "epochtimes-romania.com"
   },
   {
     "type": "Domain",
-    "value": "dowjones.io"
+    "value": "epochtimes.bg"
   },
   {
     "type": "Domain",
-    "value": "wsj.jobs"
+    "value": "dajiyuan.com"
   },
   {
     "type": "Domain",
-    "value": "dowjones.com"
+    "value": "theepochtimessubscribe.com"
   },
   {
     "type": "Domain",
-    "value": "wireless.radio"
+    "value": "epochtimes.ru"
   },
   {
     "type": "Domain",
-    "value": "djreprints.com"
+    "value": "bannedbook.net"
   },
   {
     "type": "Domain",
-    "value": "thetimes.ie"
+    "value": "epochtimes-bg.com"
   },
   {
     "type": "Domain",
-    "value": "timesmembership.com"
+    "value": "persianepochtimes.com"
   },
   {
     "type": "Domain",
-    "value": "wsjbarrons.com"
+    "value": "ntdvn.com"
   },
   {
     "type": "Domain",
-    "value": "barrons.com"
+    "value": "ntdvideo.tw"
   },
   {
     "type": "Domain",
-    "value": "barrons-conferences.com"
+    "value": "ntdtvla.com"
   },
   {
     "type": "Domain",
-    "value": "barrons-advisor.com"
+    "value": "ntdtv.org"
   },
   {
     "type": "Domain",
-    "value": "wsjwine.com"
+    "value": "dajiyuan.eu"
   },
   {
     "type": "Domain",
-    "value": "wsjshop.com"
+    "value": "aboluowang.com"
   },
   {
     "type": "Domain",
-    "value": "wsjplus.com"
+    "value": "epochtimes.fr"
   },
   {
     "type": "Domain",
-    "value": "careerjournal.com"
+    "value": "epochtimes.it"
   },
   {
     "type": "Domain",
-    "value": "collegejournal.com"
+    "value": "epochtimes.jp"
   },
   {
     "type": "Domain",
-    "value": "opinionjournal.com"
-  },
-  {
-    "type": "Domain",
-    "value": "foxsports.com.ec"
-  },
-  {
-    "type": "Domain",
-    "value": "zakzak.co.jp"
-  },
-  {
-    "type": "Domain",
-    "value": "iza.ne.jp"
-  },
-  {
-    "type": "Domain",
-    "value": "sankei-books.co.jp"
-  },
-  {
-    "type": "Domain",
-    "value": "sankei-digital.co.jp"
-  },
-  {
-    "type": "Domain",
-    "value": "bestrecipes.com.au"
-  },
-  {
-    "type": "Domain",
-    "value": "adelaidenow.com.au"
-  },
-  {
-    "type": "Domain",
-    "value": "thesundaytimes.co.uk"
-  },
-  {
-    "type": "Domain",
-    "value": "the-tls.co.uk"
-  },
-  {
-    "type": "Domain",
-    "value": "sportswomenoftheyear.co.uk"
-  },
-  {
-    "type": "Domain",
-    "value": "sportswomanoftheyear.co.uk"
-  },
-  {
-    "type": "Domain",
-    "value": "mytimesplus.co.uk"
-  },
-  {
-    "type": "Domain",
-    "value": "driving.co.uk"
-  },
-  {
-    "type": "Domain",
-    "value": "wirelessgroup.co.uk"
-  },
-  {
-    "type": "Domain",
-    "value": "whimn.com.au"
-  },
-  {
-    "type": "Domain",
-    "value": "weeklytimesnow.com.au"
-  },
-  {
-    "type": "Domain",
-    "value": "townsvillebulletin.com.au"
-  },
-  {
-    "type": "Domain",
-    "value": "themessengeradelaide.com.au"
-  },
-  {
-    "type": "Domain",
-    "value": "themercury.com.au"
-  },
-  {
-    "type": "Domain",
-    "value": "newscdn.com.au"
-  },
-  {
-    "type": "Domain",
-    "value": "theaustralian.com.au"
-  },
-  {
-    "type": "Domain",
-    "value": "taste.com.au"
-  },
-  {
-    "type": "Domain",
-    "value": "supercoach.com.au"
-  },
-  {
-    "type": "Domain",
-    "value": "savvyshopper.net.au"
-  },
-  {
-    "type": "Domain",
-    "value": "placemyad.com.au"
-  },
-  {
-    "type": "Domain",
-    "value": "ntnews.com.au"
-  },
-  {
-    "type": "Domain",
-    "value": "newsxtend.com.au"
-  },
-  {
-    "type": "Domain",
-    "value": "newsprinters.co.uk"
-  },
-  {
-    "type": "Domain",
-    "value": "newsprestigenetwork.com.au"
-  },
-  {
-    "type": "Domain",
-    "value": "newslicensing.co.uk"
-  },
-  {
-    "type": "Domain",
-    "value": "harpercollinschildrensbooks.co.uk"
-  },
-  {
-    "type": "Domain",
-    "value": "harpercollins.com.au"
-  },
-  {
-    "type": "Domain",
-    "value": "collins.co.uk"
-  },
-  {
-    "type": "Domain",
-    "value": "egmontbooks.co.uk"
-  },
-  {
-    "type": "Domain",
-    "value": "harpercollins.co.uk"
-  },
-  {
-    "type": "Domain",
-    "value": "natgeokidsbooks.co.uk"
-  },
-  {
-    "type": "Domain",
-    "value": "harpercollins.co.in"
-  },
-  {
-    "type": "Domain",
-    "value": "newsconcierge.com.au"
-  },
-  {
-    "type": "Domain",
-    "value": "newscommercial.co.uk"
-  },
-  {
-    "type": "Domain",
-    "value": "1degree.com.au"
-  },
-  {
-    "type": "Domain",
-    "value": "thechronicle.com.au"
-  },
-  {
-    "type": "Domain",
-    "value": "goldcoastbulletin.com.au"
-  },
-  {
-    "type": "Domain",
-    "value": "thetimes.co.uk"
-  },
-  {
-    "type": "Domain",
-    "value": "cnivogue.com.au"
-  },
-  {
-    "type": "Domain",
-    "value": "newsadds.com.au"
-  },
-  {
-    "type": "Domain",
-    "value": "news.net.au"
-  },
-  {
-    "type": "Domain",
-    "value": "news.com.au"
-  },
-  {
-    "type": "Domain",
-    "value": "news.co.uk"
-  },
-  {
-    "type": "Domain",
-    "value": "newcastlenewslocal.com.au"
-  },
-  {
-    "type": "Domain",
-    "value": "nativeincolour.com.au"
-  },
-  {
-    "type": "Domain",
-    "value": "kidspot.com.au"
-  },
-  {
-    "type": "Domain",
-    "value": "intheknow.com.au"
-  },
-  {
-    "type": "Domain",
-    "value": "heraldsun.com.au"
-  },
-  {
-    "type": "Domain",
-    "value": "newscareers.co.uk"
-  },
-  {
-    "type": "Domain",
-    "value": "geelongadvertiser.com.au"
-  },
-  {
-    "type": "Domain",
-    "value": "escape.com.au"
-  },
-  {
-    "type": "Domain",
-    "value": "delicious.com.au"
-  },
-  {
-    "type": "Domain",
-    "value": "dailytelegraph.com.au"
-  },
-  {
-    "type": "Domain",
-    "value": "couriermail.com.au"
-  },
-  {
-    "type": "Domain",
-    "value": "newsapi.com.au"
-  },
-  {
-    "type": "Domain",
-    "value": "spacely.com.au"
-  },
-  {
-    "type": "Domain",
-    "value": "hackday.com.au"
-  },
-  {
-    "type": "Domain",
-    "value": "realcommercial.com.au"
-  },
-  {
-    "type": "Domain",
-    "value": "realestate.com.au"
-  },
-  {
-    "type": "Domain",
-    "value": "flatmates.com.au"
-  },
-  {
-    "type": "Domain",
-    "value": "iproperty.com.sg"
-  },
-  {
-    "type": "Domain",
-    "value": "iproperty.com.my"
-  },
-  {
-    "type": "Domain",
-    "value": "inventorship.com.au"
-  },
-  {
-    "type": "Domain",
-    "value": "smartline.com.au"
-  },
-  {
-    "type": "Domain",
-    "value": "hometrack.com.au"
-  },
-  {
-    "type": "Domain",
-    "value": "squarefoot.com.hk"
-  },
-  {
-    "type": "Domain",
-    "value": "property.com.au"
-  },
-  {
-    "type": "Domain",
-    "value": "cairnspost.com.au"
-  },
-  {
-    "type": "Domain",
-    "value": "bridge-studio.co.uk"
-  },
-  {
-    "type": "Domain",
-    "value": "bodyandsoul.com.au"
-  },
-  {
-    "type": "Domain",
-    "value": "whereilive.com.au"
-  },
-  {
-    "type": "Domain",
-    "value": "sunbingo.co.uk"
-  },
-  {
-    "type": "Domain",
-    "value": "thescottishsun.co.uk"
-  },
-  {
-    "type": "Domain",
-    "value": "thesun.co.uk"
-  },
-  {
-    "type": "Domain",
-    "value": "sankei-eiga.co.jp"
-  },
-  {
-    "type": "Domain",
-    "value": "sankei-kaihatsu.co.jp"
-  },
-  {
-    "type": "Domain",
-    "value": "sankei.co.jp"
-  },
-  {
-    "type": "Domain",
-    "value": "knowswho.co.jp"
-  },
-  {
-    "type": "Domain",
-    "value": "appledaily.com.hk"
-  },
-  {
-    "type": "Domain",
-    "value": "appledaily.com.tw"
-  },
-  {
-    "type": "Domain",
-    "value": "applehealth.com.hk"
-  },
-  {
-    "type": "Domain",
-    "value": "deluxe.com.hk"
-  },
-  {
-    "type": "Domain",
-    "value": "eracom.com.tw"
-  },
-  {
-    "type": "Domain",
-    "value": "nextdigital.com.hk"
-  },
-  {
-    "type": "Domain",
-    "value": "nxtdig.com.tw"
-  },
-  {
-    "type": "Domain",
-    "value": "nxtdig.com.hk"
+    "value": "yomikyo.or.jp"
   },
   {
     "type": "Domain",
@@ -4941,7 +4581,55 @@
   },
   {
     "type": "Domain",
-    "value": "guim.co.uk"
+    "value": "bbc.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "bbc.mp-pxcdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bbcmedia.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "bbci.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "bbc.net.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "yomiuri.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "yomiuri-systec.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "yomiuri-shimbun.pressreader.com"
+  },
+  {
+    "type": "Domain",
+    "value": "yomiuri-ryokou.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "yomiuri-johkai.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "ryokoyomiuri.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "ync.ne.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "sankei-kaihatsu.co.jp"
   },
   {
     "type": "Domain",
@@ -4949,39 +4637,59 @@
   },
   {
     "type": "Domain",
-    "value": "nextdigital.com.tw"
+    "value": "guim.co.uk"
   },
   {
     "type": "Domain",
-    "value": "nextfilm.com.hk"
+    "value": "yes123.com.tw"
   },
   {
     "type": "Domain",
-    "value": "nextwork.com.tw"
+    "value": "umagazine.com.hk"
   },
   {
     "type": "Domain",
-    "value": "nextwork.com.hk"
+    "value": "ulifestyle.com.hk"
   },
   {
     "type": "Domain",
-    "value": "nexttv.com.tw"
+    "value": "ettrade.com.hk"
   },
   {
     "type": "Domain",
-    "value": "nextplus.com.hk"
+    "value": "etpress.com.hk"
   },
   {
     "type": "Domain",
-    "value": "nextmag.com.tw"
+    "value": "etnet.com.hk"
   },
   {
     "type": "Domain",
-    "value": "nextmedia.com.tw"
+    "value": "etbc.com.hk"
   },
   {
     "type": "Domain",
-    "value": "tokyo-sports.co.jp"
+    "value": "eprc.com.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "apexprint.com.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "huffingtonpost.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "huffingtonpost.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "huffingtonpost.co.za"
+  },
+  {
+    "type": "Domain",
+    "value": "huffingtonpost.com.mx"
   },
   {
     "type": "Domain",
@@ -5005,23 +4713,7 @@
   },
   {
     "type": "Domain",
-    "value": "nikkei-cnbc.co.jp"
-  },
-  {
-    "type": "Domain",
-    "value": "nikkei.co.jp"
-  },
-  {
-    "type": "Domain",
-    "value": "nikkeibp.co.jp"
-  },
-  {
-    "type": "Domain",
     "value": "thomsonreuters.com.br"
-  },
-  {
-    "type": "Domain",
-    "value": "settv.com.tw"
   },
   {
     "type": "Domain",
@@ -5034,6 +4726,62 @@
   {
     "type": "Domain",
     "value": "thomsonreuters.com.my"
+  },
+  {
+    "type": "Domain",
+    "value": "ntdtv.co.kr"
+  },
+  {
+    "type": "Domain",
+    "value": "ntdtv.co.il"
+  },
+  {
+    "type": "Domain",
+    "value": "epochtimes.com.br"
+  },
+  {
+    "type": "Domain",
+    "value": "epochtimes.com.sg"
+  },
+  {
+    "type": "Domain",
+    "value": "epochtimes.com.tw"
+  },
+  {
+    "type": "Domain",
+    "value": "epochtimes.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "epochtimes.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "epochtimes.com.ua"
+  },
+  {
+    "type": "Domain",
+    "value": "yuming.qxbbs.org"
+  },
+  {
+    "type": "Domain",
+    "value": "epochtimes.co.il"
+  },
+  {
+    "type": "Domain",
+    "value": "ntdtv.com.tw"
+  },
+  {
+    "type": "Domain",
+    "value": "falundafa.org.tw"
+  },
+  {
+    "type": "Domain",
+    "value": "epochtimes.co.kr"
+  },
+  {
+    "type": "Domain",
+    "value": "epoch.org.il"
   },
   {
     "type": "Domain",
@@ -5057,227 +4805,7 @@
   },
   {
     "type": "Domain",
-    "value": "infotimes.com.tw"
-  },
-  {
-    "type": "Domain",
-    "value": "ctitv.com.tw"
-  },
-  {
-    "type": "Domain",
-    "value": "ctv.com.tw"
-  },
-  {
-    "type": "Domain",
-    "value": "ctee.com.tw"
-  },
-  {
-    "type": "Domain",
-    "value": "chinatimes.com.tw"
-  },
-  {
-    "type": "Domain",
-    "value": "superstation.com.tw"
-  },
-  {
-    "type": "Domain",
-    "value": "cnbeta.com.tw"
-  },
-  {
-    "type": "Domain",
-    "value": "bloomberg.com.br"
-  },
-  {
-    "type": "Domain",
-    "value": "bloomberg.co.kr"
-  },
-  {
-    "type": "Domain",
-    "value": "bloomberg.co.jp"
-  },
-  {
-    "type": "Domain",
-    "value": "yourtv.com.au"
-  },
-  {
-    "type": "Domain",
-    "value": "static9.net.au"
-  },
-  {
-    "type": "Domain",
-    "value": "ninemsn.com.au"
-  },
-  {
-    "type": "Domain",
-    "value": "ltn.com.tw"
-  },
-  {
-    "type": "Domain",
-    "value": "yes123.com.tw"
-  },
-  {
-    "type": "Domain",
-    "value": "ninemediaroom.com.au"
-  },
-  {
-    "type": "Domain",
-    "value": "nineentertainmentco.com.au"
-  },
-  {
-    "type": "Domain",
-    "value": "nineentertainment.com.au"
-  },
-  {
-    "type": "Domain",
-    "value": "nine.com.au"
-  },
-  {
-    "type": "Domain",
-    "value": "9nation.com.au"
-  },
-  {
-    "type": "Domain",
-    "value": "ftv.com.tw"
-  },
-  {
-    "type": "Domain",
-    "value": "ftvnews.com.tw"
-  },
-  {
-    "type": "Domain",
-    "value": "mi9.com.au"
-  },
-  {
-    "type": "Domain",
-    "value": "freeviewplus.net.au"
-  },
-  {
-    "type": "Domain",
-    "value": "9news.com.au"
-  },
-  {
-    "type": "Domain",
-    "value": "9now.com.au"
-  },
-  {
-    "type": "Domain",
     "value": "sponichi.co.jp"
-  },
-  {
-    "type": "Domain",
-    "value": "udn.com.tw"
-  },
-  {
-    "type": "Domain",
-    "value": "epoch.org.il"
-  },
-  {
-    "type": "Domain",
-    "value": "epochtimes.co.kr"
-  },
-  {
-    "type": "Domain",
-    "value": "falundafa.org.tw"
-  },
-  {
-    "type": "Domain",
-    "value": "ntdtv.com.tw"
-  },
-  {
-    "type": "Domain",
-    "value": "epochtimes.co.il"
-  },
-  {
-    "type": "Domain",
-    "value": "yuming.qxbbs.org"
-  },
-  {
-    "type": "Domain",
-    "value": "epochtimes.com.ua"
-  },
-  {
-    "type": "Domain",
-    "value": "epochtimes.com.au"
-  },
-  {
-    "type": "Domain",
-    "value": "epochtimes.co.uk"
-  },
-  {
-    "type": "Domain",
-    "value": "epochtimes.com.tw"
-  },
-  {
-    "type": "Domain",
-    "value": "epochtimes.com.sg"
-  },
-  {
-    "type": "Domain",
-    "value": "epochtimes.com.br"
-  },
-  {
-    "type": "Domain",
-    "value": "cabletv.com.hk"
-  },
-  {
-    "type": "Domain",
-    "value": "now.com.hk"
-  },
-  {
-    "type": "Domain",
-    "value": "guangming.com.my"
-  },
-  {
-    "type": "Domain",
-    "value": "sinchew.com.my"
-  },
-  {
-    "type": "Domain",
-    "value": "soccerfanz.com.my"
-  },
-  {
-    "type": "Domain",
-    "value": "chinapress.com.my"
-  },
-  {
-    "type": "Domain",
-    "value": "thestandard.com.hk"
-  },
-  {
-    "type": "Domain",
-    "value": "eastweek.com.hk"
-  },
-  {
-    "type": "Domain",
-    "value": "jobmarket.com.hk"
-  },
-  {
-    "type": "Domain",
-    "value": "pcmarket.com.hk"
-  },
-  {
-    "type": "Domain",
-    "value": "easttouch.com.hk"
-  },
-  {
-    "type": "Domain",
-    "value": "huffingtonpost.com.au"
-  },
-  {
-    "type": "Domain",
-    "value": "investorschronicle.co.uk"
-  },
-  {
-    "type": "Domain",
-    "value": "huffingtonpost.co.uk"
-  },
-  {
-    "type": "Domain",
-    "value": "huffingtonpost.co.za"
-  },
-  {
-    "type": "Domain",
-    "value": "huffingtonpost.com.mx"
   },
   {
     "type": "Domain",
@@ -5285,63 +4813,143 @@
   },
   {
     "type": "Domain",
-    "value": "apexprint.com.hk"
+    "value": "tokyo-sports.co.jp"
   },
   {
     "type": "Domain",
-    "value": "eprc.com.hk"
+    "value": "superstation.com.tw"
   },
   {
     "type": "Domain",
-    "value": "etbc.com.hk"
+    "value": "chinatimes.com.tw"
   },
   {
     "type": "Domain",
-    "value": "etnet.com.hk"
+    "value": "ctee.com.tw"
   },
   {
     "type": "Domain",
-    "value": "etpress.com.hk"
+    "value": "ctv.com.tw"
   },
   {
     "type": "Domain",
-    "value": "ettrade.com.hk"
+    "value": "ctitv.com.tw"
   },
   {
     "type": "Domain",
-    "value": "ulifestyle.com.hk"
+    "value": "infotimes.com.tw"
   },
   {
     "type": "Domain",
-    "value": "umagazine.com.hk"
+    "value": "udn.com.tw"
   },
   {
     "type": "Domain",
-    "value": "zaobao.com.sg"
+    "value": "now.com.hk"
   },
   {
     "type": "Domain",
-    "value": "tvmedia.net.au"
+    "value": "cabletv.com.hk"
   },
   {
     "type": "Domain",
-    "value": "bigbigchannel.com.hk"
+    "value": "cnbeta.com.tw"
   },
   {
     "type": "Domain",
-    "value": "tvbeventpower.com.hk"
+    "value": "ftvnews.com.tw"
   },
   {
     "type": "Domain",
-    "value": "tvbanywhere.com.sg"
+    "value": "ftv.com.tw"
   },
   {
     "type": "Domain",
-    "value": "tvb.com.au"
+    "value": "investorschronicle.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "themessengeradelaide.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "bnext.com.tw"
+  },
+  {
+    "type": "Domain",
+    "value": "sankei.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "ltn.com.tw"
   },
   {
     "type": "Domain",
     "value": "foxsports.com.br"
+  },
+  {
+    "type": "Domain",
+    "value": "nextmedia.com.tw"
+  },
+  {
+    "type": "Domain",
+    "value": "myradio.com.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "nextplus.com.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "nexttv.com.tw"
+  },
+  {
+    "type": "Domain",
+    "value": "nextwork.com.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "nextwork.com.tw"
+  },
+  {
+    "type": "Domain",
+    "value": "nextfilm.com.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "nextdigital.com.tw"
+  },
+  {
+    "type": "Domain",
+    "value": "nxtdig.com.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "nxtdig.com.tw"
+  },
+  {
+    "type": "Domain",
+    "value": "nextdigital.com.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "eracom.com.tw"
+  },
+  {
+    "type": "Domain",
+    "value": "deluxe.com.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "applehealth.com.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "appledaily.com.tw"
+  },
+  {
+    "type": "Domain",
+    "value": "appledaily.com.hk"
   },
   {
     "type": "Domain",
@@ -5353,7 +4961,7 @@
   },
   {
     "type": "Domain",
-    "value": "bnext.com.tw"
+    "value": "foxsports.com.ec"
   },
   {
     "type": "Domain",
@@ -5369,23 +4977,7 @@
   },
   {
     "type": "Domain",
-    "value": "businessinsider.co.za"
-  },
-  {
-    "type": "Domain",
-    "value": "businessinsider.com.pl"
-  },
-  {
-    "type": "Domain",
-    "value": "businessinsider.com.au"
-  },
-  {
-    "type": "Domain",
     "value": "foxsports.net.br"
-  },
-  {
-    "type": "Domain",
-    "value": "myradio.com.hk"
   },
   {
     "type": "Domain",
@@ -5413,15 +5005,511 @@
   },
   {
     "type": "Domain",
-    "value": "ntdtv.co.il"
+    "value": "mailonline.co.uk"
   },
   {
     "type": "Domain",
-    "value": "ntdtv.co.kr"
+    "value": "thisismoney.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "dailymail.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "sankei-eiga.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "anm.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "mailonsunday.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "dmgmediaprivacy.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "dailymail.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "zaobao.com.sg"
+  },
+  {
+    "type": "Domain",
+    "value": "thestandard.com.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "eastweek.com.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "jobmarket.com.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "pcmarket.com.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "easttouch.com.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "zakzak.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "iza.ne.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "sankei-books.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "sankei-digital.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "metro.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "nextmag.com.tw"
+  },
+  {
+    "type": "Domain",
+    "value": "bidi.net.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "iproperty.com.sg"
+  },
+  {
+    "type": "Domain",
+    "value": "property.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "squarefoot.com.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "hometrack.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "smartline.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "inventorship.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "iproperty.com.my"
+  },
+  {
+    "type": "Domain",
+    "value": "knowswho.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "flatmates.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "realestate.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "realcommercial.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "hackday.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "spacely.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "1degree.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "adelaidenow.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "bestrecipes.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "bodyandsoul.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "bridge-studio.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "cairnspost.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "cnivogue.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "couriermail.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "dailytelegraph.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "delicious.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "escape.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "bloomberg.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "bloomberg.co.kr"
+  },
+  {
+    "type": "Domain",
+    "value": "bloomberg.com.br"
+  },
+  {
+    "type": "Domain",
+    "value": "geelongadvertiser.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "goldcoastbulletin.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "heraldsun.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "intheknow.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "kidspot.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "nativeincolour.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "newcastlenewslocal.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "news.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "news.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "news.net.au"
+  },
+  {
+    "type": "Domain",
+    "value": "newsadds.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "newsapi.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "harpercollins.co.in"
+  },
+  {
+    "type": "Domain",
+    "value": "natgeokidsbooks.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "harpercollins.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "nikkei-cnbc.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "nikkei.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "nikkeibp.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "egmontbooks.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "collins.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "harpercollins.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "harpercollinschildrensbooks.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "newscareers.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "newscdn.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "newscommercial.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "newsconcierge.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "tvb.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "tvbanywhere.com.sg"
+  },
+  {
+    "type": "Domain",
+    "value": "tvbeventpower.com.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "bigbigchannel.com.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "tvmedia.net.au"
+  },
+  {
+    "type": "Domain",
+    "value": "newslicensing.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "newsprestigenetwork.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "9now.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "9news.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "freeviewplus.net.au"
+  },
+  {
+    "type": "Domain",
+    "value": "mi9.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "9nation.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "nine.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "nineentertainment.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "nineentertainmentco.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "ninemediaroom.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "ninemsn.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "static9.net.au"
+  },
+  {
+    "type": "Domain",
+    "value": "yourtv.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "newsprinters.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "newsxtend.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "ntnews.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "placemyad.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "savvyshopper.net.au"
   },
   {
     "type": "Domain",
     "value": "asakonet.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "supercoach.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "taste.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "theaustralian.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "thechronicle.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "themercury.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "townsvillebulletin.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "weeklytimesnow.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "whereilive.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "whimn.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "wirelessgroup.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "sunbingo.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "thescottishsun.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "thesun.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "businessinsider.co.za"
+  },
+  {
+    "type": "Domain",
+    "value": "businessinsider.com.pl"
+  },
+  {
+    "type": "Domain",
+    "value": "businessinsider.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "am730.com.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "driving.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "mytimesplus.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "sportswomanoftheyear.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "sportswomenoftheyear.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "the-tls.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "thetimes.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "thesundaytimes.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "guangming.com.my"
+  },
+  {
+    "type": "Domain",
+    "value": "sinchew.com.my"
+  },
+  {
+    "type": "Domain",
+    "value": "soccerfanz.com.my"
+  },
+  {
+    "type": "Domain",
+    "value": "chinapress.com.my"
   },
   {
     "type": "Domain",
@@ -5433,7 +5521,7 @@
   },
   {
     "type": "Domain",
-    "value": "am730.com.hk"
+    "value": "businesstoday.com.tw"
   },
   {
     "type": "Domain",
@@ -5453,31 +5541,11 @@
   },
   {
     "type": "Domain",
-    "value": "bbc.net.uk"
-  },
-  {
-    "type": "Domain",
-    "value": "bbci.co.uk"
-  },
-  {
-    "type": "Domain",
-    "value": "bbcmedia.co.uk"
-  },
-  {
-    "type": "Domain",
-    "value": "bbc.mp-pxcdn.com"
-  },
-  {
-    "type": "Domain",
-    "value": "bbc.co.uk"
-  },
-  {
-    "type": "Domain",
-    "value": "bidi.net.uk"
-  },
-  {
-    "type": "Domain",
     "value": "singpao.com.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "settv.com.tw"
   },
   {
     "type": "Domain",
@@ -5513,38 +5581,6 @@
   },
   {
     "type": "Domain",
-    "value": "dailymail.com.au"
-  },
-  {
-    "type": "Domain",
-    "value": "dmgmediaprivacy.co.uk"
-  },
-  {
-    "type": "Domain",
-    "value": "mailonsunday.co.uk"
-  },
-  {
-    "type": "Domain",
-    "value": "anm.co.uk"
-  },
-  {
-    "type": "Domain",
-    "value": "metro.co.uk"
-  },
-  {
-    "type": "Domain",
-    "value": "dailymail.co.uk"
-  },
-  {
-    "type": "Domain",
-    "value": "thisismoney.co.uk"
-  },
-  {
-    "type": "Domain",
-    "value": "mailonline.co.uk"
-  },
-  {
-    "type": "Domain",
     "value": "coolloud.org.tw"
   },
   {
@@ -5561,42 +5597,6 @@
   },
   {
     "type": "Domain",
-    "value": "businesstoday.com.tw"
-  },
-  {
-    "type": "Domain",
-    "value": "yomikyo.or.jp"
-  },
-  {
-    "type": "Domain",
-    "value": "ync.ne.jp"
-  },
-  {
-    "type": "Domain",
-    "value": "ryokoyomiuri.co.jp"
-  },
-  {
-    "type": "Domain",
-    "value": "yomiuri-johkai.co.jp"
-  },
-  {
-    "type": "Domain",
-    "value": "yomiuri-ryokou.co.jp"
-  },
-  {
-    "type": "Domain",
-    "value": "yomiuri-shimbun.pressreader.com"
-  },
-  {
-    "type": "Domain",
-    "value": "yomiuri-systec.co.jp"
-  },
-  {
-    "type": "Domain",
-    "value": "yomiuri.co.jp"
-  },
-  {
-    "type": "Domain",
     "value": "watch.impress.co.jp"
   },
   {
@@ -5605,25 +5605,7 @@
   },
   {
     "type": "Domain",
-    "value": "tvbc.com.cn",
-    "attrs": {
-      "cn": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
     "value": "thetype.cloud",
-    "attrs": {
-      "cn": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "cn-cdn1.skymansion.net",
     "attrs": {
       "cn": {
         "BoolValue": true
@@ -5642,6 +5624,24 @@
   {
     "type": "Domain",
     "value": "etnetchina.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "tvbc.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "cn-cdn1.skymansion.net",
     "attrs": {
       "cn": {
         "BoolValue": true

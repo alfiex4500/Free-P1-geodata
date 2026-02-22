@@ -13,11 +13,11 @@
   },
   {
     "type": "Domain",
-    "value": "rutubelist.ru"
+    "value": "rtbcdn.ru"
   },
   {
     "type": "Domain",
-    "value": "rutube.ru"
+    "value": "kinopoisk.ru"
   },
   {
     "type": "Domain",
@@ -53,18 +53,6 @@
   },
   {
     "type": "Domain",
-    "value": "rtbcdn.ru"
-  },
-  {
-    "type": "Domain",
-    "value": "kinopoisk.ru"
-  },
-  {
-    "type": "Domain",
-    "value": "wink.ru"
-  },
-  {
-    "type": "Domain",
     "value": "playfamily.ru"
   },
   {
@@ -78,6 +66,18 @@
   {
     "type": "Domain",
     "value": "restream-media.net"
+  },
+  {
+    "type": "Domain",
+    "value": "wink.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "rutube.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "rutubelist.ru"
   },
   {
     "type": "Domain",

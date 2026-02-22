@@ -1,23 +1,7 @@
 [
   {
     "type": "Domain",
-    "value": "twittercommunity.com"
-  },
-  {
-    "type": "Domain",
-    "value": "twitterstat.us"
-  },
-  {
-    "type": "Domain",
-    "value": "pscp.tv"
-  },
-  {
-    "type": "Domain",
-    "value": "periscope.tv"
-  },
-  {
-    "type": "Domain",
-    "value": "x.com"
+    "value": "twitter.com"
   },
   {
     "type": "Domain",
@@ -25,7 +9,11 @@
   },
   {
     "type": "Domain",
-    "value": "t.co"
+    "value": "twitterflightschool.com"
+  },
+  {
+    "type": "Domain",
+    "value": "twitterinc.com"
   },
   {
     "type": "Domain",
@@ -49,11 +37,15 @@
   },
   {
     "type": "Domain",
-    "value": "grok.com"
+    "value": "twittercommunity.com"
   },
   {
     "type": "Domain",
-    "value": "vine.co"
+    "value": "pscp.tv"
+  },
+  {
+    "type": "Domain",
+    "value": "periscope.tv"
   },
   {
     "type": "Domain",
@@ -61,15 +53,11 @@
   },
   {
     "type": "Domain",
-    "value": "twitter.com"
+    "value": "x.com"
   },
   {
     "type": "Domain",
-    "value": "twitterflightschool.com"
-  },
-  {
-    "type": "Domain",
-    "value": "twitterinc.com"
+    "value": "t.co"
   },
   {
     "type": "Domain",
@@ -77,7 +65,7 @@
   },
   {
     "type": "Domain",
-    "value": "x.ai"
+    "value": "twitterstat.us"
   },
   {
     "type": "Domain",
@@ -94,6 +82,18 @@
   {
     "type": "Domain",
     "value": "twvid.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vine.co"
+  },
+  {
+    "type": "Domain",
+    "value": "x.ai"
+  },
+  {
+    "type": "Domain",
+    "value": "grok.com"
   },
   {
     "type": "Domain",

@@ -33,27 +33,27 @@
   },
   {
     "type": "Domain",
-    "value": "watchespn.com"
+    "value": "starplus.com"
   },
   {
     "type": "Domain",
-    "value": "espnqa.com"
+    "value": "starott.com"
   },
   {
     "type": "Domain",
-    "value": "espncdn.com"
+    "value": "ngeo.com"
   },
   {
     "type": "Domain",
-    "value": "espn.net"
+    "value": "nationalgeographicpartners.com"
   },
   {
     "type": "Domain",
-    "value": "espn.com"
+    "value": "nationalgeographic.com"
   },
   {
     "type": "Domain",
-    "value": "dtci.technology"
+    "value": "natgeomaps.com"
   },
   {
     "type": "Domain",
@@ -61,15 +61,19 @@
   },
   {
     "type": "Domain",
-    "value": "dtci.co"
+    "value": "themarvelexperiencetour.com"
   },
   {
     "type": "Domain",
-    "value": "dmed.technology"
+    "value": "marvelsuperwar.com"
   },
   {
     "type": "Domain",
-    "value": "edgedatg.com"
+    "value": "marvelsuperheroseptember.com"
+  },
+  {
+    "type": "Domain",
+    "value": "marvelspotlightplays.com"
   },
   {
     "type": "Domain",
@@ -161,11 +165,11 @@
   },
   {
     "type": "Domain",
-    "value": "abc.com"
+    "value": "marvelsdoubleagent.com"
   },
   {
     "type": "Domain",
-    "value": "abc-studios.com"
+    "value": "marvelpinball.com"
   },
   {
     "type": "Domain",
@@ -189,7 +193,7 @@
   },
   {
     "type": "Domain",
-    "value": "starplus.com"
+    "value": "marvelparty.net"
   },
   {
     "type": "Domain",
@@ -209,7 +213,7 @@
   },
   {
     "type": "Domain",
-    "value": "starott.com"
+    "value": "marveldimensionofheroes.com"
   },
   {
     "type": "Domain",
@@ -285,15 +289,15 @@
   },
   {
     "type": "Domain",
-    "value": "ngeo.com"
+    "value": "marvel10thanniversary.com"
   },
   {
     "type": "Domain",
-    "value": "nationalgeographicpartners.com"
+    "value": "marvel.com"
   },
   {
     "type": "Domain",
-    "value": "nationalgeographic.com"
+    "value": "hotstarext.com"
   },
   {
     "type": "Domain",
@@ -309,7 +313,7 @@
   },
   {
     "type": "Domain",
-    "value": "natgeomaps.com"
+    "value": "hotstar-labs.com"
   },
   {
     "type": "Domain",
@@ -357,7 +361,7 @@
   },
   {
     "type": "Domain",
-    "value": "themarvelexperiencetour.com"
+    "value": "hotstar-cdn.net"
   },
   {
     "type": "Domain",
@@ -365,7 +369,7 @@
   },
   {
     "type": "Domain",
-    "value": "marvelsuperwar.com"
+    "value": "hotstar.com"
   },
   {
     "type": "Domain",
@@ -389,11 +393,11 @@
   },
   {
     "type": "Domain",
-    "value": "marvelsuperheroseptember.com"
+    "value": "watchespn.com"
   },
   {
     "type": "Domain",
-    "value": "marvelspotlightplays.com"
+    "value": "espnqa.com"
   },
   {
     "type": "Domain",
@@ -485,59 +489,55 @@
   },
   {
     "type": "Domain",
-    "value": "hotstar.com"
+    "value": "abc-studios.com"
   },
   {
     "type": "Domain",
-    "value": "hotstar-cdn.net"
+    "value": "abc.com"
   },
   {
     "type": "Domain",
-    "value": "hotstar-labs.com"
+    "value": "edgedatg.com"
   },
   {
     "type": "Domain",
-    "value": "hotstarext.com"
+    "value": "dmed.technology"
   },
   {
     "type": "Domain",
-    "value": "marvelsdoubleagent.com"
+    "value": "dtci.co"
   },
   {
     "type": "Domain",
-    "value": "marvel.com"
+    "value": "dtci.technology"
   },
   {
     "type": "Domain",
-    "value": "marvel10thanniversary.com"
+    "value": "espn.com"
   },
   {
     "type": "Domain",
-    "value": "marveldimensionofheroes.com"
+    "value": "espn.net"
   },
   {
     "type": "Domain",
-    "value": "marvelparty.net"
+    "value": "espncdn.com"
   },
   {
     "type": "Domain",
-    "value": "marvelpinball.com"
+    "value": "disney.co.kr"
   },
   {
     "type": "Domain",
-    "value": "disney.co.za"
+    "value": "disney.co.uk"
   },
   {
     "type": "Domain",
-    "value": "disney.co.jp"
+    "value": "espn.co.uk"
   },
   {
     "type": "Domain",
-    "value": "disneytickets.co.uk"
-  },
-  {
-    "type": "Domain",
-    "value": "disney.co.il"
+    "value": "disney.com.tw"
   },
   {
     "type": "Domain",
@@ -553,31 +553,15 @@
   },
   {
     "type": "Domain",
+    "value": "hsprepack.akamaized.net"
+  },
+  {
+    "type": "Domain",
     "value": "disneymagicmoments.co.uk"
   },
   {
     "type": "Domain",
     "value": "disneymagicmoments.co.il"
-  },
-  {
-    "type": "Domain",
-    "value": "disneyturkiye.com.tr"
-  },
-  {
-    "type": "Domain",
-    "value": "20thcenturystudios.com.br"
-  },
-  {
-    "type": "Domain",
-    "value": "disney.co.kr"
-  },
-  {
-    "type": "Domain",
-    "value": "espn.co.uk"
-  },
-  {
-    "type": "Domain",
-    "value": "disney.co.th"
   },
   {
     "type": "Domain",
@@ -589,15 +573,19 @@
   },
   {
     "type": "Domain",
-    "value": "20thcenturystudios.com.au"
+    "value": "20thcenturystudios.com.br"
   },
   {
     "type": "Domain",
-    "value": "disney.com.tw"
+    "value": "disneytickets.co.uk"
   },
   {
     "type": "Domain",
-    "value": "disney.co.uk"
+    "value": "disney.co.za"
+  },
+  {
+    "type": "Domain",
+    "value": "disney.co.il"
   },
   {
     "type": "Domain",
@@ -609,7 +597,19 @@
   },
   {
     "type": "Domain",
-    "value": "hsprepack.akamaized.net"
+    "value": "disney.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "20thcenturystudios.com.au"
+  },
+  {
+    "type": "Domain",
+    "value": "disney.co.th"
+  },
+  {
+    "type": "Domain",
+    "value": "disneyturkiye.com.tr"
   },
   {
     "type": "Domain",

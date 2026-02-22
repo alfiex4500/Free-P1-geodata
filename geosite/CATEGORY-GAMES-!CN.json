@@ -1,6 +1,42 @@
 [
   {
     "type": "Full",
+    "value": "avatargarenanow-a.akamaihd.net"
+  },
+  {
+    "type": "Full",
+    "value": "cdngarenanow-a.akamaihd.net"
+  },
+  {
+    "type": "Full",
+    "value": "dlgarenanow-a.akamaihd.net"
+  },
+  {
+    "type": "Full",
+    "value": "dlmobilegarena-a.akamaihd.net"
+  },
+  {
+    "type": "Full",
+    "value": "gamedownloads-rockstargames-com.akamaized.net"
+  },
+  {
+    "type": "Full",
+    "value": "media-rockstargames-com.akamaized.net"
+  },
+  {
+    "type": "Full",
+    "value": "videos-rockstargames-com.akamaized.net"
+  },
+  {
+    "type": "Full",
+    "value": "pubg1.battleye.com"
+  },
+  {
+    "type": "Full",
+    "value": "prd-priconne-redive.akamaized.net"
+  },
+  {
+    "type": "Full",
     "value": "flightsimulator.azureedge.net"
   },
   {
@@ -9,39 +45,71 @@
   },
   {
     "type": "Full",
-    "value": "blizzard.nefficient.co.kr"
+    "value": "datarouter.apps.netherrealm.com"
   },
   {
     "type": "Full",
-    "value": "blzddist1-a.akamaihd.net"
+    "value": "wb-agora-hydra-file-storage-k1.s3.amazonaws.com"
   },
   {
     "type": "Full",
-    "value": "blzddistkr1-a.akamaihd.net"
+    "value": "steamcommunity-a.akamaihd.net.edgesuite.net"
   },
   {
     "type": "Full",
-    "value": "bnetcmsus-a.akamaihd.net"
+    "value": "a4e8s8k3.map2.ssl.hwcdn.net"
   },
   {
     "type": "Full",
-    "value": "bnetproduct-a.akamaihd.net"
+    "value": "f3b7q2p3.ssl.hwcdn.net"
   },
   {
     "type": "Full",
-    "value": "bnetshopus.akamaized.net"
+    "value": "steambroadcast.akamaized.net"
   },
   {
     "type": "Full",
-    "value": "blizzcon-a.akamaihd.net"
+    "value": "steamcdn-a.akamaihd.net"
   },
   {
     "type": "Full",
-    "value": "blzmedia-a.akamaihd.net"
+    "value": "steamcommunity-a.akamaihd.net"
   },
   {
     "type": "Full",
-    "value": "blznav.akamaized.net"
+    "value": "steammobile.akamaized.net"
+  },
+  {
+    "type": "Full",
+    "value": "steampipe-kr.akamaized.net"
+  },
+  {
+    "type": "Full",
+    "value": "steampipe-partner.akamaized.net"
+  },
+  {
+    "type": "Full",
+    "value": "steampipe.akamaized.net"
+  },
+  {
+    "type": "Full",
+    "value": "steamstore-a.akamaihd.net"
+  },
+  {
+    "type": "Full",
+    "value": "steamusercontent-a.akamaihd.net"
+  },
+  {
+    "type": "Full",
+    "value": "steamuserimages-a.akamaihd.net"
+  },
+  {
+    "type": "Full",
+    "value": "steamvideo-a.akamaihd.net"
+  },
+  {
+    "type": "Full",
+    "value": "steamcloudsweden.blob.core.windows.net"
   },
   {
     "type": "Full",
@@ -49,11 +117,7 @@
   },
   {
     "type": "Full",
-    "value": "datarouter.apps.netherrealm.com"
-  },
-  {
-    "type": "Full",
-    "value": "wb-agora-hydra-file-storage-k1.s3.amazonaws.com"
+    "value": "lolstatic-a.akamaihd.net"
   },
   {
     "type": "Full",
@@ -165,90 +229,6 @@
   },
   {
     "type": "Full",
-    "value": "lolstatic-a.akamaihd.net"
-  },
-  {
-    "type": "Full",
-    "value": "steamcommunity-a.akamaihd.net.edgesuite.net"
-  },
-  {
-    "type": "Full",
-    "value": "a4e8s8k3.map2.ssl.hwcdn.net"
-  },
-  {
-    "type": "Full",
-    "value": "f3b7q2p3.ssl.hwcdn.net"
-  },
-  {
-    "type": "Full",
-    "value": "steambroadcast.akamaized.net"
-  },
-  {
-    "type": "Full",
-    "value": "steamcdn-a.akamaihd.net"
-  },
-  {
-    "type": "Full",
-    "value": "steamcommunity-a.akamaihd.net"
-  },
-  {
-    "type": "Full",
-    "value": "steammobile.akamaized.net"
-  },
-  {
-    "type": "Full",
-    "value": "steampipe-kr.akamaized.net"
-  },
-  {
-    "type": "Full",
-    "value": "steampipe-partner.akamaized.net"
-  },
-  {
-    "type": "Full",
-    "value": "steampipe.akamaized.net"
-  },
-  {
-    "type": "Full",
-    "value": "steamstore-a.akamaihd.net"
-  },
-  {
-    "type": "Full",
-    "value": "steamusercontent-a.akamaihd.net"
-  },
-  {
-    "type": "Full",
-    "value": "steamuserimages-a.akamaihd.net"
-  },
-  {
-    "type": "Full",
-    "value": "steamvideo-a.akamaihd.net"
-  },
-  {
-    "type": "Full",
-    "value": "steamcloudsweden.blob.core.windows.net"
-  },
-  {
-    "type": "Full",
-    "value": "pubg1.battleye.com"
-  },
-  {
-    "type": "Full",
-    "value": "avatargarenanow-a.akamaihd.net"
-  },
-  {
-    "type": "Full",
-    "value": "cdngarenanow-a.akamaihd.net"
-  },
-  {
-    "type": "Full",
-    "value": "dlgarenanow-a.akamaihd.net"
-  },
-  {
-    "type": "Full",
-    "value": "dlmobilegarena-a.akamaihd.net"
-  },
-  {
-    "type": "Full",
     "value": "ea.tt.omtrdc.net"
   },
   {
@@ -270,38 +250,6 @@
   {
     "type": "Full",
     "value": "ssl-lvlt.cdn.ea.com"
-  },
-  {
-    "type": "Full",
-    "value": "prd-priconne-redive.akamaized.net"
-  },
-  {
-    "type": "Full",
-    "value": "d1unuk07s6td74.cloudfront.net"
-  },
-  {
-    "type": "Full",
-    "value": "roblox-load-generator-configuration.s3.us-east-2.amazonaws.com"
-  },
-  {
-    "type": "Full",
-    "value": "roblox-poc.global.ssl.fastly.net"
-  },
-  {
-    "type": "Full",
-    "value": "robloxcorp.s.llnwi.net"
-  },
-  {
-    "type": "Full",
-    "value": "gamedownloads-rockstargames-com.akamaized.net"
-  },
-  {
-    "type": "Full",
-    "value": "media-rockstargames-com.akamaized.net"
-  },
-  {
-    "type": "Full",
-    "value": "videos-rockstargames-com.akamaized.net"
   },
   {
     "type": "Full",
@@ -340,6 +288,58 @@
     "value": "spectator.ppy.sh"
   },
   {
+    "type": "Full",
+    "value": "d1unuk07s6td74.cloudfront.net"
+  },
+  {
+    "type": "Full",
+    "value": "roblox-load-generator-configuration.s3.us-east-2.amazonaws.com"
+  },
+  {
+    "type": "Full",
+    "value": "roblox-poc.global.ssl.fastly.net"
+  },
+  {
+    "type": "Full",
+    "value": "robloxcorp.s.llnwi.net"
+  },
+  {
+    "type": "Full",
+    "value": "blizzard.nefficient.co.kr"
+  },
+  {
+    "type": "Full",
+    "value": "blzddist1-a.akamaihd.net"
+  },
+  {
+    "type": "Full",
+    "value": "blzddistkr1-a.akamaihd.net"
+  },
+  {
+    "type": "Full",
+    "value": "bnetcmsus-a.akamaihd.net"
+  },
+  {
+    "type": "Full",
+    "value": "bnetproduct-a.akamaihd.net"
+  },
+  {
+    "type": "Full",
+    "value": "bnetshopus.akamaized.net"
+  },
+  {
+    "type": "Full",
+    "value": "blizzcon-a.akamaihd.net"
+  },
+  {
+    "type": "Full",
+    "value": "blzmedia-a.akamaihd.net"
+  },
+  {
+    "type": "Full",
+    "value": "blznav.akamaized.net"
+  },
+  {
     "type": "Domain",
     "value": "xbox"
   },
@@ -349,19 +349,11 @@
   },
   {
     "type": "Domain",
-    "value": "boombeach.com"
+    "value": "leagueoflegends.net"
   },
   {
     "type": "Domain",
-    "value": "wbagora.com"
-  },
-  {
-    "type": "Domain",
-    "value": "dodi-repacks.site"
-  },
-  {
-    "type": "Domain",
-    "value": "fabricmc.net"
+    "value": "xboxservices.com"
   },
   {
     "type": "Domain",
@@ -449,6 +441,186 @@
   },
   {
     "type": "Domain",
+    "value": "garena.com"
+  },
+  {
+    "type": "Domain",
+    "value": "garena.live"
+  },
+  {
+    "type": "Domain",
+    "value": "garena.my"
+  },
+  {
+    "type": "Domain",
+    "value": "garena.ph"
+  },
+  {
+    "type": "Domain",
+    "value": "garena.sg"
+  },
+  {
+    "type": "Domain",
+    "value": "garena.tv"
+  },
+  {
+    "type": "Domain",
+    "value": "garena.tw"
+  },
+  {
+    "type": "Domain",
+    "value": "garena.vn"
+  },
+  {
+    "type": "Domain",
+    "value": "garenanow.com"
+  },
+  {
+    "type": "Domain",
+    "value": "seagroup.com"
+  },
+  {
+    "type": "Domain",
+    "value": "take2games.com"
+  },
+  {
+    "type": "Domain",
+    "value": "rockstargames.com"
+  },
+  {
+    "type": "Domain",
+    "value": "rockstarnorth.com"
+  },
+  {
+    "type": "Domain",
+    "value": "rsg.sc"
+  },
+  {
+    "type": "Domain",
+    "value": "zynga.com"
+  },
+  {
+    "type": "Domain",
+    "value": "zyngaplayersupport.com"
+  },
+  {
+    "type": "Domain",
+    "value": "zyngapoker.com"
+  },
+  {
+    "type": "Domain",
+    "value": "2k.com"
+  },
+  {
+    "type": "Domain",
+    "value": "2kcoretech.online"
+  },
+  {
+    "type": "Domain",
+    "value": "2kct.onl"
+  },
+  {
+    "type": "Domain",
+    "value": "2kgames.com"
+  },
+  {
+    "type": "Domain",
+    "value": "2ksports.com"
+  },
+  {
+    "type": "Domain",
+    "value": "2kweb.online"
+  },
+  {
+    "type": "Domain",
+    "value": "bluearchive.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "gog.com"
+  },
+  {
+    "type": "Domain",
+    "value": "stellasora.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "stellasora.global"
+  },
+  {
+    "type": "Domain",
+    "value": "stargazer-games.com"
+  },
+  {
+    "type": "Domain",
+    "value": "gog-statics.com"
+  },
+  {
+    "type": "Domain",
+    "value": "yostarplat.com"
+  },
+  {
+    "type": "Domain",
+    "value": "yostar.net"
+  },
+  {
+    "type": "Domain",
+    "value": "yo-star.com"
+  },
+  {
+    "type": "Domain",
+    "value": "kraftonde.com"
+  },
+  {
+    "type": "Domain",
+    "value": "playbattlegrounds.com"
+  },
+  {
+    "type": "Domain",
+    "value": "pubg.com"
+  },
+  {
+    "type": "Domain",
+    "value": "priconne-redive.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "worldofwarcraft.com"
+  },
+  {
+    "type": "Domain",
+    "value": "playwarcraft3.com"
+  },
+  {
+    "type": "Domain",
+    "value": "snk-corp.info"
+  },
+  {
+    "type": "Domain",
+    "value": "snkplaymore.info"
+  },
+  {
+    "type": "Domain",
+    "value": "starcraft2.com"
+  },
+  {
+    "type": "Domain",
+    "value": "sih-db.com"
+  },
+  {
+    "type": "Domain",
+    "value": "sih.app"
+  },
+  {
+    "type": "Domain",
+    "value": "steaminventoryhelper.com"
+  },
+  {
+    "type": "Domain",
+    "value": "dodi-repacks.site"
+  },
+  {
+    "type": "Domain",
     "value": "gamepass.com"
   },
   {
@@ -529,7 +701,7 @@
   },
   {
     "type": "Domain",
-    "value": "xboxservices.com"
+    "value": "leagueoflegends.org"
   },
   {
     "type": "Domain",
@@ -613,43 +785,23 @@
   },
   {
     "type": "Domain",
-    "value": "blizzard.com"
+    "value": "arcraiders.com"
   },
   {
     "type": "Domain",
-    "value": "blizzardgearstore.com"
+    "value": "embark-studios.com"
   },
   {
     "type": "Domain",
-    "value": "blz-contentstack.com"
+    "value": "embark.games"
   },
   {
     "type": "Domain",
-    "value": "battle.net"
+    "value": "reachthefinals.com"
   },
   {
     "type": "Domain",
-    "value": "diablo3.com"
-  },
-  {
-    "type": "Domain",
-    "value": "diabloimmortal.com"
-  },
-  {
-    "type": "Domain",
-    "value": "firesidegatherings.com"
-  },
-  {
-    "type": "Domain",
-    "value": "playhearthstone.com"
-  },
-  {
-    "type": "Domain",
-    "value": "heroesofthestorm.com"
-  },
-  {
-    "type": "Domain",
-    "value": "playoverwatch.com"
+    "value": "illusion.jp"
   },
   {
     "type": "Domain",
@@ -657,43 +809,95 @@
   },
   {
     "type": "Domain",
-    "value": "starcraft2.com"
+    "value": "pinkcore.com"
   },
   {
     "type": "Domain",
-    "value": "playwarcraft3.com"
+    "value": "pinkcore.net"
   },
   {
     "type": "Domain",
-    "value": "worldofwarcraft.com"
+    "value": "haydaygame.com"
   },
   {
     "type": "Domain",
-    "value": "playstation.com"
+    "value": "clashmini.com"
   },
   {
     "type": "Domain",
-    "value": "playstation.net"
+    "value": "boombeach.com"
   },
   {
     "type": "Domain",
-    "value": "sonyentertainmentnetwork.com"
+    "value": "seeurlpcl.com"
   },
   {
     "type": "Domain",
-    "value": "op.gg"
+    "value": "mo.co"
   },
   {
     "type": "Domain",
-    "value": "sih-db.com"
+    "value": "clashofclans.com"
   },
   {
     "type": "Domain",
-    "value": "sih.app"
+    "value": "clashroyale.com"
   },
   {
     "type": "Domain",
-    "value": "steaminventoryhelper.com"
+    "value": "clashroyaleapp.com"
+  },
+  {
+    "type": "Domain",
+    "value": "gamesfirsthelsinki.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hayday.com"
+  },
+  {
+    "type": "Domain",
+    "value": "brawlstarsgame.com"
+  },
+  {
+    "type": "Domain",
+    "value": "brawlstars.com"
+  },
+  {
+    "type": "Domain",
+    "value": "clash.com"
+  },
+  {
+    "type": "Domain",
+    "value": "squadbusters.com"
+  },
+  {
+    "type": "Domain",
+    "value": "supercell.com"
+  },
+  {
+    "type": "Domain",
+    "value": "supercellstore.com"
+  },
+  {
+    "type": "Domain",
+    "value": "supercell.net"
+  },
+  {
+    "type": "Domain",
+    "value": "supercellcreators.com"
+  },
+  {
+    "type": "Domain",
+    "value": "supercellgames.com"
+  },
+  {
+    "type": "Domain",
+    "value": "supercellid.com"
+  },
+  {
+    "type": "Domain",
+    "value": "playoverwatch.com"
   },
   {
     "type": "Domain",
@@ -701,7 +905,7 @@
   },
   {
     "type": "Domain",
-    "value": "seeurlpcl.com"
+    "value": "wbagora.com"
   },
   {
     "type": "Domain",
@@ -713,107 +917,35 @@
   },
   {
     "type": "Domain",
-    "value": "yo-star.com"
+    "value": "genshinimpact.com"
   },
   {
     "type": "Domain",
-    "value": "yostar.net"
+    "value": "honkaiimpact3.com"
   },
   {
     "type": "Domain",
-    "value": "yostarplat.com"
+    "value": "honkaistarrail.com"
   },
   {
     "type": "Domain",
-    "value": "stargazer-games.com"
+    "value": "hoyo.link"
   },
   {
     "type": "Domain",
-    "value": "stellasora.global"
+    "value": "hoyolab.com"
   },
   {
     "type": "Domain",
-    "value": "stellasora.jp"
+    "value": "hoyoverse.com"
   },
   {
     "type": "Domain",
-    "value": "acesofthunder.net"
+    "value": "n0vadesktop.com"
   },
   {
     "type": "Domain",
-    "value": "activematter.game"
-  },
-  {
-    "type": "Domain",
-    "value": "worldflipper.jp"
-  },
-  {
-    "type": "Domain",
-    "value": "artstorm.com"
-  },
-  {
-    "type": "Domain",
-    "value": "crossout.net"
-  },
-  {
-    "type": "Domain",
-    "value": "crsed.net"
-  },
-  {
-    "type": "Domain",
-    "value": "cubicodyssey.game"
-  },
-  {
-    "type": "Domain",
-    "value": "enlisted.net"
-  },
-  {
-    "type": "Domain",
-    "value": "gaijin.net"
-  },
-  {
-    "type": "Domain",
-    "value": "gaijinent.com"
-  },
-  {
-    "type": "Domain",
-    "value": "modernwarships.com"
-  },
-  {
-    "type": "Domain",
-    "value": "star-conflict.com"
-  },
-  {
-    "type": "Domain",
-    "value": "warthunder.com"
-  },
-  {
-    "type": "Domain",
-    "value": "wtmobile.com"
-  },
-  {
-    "type": "Domain",
-    "value": "nexon.com"
-  },
-  {
-    "type": "Domain",
-    "value": "nexon.io"
-  },
-  {
-    "type": "Domain",
-    "value": "cygames.jp"
-  },
-  {
-    "type": "Domain",
-    "value": "zyngapoker.com"
-  },
-  {
-    "type": "Domain",
-    "value": "zyngaplayersupport.com"
-  },
-  {
-    "type": "Domain",
-    "value": "zynga.com"
+    "value": "zenlesszonezero.com"
   },
   {
     "type": "Domain",
@@ -822,6 +954,30 @@
   {
     "type": "Domain",
     "value": "itch.zone"
+  },
+  {
+    "type": "Domain",
+    "value": "nikke-de.com"
+  },
+  {
+    "type": "Domain",
+    "value": "nikke-en.com"
+  },
+  {
+    "type": "Domain",
+    "value": "nikke-fr.com"
+  },
+  {
+    "type": "Domain",
+    "value": "nikke-jp.com"
+  },
+  {
+    "type": "Domain",
+    "value": "nikke-kr.com"
+  },
+  {
+    "type": "Domain",
+    "value": "nikke-sea.com"
   },
   {
     "type": "Domain",
@@ -1249,43 +1405,127 @@
   },
   {
     "type": "Domain",
-    "value": "rsg.sc"
+    "value": "heroesofthestorm.com"
   },
   {
     "type": "Domain",
-    "value": "rockstarnorth.com"
+    "value": "playhearthstone.com"
   },
   {
     "type": "Domain",
-    "value": "rockstargames.com"
+    "value": "firesidegatherings.com"
   },
   {
     "type": "Domain",
-    "value": "2kweb.online"
+    "value": "diabloimmortal.com"
   },
   {
     "type": "Domain",
-    "value": "2ksports.com"
+    "value": "diablo3.com"
   },
   {
     "type": "Domain",
-    "value": "2kgames.com"
+    "value": "battle.net"
   },
   {
     "type": "Domain",
-    "value": "ubi.com"
+    "value": "steamusercontent.com"
   },
   {
     "type": "Domain",
-    "value": "ubisoft.com"
+    "value": "steamdeck.com"
   },
   {
     "type": "Domain",
-    "value": "ubisoftconnect.com"
+    "value": "steam.tv"
   },
   {
     "type": "Domain",
-    "value": "uplay.com"
+    "value": "steam-api.com"
+  },
+  {
+    "type": "Domain",
+    "value": "steam-chat.com"
+  },
+  {
+    "type": "Domain",
+    "value": "steamcommunity.com"
+  },
+  {
+    "type": "Domain",
+    "value": "steamcontent.com"
+  },
+  {
+    "type": "Domain",
+    "value": "s.team"
+  },
+  {
+    "type": "Domain",
+    "value": "steamgames.com"
+  },
+  {
+    "type": "Domain",
+    "value": "steampowered.com"
+  },
+  {
+    "type": "Domain",
+    "value": "steamserver.net"
+  },
+  {
+    "type": "Domain",
+    "value": "steamstatic.com"
+  },
+  {
+    "type": "Domain",
+    "value": "valvesoftware.com"
+  },
+  {
+    "type": "Domain",
+    "value": "underlords.com"
+  },
+  {
+    "type": "Domain",
+    "value": "playartifact.com"
+  },
+  {
+    "type": "Domain",
+    "value": "blz-contentstack.com"
+  },
+  {
+    "type": "Domain",
+    "value": "blizzardgearstore.com"
+  },
+  {
+    "type": "Domain",
+    "value": "blizzard.com"
+  },
+  {
+    "type": "Domain",
+    "value": "roblox.vn"
+  },
+  {
+    "type": "Domain",
+    "value": "roblox.us"
+  },
+  {
+    "type": "Domain",
+    "value": "roblox.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "roblox.tv"
+  },
+  {
+    "type": "Domain",
+    "value": "roblox.sk"
+  },
+  {
+    "type": "Domain",
+    "value": "roblox.pt"
+  },
+  {
+    "type": "Domain",
+    "value": "steamunlocked.net"
   },
   {
     "type": "Domain",
@@ -1301,31 +1541,23 @@
   },
   {
     "type": "Domain",
-    "value": "illusion.jp"
+    "value": "op.gg"
   },
   {
     "type": "Domain",
-    "value": "2kct.onl"
+    "value": "dodi-repacks.download"
   },
   {
     "type": "Domain",
-    "value": "vrchat.cloud"
+    "value": "playstation.com"
   },
   {
     "type": "Domain",
-    "value": "vrchat.com"
+    "value": "playstation.net"
   },
   {
     "type": "Domain",
-    "value": "vrchat.net"
-  },
-  {
-    "type": "Domain",
-    "value": "ynoproject.net"
-  },
-  {
-    "type": "Domain",
-    "value": "modrinth.com"
+    "value": "sonyentertainmentnetwork.com"
   },
   {
     "type": "Domain",
@@ -1385,7 +1617,7 @@
   },
   {
     "type": "Domain",
-    "value": "riotgames.tv"
+    "value": "dinopoloclub.com"
   },
   {
     "type": "Domain",
@@ -1437,15 +1669,15 @@
   },
   {
     "type": "Domain",
-    "value": "leagueoflegends.net"
+    "value": "riotgames.tv"
   },
   {
     "type": "Domain",
-    "value": "leagueoflegends.org"
+    "value": "fabricmc.net"
   },
   {
     "type": "Domain",
-    "value": "leagueoflegendsscripts.com"
+    "value": "unravel2.com"
   },
   {
     "type": "Domain",
@@ -1521,130 +1753,6 @@
   },
   {
     "type": "Domain",
-    "value": "2kcoretech.online"
-  },
-  {
-    "type": "Domain",
-    "value": "2k.com"
-  },
-  {
-    "type": "Domain",
-    "value": "take2games.com"
-  },
-  {
-    "type": "Domain",
-    "value": "faceit.com"
-  },
-  {
-    "type": "Domain",
-    "value": "faceit-cdn.net"
-  },
-  {
-    "type": "Domain",
-    "value": "lowiro.com"
-  },
-  {
-    "type": "Domain",
-    "value": "joyjoy.net"
-  },
-  {
-    "type": "Domain",
-    "value": "pandanet-igs.com"
-  },
-  {
-    "type": "Domain",
-    "value": "snk-corp.info"
-  },
-  {
-    "type": "Domain",
-    "value": "snkplaymore.info"
-  },
-  {
-    "type": "Domain",
-    "value": "roblox.vn"
-  },
-  {
-    "type": "Domain",
-    "value": "steamusercontent.com"
-  },
-  {
-    "type": "Domain",
-    "value": "steamdeck.com"
-  },
-  {
-    "type": "Domain",
-    "value": "steam.tv"
-  },
-  {
-    "type": "Domain",
-    "value": "steam-api.com"
-  },
-  {
-    "type": "Domain",
-    "value": "steam-chat.com"
-  },
-  {
-    "type": "Domain",
-    "value": "steamcommunity.com"
-  },
-  {
-    "type": "Domain",
-    "value": "steamcontent.com"
-  },
-  {
-    "type": "Domain",
-    "value": "s.team"
-  },
-  {
-    "type": "Domain",
-    "value": "steamgames.com"
-  },
-  {
-    "type": "Domain",
-    "value": "steampowered.com"
-  },
-  {
-    "type": "Domain",
-    "value": "steamserver.net"
-  },
-  {
-    "type": "Domain",
-    "value": "steamstatic.com"
-  },
-  {
-    "type": "Domain",
-    "value": "valvesoftware.com"
-  },
-  {
-    "type": "Domain",
-    "value": "dinopoloclub.com"
-  },
-  {
-    "type": "Domain",
-    "value": "playartifact.com"
-  },
-  {
-    "type": "Domain",
-    "value": "roblox.us"
-  },
-  {
-    "type": "Domain",
-    "value": "roblox.uk"
-  },
-  {
-    "type": "Domain",
-    "value": "roblox.tv"
-  },
-  {
-    "type": "Domain",
-    "value": "roblox.sk"
-  },
-  {
-    "type": "Domain",
-    "value": "roblox.pt"
-  },
-  {
-    "type": "Domain",
     "value": "roblox.ph"
   },
   {
@@ -1654,274 +1762,6 @@
   {
     "type": "Domain",
     "value": "roblox.net"
-  },
-  {
-    "type": "Domain",
-    "value": "roblox.mx"
-  },
-  {
-    "type": "Domain",
-    "value": "haydaygame.com"
-  },
-  {
-    "type": "Domain",
-    "value": "clashmini.com"
-  },
-  {
-    "type": "Domain",
-    "value": "underlords.com"
-  },
-  {
-    "type": "Domain",
-    "value": "dodi-repacks.download"
-  },
-  {
-    "type": "Domain",
-    "value": "commandandconquer.com"
-  },
-  {
-    "type": "Domain",
-    "value": "clashofclans.com"
-  },
-  {
-    "type": "Domain",
-    "value": "clashroyale.com"
-  },
-  {
-    "type": "Domain",
-    "value": "clashroyaleapp.com"
-  },
-  {
-    "type": "Domain",
-    "value": "gamesfirsthelsinki.com"
-  },
-  {
-    "type": "Domain",
-    "value": "hayday.com"
-  },
-  {
-    "type": "Domain",
-    "value": "brawlstarsgame.com"
-  },
-  {
-    "type": "Domain",
-    "value": "brawlstars.com"
-  },
-  {
-    "type": "Domain",
-    "value": "clash.com"
-  },
-  {
-    "type": "Domain",
-    "value": "squadbusters.com"
-  },
-  {
-    "type": "Domain",
-    "value": "supercell.com"
-  },
-  {
-    "type": "Domain",
-    "value": "supercellstore.com"
-  },
-  {
-    "type": "Domain",
-    "value": "supercell.net"
-  },
-  {
-    "type": "Domain",
-    "value": "supercellcreators.com"
-  },
-  {
-    "type": "Domain",
-    "value": "supercellgames.com"
-  },
-  {
-    "type": "Domain",
-    "value": "supercellid.com"
-  },
-  {
-    "type": "Domain",
-    "value": "roblox.kr"
-  },
-  {
-    "type": "Domain",
-    "value": "bluearchive.jp"
-  },
-  {
-    "type": "Domain",
-    "value": "roblox.jp"
-  },
-  {
-    "type": "Domain",
-    "value": "3lateral.com"
-  },
-  {
-    "type": "Domain",
-    "value": "artstation.com"
-  },
-  {
-    "type": "Domain",
-    "value": "capturingreality.com"
-  },
-  {
-    "type": "Domain",
-    "value": "cubicmotion.com"
-  },
-  {
-    "type": "Domain",
-    "value": "battlebreakers.com"
-  },
-  {
-    "type": "Domain",
-    "value": "eac-cdn.com"
-  },
-  {
-    "type": "Domain",
-    "value": "easy.ac"
-  },
-  {
-    "type": "Domain",
-    "value": "easyanticheat.net"
-  },
-  {
-    "type": "Domain",
-    "value": "epicgames.com"
-  },
-  {
-    "type": "Domain",
-    "value": "epicgames.dev"
-  },
-  {
-    "type": "Domain",
-    "value": "epicgamescdn.com"
-  },
-  {
-    "type": "Domain",
-    "value": "fab.com"
-  },
-  {
-    "type": "Domain",
-    "value": "fortnite.com"
-  },
-  {
-    "type": "Domain",
-    "value": "hyprsense.com"
-  },
-  {
-    "type": "Domain",
-    "value": "paragon.com"
-  },
-  {
-    "type": "Domain",
-    "value": "playparagon.com"
-  },
-  {
-    "type": "Domain",
-    "value": "quixel.com"
-  },
-  {
-    "type": "Domain",
-    "value": "quixel.se"
-  },
-  {
-    "type": "Domain",
-    "value": "radgametools.com"
-  },
-  {
-    "type": "Domain",
-    "value": "realityscan.com"
-  },
-  {
-    "type": "Domain",
-    "value": "roborecall.com"
-  },
-  {
-    "type": "Domain",
-    "value": "shadowcomplex.com"
-  },
-  {
-    "type": "Domain",
-    "value": "sketchfab.com"
-  },
-  {
-    "type": "Domain",
-    "value": "spyjinx.com"
-  },
-  {
-    "type": "Domain",
-    "value": "twinmotion.com"
-  },
-  {
-    "type": "Domain",
-    "value": "unrealengine.com"
-  },
-  {
-    "type": "Domain",
-    "value": "unrealtournament.com"
-  },
-  {
-    "type": "Domain",
-    "value": "roblox.it"
-  },
-  {
-    "type": "Domain",
-    "value": "eneba.com"
-  },
-  {
-    "type": "Domain",
-    "value": "eneba.games"
-  },
-  {
-    "type": "Domain",
-    "value": "nikke-de.com"
-  },
-  {
-    "type": "Domain",
-    "value": "nikke-en.com"
-  },
-  {
-    "type": "Domain",
-    "value": "nikke-fr.com"
-  },
-  {
-    "type": "Domain",
-    "value": "nikke-jp.com"
-  },
-  {
-    "type": "Domain",
-    "value": "nikke-kr.com"
-  },
-  {
-    "type": "Domain",
-    "value": "nikke-sea.com"
-  },
-  {
-    "type": "Domain",
-    "value": "pinkcore.com"
-  },
-  {
-    "type": "Domain",
-    "value": "pinkcore.net"
-  },
-  {
-    "type": "Domain",
-    "value": "roblox.hu"
-  },
-  {
-    "type": "Domain",
-    "value": "roblox.fr"
-  },
-  {
-    "type": "Domain",
-    "value": "kraftonde.com"
-  },
-  {
-    "type": "Domain",
-    "value": "playbattlegrounds.com"
-  },
-  {
-    "type": "Domain",
-    "value": "pubg.com"
   },
   {
     "type": "Domain",
@@ -1961,103 +1801,47 @@
   },
   {
     "type": "Domain",
-    "value": "curseforge.com"
+    "value": "joyjoy.net"
   },
   {
     "type": "Domain",
-    "value": "forgecdn.net"
+    "value": "pandanet-igs.com"
   },
   {
     "type": "Domain",
-    "value": "garena.com"
+    "value": "ubi.com"
   },
   {
     "type": "Domain",
-    "value": "garena.live"
+    "value": "ubisoft.com"
   },
   {
     "type": "Domain",
-    "value": "garena.my"
+    "value": "ubisoftconnect.com"
   },
   {
     "type": "Domain",
-    "value": "garena.ph"
+    "value": "uplay.com"
   },
   {
     "type": "Domain",
-    "value": "garena.sg"
+    "value": "vrchat.cloud"
   },
   {
     "type": "Domain",
-    "value": "garena.tv"
+    "value": "vrchat.com"
   },
   {
     "type": "Domain",
-    "value": "garena.tw"
+    "value": "vrchat.net"
   },
   {
     "type": "Domain",
-    "value": "garena.vn"
+    "value": "eneba.com"
   },
   {
     "type": "Domain",
-    "value": "garenanow.com"
-  },
-  {
-    "type": "Domain",
-    "value": "seagroup.com"
-  },
-  {
-    "type": "Domain",
-    "value": "roblox.eu"
-  },
-  {
-    "type": "Domain",
-    "value": "roblox.dk"
-  },
-  {
-    "type": "Domain",
-    "value": "gog.com"
-  },
-  {
-    "type": "Domain",
-    "value": "gog-statics.com"
-  },
-  {
-    "type": "Domain",
-    "value": "genshinimpact.com"
-  },
-  {
-    "type": "Domain",
-    "value": "honkaiimpact3.com"
-  },
-  {
-    "type": "Domain",
-    "value": "honkaistarrail.com"
-  },
-  {
-    "type": "Domain",
-    "value": "hoyo.link"
-  },
-  {
-    "type": "Domain",
-    "value": "hoyolab.com"
-  },
-  {
-    "type": "Domain",
-    "value": "hoyoverse.com"
-  },
-  {
-    "type": "Domain",
-    "value": "n0vadesktop.com"
-  },
-  {
-    "type": "Domain",
-    "value": "zenlesszonezero.com"
-  },
-  {
-    "type": "Domain",
-    "value": "steamunlocked.net"
+    "value": "eneba.games"
   },
   {
     "type": "Domain",
@@ -2093,7 +1877,7 @@
   },
   {
     "type": "Domain",
-    "value": "mo.co"
+    "value": "commandandconquer.com"
   },
   {
     "type": "Domain",
@@ -2309,7 +2093,7 @@
   },
   {
     "type": "Domain",
-    "value": "unravel2.com"
+    "value": "leagueoflegendsscripts.com"
   },
   {
     "type": "Domain",
@@ -2689,39 +2473,239 @@
   },
   {
     "type": "Domain",
-    "value": "roblox.de"
+    "value": "roblox.mx"
   },
   {
     "type": "Domain",
-    "value": "rbxtrk.com"
+    "value": "roblox.kr"
   },
   {
     "type": "Domain",
-    "value": "arcraiders.com"
+    "value": "faceit.com"
   },
   {
     "type": "Domain",
-    "value": "embark-studios.com"
+    "value": "faceit-cdn.net"
   },
   {
     "type": "Domain",
-    "value": "embark.games"
+    "value": "nexon.com"
   },
   {
     "type": "Domain",
-    "value": "reachthefinals.com"
+    "value": "nexon.io"
   },
   {
     "type": "Domain",
-    "value": "priconne-redive.jp"
+    "value": "roblox.jp"
   },
   {
     "type": "Domain",
-    "value": "goblocks.com"
+    "value": "roblox.it"
   },
   {
     "type": "Domain",
-    "value": "rbxinfra.net"
+    "value": "ynoproject.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cygames.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "worldflipper.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "roblox.hu"
+  },
+  {
+    "type": "Domain",
+    "value": "roblox.fr"
+  },
+  {
+    "type": "Domain",
+    "value": "roblox.eu"
+  },
+  {
+    "type": "Domain",
+    "value": "curseforge.com"
+  },
+  {
+    "type": "Domain",
+    "value": "forgecdn.net"
+  },
+  {
+    "type": "Domain",
+    "value": "3lateral.com"
+  },
+  {
+    "type": "Domain",
+    "value": "artstation.com"
+  },
+  {
+    "type": "Domain",
+    "value": "capturingreality.com"
+  },
+  {
+    "type": "Domain",
+    "value": "cubicmotion.com"
+  },
+  {
+    "type": "Domain",
+    "value": "battlebreakers.com"
+  },
+  {
+    "type": "Domain",
+    "value": "eac-cdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "easy.ac"
+  },
+  {
+    "type": "Domain",
+    "value": "easyanticheat.net"
+  },
+  {
+    "type": "Domain",
+    "value": "epicgames.com"
+  },
+  {
+    "type": "Domain",
+    "value": "epicgames.dev"
+  },
+  {
+    "type": "Domain",
+    "value": "epicgamescdn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "fab.com"
+  },
+  {
+    "type": "Domain",
+    "value": "fortnite.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hyprsense.com"
+  },
+  {
+    "type": "Domain",
+    "value": "paragon.com"
+  },
+  {
+    "type": "Domain",
+    "value": "playparagon.com"
+  },
+  {
+    "type": "Domain",
+    "value": "quixel.com"
+  },
+  {
+    "type": "Domain",
+    "value": "quixel.se"
+  },
+  {
+    "type": "Domain",
+    "value": "radgametools.com"
+  },
+  {
+    "type": "Domain",
+    "value": "realityscan.com"
+  },
+  {
+    "type": "Domain",
+    "value": "roborecall.com"
+  },
+  {
+    "type": "Domain",
+    "value": "shadowcomplex.com"
+  },
+  {
+    "type": "Domain",
+    "value": "sketchfab.com"
+  },
+  {
+    "type": "Domain",
+    "value": "spyjinx.com"
+  },
+  {
+    "type": "Domain",
+    "value": "twinmotion.com"
+  },
+  {
+    "type": "Domain",
+    "value": "unrealengine.com"
+  },
+  {
+    "type": "Domain",
+    "value": "unrealtournament.com"
+  },
+  {
+    "type": "Domain",
+    "value": "roblox.dk"
+  },
+  {
+    "type": "Domain",
+    "value": "acesofthunder.net"
+  },
+  {
+    "type": "Domain",
+    "value": "activematter.game"
+  },
+  {
+    "type": "Domain",
+    "value": "artstorm.com"
+  },
+  {
+    "type": "Domain",
+    "value": "crossout.net"
+  },
+  {
+    "type": "Domain",
+    "value": "crsed.net"
+  },
+  {
+    "type": "Domain",
+    "value": "cubicodyssey.game"
+  },
+  {
+    "type": "Domain",
+    "value": "enlisted.net"
+  },
+  {
+    "type": "Domain",
+    "value": "gaijin.net"
+  },
+  {
+    "type": "Domain",
+    "value": "gaijinent.com"
+  },
+  {
+    "type": "Domain",
+    "value": "modernwarships.com"
+  },
+  {
+    "type": "Domain",
+    "value": "star-conflict.com"
+  },
+  {
+    "type": "Domain",
+    "value": "warthunder.com"
+  },
+  {
+    "type": "Domain",
+    "value": "wtmobile.com"
+  },
+  {
+    "type": "Domain",
+    "value": "lowiro.com"
+  },
+  {
+    "type": "Domain",
+    "value": "modrinth.com"
   },
   {
     "type": "Domain",
@@ -2805,71 +2789,19 @@
   },
   {
     "type": "Domain",
-    "value": "dungeonkeeper.com.cn"
+    "value": "rbxinfra.net"
   },
   {
     "type": "Domain",
-    "value": "nintendo.co.uk"
+    "value": "goblocks.com"
   },
   {
     "type": "Domain",
-    "value": "roblox.co.jp"
+    "value": "rbxtrk.com"
   },
   {
     "type": "Domain",
-    "value": "eakorea.co.kr"
-  },
-  {
-    "type": "Domain",
-    "value": "garena.co.th"
-  },
-  {
-    "type": "Domain",
-    "value": "garena.co.id"
-  },
-  {
-    "type": "Domain",
-    "value": "pjsekai.sega.jp"
-  },
-  {
-    "type": "Domain",
-    "value": "umamusume.akamaized.net"
-  },
-  {
-    "type": "Domain",
-    "value": "egdownload.fastly-edge.com"
-  },
-  {
-    "type": "Domain",
-    "value": "supercell.helpshift.com"
-  },
-  {
-    "type": "Domain",
-    "value": "cygames.co.jp"
-  },
-  {
-    "type": "Domain",
-    "value": "mobimon.com.tw"
-  },
-  {
-    "type": "Domain",
-    "value": "roblox-api.arkoselabs.com"
-  },
-  {
-    "type": "Domain",
-    "value": "yostar.co.jp"
-  },
-  {
-    "type": "Domain",
-    "value": "yostar-pictures.co.jp"
-  },
-  {
-    "type": "Domain",
-    "value": "nexon.co.jp"
-  },
-  {
-    "type": "Domain",
-    "value": "nexoncdn.co.kr"
+    "value": "roblox.de"
   },
   {
     "type": "Domain",
@@ -2877,15 +2809,27 @@
   },
   {
     "type": "Domain",
-    "value": "nintendo.co.kr"
-  },
-  {
-    "type": "Domain",
-    "value": "sekai.colorfulpalette.org"
-  },
-  {
-    "type": "Domain",
     "value": "snk-corp.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "yostar-pictures.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "cygames.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "nexoncdn.co.kr"
+  },
+  {
+    "type": "Domain",
+    "value": "nexon.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "dungeonkeeper.com.cn"
   },
   {
     "type": "Domain",
@@ -2905,7 +2849,43 @@
   },
   {
     "type": "Domain",
-    "value": "illusion.co.jp"
+    "value": "mobimon.com.tw"
+  },
+  {
+    "type": "Domain",
+    "value": "egdownload.fastly-edge.com"
+  },
+  {
+    "type": "Domain",
+    "value": "garena.co.id"
+  },
+  {
+    "type": "Domain",
+    "value": "garena.co.th"
+  },
+  {
+    "type": "Domain",
+    "value": "sekai.colorfulpalette.org"
+  },
+  {
+    "type": "Domain",
+    "value": "roblox-api.arkoselabs.com"
+  },
+  {
+    "type": "Domain",
+    "value": "roblox.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "yostar.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "pjsekai.sega.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "eakorea.co.kr"
   },
   {
     "type": "Domain",
@@ -2921,11 +2901,27 @@
   },
   {
     "type": "Domain",
+    "value": "nintendo.co.uk"
+  },
+  {
+    "type": "Domain",
     "value": "nintendo.co.jp"
   },
   {
     "type": "Domain",
-    "value": "steam.eca.qtlglb.com"
+    "value": "nintendo.co.kr"
+  },
+  {
+    "type": "Domain",
+    "value": "supercell.helpshift.com"
+  },
+  {
+    "type": "Domain",
+    "value": "illusion.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "umamusume.akamaized.net"
   },
   {
     "type": "Domain",
@@ -2941,11 +2937,15 @@
   },
   {
     "type": "Domain",
-    "value": "steam.apac.qtlglb.com"
+    "value": "steam.eca.qtlglb.com"
   },
   {
     "type": "Domain",
     "value": "steam.cdn.webra.ru"
+  },
+  {
+    "type": "Domain",
+    "value": "steam.apac.qtlglb.com"
   },
   {
     "type": "Domain",
@@ -2965,6 +2965,114 @@
   },
   {
     "type": "Domain",
+    "value": "bluearchive-cn.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "gog.qtlglb.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "gogalaxy.gog-statics.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "menu-static.gog-statics.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "productcard.gog-statics.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "static-login.gog-statics.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "www4-static.gog-statics.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Regex",
+    "value": "^cdn-akamai-.+\\.gog-services\\.com$",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Regex",
+    "value": "^gog-cdn-.+\\.footprint\\.net$",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Regex",
+    "value": "^images(-\\d)?\\.gog-statics\\.com$",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "gog-cdn-fastly.gog.com",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "gog-cdn.akamaized.net",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
     "value": "xboxlive.cn",
     "attrs": {
       "cn": {
@@ -2974,9 +3082,9 @@
   },
   {
     "type": "Domain",
-    "value": "yostar.cn",
+    "value": "log-upload-os.hoyoverse.com",
     "attrs": {
-      "cn": {
+      "ads": {
         "BoolValue": true
       }
     }
@@ -3083,33 +3191,6 @@
   {
     "type": "Domain",
     "value": "supermariobros.com.cn",
-    "attrs": {
-      "cn": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Full",
-    "value": "uplaypc-s-ubisoft.cdn.ubi.com",
-    "attrs": {
-      "cn": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "leagueoflegends.cn",
-    "attrs": {
-      "cn": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "lpl.com.cn",
     "attrs": {
       "cn": {
         "BoolValue": true
@@ -3253,7 +3334,25 @@
   },
   {
     "type": "Domain",
-    "value": "bluearchive-cn.com",
+    "value": "leagueoflegends.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "lpl.com.cn",
+    "attrs": {
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "uplaypc-s-ubisoft.cdn.ubi.com",
     "attrs": {
       "cn": {
         "BoolValue": true
@@ -3279,109 +3378,10 @@
     }
   },
   {
-    "type": "Full",
-    "value": "gog.qtlglb.com",
-    "attrs": {
-      "cn": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Full",
-    "value": "gogalaxy.gog-statics.com",
-    "attrs": {
-      "cn": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Full",
-    "value": "menu-static.gog-statics.com",
-    "attrs": {
-      "cn": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Full",
-    "value": "productcard.gog-statics.com",
-    "attrs": {
-      "cn": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Full",
-    "value": "static-login.gog-statics.com",
-    "attrs": {
-      "cn": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Full",
-    "value": "www4-static.gog-statics.com",
-    "attrs": {
-      "cn": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Regex",
-    "value": "^cdn-akamai-.+\\.gog-services\\.com$",
-    "attrs": {
-      "cn": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Regex",
-    "value": "^gog-cdn-.+\\.footprint\\.net$",
-    "attrs": {
-      "cn": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Regex",
-    "value": "^images(-\\d)?\\.gog-statics\\.com$",
-    "attrs": {
-      "cn": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Full",
-    "value": "gog-cdn-fastly.gog.com",
-    "attrs": {
-      "cn": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Full",
-    "value": "gog-cdn.akamaized.net",
-    "attrs": {
-      "cn": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
     "type": "Domain",
-    "value": "log-upload-os.hoyoverse.com",
+    "value": "yostar.cn",
     "attrs": {
-      "ads": {
+      "cn": {
         "BoolValue": true
       }
     }

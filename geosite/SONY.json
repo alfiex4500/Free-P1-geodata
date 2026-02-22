@@ -13,11 +13,11 @@
   },
   {
     "type": "Domain",
-    "value": "playstation.net"
+    "value": "motionpictureser.com"
   },
   {
     "type": "Domain",
-    "value": "yourfantasybeginsnow.com"
+    "value": "sonyentertainmentnetwork.com"
   },
   {
     "type": "Domain",
@@ -41,7 +41,7 @@
   },
   {
     "type": "Domain",
-    "value": "wwtbam.com"
+    "value": "playstation.net"
   },
   {
     "type": "Domain",
@@ -93,6 +93,22 @@
   },
   {
     "type": "Domain",
+    "value": "playstation.com"
+  },
+  {
+    "type": "Domain",
+    "value": "yourfantasybeginsnow.com"
+  },
+  {
+    "type": "Domain",
+    "value": "wwtbam.com"
+  },
+  {
+    "type": "Domain",
+    "value": "sony.es"
+  },
+  {
+    "type": "Domain",
     "value": "wheelpop.com"
   },
   {
@@ -105,11 +121,11 @@
   },
   {
     "type": "Domain",
-    "value": "sony.es"
+    "value": "sonypicturesstudios.com"
   },
   {
     "type": "Domain",
-    "value": "sonypicturesstudios.com"
+    "value": "sony.com"
   },
   {
     "type": "Domain",
@@ -125,10 +141,6 @@
   },
   {
     "type": "Domain",
-    "value": "sony.com"
-  },
-  {
-    "type": "Domain",
     "value": "sonyclassics.com"
   },
   {
@@ -137,23 +149,11 @@
   },
   {
     "type": "Domain",
-    "value": "playshow.io"
-  },
-  {
-    "type": "Domain",
-    "value": "motionpictureser.com"
-  },
-  {
-    "type": "Domain",
-    "value": "imageworks.com"
-  },
-  {
-    "type": "Domain",
     "value": "sony.eu"
   },
   {
     "type": "Domain",
-    "value": "sonyentertainmentnetwork.com"
+    "value": "playshow.io"
   },
   {
     "type": "Domain",
@@ -161,7 +161,7 @@
   },
   {
     "type": "Domain",
-    "value": "playstation.com"
+    "value": "imageworks.com"
   },
   {
     "type": "Domain",
@@ -389,10 +389,6 @@
   },
   {
     "type": "Domain",
-    "value": "sonynetwork.co.jp"
-  },
-  {
-    "type": "Domain",
     "value": "sony.com.hk"
   },
   {
@@ -446,6 +442,10 @@
   {
     "type": "Domain",
     "value": "sony.co.id"
+  },
+  {
+    "type": "Domain",
+    "value": "sonynetwork.co.jp"
   },
   {
     "type": "Domain",

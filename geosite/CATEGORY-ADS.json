@@ -528,8 +528,8 @@
     "value": "ad.api.moji.com"
   },
   {
-    "type": "Regex",
-    "value": "^speed\\.(coe|open)\\.ad\\.[a-z]{2,6}\\.prod\\.hosts\\.ooklaserver\\.net$",
+    "type": "Domain",
+    "value": "ad.toutiao.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -538,7 +538,7 @@
   },
   {
     "type": "Domain",
-    "value": "collector.xhamster.com",
+    "value": "bds.snssdk.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -547,7 +547,7 @@
   },
   {
     "type": "Domain",
-    "value": "a.market.xiaomi.com",
+    "value": "byteadverts.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -556,7 +556,7 @@
   },
   {
     "type": "Domain",
-    "value": "ad.intl.xiaomi.com",
+    "value": "ctobsnssdk.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -565,7 +565,7 @@
   },
   {
     "type": "Domain",
-    "value": "ad.mi.com",
+    "value": "dig.bdurl.net",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -574,7 +574,7 @@
   },
   {
     "type": "Domain",
-    "value": "ad.xiaomi.com",
+    "value": "extlog.snssdk.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -583,7 +583,7 @@
   },
   {
     "type": "Domain",
-    "value": "ad1.xiaomi.com",
+    "value": "i.snssdk.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -592,7 +592,7 @@
   },
   {
     "type": "Domain",
-    "value": "admob.xiaomi.com",
+    "value": "log.zijieapi.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -601,7 +601,7 @@
   },
   {
     "type": "Domain",
-    "value": "adv.sec.intl.miui.com",
+    "value": "mcs.snssdk.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -610,7 +610,7 @@
   },
   {
     "type": "Domain",
-    "value": "adv.sec.miui.com",
+    "value": "pangolin-dsp-toutiao-b.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -619,7 +619,7 @@
   },
   {
     "type": "Domain",
-    "value": "data.mistat.india.xiaomi.com",
+    "value": "pangolin-dsp-toutiao.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -628,7 +628,7 @@
   },
   {
     "type": "Domain",
-    "value": "data.mistat.intl.xiaomi.com",
+    "value": "pangolin-hl.snssdk.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -637,7 +637,7 @@
   },
   {
     "type": "Domain",
-    "value": "data.mistat.rus.xiaomi.com",
+    "value": "pangolin-lf.snssdk.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -646,7 +646,7 @@
   },
   {
     "type": "Domain",
-    "value": "data.mistat.xiaomi.com",
+    "value": "pangolin-lq.snssdk.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -655,7 +655,7 @@
   },
   {
     "type": "Domain",
-    "value": "logupdate.avlyun.sec.miui.com",
+    "value": "pangolin-sdk-toutiao-b.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -664,7 +664,7 @@
   },
   {
     "type": "Domain",
-    "value": "misc.in.duokanbox.com",
+    "value": "pangolin-sdk-toutiao.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -673,7 +673,7 @@
   },
   {
     "type": "Domain",
-    "value": "sentry.d.mi.com",
+    "value": "pangolin-sdk-toutiao1.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -682,7 +682,7 @@
   },
   {
     "type": "Domain",
-    "value": "sentry.d.xiaomi.net",
+    "value": "pangolin.snssdk.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -691,7 +691,7 @@
   },
   {
     "type": "Domain",
-    "value": "stats.music.xiaomi.com",
+    "value": "panplayable-toutiao-b.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -700,7 +700,7 @@
   },
   {
     "type": "Domain",
-    "value": "tjqonline.cn",
+    "value": "panplayable-toutiao.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -709,7 +709,7 @@
   },
   {
     "type": "Domain",
-    "value": "tracker.ai.xiaomi.com",
+    "value": "pglstatp-sdk-toutiao.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -718,7 +718,7 @@
   },
   {
     "type": "Domain",
-    "value": "tracker.xiaomixiaoai.com",
+    "value": "pglstatp-snssdk-toutiao.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -727,7 +727,7 @@
   },
   {
     "type": "Domain",
-    "value": "tracking.miui.com",
+    "value": "pglstatp-toutiao-b.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -736,7 +736,7 @@
   },
   {
     "type": "Domain",
-    "value": "crash2.zhihu.com",
+    "value": "pglstatp-toutiao.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -745,7 +745,7 @@
   },
   {
     "type": "Domain",
-    "value": "zhihu-web-analytics.zhihu.com",
+    "value": "sf3-ttcdn-tos.pstatp.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -754,7 +754,142 @@
   },
   {
     "type": "Domain",
-    "value": "amazon-adsystem.com",
+    "value": "shoppingads.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "ads3-normal-hl.zijieapi.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "ads3-normal.zijieapi.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "ads5-normal-hl.zijieapi.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "ads5-normal.zijieapi.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "log3-applog-hl.fqnovel.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "log3-applog.fqnovel.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "log5-applog-hl.fqnovel.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "log5-applog.fqnovel.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "p3-ad-sign.byteimg.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "p6-ad-sign.byteimg.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "p9-ad-sign.byteimg.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "rtlog3-applog-hl.fqnovel.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "rtlog3-applog.fqnovel.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "rtlog5-applog-hl.fqnovel.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "rtlog5-applog.fqnovel.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -763,8 +898,11 @@
   },
   {
     "type": "Domain",
-    "value": "serving-sys.com",
+    "value": "analytics.tiktok.com",
     "attrs": {
+      "!cn": {
+        "BoolValue": true
+      },
       "ads": {
         "BoolValue": true
       }
@@ -772,7 +910,7 @@
   },
   {
     "type": "Domain",
-    "value": "click.gamersky.com",
+    "value": "ad.cctv.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -780,8 +918,8 @@
     }
   },
   {
-    "type": "Domain",
-    "value": "ja.gamersky.com",
+    "type": "Full",
+    "value": "o33249.ingest.sentry.io",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -789,26 +927,8 @@
     }
   },
   {
-    "type": "Domain",
-    "value": "ja1.gamersky.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "ja2.gamersky.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "wmbd.gamersky.com",
+    "type": "Full",
+    "value": "browser-intake-datadoghq.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -907,7 +1027,7 @@
   },
   {
     "type": "Domain",
-    "value": "analytics.facebook.com",
+    "value": "apple.www.letv.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -916,7 +1036,7 @@
   },
   {
     "type": "Domain",
-    "value": "facebookads.com",
+    "value": "ark.letv.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -925,7 +1045,7 @@
   },
   {
     "type": "Domain",
-    "value": "pixel.facebook.com",
+    "value": "dc.letv.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -934,7 +1054,16 @@
   },
   {
     "type": "Domain",
-    "value": "graph.instagram.com",
+    "value": "g3.letv.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Regex",
+    "value": "^speed\\.(coe|open)\\.ad\\.[a-z]{2,6}\\.prod\\.hosts\\.ooklaserver\\.net$",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -943,259 +1072,7 @@
   },
   {
     "type": "Domain",
-    "value": "graph-fallback.instagram.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "graph.whatsapp.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "graph.whatsapp.net",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Full",
-    "value": "o4504926511693824.ingest.sentry.io",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "ad.sina.com.cn",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "ad.us.sinaimg.cn",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "adbox.sina.com.cn",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "adimg.mobile.sina.cn",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "adimg.uve.weibo.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "ads.sina.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "alitui.weibo.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "beacon.sina.com.cn",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "biz.weibo.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "click.uve.mobile.sina.cn",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "click.uve.weibo.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "log.mix.sina.com.cn",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "log.sina.cn",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "log2.sina.cn",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "mixer.sina.cn",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "p4p.sina.com.cn",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "rs.sinajs.cn",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "sa.sina.cn",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "sbeacon.sina.com.cn",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "sdkclick.mobile.sina.cn",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "slog.sina.cn",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "slog.sina.com.cn",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "wapwbclick.mobile.sina.cn",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "wbclick.mobile.sina.cn",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "snapads.com",
+    "value": "collector.xhamster.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -1213,7 +1090,7 @@
   },
   {
     "type": "Domain",
-    "value": "a.alimama.cn",
+    "value": "ads.yahoo.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -1222,7 +1099,7 @@
   },
   {
     "type": "Domain",
-    "value": "adash-c.m.taobao.com",
+    "value": "gemini.yahoo.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -1231,763 +1108,7 @@
   },
   {
     "type": "Domain",
-    "value": "adash-c.ut.taobao.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "adash.m.taobao.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "adashbc.m.taobao.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "adashbc.ut.taobao.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "adashx.m.taobao.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "adashx4ae.ut.taobao.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "adashx4yt.m.taobao.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "adashxgc.ut.taobao.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "adsh.m.taobao.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "adtrack.quark.cn",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "c-adash.m.taobao.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "fourier.taobao.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "g.click.taobao.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "h-adashx.ut.taobao.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "h-adashx4yt.ut.taobao.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "m-adash.m.taobao.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "marketing.alibaba.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "nbsdk-baichuan.taobao.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "retcode.taobao.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "tns.simba.taobao.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "track.lc.quark.cn",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "v6-adashx.ut.taobao.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "v6-adashx.ut.cainiao.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "adashx.ut.ele.me",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "h-adashx.ut.ele.me",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "v6-adashx.ut.ele.me",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "aaid.umeng.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "alog.umeng.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "alog.umengcloud.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "alogs.umeng.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "alogus.umeng.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "ar.umeng.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "aspect-upush.umeng.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "audid.umeng.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "ccs.umeng.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "cnlogs.umeng.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "cnlogs.umengcloud.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "log.umtrack.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "new-aaid.umeng.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "new-aaid.umeng.com.gds.alibabadns.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "oc.umeng.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "plbslog.umeng.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "resolve.umeng.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "ulogs.umeng.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "ulogs.umengcloud.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "utoken.umeng.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "w.cnzz.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "z.gds.cnzz.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "ad.api.3g.youku.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "ad.api.mobile.youku.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "ad.mobile.youku.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "adashx.ut.youku.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "atm.youku.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "e.stat.ykimg.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "ems.youku.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "guanggaoad.youku.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "h-adashx.ut.youku.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "lstat.youku.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "mobilemsg.youku.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "msg.youku.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "p-log.ykimg.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "passport-log.youku.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "pl.youku.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "s-adashx.ut.youku.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "stat.youku.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "statis.api.3g.youku.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "v6-adashx.ut.youku.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "yk-ssp.ad.youku.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "ykad-data.youku.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "acjs.aliyun.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "adash-emas.cn-hangzhou.aliyuncs.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "adash.man.aliyuncs.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "alimama.alicdn.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "atanx.alicdn.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "atanx2.alicdn.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "baichuan-sdk.alicdn.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "nbsdk-baichuan.alicdn.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "tce.alicdn.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "adashx.ut.amap.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "dualstack-logs.amap.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "logs.amap.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "optimus-ads.amap.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "v6-adashx.ut.amap.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "ads.uc.cn",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "adslot.uc.cn",
+    "value": "ysm.yahoo.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -2041,7 +1162,7 @@
   },
   {
     "type": "Domain",
-    "value": "2mdn-cn.net",
+    "value": "click.gamersky.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -2050,7 +1171,7 @@
   },
   {
     "type": "Domain",
-    "value": "2mdn.net",
+    "value": "ja.gamersky.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -2059,7 +1180,7 @@
   },
   {
     "type": "Domain",
-    "value": "admob-cn.com",
+    "value": "ja1.gamersky.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -2068,7 +1189,7 @@
   },
   {
     "type": "Domain",
-    "value": "admob.com",
+    "value": "ja2.gamersky.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -2077,7 +1198,7 @@
   },
   {
     "type": "Domain",
-    "value": "adsense.com",
+    "value": "wmbd.gamersky.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -2086,7 +1207,7 @@
   },
   {
     "type": "Domain",
-    "value": "adsensecustomsearchads.com",
+    "value": "click.hunantv.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -2095,7 +1216,7 @@
   },
   {
     "type": "Domain",
-    "value": "adsenseformobileapps.com",
+    "value": "da.hunantv.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -2104,7 +1225,7 @@
   },
   {
     "type": "Domain",
-    "value": "adservice.google.com",
+    "value": "da.mgtv.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -2113,7 +1234,7 @@
   },
   {
     "type": "Domain",
-    "value": "adtrafficquality.google",
+    "value": "log.hunantv.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -2122,7 +1243,7 @@
   },
   {
     "type": "Domain",
-    "value": "advertisercommunity.com",
+    "value": "log.v2.hunantv.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -2131,7 +1252,7 @@
   },
   {
     "type": "Domain",
-    "value": "advertiserscommunity.com",
+    "value": "res.hunantv.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -2140,7 +1261,7 @@
   },
   {
     "type": "Domain",
-    "value": "adwords-community.com",
+    "value": "log-upload-os.hoyoverse.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -2149,1009 +1270,7 @@
   },
   {
     "type": "Domain",
-    "value": "adwords.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "adwordsexpress.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "analytics-alv.google.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "app-analytics-services.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "app-analytics-services-att.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "app-measurement-cn.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "app-measurement.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "doubleclick-cn.net",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "doubleclick.cn",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "doubleclick.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "doubleclick.net",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "fcmatch.google.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "google-analytics-cn.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "google-analytics.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "googleadapis.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "googleadapis.l.google.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "googleads-cn.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "googleads.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "googleadservices-cn.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "googleadservices.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "googleadsserving.cn",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "googleanalytics.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "googleoptimize-cn.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "googleoptimize.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "googlesyndication-cn.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "googlesyndication.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "googletagmanager-cn.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "googletagmanager.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "googletagservices-cn.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "googletagservices.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "googletraveladservices-cn.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "googletraveladservices.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "googlevads-cn.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "mail-ads.google.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "mobileads.google.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "marketingplatform.google.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "pagead.l.google.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "partnerad.l.google.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "urchin.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Full",
-    "value": "analytics.google.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "ads.youtube.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "ads-twitter.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "iads.unity3d.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "unityads.unity3d.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "adbehavior.ximalaya.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "adse.wsa.ximalaya.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "adse.ximalaya.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "adscdn.baidu.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "adx.xiaodutv.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "afd.baidu.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "afdconf.baidu.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "baifen.music.baidu.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "bzclk.baidu.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "cb.baidu.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "cbjs.baidu.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "cm.baidu.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "cpro.baidu.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "cpro.baidustatic.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "cpu.baidu.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "cstm.baidu.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "dlswbr.baidu.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "drmcmm.baidu.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "duiwai.baidu.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "dup.baidustatic.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "eclick.baidu.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "ecma.bdimg.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "ecmb.bdimg.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "ecmc.bdimg.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "eduad.baidu.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "eiv.baidu.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "fclick.baidu.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "fclog.baidu.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "h2tcbox.baidu.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "hao123union.baidu.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "hm.baidu.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "hmma.baidu.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "imgstat.baidu.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "iwanad.baidu.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "miao.baidu.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "miaowu.baidu.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "mipcache.bdstatic.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "mobads.baidu.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "mobads-logs.baidu.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "mobads-pre-config.cdn.bcebos.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "mountain.zhidao.baidu.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "nsclick.baidu.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "nsclickvideo.baidu.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "pimlog.baidu.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "pos.baidu.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "sclick.baidu.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "spcode.baidu.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "tcbox.baidu.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "ubmcvideo.baidustatic.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "union.baidu.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "unionimage.baidu.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "wangmeng.baidu.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "wkctj.baidu.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "wm.baidu.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "zz.bdstatic.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "syh.zybang.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "clarity.ms",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "microsoftads.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "msads.net",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "nelreports.net",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "bingads.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "collector.github.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "copilot-telemetry.githubusercontent.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "browser.events.data.msn.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "browser.events.data.msn.cn",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      },
-      "cn": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "samsungads.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Full",
-    "value": "ad-channel.diwodiwo.xyz",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Full",
-    "value": "ad-display.diwodiwo.xyz",
+    "value": "log-upload.mihoyo.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -3892,7 +2011,7 @@
   },
   {
     "type": "Domain",
-    "value": "ads.unitychina.cn",
+    "value": "ads-twitter.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -3901,7 +2020,7 @@
   },
   {
     "type": "Domain",
-    "value": "splash-ads.cdn.unity.cn",
+    "value": "adscdn.baidu.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -3910,7 +2029,7 @@
   },
   {
     "type": "Domain",
-    "value": "splash-ads.unitychina.cn",
+    "value": "adx.xiaodutv.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -3919,7 +2038,7 @@
   },
   {
     "type": "Domain",
-    "value": "unityads.unity.cn",
+    "value": "afd.baidu.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -3928,16 +2047,7 @@
   },
   {
     "type": "Domain",
-    "value": "unityads.unitychina.cn",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Full",
-    "value": "disney.my.sentry.io",
+    "value": "afdconf.baidu.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -3946,7 +2056,7 @@
   },
   {
     "type": "Domain",
-    "value": "click.hunantv.com",
+    "value": "baifen.music.baidu.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -3955,7 +2065,7 @@
   },
   {
     "type": "Domain",
-    "value": "da.hunantv.com",
+    "value": "bzclk.baidu.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -3964,7 +2074,7 @@
   },
   {
     "type": "Domain",
-    "value": "da.mgtv.com",
+    "value": "cb.baidu.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -3973,7 +2083,7 @@
   },
   {
     "type": "Domain",
-    "value": "log.hunantv.com",
+    "value": "cbjs.baidu.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -3982,7 +2092,7 @@
   },
   {
     "type": "Domain",
-    "value": "log.v2.hunantv.com",
+    "value": "cm.baidu.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -3991,25 +2101,7 @@
   },
   {
     "type": "Domain",
-    "value": "res.hunantv.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Full",
-    "value": "o33249.ingest.sentry.io",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Full",
-    "value": "browser-intake-datadoghq.com",
+    "value": "cpro.baidu.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -4018,7 +2110,7 @@
   },
   {
     "type": "Domain",
-    "value": "adbkwai.com",
+    "value": "cpro.baidustatic.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -4027,7 +2119,7 @@
   },
   {
     "type": "Domain",
-    "value": "adkwai.com",
+    "value": "cpu.baidu.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -4036,7 +2128,7 @@
   },
   {
     "type": "Domain",
-    "value": "adukwai.com",
+    "value": "cstm.baidu.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -4045,7 +2137,7 @@
   },
   {
     "type": "Domain",
-    "value": "e.kuaishou.cn",
+    "value": "dlswbr.baidu.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -4054,25 +2146,7 @@
   },
   {
     "type": "Domain",
-    "value": "e.kuaishou.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Full",
-    "value": "log-sdk.gifshow.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Full",
-    "value": "wlog.kuaishou.com",
+    "value": "drmcmm.baidu.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -4081,7 +2155,7 @@
   },
   {
     "type": "Domain",
-    "value": "c.sayhi.360.cn",
+    "value": "duiwai.baidu.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -4090,7 +2164,7 @@
   },
   {
     "type": "Domain",
-    "value": "fenxi.360.cn",
+    "value": "dup.baidustatic.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -4099,7 +2173,7 @@
   },
   {
     "type": "Domain",
-    "value": "fenxi.com",
+    "value": "eclick.baidu.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -4108,7 +2182,7 @@
   },
   {
     "type": "Domain",
-    "value": "lianmeng.360.cn",
+    "value": "ecma.bdimg.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -4117,7 +2191,7 @@
   },
   {
     "type": "Domain",
-    "value": "mediav.com",
+    "value": "ecmb.bdimg.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -4126,7 +2200,7 @@
   },
   {
     "type": "Domain",
-    "value": "mvad.com",
+    "value": "ecmc.bdimg.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -4135,7 +2209,7 @@
   },
   {
     "type": "Domain",
-    "value": "qhupdate.com",
+    "value": "eduad.baidu.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -4144,7 +2218,7 @@
   },
   {
     "type": "Domain",
-    "value": "s.360.cn",
+    "value": "eiv.baidu.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -4153,7 +2227,7 @@
   },
   {
     "type": "Domain",
-    "value": "s.so.360.cn",
+    "value": "fclick.baidu.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -4162,16 +2236,7 @@
   },
   {
     "type": "Domain",
-    "value": "s.union.360.cn",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Full",
-    "value": "apilog-web.acfun.cn",
+    "value": "fclog.baidu.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -4180,7 +2245,7 @@
   },
   {
     "type": "Domain",
-    "value": "ads-union.jd.com",
+    "value": "h2tcbox.baidu.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -4189,7 +2254,7 @@
   },
   {
     "type": "Domain",
-    "value": "ads.union.jd.com",
+    "value": "hao123union.baidu.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -4198,7 +2263,7 @@
   },
   {
     "type": "Domain",
-    "value": "c-nfa.jd.com",
+    "value": "hm.baidu.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -4207,7 +2272,7 @@
   },
   {
     "type": "Domain",
-    "value": "cps.360buy.com",
+    "value": "hmma.baidu.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -4216,7 +2281,7 @@
   },
   {
     "type": "Domain",
-    "value": "gia.jd.com",
+    "value": "imgstat.baidu.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -4225,7 +2290,7 @@
   },
   {
     "type": "Domain",
-    "value": "img-x.jd.com",
+    "value": "iwanad.baidu.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -4234,7 +2299,7 @@
   },
   {
     "type": "Domain",
-    "value": "jzt.jd.com",
+    "value": "miao.baidu.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -4243,7 +2308,7 @@
   },
   {
     "type": "Domain",
-    "value": "stat.m.jd.com",
+    "value": "miaowu.baidu.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -4252,7 +2317,7 @@
   },
   {
     "type": "Domain",
-    "value": "apple.www.letv.com",
+    "value": "mipcache.bdstatic.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -4261,7 +2326,7 @@
   },
   {
     "type": "Domain",
-    "value": "ark.letv.com",
+    "value": "mobads.baidu.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -4270,7 +2335,7 @@
   },
   {
     "type": "Domain",
-    "value": "dc.letv.com",
+    "value": "mobads-logs.baidu.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -4279,34 +2344,7 @@
   },
   {
     "type": "Domain",
-    "value": "g3.letv.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Full",
-    "value": "adeventtracker.spotify.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Full",
-    "value": "adstudio-assets.scdn.co",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Full",
-    "value": "bloodhound.spotify.com",
+    "value": "mobads-pre-config.cdn.bcebos.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -4315,7 +2353,7 @@
   },
   {
     "type": "Domain",
-    "value": "ads-uo.api.leiniao.com",
+    "value": "mountain.zhidao.baidu.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -4324,7 +2362,7 @@
   },
   {
     "type": "Domain",
-    "value": "ads-ut.api.leiniao.com",
+    "value": "nsclick.baidu.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -4333,7 +2371,7 @@
   },
   {
     "type": "Domain",
-    "value": "ads.api.my7v.com",
+    "value": "nsclickvideo.baidu.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -4342,7 +2380,7 @@
   },
   {
     "type": "Domain",
-    "value": "euads-o.api.leiniao.com",
+    "value": "pimlog.baidu.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -4351,7 +2389,7 @@
   },
   {
     "type": "Domain",
-    "value": "hwads-t.api.my7v.com",
+    "value": "pos.baidu.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -4360,7 +2398,7 @@
   },
   {
     "type": "Domain",
-    "value": "testads.api.my7v.com",
+    "value": "sclick.baidu.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -4369,7 +2407,7 @@
   },
   {
     "type": "Domain",
-    "value": "ads-api.duolingo.com",
+    "value": "spcode.baidu.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -4378,7 +2416,7 @@
   },
   {
     "type": "Domain",
-    "value": "analytics.vpc.duolingo.com",
+    "value": "tcbox.baidu.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -4387,16 +2425,7 @@
   },
   {
     "type": "Domain",
-    "value": "metrics.duolingo.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Full",
-    "value": "sentry.hetzner.company",
+    "value": "ubmcvideo.baidustatic.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -4405,7 +2434,7 @@
   },
   {
     "type": "Domain",
-    "value": "ads.service.kugou.com",
+    "value": "union.baidu.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -4414,7 +2443,7 @@
   },
   {
     "type": "Domain",
-    "value": "adserviceretry.kglink.cn",
+    "value": "unionimage.baidu.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -4423,7 +2452,43 @@
   },
   {
     "type": "Domain",
-    "value": "adserviceretry.kugou.com",
+    "value": "wangmeng.baidu.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "wkctj.baidu.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "wm.baidu.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "zz.bdstatic.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "syh.zybang.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -4540,6 +2605,1158 @@
   },
   {
     "type": "Domain",
+    "value": "ads-pixiv.net",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "samsungads.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "snapads.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "crash2.zhihu.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "zhihu-web-analytics.zhihu.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "advertising.adobe.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "tubemogul.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "disney.my.sentry.io",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "adbkwai.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "adkwai.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "adukwai.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "e.kuaishou.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "e.kuaishou.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "log-sdk.gifshow.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "wlog.kuaishou.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "adeventtracker.spotify.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "adstudio-assets.scdn.co",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "bloodhound.spotify.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "adbehavior.ximalaya.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "adse.wsa.ximalaya.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "adse.ximalaya.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "apilog-web.acfun.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "a.alimama.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "adash-c.m.taobao.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "adash-c.ut.taobao.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "adash.m.taobao.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "adashbc.m.taobao.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "adashbc.ut.taobao.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "adashx.m.taobao.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "adashx4ae.ut.taobao.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "adashx4yt.m.taobao.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "adashxgc.ut.taobao.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "adsh.m.taobao.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "adtrack.quark.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "c-adash.m.taobao.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "fourier.taobao.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "g.click.taobao.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "h-adashx.ut.taobao.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "h-adashx4yt.ut.taobao.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "m-adash.m.taobao.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "marketing.alibaba.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "nbsdk-baichuan.taobao.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "retcode.taobao.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "tns.simba.taobao.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "track.lc.quark.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "v6-adashx.ut.taobao.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "acjs.aliyun.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "adash-emas.cn-hangzhou.aliyuncs.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "adash.man.aliyuncs.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "alimama.alicdn.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "atanx.alicdn.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "atanx2.alicdn.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "baichuan-sdk.alicdn.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "nbsdk-baichuan.alicdn.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "tce.alicdn.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "adashx.ut.amap.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "dualstack-logs.amap.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "logs.amap.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "optimus-ads.amap.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "v6-adashx.ut.amap.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "adashx.ut.ele.me",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "h-adashx.ut.ele.me",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "v6-adashx.ut.ele.me",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ad.api.3g.youku.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ad.api.mobile.youku.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ad.mobile.youku.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "adashx.ut.youku.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "atm.youku.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "e.stat.ykimg.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ems.youku.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "guanggaoad.youku.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "h-adashx.ut.youku.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "lstat.youku.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "mobilemsg.youku.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "msg.youku.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "p-log.ykimg.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "passport-log.youku.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "pl.youku.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "s-adashx.ut.youku.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "stat.youku.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "statis.api.3g.youku.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "v6-adashx.ut.youku.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "yk-ssp.ad.youku.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ykad-data.youku.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "v6-adashx.ut.cainiao.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ads.uc.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "adslot.uc.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "aaid.umeng.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "alog.umeng.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "alog.umengcloud.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "alogs.umeng.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "alogus.umeng.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ar.umeng.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "aspect-upush.umeng.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "audid.umeng.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ccs.umeng.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "cnlogs.umeng.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "cnlogs.umengcloud.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "log.umtrack.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "new-aaid.umeng.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "new-aaid.umeng.com.gds.alibabadns.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "oc.umeng.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "plbslog.umeng.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "resolve.umeng.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ulogs.umeng.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ulogs.umengcloud.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "utoken.umeng.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "w.cnzz.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "z.gds.cnzz.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "sentry.hetzner.company",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ads.service.kugou.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "adserviceretry.kglink.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "adserviceretry.kugou.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "c.sayhi.360.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "fenxi.360.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "fenxi.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "lianmeng.360.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "mediav.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "mvad.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "qhupdate.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "s.360.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "s.so.360.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "s.union.360.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ads.unitychina.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "splash-ads.cdn.unity.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "splash-ads.unitychina.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "unityads.unity.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "unityads.unitychina.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
     "value": "ad.games.dmm.com",
     "attrs": {
       "ads": {
@@ -4639,7 +3856,7 @@
   },
   {
     "type": "Domain",
-    "value": "log-upload-os.hoyoverse.com",
+    "value": "analytics.facebook.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -4648,7 +3865,7 @@
   },
   {
     "type": "Domain",
-    "value": "log-upload.mihoyo.com",
+    "value": "facebookads.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -4657,7 +3874,7 @@
   },
   {
     "type": "Domain",
-    "value": "ads-pixiv.net",
+    "value": "pixel.facebook.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -4666,7 +3883,7 @@
   },
   {
     "type": "Domain",
-    "value": "ads.yahoo.com",
+    "value": "graph.instagram.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -4675,7 +3892,7 @@
   },
   {
     "type": "Domain",
-    "value": "gemini.yahoo.com",
+    "value": "graph-fallback.instagram.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -4684,7 +3901,7 @@
   },
   {
     "type": "Domain",
-    "value": "ysm.yahoo.com",
+    "value": "graph.whatsapp.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -4693,7 +3910,7 @@
   },
   {
     "type": "Domain",
-    "value": "advertising.adobe.com",
+    "value": "graph.whatsapp.net",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -4702,7 +3919,7 @@
   },
   {
     "type": "Domain",
-    "value": "tubemogul.com",
+    "value": "clarity.ms",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -4711,7 +3928,7 @@
   },
   {
     "type": "Domain",
-    "value": "ad.toutiao.com",
+    "value": "microsoftads.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -4720,7 +3937,7 @@
   },
   {
     "type": "Domain",
-    "value": "bds.snssdk.com",
+    "value": "msads.net",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -4729,7 +3946,7 @@
   },
   {
     "type": "Domain",
-    "value": "byteadverts.com",
+    "value": "nelreports.net",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -4738,7 +3955,7 @@
   },
   {
     "type": "Domain",
-    "value": "ctobsnssdk.com",
+    "value": "browser.events.data.msn.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -4747,7 +3964,7 @@
   },
   {
     "type": "Domain",
-    "value": "dig.bdurl.net",
+    "value": "bingads.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -4756,7 +3973,7 @@
   },
   {
     "type": "Domain",
-    "value": "extlog.snssdk.com",
+    "value": "collector.github.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -4765,7 +3982,7 @@
   },
   {
     "type": "Domain",
-    "value": "i.snssdk.com",
+    "value": "copilot-telemetry.githubusercontent.com",
     "attrs": {
       "ads": {
         "BoolValue": true
@@ -4774,317 +3991,20 @@
   },
   {
     "type": "Domain",
-    "value": "log.zijieapi.com",
+    "value": "browser.events.data.msn.cn",
     "attrs": {
       "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "mcs.snssdk.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "pangolin-dsp-toutiao-b.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "pangolin-dsp-toutiao.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "pangolin-hl.snssdk.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "pangolin-lf.snssdk.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "pangolin-lq.snssdk.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "pangolin-sdk-toutiao-b.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "pangolin-sdk-toutiao.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "pangolin-sdk-toutiao1.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "pangolin.snssdk.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "panplayable-toutiao-b.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "panplayable-toutiao.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "pglstatp-sdk-toutiao.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "pglstatp-snssdk-toutiao.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "pglstatp-toutiao-b.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "pglstatp-toutiao.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "sf3-ttcdn-tos.pstatp.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "shoppingads.cn",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Full",
-    "value": "ads3-normal-hl.zijieapi.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Full",
-    "value": "ads3-normal.zijieapi.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Full",
-    "value": "ads5-normal-hl.zijieapi.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Full",
-    "value": "ads5-normal.zijieapi.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Full",
-    "value": "log3-applog-hl.fqnovel.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Full",
-    "value": "log3-applog.fqnovel.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Full",
-    "value": "log5-applog-hl.fqnovel.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Full",
-    "value": "log5-applog.fqnovel.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Full",
-    "value": "p3-ad-sign.byteimg.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Full",
-    "value": "p6-ad-sign.byteimg.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Full",
-    "value": "p9-ad-sign.byteimg.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Full",
-    "value": "rtlog3-applog-hl.fqnovel.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Full",
-    "value": "rtlog3-applog.fqnovel.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Full",
-    "value": "rtlog5-applog-hl.fqnovel.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Full",
-    "value": "rtlog5-applog.fqnovel.com",
-    "attrs": {
-      "ads": {
-        "BoolValue": true
-      }
-    }
-  },
-  {
-    "type": "Domain",
-    "value": "analytics.tiktok.com",
-    "attrs": {
-      "!cn": {
         "BoolValue": true
       },
+      "cn": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ads-uo.api.leiniao.com",
+    "attrs": {
       "ads": {
         "BoolValue": true
       }
@@ -5092,7 +4012,1087 @@
   },
   {
     "type": "Domain",
-    "value": "ad.cctv.com",
+    "value": "ads-ut.api.leiniao.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ads.api.my7v.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "euads-o.api.leiniao.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "hwads-t.api.my7v.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "testads.api.my7v.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "iads.unity3d.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "unityads.unity3d.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "o4504926511693824.ingest.sentry.io",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ad.sina.com.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ad.us.sinaimg.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "adbox.sina.com.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "adimg.mobile.sina.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "adimg.uve.weibo.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ads.sina.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "alitui.weibo.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "beacon.sina.com.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "biz.weibo.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "click.uve.mobile.sina.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "click.uve.weibo.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "log.mix.sina.com.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "log.sina.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "log2.sina.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "mixer.sina.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "p4p.sina.com.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "rs.sinajs.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "sa.sina.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "sbeacon.sina.com.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "sdkclick.mobile.sina.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "slog.sina.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "slog.sina.com.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "wapwbclick.mobile.sina.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "wbclick.mobile.sina.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "a.market.xiaomi.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ad.intl.xiaomi.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ad.mi.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ad.xiaomi.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ad1.xiaomi.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "admob.xiaomi.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "adv.sec.intl.miui.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "adv.sec.miui.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "data.mistat.india.xiaomi.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "data.mistat.intl.xiaomi.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "data.mistat.rus.xiaomi.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "data.mistat.xiaomi.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "logupdate.avlyun.sec.miui.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "misc.in.duokanbox.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "sentry.d.mi.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "sentry.d.xiaomi.net",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "stats.music.xiaomi.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "tjqonline.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "tracker.ai.xiaomi.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "tracker.xiaomixiaoai.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "tracking.miui.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "amazon-adsystem.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "serving-sys.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ads-api.duolingo.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "analytics.vpc.duolingo.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "metrics.duolingo.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "2mdn-cn.net",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "2mdn.net",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "admob-cn.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "admob.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "adsense.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "adsensecustomsearchads.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "adsenseformobileapps.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "adservice.google.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "adtrafficquality.google",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "advertisercommunity.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "advertiserscommunity.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "adwords-community.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "adwords.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "adwordsexpress.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "analytics-alv.google.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "app-analytics-services.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "app-analytics-services-att.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "app-measurement-cn.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "app-measurement.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "doubleclick-cn.net",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "doubleclick.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "doubleclick.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "doubleclick.net",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "fcmatch.google.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "google-analytics-cn.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "google-analytics.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "googleadapis.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "googleadapis.l.google.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "googleads-cn.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "googleads.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "googleadservices-cn.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "googleadservices.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "googleadsserving.cn",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "googleanalytics.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "googleoptimize-cn.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "googleoptimize.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "googlesyndication-cn.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "googlesyndication.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "googletagmanager-cn.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "googletagmanager.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "googletagservices-cn.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "googletagservices.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "googletraveladservices-cn.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "googletraveladservices.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "googlevads-cn.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "mail-ads.google.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "mobileads.google.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "marketingplatform.google.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "pagead.l.google.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "partnerad.l.google.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "urchin.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "analytics.google.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ads.youtube.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ads-union.jd.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "ads.union.jd.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "c-nfa.jd.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "cps.360buy.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "gia.jd.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "img-x.jd.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "jzt.jd.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Domain",
+    "value": "stat.m.jd.com",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "ad-channel.diwodiwo.xyz",
+    "attrs": {
+      "ads": {
+        "BoolValue": true
+      }
+    }
+  },
+  {
+    "type": "Full",
+    "value": "ad-display.diwodiwo.xyz",
     "attrs": {
       "ads": {
         "BoolValue": true

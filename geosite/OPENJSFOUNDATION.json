@@ -9,6 +9,14 @@
   },
   {
     "type": "Domain",
+    "value": "mochajs.org"
+  },
+  {
+    "type": "Domain",
+    "value": "nodejs.org"
+  },
+  {
+    "type": "Domain",
     "value": "amp.dev"
   },
   {
@@ -38,14 +46,6 @@
   {
     "type": "Domain",
     "value": "jqueryui.com"
-  },
-  {
-    "type": "Domain",
-    "value": "mochajs.org"
-  },
-  {
-    "type": "Domain",
-    "value": "nodejs.org"
   },
   {
     "type": "Full",

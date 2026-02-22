@@ -9,10 +9,6 @@
   },
   {
     "type": "Full",
-    "value": "deribit.cdn.prismic.io"
-  },
-  {
-    "type": "Full",
     "value": "onekey.zendesk.com"
   },
   {
@@ -24,12 +20,16 @@
     "value": "bybit.ada.support"
   },
   {
-    "type": "Domain",
-    "value": "binancezh.kim"
+    "type": "Full",
+    "value": "deribit.cdn.prismic.io"
   },
   {
     "type": "Domain",
-    "value": "nexo.io"
+    "value": "binance.org"
+  },
+  {
+    "type": "Domain",
+    "value": "bntrace.com"
   },
   {
     "type": "Domain",
@@ -133,7 +133,7 @@
   },
   {
     "type": "Domain",
-    "value": "binancezh.live"
+    "value": "binance.vision"
   },
   {
     "type": "Domain",
@@ -265,6 +265,42 @@
   },
   {
     "type": "Domain",
+    "value": "gate.io"
+  },
+  {
+    "type": "Domain",
+    "value": "gatedata.org"
+  },
+  {
+    "type": "Domain",
+    "value": "gateimg.com"
+  },
+  {
+    "type": "Domain",
+    "value": "gateio.live"
+  },
+  {
+    "type": "Domain",
+    "value": "gateio.services"
+  },
+  {
+    "type": "Domain",
+    "value": "straitsx.com"
+  },
+  {
+    "type": "Domain",
+    "value": "trustwallet.com"
+  },
+  {
+    "type": "Domain",
+    "value": "kucoin.com"
+  },
+  {
+    "type": "Domain",
+    "value": "kucoin.plus"
+  },
+  {
+    "type": "Domain",
     "value": "okex.com"
   },
   {
@@ -289,11 +325,23 @@
   },
   {
     "type": "Domain",
-    "value": "redotpay.com"
+    "value": "onekey-asset.com"
   },
   {
     "type": "Domain",
-    "value": "straitsx.com"
+    "value": "onekey.so"
+  },
+  {
+    "type": "Domain",
+    "value": "onekeycn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "asproex.com"
+  },
+  {
+    "type": "Domain",
+    "value": "asproexapi.com"
   },
   {
     "type": "Domain",
@@ -306,10 +354,6 @@
   {
     "type": "Domain",
     "value": "binance.cloud"
-  },
-  {
-    "type": "Domain",
-    "value": "kucoin.plus"
   },
   {
     "type": "Domain",
@@ -333,15 +377,15 @@
   },
   {
     "type": "Domain",
-    "value": "binance.org"
+    "value": "osl.com"
   },
   {
     "type": "Domain",
-    "value": "binance.us"
+    "value": "aave.com"
   },
   {
     "type": "Domain",
-    "value": "binance.vision"
+    "value": "cyberx.com"
   },
   {
     "type": "Domain",
@@ -377,15 +421,15 @@
   },
   {
     "type": "Domain",
-    "value": "osl.com"
+    "value": "binancezh.kim"
   },
   {
     "type": "Domain",
-    "value": "aave.com"
+    "value": "binancezh.link"
   },
   {
     "type": "Domain",
-    "value": "cyberx.com"
+    "value": "binancezh.live"
   },
   {
     "type": "Domain",
@@ -421,7 +465,7 @@
   },
   {
     "type": "Domain",
-    "value": "bntrace.com"
+    "value": "binance.us"
   },
   {
     "type": "Domain",
@@ -450,150 +494,6 @@
   {
     "type": "Domain",
     "value": "saasexch.io"
-  },
-  {
-    "type": "Domain",
-    "value": "localbitcoins.com"
-  },
-  {
-    "type": "Domain",
-    "value": "localbitcoinschain.com"
-  },
-  {
-    "type": "Domain",
-    "value": "nexo.com"
-  },
-  {
-    "type": "Domain",
-    "value": "binancezh.link"
-  },
-  {
-    "type": "Domain",
-    "value": "gate.io"
-  },
-  {
-    "type": "Domain",
-    "value": "gatedata.org"
-  },
-  {
-    "type": "Domain",
-    "value": "gateimg.com"
-  },
-  {
-    "type": "Domain",
-    "value": "gateio.live"
-  },
-  {
-    "type": "Domain",
-    "value": "gateio.services"
-  },
-  {
-    "type": "Domain",
-    "value": "htx.com"
-  },
-  {
-    "type": "Domain",
-    "value": "hbabit.com"
-  },
-  {
-    "type": "Domain",
-    "value": "hbfile.net"
-  },
-  {
-    "type": "Domain",
-    "value": "huobi.com"
-  },
-  {
-    "type": "Domain",
-    "value": "huobi.me"
-  },
-  {
-    "type": "Domain",
-    "value": "huobi.pro"
-  },
-  {
-    "type": "Domain",
-    "value": "huobi.sc"
-  },
-  {
-    "type": "Domain",
-    "value": "huobiasia.vip"
-  },
-  {
-    "type": "Domain",
-    "value": "huobigroup.com"
-  },
-  {
-    "type": "Domain",
-    "value": "huobitoken.com"
-  },
-  {
-    "type": "Domain",
-    "value": "zb.app"
-  },
-  {
-    "type": "Domain",
-    "value": "zb.com"
-  },
-  {
-    "type": "Domain",
-    "value": "zb.io"
-  },
-  {
-    "type": "Domain",
-    "value": "zb.live"
-  },
-  {
-    "type": "Domain",
-    "value": "deribit.com"
-  },
-  {
-    "type": "Domain",
-    "value": "devcon.org"
-  },
-  {
-    "type": "Domain",
-    "value": "ethereum.foundation"
-  },
-  {
-    "type": "Domain",
-    "value": "ethereum.org"
-  },
-  {
-    "type": "Domain",
-    "value": "etherscan.io"
-  },
-  {
-    "type": "Domain",
-    "value": "kraken.com"
-  },
-  {
-    "type": "Domain",
-    "value": "kraken.onl"
-  },
-  {
-    "type": "Domain",
-    "value": "onekey-asset.com"
-  },
-  {
-    "type": "Domain",
-    "value": "onekey.so"
-  },
-  {
-    "type": "Domain",
-    "value": "onekeycn.com"
-  },
-  {
-    "type": "Domain",
-    "value": "trustwallet.com"
-  },
-  {
-    "type": "Domain",
-    "value": "bitflyer.com"
-  },
-  {
-    "type": "Domain",
-    "value": "bitflyer.jp"
   },
   {
     "type": "Domain",
@@ -661,35 +561,19 @@
   },
   {
     "type": "Domain",
-    "value": "kucoin.com"
+    "value": "devcon.org"
   },
   {
     "type": "Domain",
-    "value": "bitsquare.io"
+    "value": "ethereum.foundation"
   },
   {
     "type": "Domain",
-    "value": "bisq.network"
+    "value": "ethereum.org"
   },
   {
     "type": "Domain",
-    "value": "bisq.io"
-  },
-  {
-    "type": "Domain",
-    "value": "wisecoin.com"
-  },
-  {
-    "type": "Domain",
-    "value": "wiseid.com"
-  },
-  {
-    "type": "Domain",
-    "value": "wisekey.com"
-  },
-  {
-    "type": "Domain",
-    "value": "asproexapi.com"
+    "value": "etherscan.io"
   },
   {
     "type": "Domain",
@@ -701,15 +585,127 @@
   },
   {
     "type": "Domain",
-    "value": "asproex.com"
+    "value": "nexo.com"
+  },
+  {
+    "type": "Domain",
+    "value": "nexo.io"
+  },
+  {
+    "type": "Domain",
+    "value": "redotpay.com"
+  },
+  {
+    "type": "Domain",
+    "value": "wisecoin.com"
+  },
+  {
+    "type": "Domain",
+    "value": "wiseid.com"
+  },
+  {
+    "type": "Domain",
+    "value": "kraken.onl"
+  },
+  {
+    "type": "Domain",
+    "value": "kraken.com"
+  },
+  {
+    "type": "Domain",
+    "value": "huobitoken.com"
+  },
+  {
+    "type": "Domain",
+    "value": "huobigroup.com"
+  },
+  {
+    "type": "Domain",
+    "value": "wisekey.com"
+  },
+  {
+    "type": "Domain",
+    "value": "huobiasia.vip"
+  },
+  {
+    "type": "Domain",
+    "value": "huobi.sc"
+  },
+  {
+    "type": "Domain",
+    "value": "zb.app"
+  },
+  {
+    "type": "Domain",
+    "value": "zb.com"
+  },
+  {
+    "type": "Domain",
+    "value": "zb.io"
+  },
+  {
+    "type": "Domain",
+    "value": "zb.live"
+  },
+  {
+    "type": "Domain",
+    "value": "localbitcoins.com"
+  },
+  {
+    "type": "Domain",
+    "value": "localbitcoinschain.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bitflyer.com"
+  },
+  {
+    "type": "Domain",
+    "value": "bitflyer.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "bisq.io"
+  },
+  {
+    "type": "Domain",
+    "value": "bisq.network"
+  },
+  {
+    "type": "Domain",
+    "value": "bitsquare.io"
+  },
+  {
+    "type": "Domain",
+    "value": "deribit.com"
+  },
+  {
+    "type": "Domain",
+    "value": "htx.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hbabit.com"
+  },
+  {
+    "type": "Domain",
+    "value": "hbfile.net"
+  },
+  {
+    "type": "Domain",
+    "value": "huobi.com"
+  },
+  {
+    "type": "Domain",
+    "value": "huobi.me"
+  },
+  {
+    "type": "Domain",
+    "value": "huobi.pro"
   },
   {
     "type": "Domain",
     "value": "wisekey.com.hk"
-  },
-  {
-    "type": "Domain",
-    "value": "coinone.co.kr"
   },
   {
     "type": "Domain",
@@ -722,6 +718,10 @@
   {
     "type": "Domain",
     "value": "redotpay.zendesk.com"
+  },
+  {
+    "type": "Domain",
+    "value": "coinone.co.kr"
   },
   {
     "type": "Domain",

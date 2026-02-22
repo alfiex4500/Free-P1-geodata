@@ -73,7 +73,7 @@
   },
   {
     "type": "Domain",
-    "value": "amazonaws.biz"
+    "value": "amazonaws.info"
   },
   {
     "type": "Domain",
@@ -137,6 +137,18 @@
   },
   {
     "type": "Domain",
+    "value": "ss2.us"
+  },
+  {
+    "type": "Domain",
+    "value": "awstrust.com"
+  },
+  {
+    "type": "Domain",
+    "value": "amazontrust.com"
+  },
+  {
+    "type": "Domain",
     "value": "wholeplanetfoundation.org"
   },
   {
@@ -150,18 +162,6 @@
   {
     "type": "Domain",
     "value": "wholefoods.com"
-  },
-  {
-    "type": "Domain",
-    "value": "wholecitiesfoundation.org"
-  },
-  {
-    "type": "Domain",
-    "value": "wfm.com"
-  },
-  {
-    "type": "Domain",
-    "value": "primevideo.tv"
   },
   {
     "type": "Domain",
@@ -249,7 +249,7 @@
   },
   {
     "type": "Domain",
-    "value": "amazonaws.org"
+    "value": "amazonses.com"
   },
   {
     "type": "Domain",
@@ -289,7 +289,7 @@
   },
   {
     "type": "Domain",
-    "value": "amazonaws.net"
+    "value": "amazoncognito.com"
   },
   {
     "type": "Domain",
@@ -337,18 +337,6 @@
   },
   {
     "type": "Domain",
-    "value": "amazontrust.com"
-  },
-  {
-    "type": "Domain",
-    "value": "awstrust.com"
-  },
-  {
-    "type": "Domain",
-    "value": "ss2.us"
-  },
-  {
-    "type": "Domain",
     "value": "aboutamazon.es"
   },
   {
@@ -369,7 +357,7 @@
   },
   {
     "type": "Domain",
-    "value": "aboutamazon.de"
+    "value": "amazonaws.biz"
   },
   {
     "type": "Domain",
@@ -381,7 +369,19 @@
   },
   {
     "type": "Domain",
-    "value": "amazonaws.info"
+    "value": "aboutamazon.de"
+  },
+  {
+    "type": "Domain",
+    "value": "amazonaws.net"
+  },
+  {
+    "type": "Domain",
+    "value": "amazonaws.org"
+  },
+  {
+    "type": "Domain",
+    "value": "amazonaws.tv"
   },
   {
     "type": "Domain",
@@ -393,19 +393,7 @@
   },
   {
     "type": "Domain",
-    "value": "acmvalidations.com"
-  },
-  {
-    "type": "Domain",
-    "value": "amazoncognito.com"
-  },
-  {
-    "type": "Domain",
-    "value": "amazonses.com"
-  },
-  {
-    "type": "Domain",
-    "value": "amazonworkdocs.com"
+    "value": "aws-iot-hackathon.com"
   },
   {
     "type": "Domain",
@@ -437,7 +425,7 @@
   },
   {
     "type": "Domain",
-    "value": "amazonaws.tv"
+    "value": "acmvalidations.com"
   },
   {
     "type": "Domain",
@@ -449,7 +437,7 @@
   },
   {
     "type": "Domain",
-    "value": "aws-iot-hackathon.com"
+    "value": "amazonworkdocs.com"
   },
   {
     "type": "Domain",
@@ -529,15 +517,15 @@
   },
   {
     "type": "Domain",
-    "value": "primevideo.org"
+    "value": "wholecitiesfoundation.org"
   },
   {
     "type": "Domain",
-    "value": "primevideo.info"
+    "value": "wfm.com"
   },
   {
     "type": "Domain",
-    "value": "primevideo.com"
+    "value": "primevideo.tv"
   },
   {
     "type": "Domain",
@@ -621,11 +609,11 @@
   },
   {
     "type": "Domain",
-    "value": "primevideo.cc"
+    "value": "primevideo.org"
   },
   {
     "type": "Domain",
-    "value": "prime-video.com"
+    "value": "primevideo.info"
   },
   {
     "type": "Domain",
@@ -645,11 +633,23 @@
   },
   {
     "type": "Domain",
-    "value": "amazon.com.br"
+    "value": "prime-video.com"
   },
   {
     "type": "Domain",
-    "value": "amazon.com.au"
+    "value": "primevideo.cc"
+  },
+  {
+    "type": "Domain",
+    "value": "primevideo.com"
+  },
+  {
+    "type": "Domain",
+    "value": "amazon.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "amazon.com.br"
   },
   {
     "type": "Domain",
@@ -657,11 +657,11 @@
   },
   {
     "type": "Domain",
-    "value": "amzndns.co.uk"
+    "value": "aboutamazon.co.uk"
   },
   {
     "type": "Domain",
-    "value": "amazon.com.tr"
+    "value": "amzndns.co.uk"
   },
   {
     "type": "Domain",
@@ -673,15 +673,11 @@
   },
   {
     "type": "Domain",
+    "value": "amazon.com.tr"
+  },
+  {
+    "type": "Domain",
     "value": "wholefoodsmarket.co.uk"
-  },
-  {
-    "type": "Domain",
-    "value": "amazon.co.jp"
-  },
-  {
-    "type": "Domain",
-    "value": "amazon.co.uk"
   },
   {
     "type": "Domain",
@@ -689,11 +685,15 @@
   },
   {
     "type": "Domain",
-    "value": "aboutamazon.com.au"
+    "value": "amazon.com.au"
   },
   {
     "type": "Domain",
-    "value": "aboutamazon.co.uk"
+    "value": "amazon.co.jp"
+  },
+  {
+    "type": "Domain",
+    "value": "aboutamazon.com.au"
   },
   {
     "type": "Regex",

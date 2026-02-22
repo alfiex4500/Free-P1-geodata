@@ -5,7 +5,7 @@
   },
   {
     "type": "Domain",
-    "value": "firefox.com"
+    "value": "mdn.dev"
   },
   {
     "type": "Domain",
@@ -13,11 +13,11 @@
   },
   {
     "type": "Domain",
-    "value": "firefoxusercontent.com"
+    "value": "mdnplay.dev"
   },
   {
     "type": "Domain",
-    "value": "mdn.dev"
+    "value": "mdnyalp.dev"
   },
   {
     "type": "Domain",
@@ -49,11 +49,11 @@
   },
   {
     "type": "Domain",
-    "value": "crates.io"
+    "value": "firefox.com"
   },
   {
     "type": "Domain",
-    "value": "docs.rs"
+    "value": "firefoxusercontent.com"
   },
   {
     "type": "Domain",
@@ -65,11 +65,11 @@
   },
   {
     "type": "Domain",
-    "value": "mdnplay.dev"
+    "value": "docs.rs"
   },
   {
     "type": "Domain",
-    "value": "mdnyalp.dev"
+    "value": "crates.io"
   },
   {
     "type": "Domain",
@@ -81,11 +81,11 @@
   },
   {
     "type": "Domain",
-    "value": "mdn.allizom.net"
+    "value": "mdn.mozit.cloud"
   },
   {
     "type": "Domain",
-    "value": "mdn.mozit.cloud"
+    "value": "mdn.allizom.net"
   },
   {
     "type": "Domain",

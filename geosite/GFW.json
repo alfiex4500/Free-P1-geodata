@@ -5,7 +5,7 @@
   },
   {
     "type": "Domain",
-    "value": "unholyknight.com"
+    "value": "blogspot.cz"
   },
   {
     "type": "Domain",
@@ -538,6 +538,10 @@
   {
     "type": "Domain",
     "value": "akiba-web.com"
+  },
+  {
+    "type": "Domain",
+    "value": "akile.io"
   },
   {
     "type": "Domain",
@@ -1077,6 +1081,10 @@
   },
   {
     "type": "Domain",
+    "value": "zhengjian.org"
+  },
+  {
+    "type": "Domain",
     "value": "assimp.org"
   },
   {
@@ -1085,7 +1093,7 @@
   },
   {
     "type": "Domain",
-    "value": "zhengjian.org"
+    "value": "zhanlve.org"
   },
   {
     "type": "Domain",
@@ -1105,7 +1113,7 @@
   },
   {
     "type": "Domain",
-    "value": "zhanlve.org"
+    "value": "zhangtianliang.com"
   },
   {
     "type": "Domain",
@@ -1113,7 +1121,7 @@
   },
   {
     "type": "Domain",
-    "value": "zhangtianliang.com"
+    "value": "zeronet.io"
   },
   {
     "type": "Domain",
@@ -1185,7 +1193,7 @@
   },
   {
     "type": "Domain",
-    "value": "zeronet.io"
+    "value": "zerohedge.com"
   },
   {
     "type": "Domain",
@@ -1197,7 +1205,7 @@
   },
   {
     "type": "Domain",
-    "value": "zerohedge.com"
+    "value": "zenmate.com"
   },
   {
     "type": "Domain",
@@ -1209,7 +1217,7 @@
   },
   {
     "type": "Domain",
-    "value": "zenmate.com"
+    "value": "zello.com"
   },
   {
     "type": "Domain",
@@ -1285,11 +1293,11 @@
   },
   {
     "type": "Domain",
-    "value": "zello.com"
+    "value": "zb.com"
   },
   {
     "type": "Domain",
-    "value": "zb.com"
+    "value": "zattoo.com"
   },
   {
     "type": "Domain",
@@ -1309,7 +1317,7 @@
   },
   {
     "type": "Domain",
-    "value": "zattoo.com"
+    "value": "zaochenbao.com"
   },
   {
     "type": "Domain",
@@ -1317,7 +1325,7 @@
   },
   {
     "type": "Domain",
-    "value": "zaochenbao.com"
+    "value": "zamimg.com"
   },
   {
     "type": "Domain",
@@ -1326,10 +1334,6 @@
   {
     "type": "Domain",
     "value": "bbchat.tv"
-  },
-  {
-    "type": "Domain",
-    "value": "zamimg.com"
   },
   {
     "type": "Domain",
@@ -1358,6 +1362,10 @@
   {
     "type": "Domain",
     "value": "z-lib.gd"
+  },
+  {
+    "type": "Domain",
+    "value": "z-lib.fo"
   },
   {
     "type": "Domain",
@@ -1657,15 +1665,11 @@
   },
   {
     "type": "Domain",
-    "value": "z-lib.fo"
+    "value": "z-lib.fm"
   },
   {
     "type": "Domain",
     "value": "blog.de"
-  },
-  {
-    "type": "Domain",
-    "value": "z-lib.fm"
   },
   {
     "type": "Domain",
@@ -1685,11 +1689,11 @@
   },
   {
     "type": "Domain",
-    "value": "blog.jp"
+    "value": "yvesgeleyn.com"
   },
   {
     "type": "Domain",
-    "value": "yvesgeleyn.com"
+    "value": "blog.jp"
   },
   {
     "type": "Domain",
@@ -1714,6 +1718,10 @@
   {
     "type": "Domain",
     "value": "youxu.info"
+  },
+  {
+    "type": "Domain",
+    "value": "youwin.com"
   },
   {
     "type": "Domain",
@@ -1785,15 +1793,11 @@
   },
   {
     "type": "Domain",
-    "value": "youwin.com"
+    "value": "youversion.com"
   },
   {
     "type": "Domain",
     "value": "blogspot.com"
-  },
-  {
-    "type": "Domain",
-    "value": "youversion.com"
   },
   {
     "type": "Domain",
@@ -1845,7 +1849,11 @@
   },
   {
     "type": "Domain",
-    "value": "blogspot.cz"
+    "value": "youpai.org"
+  },
+  {
+    "type": "Domain",
+    "value": "000webhost.com"
   },
   {
     "type": "Domain",
@@ -2029,7 +2037,7 @@
   },
   {
     "type": "Domain",
-    "value": "youpai.org"
+    "value": "youmind.com"
   },
   {
     "type": "Domain",
@@ -2057,15 +2065,11 @@
   },
   {
     "type": "Domain",
-    "value": "youmind.com"
+    "value": "youmaker.com"
   },
   {
     "type": "Domain",
     "value": "bookdepository.com"
-  },
-  {
-    "type": "Domain",
-    "value": "youmaker.com"
   },
   {
     "type": "Domain",
@@ -2074,6 +2078,10 @@
   {
     "type": "Domain",
     "value": "you.com"
+  },
+  {
+    "type": "Domain",
+    "value": "you-get.org"
   },
   {
     "type": "Domain",
@@ -2281,7 +2289,7 @@
   },
   {
     "type": "Domain",
-    "value": "you-get.org"
+    "value": "yogichen.org"
   },
   {
     "type": "Domain",
@@ -2309,7 +2317,7 @@
   },
   {
     "type": "Domain",
-    "value": "yogichen.org"
+    "value": "yobt.tv"
   },
   {
     "type": "Domain",
@@ -2317,7 +2325,7 @@
   },
   {
     "type": "Domain",
-    "value": "yobt.tv"
+    "value": "yobit.net"
   },
   {
     "type": "Domain",
@@ -2341,7 +2349,7 @@
   },
   {
     "type": "Domain",
-    "value": "yobit.net"
+    "value": "yizhihongxing.com"
   },
   {
     "type": "Domain",
@@ -2421,7 +2429,7 @@
   },
   {
     "type": "Domain",
-    "value": "yizhihongxing.com"
+    "value": "yipub.com"
   },
   {
     "type": "Domain",
@@ -2429,7 +2437,7 @@
   },
   {
     "type": "Domain",
-    "value": "yipub.com"
+    "value": "yigeni.com"
   },
   {
     "type": "Domain",
@@ -2437,7 +2445,7 @@
   },
   {
     "type": "Domain",
-    "value": "yigeni.com"
+    "value": "yidio.com"
   },
   {
     "type": "Domain",
@@ -2449,11 +2457,11 @@
   },
   {
     "type": "Domain",
-    "value": "yidio.com"
+    "value": "yibaochina.com"
   },
   {
     "type": "Domain",
-    "value": "yibaochina.com"
+    "value": "yhcw.net"
   },
   {
     "type": "Domain",
@@ -2477,11 +2485,11 @@
   },
   {
     "type": "Domain",
-    "value": "yhcw.net"
+    "value": "yfsp.tv"
   },
   {
     "type": "Domain",
-    "value": "yfsp.tv"
+    "value": "yeyeclub.com"
   },
   {
     "type": "Domain",
@@ -2501,7 +2509,7 @@
   },
   {
     "type": "Domain",
-    "value": "yeyeclub.com"
+    "value": "yespornplease.com"
   },
   {
     "type": "Domain",
@@ -2513,7 +2521,7 @@
   },
   {
     "type": "Domain",
-    "value": "yespornplease.com"
+    "value": "yesasia.com"
   },
   {
     "type": "Domain",
@@ -2557,15 +2565,11 @@
   },
   {
     "type": "Domain",
-    "value": "yesasia.com"
+    "value": "yes-news.com"
   },
   {
     "type": "Domain",
     "value": "cdn-telegram.org"
-  },
-  {
-    "type": "Domain",
-    "value": "yes-news.com"
   },
   {
     "type": "Domain",
@@ -2589,6 +2593,10 @@
   },
   {
     "type": "Domain",
+    "value": "yangzhi.org"
+  },
+  {
+    "type": "Domain",
     "value": "cdninstagram.com"
   },
   {
@@ -2605,7 +2613,7 @@
   },
   {
     "type": "Domain",
-    "value": "yangzhi.org"
+    "value": "yande.re"
   },
   {
     "type": "Domain",
@@ -2633,7 +2641,7 @@
   },
   {
     "type": "Domain",
-    "value": "yande.re"
+    "value": "yam.com"
   },
   {
     "type": "Domain",
@@ -2653,7 +2661,7 @@
   },
   {
     "type": "Domain",
-    "value": "yam.com"
+    "value": "yakbutterblues.com"
   },
   {
     "type": "Domain",
@@ -2697,7 +2705,7 @@
   },
   {
     "type": "Domain",
-    "value": "yakbutterblues.com"
+    "value": "yahoo.com"
   },
   {
     "type": "Domain",
@@ -2733,7 +2741,7 @@
   },
   {
     "type": "Domain",
-    "value": "yahoo.com"
+    "value": "yadi.sk"
   },
   {
     "type": "Domain",
@@ -2749,7 +2757,7 @@
   },
   {
     "type": "Domain",
-    "value": "yadi.sk"
+    "value": "y2mate.com"
   },
   {
     "type": "Domain",
@@ -2757,7 +2765,7 @@
   },
   {
     "type": "Domain",
-    "value": "y2mate.com"
+    "value": "xxxymovies.com"
   },
   {
     "type": "Domain",
@@ -2845,7 +2853,7 @@
   },
   {
     "type": "Domain",
-    "value": "xxxymovies.com"
+    "value": "xxx.xxx"
   },
   {
     "type": "Domain",
@@ -2865,7 +2873,7 @@
   },
   {
     "type": "Domain",
-    "value": "xxx.xxx"
+    "value": "xxx.com"
   },
   {
     "type": "Domain",
@@ -2877,7 +2885,7 @@
   },
   {
     "type": "Domain",
-    "value": "xxx.com"
+    "value": "xvinlink.com"
   },
   {
     "type": "Domain",
@@ -2897,7 +2905,7 @@
   },
   {
     "type": "Domain",
-    "value": "xvinlink.com"
+    "value": "xvideos.es"
   },
   {
     "type": "Domain",
@@ -2933,7 +2941,7 @@
   },
   {
     "type": "Domain",
-    "value": "xvideos.es"
+    "value": "xvideos.com"
   },
   {
     "type": "Domain",
@@ -3029,7 +3037,7 @@
   },
   {
     "type": "Domain",
-    "value": "xvideos.com"
+    "value": "xvideos-cdn.com"
   },
   {
     "type": "Domain",
@@ -3049,11 +3057,11 @@
   },
   {
     "type": "Domain",
-    "value": "xvideos-cdn.com"
+    "value": "xvbelink.com"
   },
   {
     "type": "Domain",
-    "value": "xvbelink.com"
+    "value": "xuehua.us"
   },
   {
     "type": "Domain",
@@ -3093,7 +3101,7 @@
   },
   {
     "type": "Domain",
-    "value": "xuehua.us"
+    "value": "xuchao.org"
   },
   {
     "type": "Domain",
@@ -3109,11 +3117,7 @@
   },
   {
     "type": "Domain",
-    "value": "cn-proxy.com"
-  },
-  {
-    "type": "Domain",
-    "value": "xuchao.org"
+    "value": "kenengba.com"
   },
   {
     "type": "Domain",
@@ -3145,15 +3149,11 @@
   },
   {
     "type": "Domain",
-    "value": "cnd.org"
-  },
-  {
-    "type": "Domain",
     "value": "xnxx.com"
   },
   {
     "type": "Domain",
-    "value": "cnpolitics.org"
+    "value": "cnd.org"
   },
   {
     "type": "Domain",
@@ -3161,7 +3161,15 @@
   },
   {
     "type": "Domain",
+    "value": "cnpolitics.org"
+  },
+  {
+    "type": "Domain",
     "value": "xn--u2u927b.com"
+  },
+  {
+    "type": "Domain",
+    "value": "xn--p8j9a0d9c9a.xn--q9jyb4c"
   },
   {
     "type": "Domain",
@@ -3213,7 +3221,7 @@
   },
   {
     "type": "Domain",
-    "value": "xn--p8j9a0d9c9a.xn--q9jyb4c"
+    "value": "xn--oiq.cc"
   },
   {
     "type": "Domain",
@@ -3269,7 +3277,7 @@
   },
   {
     "type": "Domain",
-    "value": "xn--oiq.cc"
+    "value": "xn--noss43i.com"
   },
   {
     "type": "Domain",
@@ -3277,7 +3285,7 @@
   },
   {
     "type": "Domain",
-    "value": "xn--noss43i.com"
+    "value": "xn--ngstr-lra8j.com"
   },
   {
     "type": "Domain",
@@ -3293,7 +3301,7 @@
   },
   {
     "type": "Domain",
-    "value": "xn--ngstr-lra8j.com"
+    "value": "xn--i2ru8q2qg.com"
   },
   {
     "type": "Domain",
@@ -3301,7 +3309,7 @@
   },
   {
     "type": "Domain",
-    "value": "xn--i2ru8q2qg.com"
+    "value": "xn--czq75pvv1aj5c.org"
   },
   {
     "type": "Domain",
@@ -3329,7 +3337,7 @@
   },
   {
     "type": "Domain",
-    "value": "xn--czq75pvv1aj5c.org"
+    "value": "xn--9pr62r24a.com"
   },
   {
     "type": "Domain",
@@ -3385,7 +3393,7 @@
   },
   {
     "type": "Domain",
-    "value": "xn--9pr62r24a.com"
+    "value": "xn--9iqy04a7fi01l.com"
   },
   {
     "type": "Domain",
@@ -3429,7 +3437,7 @@
   },
   {
     "type": "Domain",
-    "value": "xn--9iqy04a7fi01l.com"
+    "value": "xn--4gq171p.com"
   },
   {
     "type": "Domain",
@@ -3437,11 +3445,11 @@
   },
   {
     "type": "Domain",
-    "value": "xn--4gq171p.com"
+    "value": "xn--11xs86f.icu"
   },
   {
     "type": "Domain",
-    "value": "xn--11xs86f.icu"
+    "value": "xml-training-guide.com"
   },
   {
     "type": "Domain",
@@ -3453,7 +3461,7 @@
   },
   {
     "type": "Domain",
-    "value": "xml-training-guide.com"
+    "value": "xm.com"
   },
   {
     "type": "Domain",
@@ -3461,7 +3469,7 @@
   },
   {
     "type": "Domain",
-    "value": "xm.com"
+    "value": "xjtravelguide.com"
   },
   {
     "type": "Domain",
@@ -3497,7 +3505,7 @@
   },
   {
     "type": "Domain",
-    "value": "xjtravelguide.com"
+    "value": "xjp.cc"
   },
   {
     "type": "Domain",
@@ -3529,7 +3537,7 @@
   },
   {
     "type": "Domain",
-    "value": "xjp.cc"
+    "value": "xinjiangpolicefiles.org"
   },
   {
     "type": "Domain",
@@ -3549,7 +3557,7 @@
   },
   {
     "type": "Domain",
-    "value": "xinjiangpolicefiles.org"
+    "value": "xing.com"
   },
   {
     "type": "Domain",
@@ -3593,7 +3601,7 @@
   },
   {
     "type": "Domain",
-    "value": "xing.com"
+    "value": "xiaxiaoqiang.net"
   },
   {
     "type": "Domain",
@@ -3653,11 +3661,11 @@
   },
   {
     "type": "Domain",
-    "value": "xiaxiaoqiang.net"
+    "value": "xiaomi.eu"
   },
   {
     "type": "Domain",
-    "value": "xiaomi.eu"
+    "value": "xiaoma.org"
   },
   {
     "type": "Domain",
@@ -3709,7 +3717,7 @@
   },
   {
     "type": "Domain",
-    "value": "xiaoma.org"
+    "value": "xiaolan.me"
   },
   {
     "type": "Domain",
@@ -3737,7 +3745,7 @@
   },
   {
     "type": "Domain",
-    "value": "xiaolan.me"
+    "value": "xiaohexie.com"
   },
   {
     "type": "Domain",
@@ -3805,7 +3813,7 @@
   },
   {
     "type": "Domain",
-    "value": "xiaohexie.com"
+    "value": "xianjian.tw"
   },
   {
     "type": "Domain",
@@ -3813,11 +3821,11 @@
   },
   {
     "type": "Domain",
-    "value": "xianjian.tw"
+    "value": "xhamster.com"
   },
   {
     "type": "Domain",
-    "value": "xhamster.com"
+    "value": "xgmyd.com"
   },
   {
     "type": "Domain",
@@ -3849,7 +3857,7 @@
   },
   {
     "type": "Domain",
-    "value": "xgmyd.com"
+    "value": "xfxssr.me"
   },
   {
     "type": "Domain",
@@ -3885,7 +3893,7 @@
   },
   {
     "type": "Domain",
-    "value": "xfxssr.me"
+    "value": "xfinity.com"
   },
   {
     "type": "Domain",
@@ -3933,7 +3941,7 @@
   },
   {
     "type": "Domain",
-    "value": "xfinity.com"
+    "value": "xerotica.com"
   },
   {
     "type": "Domain",
@@ -3997,7 +4005,7 @@
   },
   {
     "type": "Domain",
-    "value": "xerotica.com"
+    "value": "xcity.jp"
   },
   {
     "type": "Domain",
@@ -4005,7 +4013,7 @@
   },
   {
     "type": "Domain",
-    "value": "xcity.jp"
+    "value": "xcancel.com"
   },
   {
     "type": "Domain",
@@ -4137,7 +4145,7 @@
   },
   {
     "type": "Domain",
-    "value": "xcancel.com"
+    "value": "xcafe.in"
   },
   {
     "type": "Domain",
@@ -4145,7 +4153,7 @@
   },
   {
     "type": "Domain",
-    "value": "xcafe.in"
+    "value": "xbtce.com"
   },
   {
     "type": "Domain",
@@ -4161,7 +4169,7 @@
   },
   {
     "type": "Domain",
-    "value": "xbtce.com"
+    "value": "xbookcn.com"
   },
   {
     "type": "Domain",
@@ -4189,7 +4197,7 @@
   },
   {
     "type": "Domain",
-    "value": "xbookcn.com"
+    "value": "xbabe.com"
   },
   {
     "type": "Domain",
@@ -4197,7 +4205,7 @@
   },
   {
     "type": "Domain",
-    "value": "xbabe.com"
+    "value": "x3guide.com"
   },
   {
     "type": "Domain",
@@ -4265,7 +4273,7 @@
   },
   {
     "type": "Domain",
-    "value": "x3guide.com"
+    "value": "x.company"
   },
   {
     "type": "Domain",
@@ -4281,7 +4289,7 @@
   },
   {
     "type": "Domain",
-    "value": "x.company"
+    "value": "x.com"
   },
   {
     "type": "Domain",
@@ -4301,11 +4309,11 @@
   },
   {
     "type": "Domain",
-    "value": "x.com"
+    "value": "x.co"
   },
   {
     "type": "Domain",
-    "value": "x.co"
+    "value": "x.ai"
   },
   {
     "type": "Domain",
@@ -4313,7 +4321,7 @@
   },
   {
     "type": "Domain",
-    "value": "x.ai"
+    "value": "x-wall.org"
   },
   {
     "type": "Domain",
@@ -4393,7 +4401,7 @@
   },
   {
     "type": "Domain",
-    "value": "x-wall.org"
+    "value": "x-berry.com"
   },
   {
     "type": "Domain",
@@ -4429,7 +4437,7 @@
   },
   {
     "type": "Domain",
-    "value": "x-berry.com"
+    "value": "x-art.com"
   },
   {
     "type": "Domain",
@@ -4445,7 +4453,7 @@
   },
   {
     "type": "Domain",
-    "value": "x-art.com"
+    "value": "wxw.moe"
   },
   {
     "type": "Domain",
@@ -4677,7 +4685,7 @@
   },
   {
     "type": "Domain",
-    "value": "wxw.moe"
+    "value": "wxw.cat"
   },
   {
     "type": "Domain",
@@ -4753,7 +4761,7 @@
   },
   {
     "type": "Domain",
-    "value": "wxw.cat"
+    "value": "wwitv.com"
   },
   {
     "type": "Domain",
@@ -4793,7 +4801,7 @@
   },
   {
     "type": "Domain",
-    "value": "wwitv.com"
+    "value": "wuw.red"
   },
   {
     "type": "Domain",
@@ -4805,7 +4813,7 @@
   },
   {
     "type": "Domain",
-    "value": "wuw.red"
+    "value": "wunderground.com"
   },
   {
     "type": "Domain",
@@ -4933,7 +4941,7 @@
   },
   {
     "type": "Domain",
-    "value": "wunderground.com"
+    "value": "wujieliulan.com"
   },
   {
     "type": "Domain",
@@ -4977,7 +4985,7 @@
   },
   {
     "type": "Domain",
-    "value": "wujieliulan.com"
+    "value": "wufafangwen.com"
   },
   {
     "type": "Domain",
@@ -5029,7 +5037,7 @@
   },
   {
     "type": "Domain",
-    "value": "wufafangwen.com"
+    "value": "wsj.net"
   },
   {
     "type": "Domain",
@@ -5049,7 +5057,7 @@
   },
   {
     "type": "Domain",
-    "value": "wsj.net"
+    "value": "wsj.com"
   },
   {
     "type": "Domain",
@@ -5109,7 +5117,7 @@
   },
   {
     "type": "Domain",
-    "value": "wsj.com"
+    "value": "writesonic.com"
   },
   {
     "type": "Domain",
@@ -5189,11 +5197,11 @@
   },
   {
     "type": "Domain",
-    "value": "writesonic.com"
+    "value": "wpoforum.com"
   },
   {
     "type": "Domain",
-    "value": "wpoforum.com"
+    "value": "wp.com"
   },
   {
     "type": "Domain",
@@ -5297,11 +5305,11 @@
   },
   {
     "type": "Domain",
-    "value": "wp.com"
+    "value": "woyaolian.org"
   },
   {
     "type": "Domain",
-    "value": "woyaolian.org"
+    "value": "wowporn.com"
   },
   {
     "type": "Domain",
@@ -5353,7 +5361,7 @@
   },
   {
     "type": "Domain",
-    "value": "wowporn.com"
+    "value": "wowhead.com"
   },
   {
     "type": "Domain",
@@ -5601,11 +5609,11 @@
   },
   {
     "type": "Domain",
-    "value": "wowhead.com"
+    "value": "wowgirls.com"
   },
   {
     "type": "Domain",
-    "value": "wowgirls.com"
+    "value": "worldvpn.net"
   },
   {
     "type": "Domain",
@@ -5657,7 +5665,7 @@
   },
   {
     "type": "Domain",
-    "value": "worldvpn.net"
+    "value": "workers.dev"
   },
   {
     "type": "Domain",
@@ -5697,11 +5705,11 @@
   },
   {
     "type": "Domain",
-    "value": "workers.dev"
+    "value": "workerempowerment.org"
   },
   {
     "type": "Domain",
-    "value": "workerempowerment.org"
+    "value": "workatruna.com"
   },
   {
     "type": "Domain",
@@ -5737,7 +5745,7 @@
   },
   {
     "type": "Domain",
-    "value": "workatruna.com"
+    "value": "work2icu.org"
   },
   {
     "type": "Domain",
@@ -5881,10 +5889,6 @@
   },
   {
     "type": "Domain",
-    "value": "work2icu.org"
-  },
-  {
-    "type": "Domain",
     "value": "wordpress.com"
   },
   {
@@ -5977,11 +5981,11 @@
   },
   {
     "type": "Domain",
-    "value": "google.com"
+    "value": "wire.com"
   },
   {
     "type": "Domain",
-    "value": "wire.com"
+    "value": "google.com"
   },
   {
     "type": "Domain",
@@ -6213,6 +6217,10 @@
   },
   {
     "type": "Domain",
+    "value": "wechatlawsuit.com"
+  },
+  {
+    "type": "Domain",
     "value": "google.cv"
   },
   {
@@ -6337,7 +6345,7 @@
   },
   {
     "type": "Domain",
-    "value": "wechatlawsuit.com"
+    "value": "webwarper.net"
   },
   {
     "type": "Domain",
@@ -6741,7 +6749,7 @@
   },
   {
     "type": "Domain",
-    "value": "webwarper.net"
+    "value": "website.new"
   },
   {
     "type": "Domain",
@@ -6761,7 +6769,7 @@
   },
   {
     "type": "Domain",
-    "value": "website.new"
+    "value": "websdr.org"
   },
   {
     "type": "Domain",
@@ -6801,7 +6809,7 @@
   },
   {
     "type": "Domain",
-    "value": "websdr.org"
+    "value": "webrtc.org"
   },
   {
     "type": "Domain",
@@ -6849,7 +6857,7 @@
   },
   {
     "type": "Domain",
-    "value": "webrtc.org"
+    "value": "webpkgcache.com"
   },
   {
     "type": "Domain",
@@ -6897,11 +6905,11 @@
   },
   {
     "type": "Domain",
-    "value": "webpkgcache.com"
+    "value": "webmproject.org"
   },
   {
     "type": "Domain",
-    "value": "webmproject.org"
+    "value": "web2project.net"
   },
   {
     "type": "Domain",
@@ -6961,7 +6969,7 @@
   },
   {
     "type": "Domain",
-    "value": "web2project.net"
+    "value": "web.dev"
   },
   {
     "type": "Domain",
@@ -6981,7 +6989,7 @@
   },
   {
     "type": "Domain",
-    "value": "web.dev"
+    "value": "wearn.com"
   },
   {
     "type": "Domain",
@@ -7109,11 +7117,11 @@
   },
   {
     "type": "Domain",
-    "value": "wearn.com"
+    "value": "wd.bible"
   },
   {
     "type": "Domain",
-    "value": "wd.bible"
+    "value": "waymo.com"
   },
   {
     "type": "Domain",
@@ -7121,7 +7129,7 @@
   },
   {
     "type": "Domain",
-    "value": "waymo.com"
+    "value": "waybig.com"
   },
   {
     "type": "Domain",
@@ -7133,7 +7141,7 @@
   },
   {
     "type": "Domain",
-    "value": "waybig.com"
+    "value": "waveprotocol.org"
   },
   {
     "type": "Domain",
@@ -7153,7 +7161,7 @@
   },
   {
     "type": "Domain",
-    "value": "waveprotocol.org"
+    "value": "wav.tv"
   },
   {
     "type": "Domain",
@@ -7181,7 +7189,7 @@
   },
   {
     "type": "Domain",
-    "value": "wav.tv"
+    "value": "wattpad.com"
   },
   {
     "type": "Domain",
@@ -7217,7 +7225,7 @@
   },
   {
     "type": "Domain",
-    "value": "wattpad.com"
+    "value": "watchout.tw"
   },
   {
     "type": "Domain",
@@ -7229,7 +7237,7 @@
   },
   {
     "type": "Domain",
-    "value": "watchout.tw"
+    "value": "watchmygf.net"
   },
   {
     "type": "Domain",
@@ -7249,7 +7257,7 @@
   },
   {
     "type": "Domain",
-    "value": "watchmygf.net"
+    "value": "watchinese.com"
   },
   {
     "type": "Domain",
@@ -7333,11 +7341,11 @@
   },
   {
     "type": "Domain",
-    "value": "watchinese.com"
+    "value": "washingtonpost.com"
   },
   {
     "type": "Domain",
-    "value": "washingtonpost.com"
+    "value": "waselpro.com"
   },
   {
     "type": "Domain",
@@ -7365,7 +7373,7 @@
   },
   {
     "type": "Domain",
-    "value": "waselpro.com"
+    "value": "warroom.org"
   },
   {
     "type": "Domain",
@@ -7409,7 +7417,7 @@
   },
   {
     "type": "Domain",
-    "value": "warroom.org"
+    "value": "wanz-factory.com"
   },
   {
     "type": "Domain",
@@ -7509,7 +7517,7 @@
   },
   {
     "type": "Domain",
-    "value": "wanz-factory.com"
+    "value": "want-daily.com"
   },
   {
     "type": "Domain",
@@ -7537,11 +7545,11 @@
   },
   {
     "type": "Domain",
-    "value": "want-daily.com"
+    "value": "wango.org"
   },
   {
     "type": "Domain",
-    "value": "wango.org"
+    "value": "wangjinbo.org"
   },
   {
     "type": "Domain",
@@ -7593,7 +7601,7 @@
   },
   {
     "type": "Domain",
-    "value": "wangjinbo.org"
+    "value": "wangafu.net"
   },
   {
     "type": "Domain",
@@ -7613,7 +7621,7 @@
   },
   {
     "type": "Domain",
-    "value": "wangafu.net"
+    "value": "wanderinghorse.net"
   },
   {
     "type": "Domain",
@@ -7621,7 +7629,7 @@
   },
   {
     "type": "Domain",
-    "value": "wanderinghorse.net"
+    "value": "waltermartin.org"
   },
   {
     "type": "Domain",
@@ -7653,7 +7661,7 @@
   },
   {
     "type": "Domain",
-    "value": "waltermartin.org"
+    "value": "waltermartin.com"
   },
   {
     "type": "Domain",
@@ -7665,7 +7673,7 @@
   },
   {
     "type": "Domain",
-    "value": "waltermartin.com"
+    "value": "wallzhihu.com"
   },
   {
     "type": "Domain",
@@ -7701,7 +7709,7 @@
   },
   {
     "type": "Domain",
-    "value": "wallzhihu.com"
+    "value": "wallsttv.com"
   },
   {
     "type": "Domain",
@@ -7725,7 +7733,7 @@
   },
   {
     "type": "Domain",
-    "value": "wallsttv.com"
+    "value": "wallpapercasa.com"
   },
   {
     "type": "Domain",
@@ -7733,7 +7741,7 @@
   },
   {
     "type": "Domain",
-    "value": "wallpapercasa.com"
+    "value": "wallmama.com"
   },
   {
     "type": "Domain",
@@ -7769,7 +7777,7 @@
   },
   {
     "type": "Domain",
-    "value": "wallmama.com"
+    "value": "walletconnect.org"
   },
   {
     "type": "Domain",
@@ -7797,7 +7805,7 @@
   },
   {
     "type": "Domain",
-    "value": "walletconnect.org"
+    "value": "walletconnect.com"
   },
   {
     "type": "Domain",
@@ -7841,7 +7849,7 @@
   },
   {
     "type": "Domain",
-    "value": "walletconnect.com"
+    "value": "wainao.me"
   },
   {
     "type": "Domain",
@@ -7881,7 +7889,7 @@
   },
   {
     "type": "Domain",
-    "value": "wainao.me"
+    "value": "waffle1999.com"
   },
   {
     "type": "Domain",
@@ -7901,7 +7909,7 @@
   },
   {
     "type": "Domain",
-    "value": "waffle1999.com"
+    "value": "w3s.link"
   },
   {
     "type": "Domain",
@@ -7973,7 +7981,7 @@
   },
   {
     "type": "Domain",
-    "value": "w3s.link"
+    "value": "w-pool.com"
   },
   {
     "type": "Domain",
@@ -7985,7 +7993,7 @@
   },
   {
     "type": "Domain",
-    "value": "w-pool.com"
+    "value": "vultryhw.com"
   },
   {
     "type": "Domain",
@@ -8101,7 +8109,7 @@
   },
   {
     "type": "Domain",
-    "value": "vultryhw.com"
+    "value": "vuku.cc"
   },
   {
     "type": "Domain",
@@ -8213,11 +8221,11 @@
   },
   {
     "type": "Domain",
-    "value": "vuku.cc"
+    "value": "vtunnel.com"
   },
   {
     "type": "Domain",
-    "value": "vtunnel.com"
+    "value": "vrsmash.com"
   },
   {
     "type": "Domain",
@@ -8229,7 +8237,7 @@
   },
   {
     "type": "Domain",
-    "value": "vrsmash.com"
+    "value": "vrporn.com"
   },
   {
     "type": "Domain",
@@ -8241,7 +8249,7 @@
   },
   {
     "type": "Domain",
-    "value": "vrporn.com"
+    "value": "vrchat.com"
   },
   {
     "type": "Domain",
@@ -8249,7 +8257,7 @@
   },
   {
     "type": "Domain",
-    "value": "vrchat.com"
+    "value": "vpsxb.net"
   },
   {
     "type": "Domain",
@@ -8305,15 +8313,7 @@
   },
   {
     "type": "Domain",
-    "value": "vpsxb.net"
-  },
-  {
-    "type": "Domain",
     "value": "vporn.com"
-  },
-  {
-    "type": "Domain",
-    "value": "kagyuoffice.org"
   },
   {
     "type": "Domain",
@@ -8321,11 +8321,19 @@
   },
   {
     "type": "Domain",
-    "value": "kakao.com"
+    "value": "kagyuoffice.org"
   },
   {
     "type": "Domain",
     "value": "vpnunlimitedapp.com"
+  },
+  {
+    "type": "Domain",
+    "value": "kakao.com"
+  },
+  {
+    "type": "Domain",
+    "value": "vpnuk.info"
   },
   {
     "type": "Domain",
@@ -8357,19 +8365,19 @@
   },
   {
     "type": "Domain",
-    "value": "vpnuk.info"
-  },
-  {
-    "type": "Domain",
-    "value": "pt.im"
-  },
-  {
-    "type": "Domain",
     "value": "vpntunnel.com"
   },
   {
     "type": "Domain",
+    "value": "pbxes.com"
+  },
+  {
+    "type": "Domain",
     "value": "0rz.tw"
+  },
+  {
+    "type": "Domain",
+    "value": "cn-proxy.com"
   },
   {
     "type": "Domain",
@@ -9177,11 +9185,15 @@
   },
   {
     "type": "Domain",
+    "value": "vot.org"
+  },
+  {
+    "type": "Domain",
     "value": "meetup.com"
   },
   {
     "type": "Domain",
-    "value": "vot.org"
+    "value": "voicettank.org"
   },
   {
     "type": "Domain",
@@ -9253,7 +9265,7 @@
   },
   {
     "type": "Domain",
-    "value": "voicettank.org"
+    "value": "vocus.cc"
   },
   {
     "type": "Domain",
@@ -9293,7 +9305,7 @@
   },
   {
     "type": "Domain",
-    "value": "vocus.cc"
+    "value": "vocaroo.com"
   },
   {
     "type": "Domain",
@@ -9333,7 +9345,7 @@
   },
   {
     "type": "Domain",
-    "value": "vocaroo.com"
+    "value": "voatibetanenglish.com"
   },
   {
     "type": "Domain",
@@ -9353,7 +9365,7 @@
   },
   {
     "type": "Domain",
-    "value": "voatibetanenglish.com"
+    "value": "voatibetan.com"
   },
   {
     "type": "Domain",
@@ -9361,7 +9373,7 @@
   },
   {
     "type": "Domain",
-    "value": "voatibetan.com"
+    "value": "voanews.com"
   },
   {
     "type": "Domain",
@@ -9481,7 +9493,7 @@
   },
   {
     "type": "Domain",
-    "value": "voanews.com"
+    "value": "voaindonesia.com"
   },
   {
     "type": "Domain",
@@ -9497,7 +9509,7 @@
   },
   {
     "type": "Domain",
-    "value": "voaindonesia.com"
+    "value": "voachineseblog.com"
   },
   {
     "type": "Domain",
@@ -9549,7 +9561,7 @@
   },
   {
     "type": "Domain",
-    "value": "voachineseblog.com"
+    "value": "voachinese.com"
   },
   {
     "type": "Domain",
@@ -9557,7 +9569,7 @@
   },
   {
     "type": "Domain",
-    "value": "voachinese.com"
+    "value": "voacantonese.com"
   },
   {
     "type": "Domain",
@@ -9701,11 +9713,11 @@
   },
   {
     "type": "Domain",
-    "value": "voacantonese.com"
+    "value": "voacambodia.com"
   },
   {
     "type": "Domain",
-    "value": "voacambodia.com"
+    "value": "vnet.link"
   },
   {
     "type": "Domain",
@@ -9777,7 +9789,7 @@
   },
   {
     "type": "Domain",
-    "value": "vnet.link"
+    "value": "vmpsoft.com"
   },
   {
     "type": "Domain",
@@ -9813,7 +9825,7 @@
   },
   {
     "type": "Domain",
-    "value": "vmpsoft.com"
+    "value": "vmixcore.com"
   },
   {
     "type": "Domain",
@@ -9841,11 +9853,11 @@
   },
   {
     "type": "Domain",
-    "value": "vmixcore.com"
+    "value": "vllcs.org"
   },
   {
     "type": "Domain",
-    "value": "vllcs.org"
+    "value": "vjav.com"
   },
   {
     "type": "Domain",
@@ -9937,10 +9949,6 @@
   },
   {
     "type": "Domain",
-    "value": "vjav.com"
-  },
-  {
-    "type": "Domain",
     "value": "vivthomas.com"
   },
   {
@@ -9954,6 +9962,10 @@
   {
     "type": "Domain",
     "value": "viu.com"
+  },
+  {
+    "type": "Domain",
+    "value": "virtualrealporn.com"
   },
   {
     "type": "Domain",
@@ -10009,7 +10021,7 @@
   },
   {
     "type": "Domain",
-    "value": "virtualrealporn.com"
+    "value": "vip-enterprise.com"
   },
   {
     "type": "Domain",
@@ -10017,11 +10029,11 @@
   },
   {
     "type": "Domain",
-    "value": "vip-enterprise.com"
+    "value": "vinniev.com"
   },
   {
     "type": "Domain",
-    "value": "vinniev.com"
+    "value": "vine.co"
   },
   {
     "type": "Domain",
@@ -10057,7 +10069,7 @@
   },
   {
     "type": "Domain",
-    "value": "vine.co"
+    "value": "vincnd.com"
   },
   {
     "type": "Domain",
@@ -10085,7 +10097,7 @@
   },
   {
     "type": "Domain",
-    "value": "vincnd.com"
+    "value": "vimperator.org"
   },
   {
     "type": "Domain",
@@ -10189,7 +10201,7 @@
   },
   {
     "type": "Domain",
-    "value": "vimperator.org"
+    "value": "vimeocdn.com"
   },
   {
     "type": "Domain",
@@ -10217,7 +10229,7 @@
   },
   {
     "type": "Domain",
-    "value": "vimeocdn.com"
+    "value": "vimeo.com"
   },
   {
     "type": "Domain",
@@ -10293,7 +10305,7 @@
   },
   {
     "type": "Domain",
-    "value": "vimeo.com"
+    "value": "vilavpn.com"
   },
   {
     "type": "Domain",
@@ -10389,7 +10401,7 @@
   },
   {
     "type": "Domain",
-    "value": "vilavpn.com"
+    "value": "vilanet.me"
   },
   {
     "type": "Domain",
@@ -10441,7 +10453,7 @@
   },
   {
     "type": "Domain",
-    "value": "vilanet.me"
+    "value": "videopress.com"
   },
   {
     "type": "Domain",
@@ -10449,7 +10461,7 @@
   },
   {
     "type": "Domain",
-    "value": "videopress.com"
+    "value": "videomega.tv"
   },
   {
     "type": "Domain",
@@ -10469,7 +10481,7 @@
   },
   {
     "type": "Domain",
-    "value": "videomega.tv"
+    "value": "videobam.com"
   },
   {
     "type": "Domain",
@@ -10505,11 +10517,15 @@
   },
   {
     "type": "Domain",
-    "value": "videobam.com"
+    "value": "vidble.com"
   },
   {
     "type": "Domain",
     "value": "openai.com"
+  },
+  {
+    "type": "Domain",
+    "value": "opencritic.com"
   },
   {
     "type": "Domain",
@@ -10553,11 +10569,11 @@
   },
   {
     "type": "Domain",
-    "value": "vidble.com"
+    "value": "vid.me"
   },
   {
     "type": "Domain",
-    "value": "vid.me"
+    "value": "victimsofcommunism.org"
   },
   {
     "type": "Domain",
@@ -10565,7 +10581,7 @@
   },
   {
     "type": "Domain",
-    "value": "victimsofcommunism.org"
+    "value": "viber.com"
   },
   {
     "type": "Domain",
@@ -10589,7 +10605,7 @@
   },
   {
     "type": "Domain",
-    "value": "viber.com"
+    "value": "vewas.net"
   },
   {
     "type": "Domain",
@@ -10609,7 +10625,7 @@
   },
   {
     "type": "Domain",
-    "value": "vewas.net"
+    "value": "vevo.com"
   },
   {
     "type": "Domain",
@@ -10741,7 +10757,7 @@
   },
   {
     "type": "Domain",
-    "value": "vevo.com"
+    "value": "verybs.com"
   },
   {
     "type": "Domain",
@@ -10753,7 +10769,7 @@
   },
   {
     "type": "Domain",
-    "value": "pbxes.com"
+    "value": "kebrum.com"
   },
   {
     "type": "Domain",
@@ -10769,7 +10785,7 @@
   },
   {
     "type": "Domain",
-    "value": "verybs.com"
+    "value": "vern.cc"
   },
   {
     "type": "Domain",
@@ -10777,7 +10793,7 @@
   },
   {
     "type": "Domain",
-    "value": "vern.cc"
+    "value": "vercel.app"
   },
   {
     "type": "Domain",
@@ -10797,7 +10813,7 @@
   },
   {
     "type": "Domain",
-    "value": "vercel.app"
+    "value": "ventureswell.com"
   },
   {
     "type": "Domain",
@@ -10849,7 +10865,7 @@
   },
   {
     "type": "Domain",
-    "value": "ventureswell.com"
+    "value": "venetianmacao.com"
   },
   {
     "type": "Domain",
@@ -10937,7 +10953,7 @@
   },
   {
     "type": "Domain",
-    "value": "venetianmacao.com"
+    "value": "vegasred.com"
   },
   {
     "type": "Domain",
@@ -10945,11 +10961,11 @@
   },
   {
     "type": "Domain",
-    "value": "vegasred.com"
+    "value": "vcfbuilder.org"
   },
   {
     "type": "Domain",
-    "value": "vcfbuilder.org"
+    "value": "vcf-online.org"
   },
   {
     "type": "Domain",
@@ -11201,7 +11217,7 @@
   },
   {
     "type": "Domain",
-    "value": "vcf-online.org"
+    "value": "vatn.org"
   },
   {
     "type": "Domain",
@@ -11353,7 +11369,7 @@
   },
   {
     "type": "Domain",
-    "value": "vatn.org"
+    "value": "vaticannews.va"
   },
   {
     "type": "Domain",
@@ -11385,7 +11401,7 @@
   },
   {
     "type": "Domain",
-    "value": "kebrum.com"
+    "value": "pt.im"
   },
   {
     "type": "Domain",
@@ -11401,7 +11417,7 @@
   },
   {
     "type": "Domain",
-    "value": "vaticannews.va"
+    "value": "vansky.com"
   },
   {
     "type": "Domain",
@@ -11437,7 +11453,7 @@
   },
   {
     "type": "Domain",
-    "value": "vansky.com"
+    "value": "valeursactuelles.com"
   },
   {
     "type": "Domain",
@@ -11453,7 +11469,7 @@
   },
   {
     "type": "Domain",
-    "value": "valeursactuelles.com"
+    "value": "v2raycn.com"
   },
   {
     "type": "Domain",
@@ -11465,7 +11481,7 @@
   },
   {
     "type": "Domain",
-    "value": "v2raycn.com"
+    "value": "v2ray.com"
   },
   {
     "type": "Domain",
@@ -11509,7 +11525,7 @@
   },
   {
     "type": "Domain",
-    "value": "v2ray.com"
+    "value": "v2fly.org"
   },
   {
     "type": "Domain",
@@ -11585,7 +11601,7 @@
   },
   {
     "type": "Domain",
-    "value": "v2fly.org"
+    "value": "v2ex.com"
   },
   {
     "type": "Domain",
@@ -11621,15 +11637,11 @@
   },
   {
     "type": "Domain",
-    "value": "v2ex.com"
+    "value": "v2.help"
   },
   {
     "type": "Domain",
     "value": "raindrop.io"
-  },
-  {
-    "type": "Domain",
-    "value": "v2.help"
   },
   {
     "type": "Domain",
@@ -11638,6 +11650,10 @@
   {
     "type": "Domain",
     "value": "uyghurtribunal.com"
+  },
+  {
+    "type": "Domain",
+    "value": "uyghurstudies.org"
   },
   {
     "type": "Domain",
@@ -11661,7 +11677,7 @@
   },
   {
     "type": "Domain",
-    "value": "uyghurstudies.org"
+    "value": "uyghurpen.org"
   },
   {
     "type": "Domain",
@@ -11673,7 +11689,7 @@
   },
   {
     "type": "Domain",
-    "value": "uyghurpen.org"
+    "value": "uyghurcongress.org"
   },
   {
     "type": "Domain",
@@ -11693,7 +11709,7 @@
   },
   {
     "type": "Domain",
-    "value": "uyghurcongress.org"
+    "value": "uyghurbiz.org"
   },
   {
     "type": "Domain",
@@ -11717,7 +11733,7 @@
   },
   {
     "type": "Domain",
-    "value": "uyghurbiz.org"
+    "value": "uyghuramerican.org"
   },
   {
     "type": "Domain",
@@ -11773,7 +11789,7 @@
   },
   {
     "type": "Domain",
-    "value": "uyghuramerican.org"
+    "value": "uyghuraa.org"
   },
   {
     "type": "Domain",
@@ -11925,11 +11941,11 @@
   },
   {
     "type": "Domain",
-    "value": "uyghuraa.org"
+    "value": "uyghur-j.org"
   },
   {
     "type": "Domain",
-    "value": "uyghur-j.org"
+    "value": "uwants.com"
   },
   {
     "type": "Domain",
@@ -11937,7 +11953,7 @@
   },
   {
     "type": "Domain",
-    "value": "uwants.com"
+    "value": "uvwxyz.xyz"
   },
   {
     "type": "Domain",
@@ -11961,7 +11977,7 @@
   },
   {
     "type": "Domain",
-    "value": "uvwxyz.xyz"
+    "value": "uupool.cn"
   },
   {
     "type": "Domain",
@@ -11978,10 +11994,6 @@
   {
     "type": "Domain",
     "value": "s-cute.com"
-  },
-  {
-    "type": "Domain",
-    "value": "uupool.cn"
   },
   {
     "type": "Domain",
@@ -12014,6 +12026,10 @@
   {
     "type": "Domain",
     "value": "usercontent.goog"
+  },
+  {
+    "type": "Domain",
+    "value": "uscnpm.org"
   },
   {
     "type": "Domain",
@@ -12057,7 +12073,7 @@
   },
   {
     "type": "Domain",
-    "value": "uscnpm.org"
+    "value": "uscg.mil"
   },
   {
     "type": "Domain",
@@ -12069,7 +12085,7 @@
   },
   {
     "type": "Domain",
-    "value": "uscg.mil"
+    "value": "uscardforum.com"
   },
   {
     "type": "Domain",
@@ -12101,15 +12117,15 @@
   },
   {
     "type": "Domain",
-    "value": "uscardforum.com"
-  },
-  {
-    "type": "Domain",
     "value": "usaip.eu"
   },
   {
     "type": "Domain",
     "value": "usacn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "urlparser.com"
   },
   {
     "type": "Domain",
@@ -12125,7 +12141,7 @@
   },
   {
     "type": "Domain",
-    "value": "000webhost.com"
+    "value": "urlborg.com"
   },
   {
     "type": "Domain",
@@ -12137,7 +12153,7 @@
   },
   {
     "type": "Domain",
-    "value": "urlparser.com"
+    "value": "urchin.com"
   },
   {
     "type": "Domain",
@@ -12149,7 +12165,7 @@
   },
   {
     "type": "Domain",
-    "value": "urlborg.com"
+    "value": "urbansurvival.com"
   },
   {
     "type": "Domain",
@@ -12173,15 +12189,15 @@
   },
   {
     "type": "Domain",
-    "value": "urchin.com"
-  },
-  {
-    "type": "Domain",
-    "value": "urbansurvival.com"
-  },
-  {
-    "type": "Domain",
     "value": "urbandictionary.com"
+  },
+  {
+    "type": "Domain",
+    "value": "uraban.me"
+  },
+  {
+    "type": "Domain",
+    "value": "uptodown.com"
   },
   {
     "type": "Domain",
@@ -12277,7 +12293,7 @@
   },
   {
     "type": "Domain",
-    "value": "uraban.me"
+    "value": "uproxy.org"
   },
   {
     "type": "Domain",
@@ -12293,7 +12309,7 @@
   },
   {
     "type": "Domain",
-    "value": "uptodown.com"
+    "value": "upornia.com"
   },
   {
     "type": "Domain",
@@ -12357,7 +12373,7 @@
   },
   {
     "type": "Domain",
-    "value": "uproxy.org"
+    "value": "upmedia.mg"
   },
   {
     "type": "Domain",
@@ -12413,11 +12429,11 @@
   },
   {
     "type": "Domain",
-    "value": "upornia.com"
+    "value": "upghsbc.com"
   },
   {
     "type": "Domain",
-    "value": "upmedia.mg"
+    "value": "upbit.com"
   },
   {
     "type": "Domain",
@@ -12541,7 +12557,7 @@
   },
   {
     "type": "Domain",
-    "value": "upghsbc.com"
+    "value": "up.audio"
   },
   {
     "type": "Domain",
@@ -12565,11 +12581,11 @@
   },
   {
     "type": "Domain",
-    "value": "upbit.com"
+    "value": "uocn.org"
   },
   {
     "type": "Domain",
-    "value": "up.audio"
+    "value": "unwire.hk"
   },
   {
     "type": "Domain",
@@ -12605,7 +12621,7 @@
   },
   {
     "type": "Domain",
-    "value": "uocn.org"
+    "value": "unstable.icu"
   },
   {
     "type": "Domain",
@@ -12633,7 +12649,7 @@
   },
   {
     "type": "Domain",
-    "value": "unwire.hk"
+    "value": "unseen.is"
   },
   {
     "type": "Domain",
@@ -12709,15 +12725,15 @@
   },
   {
     "type": "Domain",
-    "value": "unstable.icu"
-  },
-  {
-    "type": "Domain",
-    "value": "unseen.is"
-  },
-  {
-    "type": "Domain",
     "value": "unmineable.com"
+  },
+  {
+    "type": "Domain",
+    "value": "unknownspace.org"
+  },
+  {
+    "type": "Domain",
+    "value": "unirule.cloud"
   },
   {
     "type": "Domain",
@@ -12725,7 +12741,7 @@
   },
   {
     "type": "Domain",
-    "value": "unknownspace.org"
+    "value": "unholyknight.com"
   },
   {
     "type": "Domain",
@@ -12781,7 +12797,7 @@
   },
   {
     "type": "Domain",
-    "value": "unirule.cloud"
+    "value": "underwoodammo.com"
   },
   {
     "type": "Domain",
@@ -12829,7 +12845,7 @@
   },
   {
     "type": "Domain",
-    "value": "kenengba.com"
+    "value": "uncyclopedia.tw"
   },
   {
     "type": "Domain",
@@ -12837,7 +12853,7 @@
   },
   {
     "type": "Domain",
-    "value": "underwoodammo.com"
+    "value": "uncyclopedia.hk"
   },
   {
     "type": "Domain",
@@ -12873,7 +12889,7 @@
   },
   {
     "type": "Domain",
-    "value": "uncyclopedia.tw"
+    "value": "unblocksit.es"
   },
   {
     "type": "Domain",
@@ -12901,11 +12917,11 @@
   },
   {
     "type": "Domain",
-    "value": "uncyclopedia.hk"
+    "value": "unblockdmm.com"
   },
   {
     "type": "Domain",
-    "value": "unblocksit.es"
+    "value": "unblock-us.com"
   },
   {
     "type": "Domain",
@@ -12917,7 +12933,7 @@
   },
   {
     "type": "Domain",
-    "value": "unblockdmm.com"
+    "value": "ultravpn.fr"
   },
   {
     "type": "Domain",
@@ -12961,7 +12977,7 @@
   },
   {
     "type": "Domain",
-    "value": "unblock-us.com"
+    "value": "ultravpn.com"
   },
   {
     "type": "Domain",
@@ -12969,7 +12985,7 @@
   },
   {
     "type": "Domain",
-    "value": "ultravpn.fr"
+    "value": "ultrasurf.us"
   },
   {
     "type": "Domain",
@@ -13029,7 +13045,7 @@
   },
   {
     "type": "Domain",
-    "value": "ultravpn.com"
+    "value": "ulop.net"
   },
   {
     "type": "Domain",
@@ -13045,7 +13061,7 @@
   },
   {
     "type": "Domain",
-    "value": "ultrasurf.us"
+    "value": "uku.im"
   },
   {
     "type": "Domain",
@@ -13097,7 +13113,7 @@
   },
   {
     "type": "Domain",
-    "value": "ulop.net"
+    "value": "uighur.nl"
   },
   {
     "type": "Domain",
@@ -13133,7 +13149,7 @@
   },
   {
     "type": "Domain",
-    "value": "uku.im"
+    "value": "uhrp.org"
   },
   {
     "type": "Domain",
@@ -13185,7 +13201,7 @@
   },
   {
     "type": "Domain",
-    "value": "uighur.nl"
+    "value": "uhdwallpapers.org"
   },
   {
     "type": "Domain",
@@ -13217,15 +13233,15 @@
   },
   {
     "type": "Domain",
-    "value": "uhrp.org"
-  },
-  {
-    "type": "Domain",
-    "value": "uhdwallpapers.org"
-  },
-  {
-    "type": "Domain",
     "value": "udomain.hk"
+  },
+  {
+    "type": "Domain",
+    "value": "udn.com"
+  },
+  {
+    "type": "Domain",
+    "value": "uchicago.edu"
   },
   {
     "type": "Domain",
@@ -13277,7 +13293,7 @@
   },
   {
     "type": "Domain",
-    "value": "udn.com"
+    "value": "uc-japan.org"
   },
   {
     "type": "Domain",
@@ -13369,7 +13385,7 @@
   },
   {
     "type": "Domain",
-    "value": "uchicago.edu"
+    "value": "uberproxy.net"
   },
   {
     "type": "Domain",
@@ -13417,7 +13433,7 @@
   },
   {
     "type": "Domain",
-    "value": "uc-japan.org"
+    "value": "ubddns.org"
   },
   {
     "type": "Domain",
@@ -13461,11 +13477,11 @@
   },
   {
     "type": "Domain",
-    "value": "uberproxy.net"
+    "value": "ub0.cc"
   },
   {
     "type": "Domain",
-    "value": "ubddns.org"
+    "value": "ua5v.com"
   },
   {
     "type": "Domain",
@@ -13545,7 +13561,7 @@
   },
   {
     "type": "Domain",
-    "value": "ub0.cc"
+    "value": "u9un.com"
   },
   {
     "type": "Domain",
@@ -13673,7 +13689,7 @@
   },
   {
     "type": "Domain",
-    "value": "ua5v.com"
+    "value": "u15.info"
   },
   {
     "type": "Domain",
@@ -13769,7 +13785,7 @@
   },
   {
     "type": "Domain",
-    "value": "u9un.com"
+    "value": "typora.io"
   },
   {
     "type": "Domain",
@@ -13793,7 +13809,7 @@
   },
   {
     "type": "Domain",
-    "value": "u15.info"
+    "value": "typeset.io"
   },
   {
     "type": "Domain",
@@ -13873,7 +13889,7 @@
   },
   {
     "type": "Domain",
-    "value": "typora.io"
+    "value": "typepad.com"
   },
   {
     "type": "Domain",
@@ -13921,7 +13937,7 @@
   },
   {
     "type": "Domain",
-    "value": "typeset.io"
+    "value": "tycool.com"
   },
   {
     "type": "Domain",
@@ -13937,15 +13953,15 @@
   },
   {
     "type": "Domain",
-    "value": "typepad.com"
-  },
-  {
-    "type": "Domain",
-    "value": "tycool.com"
-  },
-  {
-    "type": "Domain",
     "value": "tx.me"
+  },
+  {
+    "type": "Domain",
+    "value": "twttr.com"
+  },
+  {
+    "type": "Domain",
+    "value": "twtkr.com"
   },
   {
     "type": "Domain",
@@ -14053,7 +14069,7 @@
   },
   {
     "type": "Domain",
-    "value": "twttr.com"
+    "value": "twt.tl"
   },
   {
     "type": "Domain",
@@ -14065,7 +14081,7 @@
   },
   {
     "type": "Domain",
-    "value": "twtkr.com"
+    "value": "twreporter.org"
   },
   {
     "type": "Domain",
@@ -14085,7 +14101,7 @@
   },
   {
     "type": "Domain",
-    "value": "twt.tl"
+    "value": "twkan.com"
   },
   {
     "type": "Domain",
@@ -14101,7 +14117,7 @@
   },
   {
     "type": "Domain",
-    "value": "twreporter.org"
+    "value": "twitturly.com"
   },
   {
     "type": "Domain",
@@ -14121,7 +14137,7 @@
   },
   {
     "type": "Domain",
-    "value": "twkan.com"
+    "value": "twitturk.com"
   },
   {
     "type": "Domain",
@@ -14133,7 +14149,7 @@
   },
   {
     "type": "Domain",
-    "value": "twitturly.com"
+    "value": "twittertim.es"
   },
   {
     "type": "Domain",
@@ -14185,7 +14201,7 @@
   },
   {
     "type": "Domain",
-    "value": "twitturk.com"
+    "value": "twitterrific.com"
   },
   {
     "type": "Domain",
@@ -14237,7 +14253,7 @@
   },
   {
     "type": "Domain",
-    "value": "twittertim.es"
+    "value": "twittermail.com"
   },
   {
     "type": "Domain",
@@ -14257,7 +14273,7 @@
   },
   {
     "type": "Domain",
-    "value": "twitterrific.com"
+    "value": "twitterkr.com"
   },
   {
     "type": "Domain",
@@ -14377,7 +14393,7 @@
   },
   {
     "type": "Domain",
-    "value": "twittermail.com"
+    "value": "twittergadget.com"
   },
   {
     "type": "Domain",
@@ -14393,7 +14409,7 @@
   },
   {
     "type": "Domain",
-    "value": "twitterkr.com"
+    "value": "twittercounter.com"
   },
   {
     "type": "Domain",
@@ -14441,19 +14457,11 @@
   },
   {
     "type": "Domain",
-    "value": "twittercounter.com"
+    "value": "vpl.bibliocommons.com"
   },
   {
     "type": "Domain",
-    "value": "twittergadget.com"
-  },
-  {
-    "type": "Domain",
-    "value": "hklts.org.hk"
-  },
-  {
-    "type": "Domain",
-    "value": "logos.com.hk"
+    "value": "hole.thu.monster"
   },
   {
     "type": "Domain",
@@ -14549,15 +14557,7 @@
   },
   {
     "type": "Domain",
-    "value": "udn.com.tw"
-  },
-  {
-    "type": "Domain",
     "value": "taiwantt.org.tw"
-  },
-  {
-    "type": "Domain",
-    "value": "uforadio.com.tw"
   },
   {
     "type": "Domain",
@@ -14565,7 +14565,15 @@
   },
   {
     "type": "Domain",
+    "value": "udn.com.tw"
+  },
+  {
+    "type": "Domain",
     "value": "taiwanncf.org.tw"
+  },
+  {
+    "type": "Domain",
+    "value": "uforadio.com.tw"
   },
   {
     "type": "Domain",
@@ -14593,15 +14601,15 @@
   },
   {
     "type": "Domain",
-    "value": "unblock.cn.com"
-  },
-  {
-    "type": "Domain",
     "value": "stc.com.sa"
   },
   {
     "type": "Domain",
     "value": "static.shemalez.com"
+  },
+  {
+    "type": "Domain",
+    "value": "unblock.cn.com"
   },
   {
     "type": "Domain",
@@ -14657,15 +14665,15 @@
   },
   {
     "type": "Domain",
-    "value": "updates.tdesktop.com"
-  },
-  {
-    "type": "Domain",
     "value": "smh.com.au"
   },
   {
     "type": "Domain",
     "value": "singaporepools.com.sg"
+  },
+  {
+    "type": "Domain",
+    "value": "updates.tdesktop.com"
   },
   {
     "type": "Domain",
@@ -14705,7 +14713,11 @@
   },
   {
     "type": "Domain",
-    "value": "scache2.vzw.com"
+    "value": "scratch.mit.edu"
+  },
+  {
+    "type": "Domain",
+    "value": "google.com.eg"
   },
   {
     "type": "Domain",
@@ -14725,11 +14737,11 @@
   },
   {
     "type": "Domain",
-    "value": "use.typekit.net"
+    "value": "abc.net.au"
   },
   {
     "type": "Domain",
-    "value": "abc.net.au"
+    "value": "use.typekit.net"
   },
   {
     "type": "Domain",
@@ -14741,11 +14753,11 @@
   },
   {
     "type": "Domain",
-    "value": "usno.navy.mil"
+    "value": "s3-eu-central-1.amazonaws.com"
   },
   {
     "type": "Domain",
-    "value": "s3-eu-central-1.amazonaws.com"
+    "value": "usno.navy.mil"
   },
   {
     "type": "Domain",
@@ -14809,11 +14821,11 @@
   },
   {
     "type": "Domain",
-    "value": "uygur.fc2web.com"
+    "value": "rakuten.co.jp"
   },
   {
     "type": "Domain",
-    "value": "rakuten.co.jp"
+    "value": "uygur.fc2web.com"
   },
   {
     "type": "Domain",
@@ -14821,11 +14833,11 @@
   },
   {
     "type": "Domain",
-    "value": "v2.hysteria.network"
+    "value": "raidcall.com.tw"
   },
   {
     "type": "Domain",
-    "value": "raidcall.com.tw"
+    "value": "v2.hysteria.network"
   },
   {
     "type": "Domain",
@@ -14865,11 +14877,11 @@
   },
   {
     "type": "Domain",
-    "value": "vegas.williamhill.com"
+    "value": "pinterest.com.au"
   },
   {
     "type": "Domain",
-    "value": "pinterest.com.au"
+    "value": "vegas.williamhill.com"
   },
   {
     "type": "Domain",
@@ -14917,11 +14929,11 @@
   },
   {
     "type": "Domain",
-    "value": "video.aol.com"
+    "value": "open.firstory.me"
   },
   {
     "type": "Domain",
-    "value": "open.firstory.me"
+    "value": "video.aol.com"
   },
   {
     "type": "Domain",
@@ -15045,6 +15057,10 @@
   },
   {
     "type": "Domain",
+    "value": "merit-times.com.tw"
+  },
+  {
+    "type": "Domain",
     "value": "vod-abematv.akamaized.net"
   },
   {
@@ -15053,11 +15069,11 @@
   },
   {
     "type": "Domain",
-    "value": "merit-times.com.tw"
+    "value": "mega.co.nz"
   },
   {
     "type": "Domain",
-    "value": "mega.co.nz"
+    "value": "meee.com.tw"
   },
   {
     "type": "Domain",
@@ -15069,7 +15085,7 @@
   },
   {
     "type": "Domain",
-    "value": "vpl.bibliocommons.com"
+    "value": "google.com.et"
   },
   {
     "type": "Domain",
@@ -15105,7 +15121,7 @@
   },
   {
     "type": "Domain",
-    "value": "wikiless.funami.tech"
+    "value": "logos.com.hk"
   },
   {
     "type": "Domain",
@@ -15170,10 +15186,6 @@
   {
     "type": "Domain",
     "value": "kingkong.com.tw"
-  },
-  {
-    "type": "Domain",
-    "value": "scratch.mit.edu"
   },
   {
     "type": "Domain",
@@ -15293,7 +15305,7 @@
   },
   {
     "type": "Domain",
-    "value": "hole.thu.monster"
+    "value": "blog.cryptographyengineering.com"
   },
   {
     "type": "Domain",
@@ -15301,7 +15313,7 @@
   },
   {
     "type": "Domain",
-    "value": "google.com.fj"
+    "value": "hklts.org.hk"
   },
   {
     "type": "Domain",
@@ -15313,11 +15325,11 @@
   },
   {
     "type": "Domain",
-    "value": "wealth.com.tw"
+    "value": "hk.gradconnection.com"
   },
   {
     "type": "Domain",
-    "value": "hk.gradconnection.com"
+    "value": "wealth.com.tw"
   },
   {
     "type": "Domain",
@@ -15365,11 +15377,11 @@
   },
   {
     "type": "Domain",
-    "value": "wego.here.com"
+    "value": "google.com.uy"
   },
   {
     "type": "Domain",
-    "value": "google.com.uy"
+    "value": "wego.here.com"
   },
   {
     "type": "Domain",
@@ -15481,6 +15493,10 @@
   },
   {
     "type": "Domain",
+    "value": "google.com.ly"
+  },
+  {
+    "type": "Domain",
     "value": "wiki.gamerp.jp"
   },
   {
@@ -15498,10 +15514,6 @@
   {
     "type": "Domain",
     "value": "wiki.phonegap.com"
-  },
-  {
-    "type": "Domain",
-    "value": "google.com.ly"
   },
   {
     "type": "Domain",
@@ -15525,7 +15537,7 @@
   },
   {
     "type": "Domain",
-    "value": "google.com.gt"
+    "value": "google.com.fj"
   },
   {
     "type": "Domain",
@@ -15537,11 +15549,7 @@
   },
   {
     "type": "Domain",
-    "value": "fiddle.jshell.net"
-  },
-  {
-    "type": "Domain",
-    "value": "etools.ncol.com"
+    "value": "google.com.gt"
   },
   {
     "type": "Domain",
@@ -15549,11 +15557,15 @@
   },
   {
     "type": "Domain",
-    "value": "google.com.ec"
+    "value": "assets.nxtrace.org"
   },
   {
     "type": "Domain",
-    "value": "google.com.eg"
+    "value": "scache2.vzw.com"
+  },
+  {
+    "type": "Domain",
+    "value": "google.com.ec"
   },
   {
     "type": "Domain",
@@ -15765,11 +15777,11 @@
   },
   {
     "type": "Domain",
-    "value": "wufi.org.tw"
+    "value": "forum.cyberctm.com"
   },
   {
     "type": "Domain",
-    "value": "forum.cyberctm.com"
+    "value": "wufi.org.tw"
   },
   {
     "type": "Domain",
@@ -15781,7 +15793,11 @@
   },
   {
     "type": "Domain",
-    "value": "google.com.et"
+    "value": "fiddle.jshell.net"
+  },
+  {
+    "type": "Domain",
+    "value": "feeds.fileforum.com"
   },
   {
     "type": "Domain",
@@ -15798,6 +15814,10 @@
   {
     "type": "Domain",
     "value": "www.bing.com"
+  },
+  {
+    "type": "Domain",
+    "value": "www.clashverge.dev"
   },
   {
     "type": "Domain",
@@ -15897,10 +15917,6 @@
   },
   {
     "type": "Domain",
-    "value": "feeds.fileforum.com"
-  },
-  {
-    "type": "Domain",
     "value": "fast.wistia.com"
   },
   {
@@ -15909,7 +15925,7 @@
   },
   {
     "type": "Domain",
-    "value": "twister.net.co"
+    "value": "etools.ncol.com"
   },
   {
     "type": "Domain",
@@ -16013,11 +16029,11 @@
   },
   {
     "type": "Domain",
-    "value": "xinmiao.com.hk"
+    "value": "dabr.co.uk"
   },
   {
     "type": "Domain",
-    "value": "dabr.co.uk"
+    "value": "xinmiao.com.hk"
   },
   {
     "type": "Domain",
@@ -16137,11 +16153,11 @@
   },
   {
     "type": "Domain",
-    "value": "xxxx.com.au"
+    "value": "chinapress.com.my"
   },
   {
     "type": "Domain",
-    "value": "chinapress.com.my"
+    "value": "xxxx.com.au"
   },
   {
     "type": "Domain",
@@ -16153,6 +16169,10 @@
   },
   {
     "type": "Domain",
+    "value": "chat.lmsys.org"
+  },
+  {
+    "type": "Domain",
     "value": "yahoo.com.hk"
   },
   {
@@ -16161,15 +16181,7 @@
   },
   {
     "type": "Domain",
-    "value": "chat.lmsys.org"
-  },
-  {
-    "type": "Domain",
     "value": "certificate.revocationcheck.com"
-  },
-  {
-    "type": "Domain",
-    "value": "yam.org.tw"
   },
   {
     "type": "Domain",
@@ -16177,7 +16189,15 @@
   },
   {
     "type": "Domain",
+    "value": "yam.org.tw"
+  },
+  {
+    "type": "Domain",
     "value": "cdpuk.co.uk"
+  },
+  {
+    "type": "Domain",
+    "value": "cdn.statically.io"
   },
   {
     "type": "Domain",
@@ -16186,10 +16206,6 @@
   {
     "type": "Domain",
     "value": "yasukuni.or.jp"
-  },
-  {
-    "type": "Domain",
-    "value": "cdn.statically.io"
   },
   {
     "type": "Domain",
@@ -16213,19 +16229,19 @@
   },
   {
     "type": "Domain",
-    "value": "yes123.com.tw"
-  },
-  {
-    "type": "Domain",
     "value": "cdn-images.mailchimp.com"
   },
   {
     "type": "Domain",
-    "value": "yesasia.com.hk"
+    "value": "yes123.com.tw"
   },
   {
     "type": "Domain",
     "value": "ccfd.org.tw"
+  },
+  {
+    "type": "Domain",
+    "value": "yesasia.com.hk"
   },
   {
     "type": "Domain",
@@ -16365,11 +16381,11 @@
   },
   {
     "type": "Domain",
-    "value": "ytn.co.kr"
+    "value": "blog.ranxiang.com"
   },
   {
     "type": "Domain",
-    "value": "blog.ranxiang.com"
+    "value": "ytn.co.kr"
   },
   {
     "type": "Domain",
@@ -16405,7 +16421,7 @@
   },
   {
     "type": "Domain",
-    "value": "blog.cryptographyengineering.com"
+    "value": "wikiless.funami.tech"
   },
   {
     "type": "Domain",
@@ -16441,11 +16457,11 @@
   },
   {
     "type": "Domain",
-    "value": "zaobao.com.sg"
+    "value": "appledaily.com.tw"
   },
   {
     "type": "Domain",
-    "value": "appledaily.com.tw"
+    "value": "zaobao.com.sg"
   },
   {
     "type": "Domain",
@@ -16457,11 +16473,11 @@
   },
   {
     "type": "Domain",
-    "value": "zdnet.com.tw"
+    "value": "barnabu.co.uk"
   },
   {
     "type": "Domain",
-    "value": "barnabu.co.uk"
+    "value": "zdnet.com.tw"
   },
   {
     "type": "Domain",
@@ -16469,15 +16485,19 @@
   },
   {
     "type": "Domain",
-    "value": "zenmate.com.ru"
-  },
-  {
-    "type": "Domain",
     "value": "backend-v2.crixet.com"
   },
   {
     "type": "Domain",
+    "value": "zenmate.com.ru"
+  },
+  {
+    "type": "Domain",
     "value": "apps.evozi.com"
+  },
+  {
+    "type": "Domain",
+    "value": "auntology.fandom.com"
   },
   {
     "type": "Domain",
@@ -16497,11 +16517,11 @@
   },
   {
     "type": "Domain",
-    "value": "auntology.fandom.com"
+    "value": "aspistrategist.org.au"
   },
   {
     "type": "Domain",
-    "value": "aspistrategist.org.au"
+    "value": "atc.org.au"
   },
   {
     "type": "Domain",
@@ -16509,7 +16529,7 @@
   },
   {
     "type": "Domain",
-    "value": "atc.org.au"
+    "value": "twister.net.co"
   },
   {
     "type": "Domain",
